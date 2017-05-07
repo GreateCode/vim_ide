@@ -1,0 +1,920 @@
+!_TAG_FILE_FORMAT	2	/extended format; --format=1 will not append ;" to lines/
+!_TAG_FILE_SORTED	1	/0=unsorted, 1=sorted, 2=foldcase/
+!_TAG_PROGRAM_AUTHOR	Darren Hiebert	/dhiebert@users.sourceforge.net/
+!_TAG_PROGRAM_NAME	Exuberant Ctags	//
+!_TAG_PROGRAM_URL	http://ctags.sourceforge.net	/official site/
+!_TAG_PROGRAM_VERSION	5.8	//
+BOOST_CONTEXT_TUPLE	/usr/include/boost/coroutine/detail/arg.hpp	43;"	d
+BOOST_CONTEXT_TUPLE	/usr/include/boost/coroutine/detail/arg.hpp	50;"	d
+BOOST_CONTEXT_TUPLE_COMMA	/usr/include/boost/coroutine/detail/arg.hpp	39;"	d
+BOOST_CONTEXT_TUPLE_COMMA	/usr/include/boost/coroutine/detail/arg.hpp	53;"	d
+BOOST_CONTEXT_TUPLE_TYPE	/usr/include/boost/coroutine/detail/arg.hpp	40;"	d
+BOOST_CONTEXT_TUPLE_TYPE	/usr/include/boost/coroutine/detail/arg.hpp	52;"	d
+BOOST_CONTEXT_TUPLE_TYPES	/usr/include/boost/coroutine/detail/arg.hpp	42;"	d
+BOOST_CONTEXT_TUPLE_TYPES	/usr/include/boost/coroutine/detail/arg.hpp	51;"	d
+BOOST_COROUTINES_ALL_H	/usr/include/boost/coroutine/all.hpp	8;"	d
+BOOST_COROUTINES_ATTRIBUTES_H	/usr/include/boost/coroutine/attributes.hpp	8;"	d
+BOOST_COROUTINES_COROUTINE_H	/usr/include/boost/coroutine/coroutine.hpp	8;"	d
+BOOST_COROUTINES_DECL	/usr/include/boost/coroutine/detail/config.hpp	14;"	d
+BOOST_COROUTINES_DECL	/usr/include/boost/coroutine/detail/config.hpp	23;"	d
+BOOST_COROUTINES_DECL	/usr/include/boost/coroutine/detail/config.hpp	25;"	d
+BOOST_COROUTINES_DECL	/usr/include/boost/coroutine/detail/config.hpp	31;"	d
+BOOST_COROUTINES_DETAIL_ARG_H	/usr/include/boost/coroutine/detail/arg.hpp	7;"	d
+BOOST_COROUTINES_DETAIL_CONFIG_H	/usr/include/boost/coroutine/detail/config.hpp	8;"	d
+BOOST_COROUTINES_DETAIL_COROUTINE_BASE_H	/usr/include/boost/coroutine/detail/coroutine_base.hpp	8;"	d
+BOOST_COROUTINES_DETAIL_COROUTINE_BASE_RESUME_H	/usr/include/boost/coroutine/detail/coroutine_base_resume.hpp	8;"	d
+BOOST_COROUTINES_DETAIL_COROUTINE_CALLER_H	/usr/include/boost/coroutine/detail/coroutine_caller.hpp	8;"	d
+BOOST_COROUTINES_DETAIL_COROUTINE_GET_H	/usr/include/boost/coroutine/detail/coroutine_get.hpp	8;"	d
+BOOST_COROUTINES_DETAIL_COROUTINE_OBJECT_H	/usr/include/boost/coroutine/detail/coroutine_object.hpp	8;"	d
+BOOST_COROUTINES_DETAIL_COROUTINE_OP_H	/usr/include/boost/coroutine/detail/coroutine_op.hpp	8;"	d
+BOOST_COROUTINES_DETAIL_EXCEPTIONs_H	/usr/include/boost/coroutine/detail/exceptions.hpp	8;"	d
+BOOST_COROUTINES_DETAIL_FLAGS_H	/usr/include/boost/coroutine/detail/flags.hpp	8;"	d
+BOOST_COROUTINES_DETAIL_HOLDER_H	/usr/include/boost/coroutine/detail/holder.hpp	8;"	d
+BOOST_COROUTINES_DETAIL_PARAM_H	/usr/include/boost/coroutine/detail/param.hpp	8;"	d
+BOOST_COROUTINES_DETAIL_STACK_ALLOCATOR_H	/usr/include/boost/coroutine/detail/stack_allocator_posix.hpp	8;"	d
+BOOST_COROUTINES_DETAIL_STACK_ALLOCATOR_H	/usr/include/boost/coroutine/detail/stack_allocator_windows.hpp	8;"	d
+BOOST_COROUTINES_FLAGS_H	/usr/include/boost/coroutine/flags.hpp	8;"	d
+BOOST_COROUTINES_STACK_ALLOCATOR_H	/usr/include/boost/coroutine/stack_allocator.hpp	8;"	d
+BOOST_COROUTINE_BASE_RESUME	/usr/include/boost/coroutine/detail/coroutine_base_resume.hpp	159;"	d
+BOOST_COROUTINE_BASE_RESUME	/usr/include/boost/coroutine/detail/coroutine_base_resume.hpp	223;"	d
+BOOST_COROUTINE_BASE_RESUME_ARG	/usr/include/boost/coroutine/detail/coroutine_base_resume.hpp	157;"	d
+BOOST_COROUTINE_BASE_RESUME_ARG	/usr/include/boost/coroutine/detail/coroutine_base_resume.hpp	225;"	d
+BOOST_COROUTINE_BASE_RESUME_ARGS	/usr/include/boost/coroutine/detail/coroutine_base_resume.hpp	158;"	d
+BOOST_COROUTINE_BASE_RESUME_ARGS	/usr/include/boost/coroutine/detail/coroutine_base_resume.hpp	224;"	d
+BOOST_COROUTINE_BASE_RESUME_ARG_TYPE	/usr/include/boost/coroutine/detail/coroutine_base_resume.hpp	155;"	d
+BOOST_COROUTINE_BASE_RESUME_ARG_TYPE	/usr/include/boost/coroutine/detail/coroutine_base_resume.hpp	226;"	d
+BOOST_COROUTINE_BASE_RESUME_COMMA	/usr/include/boost/coroutine/detail/coroutine_base_resume.hpp	152;"	d
+BOOST_COROUTINE_BASE_RESUME_COMMA	/usr/include/boost/coroutine/detail/coroutine_base_resume.hpp	229;"	d
+BOOST_COROUTINE_BASE_RESUME_VAL	/usr/include/boost/coroutine/detail/coroutine_base_resume.hpp	153;"	d
+BOOST_COROUTINE_BASE_RESUME_VAL	/usr/include/boost/coroutine/detail/coroutine_base_resume.hpp	228;"	d
+BOOST_COROUTINE_BASE_RESUME_VALS	/usr/include/boost/coroutine/detail/coroutine_base_resume.hpp	154;"	d
+BOOST_COROUTINE_BASE_RESUME_VALS	/usr/include/boost/coroutine/detail/coroutine_base_resume.hpp	227;"	d
+BOOST_COROUTINE_OP	/usr/include/boost/coroutine/detail/coroutine_op.hpp	283;"	d
+BOOST_COROUTINE_OP	/usr/include/boost/coroutine/detail/coroutine_op.hpp	298;"	d
+BOOST_COROUTINE_OP_ARG	/usr/include/boost/coroutine/detail/coroutine_op.hpp	281;"	d
+BOOST_COROUTINE_OP_ARG	/usr/include/boost/coroutine/detail/coroutine_op.hpp	300;"	d
+BOOST_COROUTINE_OP_ARGS	/usr/include/boost/coroutine/detail/coroutine_op.hpp	282;"	d
+BOOST_COROUTINE_OP_ARGS	/usr/include/boost/coroutine/detail/coroutine_op.hpp	299;"	d
+BOOST_COROUTINE_OP_ARG_TYPE	/usr/include/boost/coroutine/detail/coroutine_op.hpp	279;"	d
+BOOST_COROUTINE_OP_ARG_TYPE	/usr/include/boost/coroutine/detail/coroutine_op.hpp	301;"	d
+BOOST_COROUTINE_OP_COMMA	/usr/include/boost/coroutine/detail/coroutine_op.hpp	276;"	d
+BOOST_COROUTINE_OP_COMMA	/usr/include/boost/coroutine/detail/coroutine_op.hpp	304;"	d
+BOOST_COROUTINE_OP_VAL	/usr/include/boost/coroutine/detail/coroutine_op.hpp	277;"	d
+BOOST_COROUTINE_OP_VAL	/usr/include/boost/coroutine/detail/coroutine_op.hpp	303;"	d
+BOOST_COROUTINE_OP_VALS	/usr/include/boost/coroutine/detail/coroutine_op.hpp	278;"	d
+BOOST_COROUTINE_OP_VALS	/usr/include/boost/coroutine/detail/coroutine_op.hpp	302;"	d
+BOOST_DYN_LINK	/usr/include/boost/coroutine/detail/config.hpp	20;"	d
+BOOST_DYN_LINK	/usr/include/boost/coroutine/detail/config.hpp	37;"	d
+BOOST_LIB_NAME	/usr/include/boost/coroutine/detail/config.hpp	35;"	d
+BOOST_MOVABLE_BUT_NOT_COPYABLE	/usr/include/boost/coroutine/coroutine.hpp	/^    BOOST_MOVABLE_BUT_NOT_COPYABLE( coroutine);$/;"	p	class:boost::coroutines::coroutine	access:private	signature:( coroutine)
+BOOST_NOEXCEPT	/usr/include/boost/coroutine/attributes.hpp	/^            flag_fpu_t preserve_fpu_) BOOST_NOEXCEPT :$/;"	m	struct:boost::coroutines::attributes	access:public
+BOOST_NOEXCEPT	/usr/include/boost/coroutine/attributes.hpp	/^            flag_unwind_t do_unwind_) BOOST_NOEXCEPT :$/;"	m	struct:boost::coroutines::attributes	access:public
+BOOST_NOEXCEPT	/usr/include/boost/coroutine/attributes.hpp	/^    attributes() BOOST_NOEXCEPT :$/;"	m	struct:boost::coroutines::attributes	access:public
+BOOST_NOEXCEPT	/usr/include/boost/coroutine/attributes.hpp	/^    explicit attributes( flag_fpu_t preserve_fpu_) BOOST_NOEXCEPT :$/;"	m	struct:boost::coroutines::attributes	access:public
+BOOST_NOEXCEPT	/usr/include/boost/coroutine/attributes.hpp	/^    explicit attributes( flag_unwind_t do_unwind_) BOOST_NOEXCEPT :$/;"	m	struct:boost::coroutines::attributes	access:public
+BOOST_NOEXCEPT	/usr/include/boost/coroutine/attributes.hpp	/^    explicit attributes( std::size_t size_) BOOST_NOEXCEPT :$/;"	m	struct:boost::coroutines::attributes	access:public
+MIN_STACKSIZE	/usr/include/boost/coroutine/detail/stack_allocator_windows.hpp	42;"	d
+MIN_STACKSIZE	/usr/include/boost/coroutine/detail/stack_allocator_windows.hpp	44;"	d
+SIGSTKSZ	/usr/include/boost/coroutine/detail/stack_allocator_posix.hpp	160;"	d
+SIGSTKSZ	/usr/include/boost/coroutine/detail/stack_allocator_posix.hpp	36;"	d
+UDEF_SIGSTKSZ	/usr/include/boost/coroutine/detail/stack_allocator_posix.hpp	37;"	d
+alloc	/usr/include/boost/coroutine/coroutine.hpp	/^               Allocator const& alloc,$/;"	m	class:boost::coroutines::coroutine	access:public
+alloc	/usr/include/boost/coroutine/coroutine.hpp	/^               std::allocator< coroutine > const& alloc =$/;"	m	class:boost::coroutines::coroutine::std	access:public
+alloc_	/usr/include/boost/coroutine/detail/coroutine_caller.hpp	/^        alloc_( alloc)$/;"	f	class:boost::coroutines::detail::coroutine_caller	access:public	signature:( alloc)
+alloc_	/usr/include/boost/coroutine/detail/coroutine_caller.hpp	/^    allocator_t   alloc_;$/;"	m	class:boost::coroutines::detail::coroutine_caller	access:private
+alloc_	/usr/include/boost/coroutine/detail/coroutine_object_result_0.ipp	/^        alloc_( alloc)$/;"	f	class:coroutine_object	access:public	signature:( alloc)
+alloc_	/usr/include/boost/coroutine/detail/coroutine_object_result_0.ipp	/^    allocator_t         alloc_;$/;"	m	class:coroutine_object	file:	access:private
+alloc_	/usr/include/boost/coroutine/detail/coroutine_object_result_1.ipp	/^        alloc_( alloc)$/;"	f	class:coroutine_object	access:public	signature:( alloc)
+alloc_	/usr/include/boost/coroutine/detail/coroutine_object_result_1.ipp	/^    allocator_t         alloc_;$/;"	m	class:coroutine_object	file:	access:private
+alloc_	/usr/include/boost/coroutine/detail/coroutine_object_result_arity.ipp	/^        alloc_( alloc)$/;"	f	class:coroutine_object	access:public	signature:( alloc)
+alloc_	/usr/include/boost/coroutine/detail/coroutine_object_result_arity.ipp	/^    allocator_t         alloc_;$/;"	m	class:coroutine_object	file:	access:private
+alloc_	/usr/include/boost/coroutine/detail/coroutine_object_void_0.ipp	/^        alloc_( alloc)$/;"	f	class:coroutine_object	access:public	signature:( alloc)
+alloc_	/usr/include/boost/coroutine/detail/coroutine_object_void_0.ipp	/^    allocator_t         alloc_;$/;"	m	class:coroutine_object	file:	access:private
+alloc_	/usr/include/boost/coroutine/detail/coroutine_object_void_1.ipp	/^        alloc_( alloc)$/;"	f	class:coroutine_object	access:public	signature:( alloc)
+alloc_	/usr/include/boost/coroutine/detail/coroutine_object_void_1.ipp	/^    allocator_t         alloc_;$/;"	m	class:coroutine_object	file:	access:private
+alloc_	/usr/include/boost/coroutine/detail/coroutine_object_void_arity.ipp	/^        alloc_( alloc)$/;"	f	class:coroutine_object	access:public	signature:( alloc)
+alloc_	/usr/include/boost/coroutine/detail/coroutine_object_void_arity.ipp	/^    allocator_t         alloc_;$/;"	m	class:coroutine_object	file:	access:private
+allocate	/usr/include/boost/coroutine/detail/stack_allocator_posix.hpp	/^    void * allocate( std::size_t size) const$/;"	f	class:boost::coroutines::detail::stack_allocator	access:public	signature:( std::size_t size) const
+allocate	/usr/include/boost/coroutine/detail/stack_allocator_windows.hpp	/^    void * allocate( std::size_t size) const$/;"	f	class:boost::coroutines::detail::stack_allocator	access:public	signature:( std::size_t size) const
+allocator_t	/usr/include/boost/coroutine/detail/coroutine_caller.hpp	/^    >::other   allocator_t;$/;"	t	class:boost::coroutines::detail::coroutine_caller	access:public
+allocator_t	/usr/include/boost/coroutine/detail/coroutine_object_result_0.ipp	/^    >::other                                            allocator_t;$/;"	t	class:coroutine_object	file:	access:public
+allocator_t	/usr/include/boost/coroutine/detail/coroutine_object_result_1.ipp	/^    >::other                                            allocator_t;$/;"	t	class:coroutine_object	file:	access:public
+allocator_t	/usr/include/boost/coroutine/detail/coroutine_object_result_arity.ipp	/^    >::other                                            allocator_t;$/;"	t	class:coroutine_object	file:	access:public
+allocator_t	/usr/include/boost/coroutine/detail/coroutine_object_void_0.ipp	/^    >::other                                        allocator_t;$/;"	t	class:coroutine_object	file:	access:public
+allocator_t	/usr/include/boost/coroutine/detail/coroutine_object_void_1.ipp	/^    >::other                                            allocator_t;$/;"	t	class:coroutine_object	file:	access:public
+allocator_t	/usr/include/boost/coroutine/detail/coroutine_object_void_arity.ipp	/^    >::other                                            allocator_t;$/;"	t	class:coroutine_object	file:	access:public
+arg	/usr/include/boost/coroutine/coroutine.hpp	/^    explicit coroutine( BOOST_RV_REF( Fn) fn, arguments arg, attributes const& attr = attributes(),$/;"	m	class:boost::coroutines::coroutine	access:public
+arg	/usr/include/boost/coroutine/coroutine.hpp	/^    explicit coroutine( BOOST_RV_REF( Fn) fn, arguments arg, attributes const& attr,$/;"	m	class:boost::coroutines::coroutine	access:public
+arg	/usr/include/boost/coroutine/detail/arg.hpp	/^struct arg< Signature, 1 >$/;"	s	namespace:boost::coroutines::detail
+arg	/usr/include/boost/coroutine/detail/coroutine_object_result_1.ipp	/^    coroutine_object( BOOST_RV_REF( Fn) fn, typename detail::param< arg_type >::type arg, attributes const& attr,$/;"	m	class:coroutine_object	file:	access:public
+arg	/usr/include/boost/coroutine/detail/coroutine_object_result_arity.ipp	/^    coroutine_object( BOOST_RV_REF( Fn) fn, typename detail::param< arg_type >::type arg, attributes const& attr,$/;"	m	class:coroutine_object	file:	access:public
+arg	/usr/include/boost/coroutine/detail/coroutine_object_void_1.ipp	/^    coroutine_object( BOOST_RV_REF( Fn) fn, typename detail::param< arg_type >::type arg, attributes const& attr,$/;"	m	class:coroutine_object	file:	access:public
+arg	/usr/include/boost/coroutine/detail/coroutine_object_void_arity.ipp	/^    coroutine_object( BOOST_RV_REF( Fn) fn, typename detail::param< arg_type >::type arg, attributes const& attr,$/;"	m	class:coroutine_object	file:	access:public
+arg_type	/usr/include/boost/coroutine/detail/coroutine_base_resume.hpp	/^    typedef typename arg< Signature >::type     arg_type;$/;"	t	class:boost::coroutines::detail::coroutine_base_resume	access:public
+arg_type	/usr/include/boost/coroutine/detail/coroutine_object_result_1.ipp	/^    typedef typename arg< Signature >::type             arg_type;$/;"	t	class:coroutine_object	file:	access:public
+arg_type	/usr/include/boost/coroutine/detail/coroutine_object_result_arity.ipp	/^    typedef typename arg< Signature >::type             arg_type;$/;"	t	class:coroutine_object	file:	access:public
+arg_type	/usr/include/boost/coroutine/detail/coroutine_object_void_1.ipp	/^    typedef typename arg< Signature >::type             arg_type;$/;"	t	class:coroutine_object	file:	access:public
+arg_type	/usr/include/boost/coroutine/detail/coroutine_object_void_arity.ipp	/^    typedef typename arg< Signature >::type             arg_type;$/;"	t	class:coroutine_object	file:	access:public
+arg_type	/usr/include/boost/coroutine/detail/coroutine_op.hpp	/^    typedef typename arg< Signature >::type   arg_type;$/;"	t	struct:boost::coroutines::detail::coroutine_op	access:public
+arguments	/usr/include/boost/coroutine/coroutine.hpp	/^    typedef typename detail::arg< Signature >::type             arguments;$/;"	t	class:boost::coroutines::coroutine	access:public
+attr	/usr/include/boost/coroutine/coroutine.hpp	/^    explicit coroutine( BOOST_RV_REF( Fn) fn, arguments arg, attributes const& attr = attributes(),$/;"	m	class:boost::coroutines::coroutine	access:public
+attr	/usr/include/boost/coroutine/coroutine.hpp	/^    explicit coroutine( BOOST_RV_REF( Fn) fn, arguments arg, attributes const& attr,$/;"	m	class:boost::coroutines::coroutine	access:public
+attr	/usr/include/boost/coroutine/coroutine.hpp	/^    explicit coroutine( BOOST_RV_REF( Fn) fn, attributes const& attr = attributes(),$/;"	m	class:boost::coroutines::coroutine	access:public
+attr	/usr/include/boost/coroutine/coroutine.hpp	/^    explicit coroutine( BOOST_RV_REF( Fn) fn, attributes const& attr,$/;"	m	class:boost::coroutines::coroutine	access:public
+attr	/usr/include/boost/coroutine/detail/coroutine_object_result_0.ipp	/^    coroutine_object( BOOST_RV_REF( Fn) fn, attributes const& attr,$/;"	m	class:coroutine_object	file:	access:public
+attr	/usr/include/boost/coroutine/detail/coroutine_object_result_1.ipp	/^    coroutine_object( BOOST_RV_REF( Fn) fn, attributes const& attr,$/;"	m	class:coroutine_object	file:	access:public
+attr	/usr/include/boost/coroutine/detail/coroutine_object_result_1.ipp	/^    coroutine_object( BOOST_RV_REF( Fn) fn, typename detail::param< arg_type >::type arg, attributes const& attr,$/;"	m	class:coroutine_object	file:	access:public
+attr	/usr/include/boost/coroutine/detail/coroutine_object_result_arity.ipp	/^    coroutine_object( BOOST_RV_REF( Fn) fn, attributes const& attr,$/;"	m	class:coroutine_object	file:	access:public
+attr	/usr/include/boost/coroutine/detail/coroutine_object_result_arity.ipp	/^    coroutine_object( BOOST_RV_REF( Fn) fn, typename detail::param< arg_type >::type arg, attributes const& attr,$/;"	m	class:coroutine_object	file:	access:public
+attr	/usr/include/boost/coroutine/detail/coroutine_object_void_0.ipp	/^    coroutine_object( BOOST_RV_REF( Fn) fn, attributes const& attr,$/;"	m	class:coroutine_object	file:	access:public
+attr	/usr/include/boost/coroutine/detail/coroutine_object_void_1.ipp	/^    coroutine_object( BOOST_RV_REF( Fn) fn, attributes const& attr,$/;"	m	class:coroutine_object	file:	access:public
+attr	/usr/include/boost/coroutine/detail/coroutine_object_void_1.ipp	/^    coroutine_object( BOOST_RV_REF( Fn) fn, typename detail::param< arg_type >::type arg, attributes const& attr,$/;"	m	class:coroutine_object	file:	access:public
+attr	/usr/include/boost/coroutine/detail/coroutine_object_void_arity.ipp	/^    coroutine_object( BOOST_RV_REF( Fn) fn, attributes const& attr,$/;"	m	class:coroutine_object	file:	access:public
+attr	/usr/include/boost/coroutine/detail/coroutine_object_void_arity.ipp	/^    coroutine_object( BOOST_RV_REF( Fn) fn, typename detail::param< arg_type >::type arg, attributes const& attr,$/;"	m	class:coroutine_object	file:	access:public
+attributes	/usr/include/boost/coroutine/attributes.hpp	/^struct attributes$/;"	s	namespace:boost::coroutines
+base_t	/usr/include/boost/coroutine/coroutine.hpp	/^    typedef detail::coroutine_base< Signature >                 base_t;$/;"	t	class:boost::coroutines::coroutine	access:private
+base_type	/usr/include/boost/coroutine/detail/coroutine_object_result_0.ipp	/^    typedef coroutine_base< Signature >                 base_type;$/;"	t	class:coroutine_object	file:	access:private
+base_type	/usr/include/boost/coroutine/detail/coroutine_object_result_1.ipp	/^    typedef coroutine_base< Signature >                 base_type;$/;"	t	class:coroutine_object	file:	access:private
+base_type	/usr/include/boost/coroutine/detail/coroutine_object_result_arity.ipp	/^    typedef coroutine_base< Signature >                 base_type;$/;"	t	class:coroutine_object	file:	access:private
+base_type	/usr/include/boost/coroutine/detail/coroutine_object_void_0.ipp	/^    typedef coroutine_base< Signature >             base_type;$/;"	t	class:coroutine_object	file:	access:private
+base_type	/usr/include/boost/coroutine/detail/coroutine_object_void_1.ipp	/^    typedef coroutine_base< Signature >                 base_type;$/;"	t	class:coroutine_object	file:	access:private
+base_type	/usr/include/boost/coroutine/detail/coroutine_object_void_arity.ipp	/^    typedef coroutine_base< Signature >                 base_type;$/;"	t	class:coroutine_object	file:	access:private
+boost	/usr/include/boost/coroutine/attributes.hpp	/^namespace boost {$/;"	n
+boost	/usr/include/boost/coroutine/coroutine.hpp	/^namespace boost {$/;"	n
+boost	/usr/include/boost/coroutine/detail/arg.hpp	/^namespace boost {$/;"	n
+boost	/usr/include/boost/coroutine/detail/coroutine_base.hpp	/^namespace boost {$/;"	n
+boost	/usr/include/boost/coroutine/detail/coroutine_base_resume.hpp	/^namespace boost {$/;"	n
+boost	/usr/include/boost/coroutine/detail/coroutine_caller.hpp	/^namespace boost {$/;"	n
+boost	/usr/include/boost/coroutine/detail/coroutine_get.hpp	/^namespace boost {$/;"	n
+boost	/usr/include/boost/coroutine/detail/coroutine_object.hpp	/^namespace boost {$/;"	n
+boost	/usr/include/boost/coroutine/detail/coroutine_op.hpp	/^namespace boost {$/;"	n
+boost	/usr/include/boost/coroutine/detail/exceptions.hpp	/^namespace boost {$/;"	n
+boost	/usr/include/boost/coroutine/detail/flags.hpp	/^namespace boost {$/;"	n
+boost	/usr/include/boost/coroutine/detail/holder.hpp	/^namespace boost {$/;"	n
+boost	/usr/include/boost/coroutine/detail/param.hpp	/^namespace boost {$/;"	n
+boost	/usr/include/boost/coroutine/detail/stack_allocator_posix.hpp	/^namespace boost {$/;"	n
+boost	/usr/include/boost/coroutine/detail/stack_allocator_windows.hpp	/^namespace boost {$/;"	n
+boost	/usr/include/boost/coroutine/flags.hpp	/^namespace boost {$/;"	n
+boost	/usr/include/boost/coroutine/stack_allocator.hpp	/^namespace boost {$/;"	n
+boost::coroutines	/usr/include/boost/coroutine/attributes.hpp	/^namespace coroutines {$/;"	n	namespace:boost
+boost::coroutines	/usr/include/boost/coroutine/coroutine.hpp	/^namespace coroutines {$/;"	n	namespace:boost
+boost::coroutines	/usr/include/boost/coroutine/detail/arg.hpp	/^namespace coroutines {$/;"	n	namespace:boost
+boost::coroutines	/usr/include/boost/coroutine/detail/coroutine_base.hpp	/^namespace coroutines {$/;"	n	namespace:boost
+boost::coroutines	/usr/include/boost/coroutine/detail/coroutine_base_resume.hpp	/^namespace coroutines {$/;"	n	namespace:boost
+boost::coroutines	/usr/include/boost/coroutine/detail/coroutine_caller.hpp	/^namespace coroutines {$/;"	n	namespace:boost
+boost::coroutines	/usr/include/boost/coroutine/detail/coroutine_get.hpp	/^namespace coroutines {$/;"	n	namespace:boost
+boost::coroutines	/usr/include/boost/coroutine/detail/coroutine_object.hpp	/^namespace coroutines {$/;"	n	namespace:boost
+boost::coroutines	/usr/include/boost/coroutine/detail/coroutine_op.hpp	/^namespace coroutines {$/;"	n	namespace:boost
+boost::coroutines	/usr/include/boost/coroutine/detail/exceptions.hpp	/^namespace coroutines {$/;"	n	namespace:boost
+boost::coroutines	/usr/include/boost/coroutine/detail/flags.hpp	/^namespace coroutines {$/;"	n	namespace:boost
+boost::coroutines	/usr/include/boost/coroutine/detail/holder.hpp	/^namespace coroutines {$/;"	n	namespace:boost
+boost::coroutines	/usr/include/boost/coroutine/detail/param.hpp	/^namespace coroutines {$/;"	n	namespace:boost
+boost::coroutines	/usr/include/boost/coroutine/detail/stack_allocator_posix.hpp	/^namespace coroutines {$/;"	n	namespace:boost
+boost::coroutines	/usr/include/boost/coroutine/detail/stack_allocator_windows.hpp	/^namespace coroutines {$/;"	n	namespace:boost
+boost::coroutines	/usr/include/boost/coroutine/flags.hpp	/^namespace coroutines {$/;"	n	namespace:boost
+boost::coroutines	/usr/include/boost/coroutine/stack_allocator.hpp	/^namespace coroutines {$/;"	n	namespace:boost
+boost::coroutines::attributes	/usr/include/boost/coroutine/attributes.hpp	/^struct attributes$/;"	s	namespace:boost::coroutines
+boost::coroutines::attributes::BOOST_NOEXCEPT	/usr/include/boost/coroutine/attributes.hpp	/^            flag_fpu_t preserve_fpu_) BOOST_NOEXCEPT :$/;"	m	struct:boost::coroutines::attributes	access:public
+boost::coroutines::attributes::BOOST_NOEXCEPT	/usr/include/boost/coroutine/attributes.hpp	/^            flag_unwind_t do_unwind_) BOOST_NOEXCEPT :$/;"	m	struct:boost::coroutines::attributes	access:public
+boost::coroutines::attributes::BOOST_NOEXCEPT	/usr/include/boost/coroutine/attributes.hpp	/^    attributes() BOOST_NOEXCEPT :$/;"	m	struct:boost::coroutines::attributes	access:public
+boost::coroutines::attributes::BOOST_NOEXCEPT	/usr/include/boost/coroutine/attributes.hpp	/^    explicit attributes( flag_fpu_t preserve_fpu_) BOOST_NOEXCEPT :$/;"	m	struct:boost::coroutines::attributes	access:public
+boost::coroutines::attributes::BOOST_NOEXCEPT	/usr/include/boost/coroutine/attributes.hpp	/^    explicit attributes( flag_unwind_t do_unwind_) BOOST_NOEXCEPT :$/;"	m	struct:boost::coroutines::attributes	access:public
+boost::coroutines::attributes::BOOST_NOEXCEPT	/usr/include/boost/coroutine/attributes.hpp	/^    explicit attributes( std::size_t size_) BOOST_NOEXCEPT :$/;"	m	struct:boost::coroutines::attributes	access:public
+boost::coroutines::attributes::do_unwind	/usr/include/boost/coroutine/attributes.hpp	/^        do_unwind( do_unwind_),$/;"	p	struct:boost::coroutines::attributes	access:public	signature:( do_unwind_)
+boost::coroutines::attributes::do_unwind	/usr/include/boost/coroutine/attributes.hpp	/^        do_unwind( stack_unwind),$/;"	p	struct:boost::coroutines::attributes	access:public	signature:( stack_unwind)
+boost::coroutines::attributes::do_unwind	/usr/include/boost/coroutine/attributes.hpp	/^    flag_unwind_t   do_unwind;$/;"	m	struct:boost::coroutines::attributes	access:public
+boost::coroutines::attributes::preserve_fpu	/usr/include/boost/coroutine/attributes.hpp	/^        preserve_fpu( fpu_preserved)$/;"	f	struct:boost::coroutines::attributes	access:public	signature:( fpu_preserved)
+boost::coroutines::attributes::preserve_fpu	/usr/include/boost/coroutine/attributes.hpp	/^        preserve_fpu( preserve_fpu_)$/;"	f	struct:boost::coroutines::attributes	access:public	signature:( preserve_fpu_)
+boost::coroutines::attributes::preserve_fpu	/usr/include/boost/coroutine/attributes.hpp	/^    flag_fpu_t      preserve_fpu;$/;"	m	struct:boost::coroutines::attributes	access:public
+boost::coroutines::attributes::size	/usr/include/boost/coroutine/attributes.hpp	/^    std::size_t     size;$/;"	m	struct:boost::coroutines::attributes	access:public
+boost::coroutines::coroutine	/usr/include/boost/coroutine/coroutine.hpp	/^class coroutine : public detail::coroutine_op<$/;"	c	namespace:boost::coroutines	inherits:detail::coroutine_op,detail::coroutine_get
+boost::coroutines::coroutine	/usr/include/boost/coroutine/coroutine.hpp	/^class coroutine< Signature, 0 > : public detail::coroutine_op<$/;"	c	namespace:boost::coroutines	inherits:detail::coroutine_op,detail::coroutine_get
+boost::coroutines::coroutine::BOOST_MOVABLE_BUT_NOT_COPYABLE	/usr/include/boost/coroutine/coroutine.hpp	/^    BOOST_MOVABLE_BUT_NOT_COPYABLE( coroutine);$/;"	p	class:boost::coroutines::coroutine	access:private	signature:( coroutine)
+boost::coroutines::coroutine::alloc	/usr/include/boost/coroutine/coroutine.hpp	/^               Allocator const& alloc,$/;"	m	class:boost::coroutines::coroutine	access:public
+boost::coroutines::coroutine::arg	/usr/include/boost/coroutine/coroutine.hpp	/^    explicit coroutine( BOOST_RV_REF( Fn) fn, arguments arg, attributes const& attr = attributes(),$/;"	m	class:boost::coroutines::coroutine	access:public
+boost::coroutines::coroutine::arg	/usr/include/boost/coroutine/coroutine.hpp	/^    explicit coroutine( BOOST_RV_REF( Fn) fn, arguments arg, attributes const& attr,$/;"	m	class:boost::coroutines::coroutine	access:public
+boost::coroutines::coroutine::arguments	/usr/include/boost/coroutine/coroutine.hpp	/^    typedef typename detail::arg< Signature >::type             arguments;$/;"	t	class:boost::coroutines::coroutine	access:public
+boost::coroutines::coroutine::attr	/usr/include/boost/coroutine/coroutine.hpp	/^    explicit coroutine( BOOST_RV_REF( Fn) fn, arguments arg, attributes const& attr = attributes(),$/;"	m	class:boost::coroutines::coroutine	access:public
+boost::coroutines::coroutine::attr	/usr/include/boost/coroutine/coroutine.hpp	/^    explicit coroutine( BOOST_RV_REF( Fn) fn, arguments arg, attributes const& attr,$/;"	m	class:boost::coroutines::coroutine	access:public
+boost::coroutines::coroutine::attr	/usr/include/boost/coroutine/coroutine.hpp	/^    explicit coroutine( BOOST_RV_REF( Fn) fn, attributes const& attr = attributes(),$/;"	m	class:boost::coroutines::coroutine	access:public
+boost::coroutines::coroutine::attr	/usr/include/boost/coroutine/coroutine.hpp	/^    explicit coroutine( BOOST_RV_REF( Fn) fn, attributes const& attr,$/;"	m	class:boost::coroutines::coroutine	access:public
+boost::coroutines::coroutine::base_t	/usr/include/boost/coroutine/coroutine.hpp	/^    typedef detail::coroutine_base< Signature >                 base_t;$/;"	t	class:boost::coroutines::coroutine	access:private
+boost::coroutines::coroutine::caller_type	/usr/include/boost/coroutine/coroutine.hpp	/^    >::type                                                     caller_type;$/;"	t	class:boost::coroutines::coroutine	access:public
+boost::coroutines::coroutine::coroutine	/usr/include/boost/coroutine/coroutine.hpp	/^    coroutine( context::fcontext_t * callee,$/;"	f	class:boost::coroutines::coroutine	access:private	signature:( context::fcontext_t * callee, bool unwind, bool preserve_fpu, Allocator const& alloc)
+boost::coroutines::coroutine::coroutine	/usr/include/boost/coroutine/coroutine.hpp	/^    explicit coroutine( Fn fn, arguments arg, attributes const& attr = attributes(),$/;"	f	class:boost::coroutines::coroutine	access:public	signature:( Fn fn, arguments arg, attributes const& attr = attributes(), stack_allocator const& stack_alloc = stack_allocator(), std::allocator< coroutine > const& alloc = std::allocator< coroutine >(), typename disable_if< is_convertible< Fn &, BOOST_RV_REF( Fn) >, dummy * >::type = 0)
+boost::coroutines::coroutine::coroutine	/usr/include/boost/coroutine/coroutine.hpp	/^    explicit coroutine( Fn fn, attributes const& attr = attributes(),$/;"	f	class:boost::coroutines::coroutine	access:public	signature:( Fn fn, attributes const& attr = attributes(), stack_allocator const& stack_alloc = stack_allocator(), std::allocator< coroutine > const& alloc = std::allocator< coroutine >(), typename disable_if< is_convertible< Fn &, BOOST_RV_REF( Fn) >, dummy * >::type = 0)
+boost::coroutines::coroutine::coroutine	/usr/include/boost/coroutine/coroutine.hpp	/^    explicit coroutine( Fn fn, attributes const& attr,$/;"	f	class:boost::coroutines::coroutine	access:public	signature:( Fn fn, attributes const& attr, StackAllocator const& stack_alloc, Allocator const& alloc, typename disable_if< is_convertible< Fn &, BOOST_RV_REF( Fn) >, dummy * >::type = 0)
+boost::coroutines::coroutine::coroutine	/usr/include/boost/coroutine/coroutine.hpp	/^    explicit coroutine( Fn fn, attributes const& attr,$/;"	f	class:boost::coroutines::coroutine	access:public	signature:( Fn fn, attributes const& attr, StackAllocator const& stack_alloc, std::allocator< coroutine > const& alloc = std::allocator< coroutine >(), typename disable_if< is_convertible< Fn &, BOOST_RV_REF( Fn) >, dummy * >::type = 0)
+boost::coroutines::coroutine::coroutine	/usr/include/boost/coroutine/coroutine.hpp	/^    explicit coroutine( coroutine_fn fn, arguments arg, attributes const& attr = attributes(),$/;"	f	class:boost::coroutines::coroutine	access:public	signature:( coroutine_fn fn, arguments arg, attributes const& attr = attributes(), stack_allocator const& stack_alloc = stack_allocator(), std::allocator< coroutine > const& alloc = std::allocator< coroutine >() )
+boost::coroutines::coroutine::coroutine	/usr/include/boost/coroutine/coroutine.hpp	/^    explicit coroutine( coroutine_fn fn, attributes const& attr = attributes(),$/;"	f	class:boost::coroutines::coroutine	access:public	signature:( coroutine_fn fn, attributes const& attr = attributes(), stack_allocator const& stack_alloc = stack_allocator(), std::allocator< coroutine > const& alloc = std::allocator< coroutine >() )
+boost::coroutines::coroutine::coroutine	/usr/include/boost/coroutine/coroutine.hpp	/^    explicit coroutine( coroutine_fn fn, attributes const& attr,$/;"	f	class:boost::coroutines::coroutine	access:public	signature:( coroutine_fn fn, attributes const& attr, StackAllocator const& stack_alloc, Allocator const& alloc)
+boost::coroutines::coroutine::coroutine	/usr/include/boost/coroutine/coroutine.hpp	/^    explicit coroutine( coroutine_fn fn, attributes const& attr,$/;"	f	class:boost::coroutines::coroutine	access:public	signature:( coroutine_fn fn, attributes const& attr, StackAllocator const& stack_alloc, std::allocator< coroutine > const& alloc = std::allocator< coroutine >() )
+boost::coroutines::coroutine::coroutine_fn	/usr/include/boost/coroutine/coroutine.hpp	/^    typedef void ( * coroutine_fn) ( caller_type &);$/;"	t	class:boost::coroutines::coroutine	access:public
+boost::coroutines::coroutine::detail::coroutine_get	/usr/include/boost/coroutine/coroutine.hpp	/^        detail::coroutine_get<$/;"	p	class:boost::coroutines::coroutine::detail	access:public	signature:()
+boost::coroutines::coroutine::detail::coroutine_op	/usr/include/boost/coroutine/coroutine.hpp	/^        detail::coroutine_op<$/;"	p	class:boost::coroutines::coroutine::detail	access:public	signature:()
+boost::coroutines::coroutine::disable_if::type	/usr/include/boost/coroutine/coroutine.hpp	/^               >::type = 0) :$/;"	m	class:boost::coroutines::coroutine::disable_if	access:public
+boost::coroutines::coroutine::dummy	/usr/include/boost/coroutine/coroutine.hpp	/^    struct dummy$/;"	s	class:boost::coroutines::coroutine	access:private
+boost::coroutines::coroutine::dummy::nonnull	/usr/include/boost/coroutine/coroutine.hpp	/^    { void nonnull() {} };$/;"	f	struct:boost::coroutines::coroutine::dummy	access:public	signature:()
+boost::coroutines::coroutine::fn	/usr/include/boost/coroutine/coroutine.hpp	/^    explicit coroutine( BOOST_RV_REF( Fn) fn, arguments arg, attributes const& attr = attributes(),$/;"	m	class:boost::coroutines::coroutine	access:public
+boost::coroutines::coroutine::fn	/usr/include/boost/coroutine/coroutine.hpp	/^    explicit coroutine( BOOST_RV_REF( Fn) fn, arguments arg, attributes const& attr,$/;"	m	class:boost::coroutines::coroutine	access:public
+boost::coroutines::coroutine::fn	/usr/include/boost/coroutine/coroutine.hpp	/^    explicit coroutine( BOOST_RV_REF( Fn) fn, attributes const& attr = attributes(),$/;"	m	class:boost::coroutines::coroutine	access:public
+boost::coroutines::coroutine::fn	/usr/include/boost/coroutine/coroutine.hpp	/^    explicit coroutine( BOOST_RV_REF( Fn) fn, attributes const& attr,$/;"	m	class:boost::coroutines::coroutine	access:public
+boost::coroutines::coroutine::impl_	/usr/include/boost/coroutine/coroutine.hpp	/^        impl_()$/;"	f	class:boost::coroutines::coroutine	access:public	signature:()
+boost::coroutines::coroutine::impl_	/usr/include/boost/coroutine/coroutine.hpp	/^    ptr_t  impl_;$/;"	m	class:boost::coroutines::coroutine	access:private
+boost::coroutines::coroutine::ptr_t	/usr/include/boost/coroutine/coroutine.hpp	/^    typedef typename base_t::ptr_t                              ptr_t;$/;"	t	class:boost::coroutines::coroutine	access:private
+boost::coroutines::coroutine::safe_bool	/usr/include/boost/coroutine/coroutine.hpp	/^    typedef void ( dummy::*safe_bool)();$/;"	t	class:boost::coroutines::coroutine	access:private
+boost::coroutines::coroutine::stack_alloc	/usr/include/boost/coroutine/coroutine.hpp	/^               StackAllocator const& stack_alloc,$/;"	m	class:boost::coroutines::coroutine	access:public
+boost::coroutines::coroutine::stack_alloc	/usr/include/boost/coroutine/coroutine.hpp	/^               stack_allocator const& stack_alloc =$/;"	m	class:boost::coroutines::coroutine	access:public
+boost::coroutines::coroutine::std::alloc	/usr/include/boost/coroutine/coroutine.hpp	/^               std::allocator< coroutine > const& alloc =$/;"	m	class:boost::coroutines::coroutine::std	access:public
+boost::coroutines::detail	/usr/include/boost/coroutine/coroutine.hpp	/^namespace detail {$/;"	n	namespace:boost::coroutines
+boost::coroutines::detail	/usr/include/boost/coroutine/detail/arg.hpp	/^namespace detail {$/;"	n	namespace:boost::coroutines
+boost::coroutines::detail	/usr/include/boost/coroutine/detail/coroutine_base.hpp	/^namespace detail {$/;"	n	namespace:boost::coroutines
+boost::coroutines::detail	/usr/include/boost/coroutine/detail/coroutine_base_resume.hpp	/^namespace detail {$/;"	n	namespace:boost::coroutines
+boost::coroutines::detail	/usr/include/boost/coroutine/detail/coroutine_caller.hpp	/^namespace detail {$/;"	n	namespace:boost::coroutines
+boost::coroutines::detail	/usr/include/boost/coroutine/detail/coroutine_get.hpp	/^namespace detail {$/;"	n	namespace:boost::coroutines
+boost::coroutines::detail	/usr/include/boost/coroutine/detail/coroutine_object.hpp	/^namespace detail {$/;"	n	namespace:boost::coroutines
+boost::coroutines::detail	/usr/include/boost/coroutine/detail/coroutine_op.hpp	/^namespace detail {$/;"	n	namespace:boost::coroutines
+boost::coroutines::detail	/usr/include/boost/coroutine/detail/exceptions.hpp	/^namespace detail {$/;"	n	namespace:boost::coroutines
+boost::coroutines::detail	/usr/include/boost/coroutine/detail/flags.hpp	/^namespace detail {$/;"	n	namespace:boost::coroutines
+boost::coroutines::detail	/usr/include/boost/coroutine/detail/holder.hpp	/^namespace detail {$/;"	n	namespace:boost::coroutines
+boost::coroutines::detail	/usr/include/boost/coroutine/detail/param.hpp	/^namespace detail {$/;"	n	namespace:boost::coroutines
+boost::coroutines::detail	/usr/include/boost/coroutine/detail/stack_allocator_posix.hpp	/^namespace detail {$/;"	n	namespace:boost::coroutines
+boost::coroutines::detail	/usr/include/boost/coroutine/detail/stack_allocator_windows.hpp	/^namespace detail {$/;"	n	namespace:boost::coroutines
+boost::coroutines::detail::arg	/usr/include/boost/coroutine/detail/arg.hpp	/^struct arg< Signature, 1 >$/;"	s	namespace:boost::coroutines::detail
+boost::coroutines::detail::arg::type	/usr/include/boost/coroutine/detail/arg.hpp	/^    typedef typename function_traits< Signature >::arg1_type    type;$/;"	t	struct:boost::coroutines::detail::arg	access:public
+boost::coroutines::detail::caller	/usr/include/boost/coroutine/coroutine.hpp	/^struct caller$/;"	s	namespace:boost::coroutines::detail
+boost::coroutines::detail::caller	/usr/include/boost/coroutine/coroutine.hpp	/^struct caller< Signature, C, Result, 0 >$/;"	s	namespace:boost::coroutines::detail
+boost::coroutines::detail::caller	/usr/include/boost/coroutine/coroutine.hpp	/^struct caller< Signature, C, void, 0 >$/;"	s	namespace:boost::coroutines::detail
+boost::coroutines::detail::caller	/usr/include/boost/coroutine/coroutine.hpp	/^struct caller< Signature, C, void, arity >$/;"	s	namespace:boost::coroutines::detail
+boost::coroutines::detail::caller::type	/usr/include/boost/coroutine/coroutine.hpp	/^{ typedef C< typename detail::arg< Signature >::type( Result), 1 > type; };$/;"	t	struct:boost::coroutines::detail::caller	access:public
+boost::coroutines::detail::caller::type	/usr/include/boost/coroutine/coroutine.hpp	/^{ typedef C< typename detail::arg< Signature >::type(), 0 > type; };$/;"	t	struct:boost::coroutines::detail::caller	access:public
+boost::coroutines::detail::caller::type	/usr/include/boost/coroutine/coroutine.hpp	/^{ typedef C< void( Result), 1 > type; };$/;"	t	struct:boost::coroutines::detail::caller	access:public
+boost::coroutines::detail::caller::type	/usr/include/boost/coroutine/coroutine.hpp	/^{ typedef C< void(), 0 > type; };$/;"	t	struct:boost::coroutines::detail::caller	access:public
+boost::coroutines::detail::coroutine_base	/usr/include/boost/coroutine/detail/coroutine_base.hpp	/^class coroutine_base : private noncopyable,$/;"	c	namespace:boost::coroutines::detail	inherits:noncopyable,coroutine_base_resume
+boost::coroutines::detail::coroutine_base::callee_	/usr/include/boost/coroutine/detail/coroutine_base.hpp	/^    context::fcontext_t *   callee_;$/;"	m	class:boost::coroutines::detail::coroutine_base	access:private
+boost::coroutines::detail::coroutine_base::caller_	/usr/include/boost/coroutine/detail/coroutine_base.hpp	/^    context::fcontext_t     caller_;$/;"	m	class:boost::coroutines::detail::coroutine_base	access:private
+boost::coroutines::detail::coroutine_base::coroutine_base	/usr/include/boost/coroutine/detail/coroutine_base.hpp	/^    coroutine_base( context::fcontext_t * callee, bool unwind, bool preserve_fpu) :$/;"	f	class:boost::coroutines::detail::coroutine_base	access:public	signature:( context::fcontext_t * callee, bool unwind, bool preserve_fpu)
+boost::coroutines::detail::coroutine_base::deallocate_object	/usr/include/boost/coroutine/detail/coroutine_base.hpp	/^    virtual void deallocate_object() = 0;$/;"	p	class:boost::coroutines::detail::coroutine_base	access:protected	signature:()
+boost::coroutines::detail::coroutine_base::except_	/usr/include/boost/coroutine/detail/coroutine_base.hpp	/^    exception_ptr           except_;$/;"	m	class:boost::coroutines::detail::coroutine_base	access:private
+boost::coroutines::detail::coroutine_base::flags_	/usr/include/boost/coroutine/detail/coroutine_base.hpp	/^    int                     flags_;$/;"	m	class:boost::coroutines::detail::coroutine_base	access:private
+boost::coroutines::detail::coroutine_base::ptr_t	/usr/include/boost/coroutine/detail/coroutine_base.hpp	/^    typedef intrusive_ptr< coroutine_base >     ptr_t;$/;"	t	class:boost::coroutines::detail::coroutine_base	access:public
+boost::coroutines::detail::coroutine_base::use_count_	/usr/include/boost/coroutine/detail/coroutine_base.hpp	/^    unsigned int            use_count_;$/;"	m	class:boost::coroutines::detail::coroutine_base	access:private
+boost::coroutines::detail::coroutine_base::~coroutine_base	/usr/include/boost/coroutine/detail/coroutine_base.hpp	/^    virtual ~coroutine_base()$/;"	f	class:boost::coroutines::detail::coroutine_base	access:public	signature:()
+boost::coroutines::detail::coroutine_base_resume	/usr/include/boost/coroutine/detail/coroutine_base_resume.hpp	/^class coroutine_base_resume< Signature, D, Result, 0 >$/;"	c	namespace:boost::coroutines::detail
+boost::coroutines::detail::coroutine_base_resume	/usr/include/boost/coroutine/detail/coroutine_base_resume.hpp	/^class coroutine_base_resume< Signature, D, Result, 1 >$/;"	c	namespace:boost::coroutines::detail
+boost::coroutines::detail::coroutine_base_resume	/usr/include/boost/coroutine/detail/coroutine_base_resume.hpp	/^class coroutine_base_resume< Signature, D, void, 0 >$/;"	c	namespace:boost::coroutines::detail
+boost::coroutines::detail::coroutine_base_resume	/usr/include/boost/coroutine/detail/coroutine_base_resume.hpp	/^class coroutine_base_resume< Signature, D, void, 1 >$/;"	c	namespace:boost::coroutines::detail
+boost::coroutines::detail::coroutine_base_resume::arg_type	/usr/include/boost/coroutine/detail/coroutine_base_resume.hpp	/^    typedef typename arg< Signature >::type     arg_type;$/;"	t	class:boost::coroutines::detail::coroutine_base_resume	access:public
+boost::coroutines::detail::coroutine_base_resume::result_	/usr/include/boost/coroutine/detail/coroutine_base_resume.hpp	/^    optional< Result >  result_;$/;"	m	class:boost::coroutines::detail::coroutine_base_resume	access:protected
+boost::coroutines::detail::coroutine_base_resume::resume	/usr/include/boost/coroutine/detail/coroutine_base_resume.hpp	/^    void resume( arg_type a1)$/;"	f	class:boost::coroutines::detail::coroutine_base_resume	access:public	signature:( arg_type a1)
+boost::coroutines::detail::coroutine_base_resume::resume	/usr/include/boost/coroutine/detail/coroutine_base_resume.hpp	/^    void resume()$/;"	f	class:boost::coroutines::detail::coroutine_base_resume	access:public	signature:()
+boost::coroutines::detail::coroutine_caller	/usr/include/boost/coroutine/detail/coroutine_caller.hpp	/^class coroutine_caller : public  coroutine_base< Signature >$/;"	c	namespace:boost::coroutines::detail	inherits:coroutine_base
+boost::coroutines::detail::coroutine_caller::alloc_	/usr/include/boost/coroutine/detail/coroutine_caller.hpp	/^        alloc_( alloc)$/;"	f	class:boost::coroutines::detail::coroutine_caller	access:public	signature:( alloc)
+boost::coroutines::detail::coroutine_caller::alloc_	/usr/include/boost/coroutine/detail/coroutine_caller.hpp	/^    allocator_t   alloc_;$/;"	m	class:boost::coroutines::detail::coroutine_caller	access:private
+boost::coroutines::detail::coroutine_caller::allocator_t	/usr/include/boost/coroutine/detail/coroutine_caller.hpp	/^    >::other   allocator_t;$/;"	t	class:boost::coroutines::detail::coroutine_caller	access:public
+boost::coroutines::detail::coroutine_caller::coroutine_base	/usr/include/boost/coroutine/detail/coroutine_caller.hpp	/^        coroutine_base< Signature >( callee, unwind, preserve_fpu),$/;"	p	class:boost::coroutines::detail::coroutine_caller	access:public	signature:( callee, unwind, preserve_fpu)
+boost::coroutines::detail::coroutine_caller::deallocate_object	/usr/include/boost/coroutine/detail/coroutine_caller.hpp	/^    void deallocate_object()$/;"	f	class:boost::coroutines::detail::coroutine_caller	access:public	signature:()
+boost::coroutines::detail::coroutine_caller::destroy_	/usr/include/boost/coroutine/detail/coroutine_caller.hpp	/^    static void destroy_( allocator_t & alloc, coroutine_caller * p)$/;"	f	class:boost::coroutines::detail::coroutine_caller	access:private	signature:( allocator_t & alloc, coroutine_caller * p)
+boost::coroutines::detail::coroutine_get	/usr/include/boost/coroutine/detail/coroutine_get.hpp	/^struct coroutine_get$/;"	s	namespace:boost::coroutines::detail
+boost::coroutines::detail::coroutine_get	/usr/include/boost/coroutine/detail/coroutine_get.hpp	/^struct coroutine_get< D, void, arity >$/;"	s	namespace:boost::coroutines::detail
+boost::coroutines::detail::coroutine_get::get	/usr/include/boost/coroutine/detail/coroutine_get.hpp	/^    typename param< Result >::type get() const$/;"	f	struct:boost::coroutines::detail::coroutine_get	access:public	signature:() const
+boost::coroutines::detail::coroutine_get::has_result	/usr/include/boost/coroutine/detail/coroutine_get.hpp	/^    bool has_result() const$/;"	f	struct:boost::coroutines::detail::coroutine_get	access:public	signature:() const
+boost::coroutines::detail::coroutine_op	/usr/include/boost/coroutine/detail/coroutine_op.hpp	/^struct coroutine_op< Signature, D, Result, 0 >$/;"	s	namespace:boost::coroutines::detail
+boost::coroutines::detail::coroutine_op	/usr/include/boost/coroutine/detail/coroutine_op.hpp	/^struct coroutine_op< Signature, D, Result, 1 >$/;"	s	namespace:boost::coroutines::detail
+boost::coroutines::detail::coroutine_op	/usr/include/boost/coroutine/detail/coroutine_op.hpp	/^struct coroutine_op< Signature, D, void, 0 >$/;"	s	namespace:boost::coroutines::detail
+boost::coroutines::detail::coroutine_op	/usr/include/boost/coroutine/detail/coroutine_op.hpp	/^struct coroutine_op< Signature, D, void, 1 >$/;"	s	namespace:boost::coroutines::detail
+boost::coroutines::detail::coroutine_op::arg_type	/usr/include/boost/coroutine/detail/coroutine_op.hpp	/^    typedef typename arg< Signature >::type   arg_type;$/;"	t	struct:boost::coroutines::detail::coroutine_op	access:public
+boost::coroutines::detail::coroutine_op::const_iterator	/usr/include/boost/coroutine/detail/coroutine_op.hpp	/^    class const_iterator : public std::iterator< std::input_iterator_tag, typename remove_reference< const Result >::type >$/;"	c	struct:boost::coroutines::detail::coroutine_op	inherits:std::iterator	access:public
+boost::coroutines::detail::coroutine_op::const_iterator::const_iterator	/usr/include/boost/coroutine/detail/coroutine_op.hpp	/^        const_iterator( const_iterator const& other) :$/;"	f	class:boost::coroutines::detail::coroutine_op::const_iterator	access:public	signature:( const_iterator const& other)
+boost::coroutines::detail::coroutine_op::const_iterator::const_iterator	/usr/include/boost/coroutine/detail/coroutine_op.hpp	/^        const_iterator() :$/;"	f	class:boost::coroutines::detail::coroutine_op::const_iterator	access:public	signature:()
+boost::coroutines::detail::coroutine_op::const_iterator::const_iterator	/usr/include/boost/coroutine/detail/coroutine_op.hpp	/^        explicit const_iterator( D * dp) :$/;"	f	class:boost::coroutines::detail::coroutine_op::const_iterator	access:public	signature:( D * dp)
+boost::coroutines::detail::coroutine_op::const_iterator::dp_	/usr/include/boost/coroutine/detail/coroutine_op.hpp	/^        D                       *   dp_;$/;"	m	class:boost::coroutines::detail::coroutine_op::const_iterator	access:private
+boost::coroutines::detail::coroutine_op::const_iterator::fetch_	/usr/include/boost/coroutine/detail/coroutine_op.hpp	/^        void fetch_()$/;"	f	class:boost::coroutines::detail::coroutine_op::const_iterator	access:private	signature:()
+boost::coroutines::detail::coroutine_op::const_iterator::increment_	/usr/include/boost/coroutine/detail/coroutine_op.hpp	/^        void increment_()$/;"	f	class:boost::coroutines::detail::coroutine_op::const_iterator	access:private	signature:()
+boost::coroutines::detail::coroutine_op::const_iterator::operator !=	/usr/include/boost/coroutine/detail/coroutine_op.hpp	/^        bool operator!=( const_iterator const& other)$/;"	f	class:boost::coroutines::detail::coroutine_op::const_iterator	access:public	signature:( const_iterator const& other)
+boost::coroutines::detail::coroutine_op::const_iterator::operator *	/usr/include/boost/coroutine/detail/coroutine_op.hpp	/^        reference_t operator*() const$/;"	f	class:boost::coroutines::detail::coroutine_op::const_iterator	access:public	signature:() const
+boost::coroutines::detail::coroutine_op::const_iterator::operator ++	/usr/include/boost/coroutine/detail/coroutine_op.hpp	/^        const_iterator & operator++()$/;"	f	class:boost::coroutines::detail::coroutine_op::const_iterator	access:public	signature:()
+boost::coroutines::detail::coroutine_op::const_iterator::operator ->	/usr/include/boost/coroutine/detail/coroutine_op.hpp	/^        pointer_t operator->() const$/;"	f	class:boost::coroutines::detail::coroutine_op::const_iterator	access:public	signature:() const
+boost::coroutines::detail::coroutine_op::const_iterator::operator =	/usr/include/boost/coroutine/detail/coroutine_op.hpp	/^        const_iterator & operator=( const_iterator const& other)$/;"	f	class:boost::coroutines::detail::coroutine_op::const_iterator	access:public	signature:( const_iterator const& other)
+boost::coroutines::detail::coroutine_op::const_iterator::operator ==	/usr/include/boost/coroutine/detail/coroutine_op.hpp	/^        bool operator==( const_iterator const& other)$/;"	f	class:boost::coroutines::detail::coroutine_op::const_iterator	access:public	signature:( const_iterator const& other)
+boost::coroutines::detail::coroutine_op::const_iterator::pointer_t	/usr/include/boost/coroutine/detail/coroutine_op.hpp	/^        typedef typename std::iterator_traits< iterator >::pointer      pointer_t;$/;"	t	class:boost::coroutines::detail::coroutine_op::const_iterator	access:public
+boost::coroutines::detail::coroutine_op::const_iterator::reference_t	/usr/include/boost/coroutine/detail/coroutine_op.hpp	/^        typedef typename std::iterator_traits< iterator >::reference    reference_t;$/;"	t	class:boost::coroutines::detail::coroutine_op::const_iterator	access:public
+boost::coroutines::detail::coroutine_op::const_iterator::val_	/usr/include/boost/coroutine/detail/coroutine_op.hpp	/^        optional< const Result >    val_;$/;"	m	class:boost::coroutines::detail::coroutine_op::const_iterator	access:private
+boost::coroutines::detail::coroutine_op::iterator	/usr/include/boost/coroutine/detail/coroutine_op.hpp	/^    class iterator : public std::iterator< std::input_iterator_tag, typename remove_reference< Result >::type >$/;"	c	struct:boost::coroutines::detail::coroutine_op	inherits:std::iterator	access:public
+boost::coroutines::detail::coroutine_op::iterator	/usr/include/boost/coroutine/detail/coroutine_op.hpp	/^    class iterator : public std::iterator< std::output_iterator_tag, void, void, void, void >$/;"	c	struct:boost::coroutines::detail::coroutine_op	inherits:std::iterator	access:public
+boost::coroutines::detail::coroutine_op::iterator::dp_	/usr/include/boost/coroutine/detail/coroutine_op.hpp	/^        D               *   dp_;$/;"	m	class:boost::coroutines::detail::coroutine_op::iterator	access:private
+boost::coroutines::detail::coroutine_op::iterator::dp_	/usr/include/boost/coroutine/detail/coroutine_op.hpp	/^       D    *   dp_;$/;"	m	class:boost::coroutines::detail::coroutine_op::iterator	access:private
+boost::coroutines::detail::coroutine_op::iterator::fetch_	/usr/include/boost/coroutine/detail/coroutine_op.hpp	/^        void fetch_()$/;"	f	class:boost::coroutines::detail::coroutine_op::iterator	access:private	signature:()
+boost::coroutines::detail::coroutine_op::iterator::increment_	/usr/include/boost/coroutine/detail/coroutine_op.hpp	/^        void increment_()$/;"	f	class:boost::coroutines::detail::coroutine_op::iterator	access:private	signature:()
+boost::coroutines::detail::coroutine_op::iterator::iterator	/usr/include/boost/coroutine/detail/coroutine_op.hpp	/^        explicit iterator( D * dp) :$/;"	f	class:boost::coroutines::detail::coroutine_op::iterator	access:public	signature:( D * dp)
+boost::coroutines::detail::coroutine_op::iterator::iterator	/usr/include/boost/coroutine/detail/coroutine_op.hpp	/^        iterator( iterator const& other) :$/;"	f	class:boost::coroutines::detail::coroutine_op::iterator	access:public	signature:( iterator const& other)
+boost::coroutines::detail::coroutine_op::iterator::iterator	/usr/include/boost/coroutine/detail/coroutine_op.hpp	/^        iterator() :$/;"	f	class:boost::coroutines::detail::coroutine_op::iterator	access:public	signature:()
+boost::coroutines::detail::coroutine_op::iterator::operator !=	/usr/include/boost/coroutine/detail/coroutine_op.hpp	/^        bool operator!=( iterator const& other)$/;"	f	class:boost::coroutines::detail::coroutine_op::iterator	access:public	signature:( iterator const& other)
+boost::coroutines::detail::coroutine_op::iterator::operator *	/usr/include/boost/coroutine/detail/coroutine_op.hpp	/^        iterator & operator*()$/;"	f	class:boost::coroutines::detail::coroutine_op::iterator	access:public	signature:()
+boost::coroutines::detail::coroutine_op::iterator::operator *	/usr/include/boost/coroutine/detail/coroutine_op.hpp	/^        reference_t operator*() const$/;"	f	class:boost::coroutines::detail::coroutine_op::iterator	access:public	signature:() const
+boost::coroutines::detail::coroutine_op::iterator::operator ++	/usr/include/boost/coroutine/detail/coroutine_op.hpp	/^        iterator & operator++()$/;"	f	class:boost::coroutines::detail::coroutine_op::iterator	access:public	signature:()
+boost::coroutines::detail::coroutine_op::iterator::operator ->	/usr/include/boost/coroutine/detail/coroutine_op.hpp	/^        pointer_t operator->() const$/;"	f	class:boost::coroutines::detail::coroutine_op::iterator	access:public	signature:() const
+boost::coroutines::detail::coroutine_op::iterator::operator =	/usr/include/boost/coroutine/detail/coroutine_op.hpp	/^        iterator & operator=( arg_type a1)$/;"	f	class:boost::coroutines::detail::coroutine_op::iterator	access:public	signature:( arg_type a1)
+boost::coroutines::detail::coroutine_op::iterator::operator =	/usr/include/boost/coroutine/detail/coroutine_op.hpp	/^        iterator & operator=( iterator const& other)$/;"	f	class:boost::coroutines::detail::coroutine_op::iterator	access:public	signature:( iterator const& other)
+boost::coroutines::detail::coroutine_op::iterator::operator ==	/usr/include/boost/coroutine/detail/coroutine_op.hpp	/^        bool operator==( iterator const& other)$/;"	f	class:boost::coroutines::detail::coroutine_op::iterator	access:public	signature:( iterator const& other)
+boost::coroutines::detail::coroutine_op::iterator::pointer_t	/usr/include/boost/coroutine/detail/coroutine_op.hpp	/^        typedef typename std::iterator_traits< iterator >::pointer      pointer_t;$/;"	t	class:boost::coroutines::detail::coroutine_op::iterator	access:public
+boost::coroutines::detail::coroutine_op::iterator::reference_t	/usr/include/boost/coroutine/detail/coroutine_op.hpp	/^        typedef typename std::iterator_traits< iterator >::reference    reference_t;$/;"	t	class:boost::coroutines::detail::coroutine_op::iterator	access:public
+boost::coroutines::detail::coroutine_op::iterator::val_	/usr/include/boost/coroutine/detail/coroutine_op.hpp	/^        optional< Result >  val_;$/;"	m	class:boost::coroutines::detail::coroutine_op::iterator	access:private
+boost::coroutines::detail::coroutine_op::operator ()	/usr/include/boost/coroutine/detail/coroutine_op.hpp	/^    D & operator()( arg_type a1)$/;"	f	struct:boost::coroutines::detail::coroutine_op	access:public	signature:( arg_type a1)
+boost::coroutines::detail::coroutine_op::operator ()	/usr/include/boost/coroutine/detail/coroutine_op.hpp	/^    D & operator()()$/;"	f	struct:boost::coroutines::detail::coroutine_op	access:public	signature:()
+boost::coroutines::detail::flag_complete	/usr/include/boost/coroutine/detail/flags.hpp	/^    flag_complete       = 1 << 1,$/;"	e	enum:boost::coroutines::detail::flag_t
+boost::coroutines::detail::flag_force_unwind	/usr/include/boost/coroutine/detail/flags.hpp	/^    flag_force_unwind   = 1 << 3,$/;"	e	enum:boost::coroutines::detail::flag_t
+boost::coroutines::detail::flag_preserve_fpu	/usr/include/boost/coroutine/detail/flags.hpp	/^    flag_preserve_fpu   = 1 << 4$/;"	e	enum:boost::coroutines::detail::flag_t
+boost::coroutines::detail::flag_t	/usr/include/boost/coroutine/detail/flags.hpp	/^enum flag_t$/;"	g	namespace:boost::coroutines::detail
+boost::coroutines::detail::flag_unwind_stack	/usr/include/boost/coroutine/detail/flags.hpp	/^    flag_unwind_stack   = 1 << 2,$/;"	e	enum:boost::coroutines::detail::flag_t
+boost::coroutines::detail::forced_unwind	/usr/include/boost/coroutine/detail/exceptions.hpp	/^struct forced_unwind {};$/;"	s	namespace:boost::coroutines::detail
+boost::coroutines::detail::holder	/usr/include/boost/coroutine/detail/holder.hpp	/^struct holder$/;"	s	namespace:boost::coroutines::detail
+boost::coroutines::detail::holder	/usr/include/boost/coroutine/detail/holder.hpp	/^struct holder< void >$/;"	s	namespace:boost::coroutines::detail
+boost::coroutines::detail::holder::ctx	/usr/include/boost/coroutine/detail/holder.hpp	/^    context::fcontext_t *   ctx;$/;"	m	struct:boost::coroutines::detail::holder	access:public
+boost::coroutines::detail::holder::data	/usr/include/boost/coroutine/detail/holder.hpp	/^    optional< Data >        data;$/;"	m	struct:boost::coroutines::detail::holder	access:public
+boost::coroutines::detail::holder::force_unwind	/usr/include/boost/coroutine/detail/holder.hpp	/^    bool                    force_unwind;$/;"	m	struct:boost::coroutines::detail::holder	access:public
+boost::coroutines::detail::holder::holder	/usr/include/boost/coroutine/detail/holder.hpp	/^    holder( context::fcontext_t * ctx_) :$/;"	f	struct:boost::coroutines::detail::holder	access:public	signature:( context::fcontext_t * ctx_)
+boost::coroutines::detail::holder::holder	/usr/include/boost/coroutine/detail/holder.hpp	/^    holder( context::fcontext_t * ctx_, Data data_) :$/;"	f	struct:boost::coroutines::detail::holder	access:public	signature:( context::fcontext_t * ctx_, Data data_)
+boost::coroutines::detail::holder::holder	/usr/include/boost/coroutine/detail/holder.hpp	/^    holder( context::fcontext_t * ctx_, bool force_unwind_ = false) :$/;"	f	struct:boost::coroutines::detail::holder	access:public	signature:( context::fcontext_t * ctx_, bool force_unwind_ = false)
+boost::coroutines::detail::holder::holder	/usr/include/boost/coroutine/detail/holder.hpp	/^    holder( context::fcontext_t * ctx_, bool force_unwind_) :$/;"	f	struct:boost::coroutines::detail::holder	access:public	signature:( context::fcontext_t * ctx_, bool force_unwind_)
+boost::coroutines::detail::holder::holder	/usr/include/boost/coroutine/detail/holder.hpp	/^    holder( holder const& other) :$/;"	f	struct:boost::coroutines::detail::holder	access:public	signature:( holder const& other)
+boost::coroutines::detail::holder::operator =	/usr/include/boost/coroutine/detail/holder.hpp	/^    holder & operator=( holder const& other)$/;"	f	struct:boost::coroutines::detail::holder	access:public	signature:( holder const& other)
+boost::coroutines::detail::page_count	/usr/include/boost/coroutine/detail/stack_allocator_posix.hpp	/^std::size_t page_count( std::size_t stacksize)$/;"	f	namespace:boost::coroutines::detail	signature:( std::size_t stacksize)
+boost::coroutines::detail::page_count	/usr/include/boost/coroutine/detail/stack_allocator_windows.hpp	/^std::size_t page_count( std::size_t stacksize)$/;"	f	namespace:boost::coroutines::detail	signature:( std::size_t stacksize)
+boost::coroutines::detail::pagesize	/usr/include/boost/coroutine/detail/stack_allocator_posix.hpp	/^std::size_t pagesize()$/;"	f	namespace:boost::coroutines::detail	signature:()
+boost::coroutines::detail::pagesize	/usr/include/boost/coroutine/detail/stack_allocator_windows.hpp	/^std::size_t pagesize()$/;"	f	namespace:boost::coroutines::detail	signature:()
+boost::coroutines::detail::param	/usr/include/boost/coroutine/detail/param.hpp	/^struct param : $/;"	s	namespace:boost::coroutines::detail	inherits:mpl::eval_if
+boost::coroutines::detail::stack_allocator	/usr/include/boost/coroutine/detail/stack_allocator_posix.hpp	/^class stack_allocator$/;"	c	namespace:boost::coroutines::detail
+boost::coroutines::detail::stack_allocator	/usr/include/boost/coroutine/detail/stack_allocator_windows.hpp	/^class stack_allocator$/;"	c	namespace:boost::coroutines::detail
+boost::coroutines::detail::stack_allocator::allocate	/usr/include/boost/coroutine/detail/stack_allocator_posix.hpp	/^    void * allocate( std::size_t size) const$/;"	f	class:boost::coroutines::detail::stack_allocator	access:public	signature:( std::size_t size) const
+boost::coroutines::detail::stack_allocator::allocate	/usr/include/boost/coroutine/detail/stack_allocator_windows.hpp	/^    void * allocate( std::size_t size) const$/;"	f	class:boost::coroutines::detail::stack_allocator	access:public	signature:( std::size_t size) const
+boost::coroutines::detail::stack_allocator::deallocate	/usr/include/boost/coroutine/detail/stack_allocator_posix.hpp	/^    void deallocate( void * vp, std::size_t size) const$/;"	f	class:boost::coroutines::detail::stack_allocator	access:public	signature:( void * vp, std::size_t size) const
+boost::coroutines::detail::stack_allocator::deallocate	/usr/include/boost/coroutine/detail/stack_allocator_windows.hpp	/^    void deallocate( void * vp, std::size_t size) const$/;"	f	class:boost::coroutines::detail::stack_allocator	access:public	signature:( void * vp, std::size_t size) const
+boost::coroutines::detail::stack_allocator::default_stacksize	/usr/include/boost/coroutine/detail/stack_allocator_posix.hpp	/^    static std::size_t default_stacksize()$/;"	f	class:boost::coroutines::detail::stack_allocator	access:public	signature:()
+boost::coroutines::detail::stack_allocator::default_stacksize	/usr/include/boost/coroutine/detail/stack_allocator_windows.hpp	/^    static std::size_t default_stacksize()$/;"	f	class:boost::coroutines::detail::stack_allocator	access:public	signature:()
+boost::coroutines::detail::stack_allocator::is_stack_unbound	/usr/include/boost/coroutine/detail/stack_allocator_posix.hpp	/^    static bool is_stack_unbound()$/;"	f	class:boost::coroutines::detail::stack_allocator	access:public	signature:()
+boost::coroutines::detail::stack_allocator::is_stack_unbound	/usr/include/boost/coroutine/detail/stack_allocator_windows.hpp	/^    static bool is_stack_unbound()$/;"	f	class:boost::coroutines::detail::stack_allocator	access:public	signature:()
+boost::coroutines::detail::stack_allocator::maximum_stacksize	/usr/include/boost/coroutine/detail/stack_allocator_posix.hpp	/^    static std::size_t maximum_stacksize()$/;"	f	class:boost::coroutines::detail::stack_allocator	access:public	signature:()
+boost::coroutines::detail::stack_allocator::maximum_stacksize	/usr/include/boost/coroutine/detail/stack_allocator_windows.hpp	/^    static std::size_t maximum_stacksize()$/;"	f	class:boost::coroutines::detail::stack_allocator	access:public	signature:()
+boost::coroutines::detail::stack_allocator::minimum_stacksize	/usr/include/boost/coroutine/detail/stack_allocator_posix.hpp	/^    static std::size_t minimum_stacksize()$/;"	f	class:boost::coroutines::detail::stack_allocator	access:public	signature:()
+boost::coroutines::detail::stack_allocator::minimum_stacksize	/usr/include/boost/coroutine/detail/stack_allocator_windows.hpp	/^    static std::size_t minimum_stacksize()$/;"	f	class:boost::coroutines::detail::stack_allocator	access:public	signature:()
+boost::coroutines::detail::stacksize_limit	/usr/include/boost/coroutine/detail/stack_allocator_posix.hpp	/^rlimit stacksize_limit()$/;"	f	namespace:boost::coroutines::detail	signature:()
+boost::coroutines::detail::stacksize_limit_	/usr/include/boost/coroutine/detail/stack_allocator_posix.hpp	/^rlimit stacksize_limit_()$/;"	f	namespace:boost::coroutines::detail	signature:()
+boost::coroutines::detail::system_info	/usr/include/boost/coroutine/detail/stack_allocator_windows.hpp	/^SYSTEM_INFO system_info()$/;"	f	namespace:boost::coroutines::detail	signature:()
+boost::coroutines::detail::system_info_	/usr/include/boost/coroutine/detail/stack_allocator_windows.hpp	/^SYSTEM_INFO system_info_()$/;"	f	namespace:boost::coroutines::detail	signature:()
+boost::coroutines::detail::trampoline1	/usr/include/boost/coroutine/detail/coroutine_object.hpp	/^void trampoline1( intptr_t vp)$/;"	f	namespace:boost::coroutines::detail	signature:( intptr_t vp)
+boost::coroutines::detail::trampoline2	/usr/include/boost/coroutine/detail/coroutine_object.hpp	/^void trampoline2( intptr_t vp)$/;"	f	namespace:boost::coroutines::detail	signature:( intptr_t vp)
+boost::coroutines::flag_fpu_t	/usr/include/boost/coroutine/flags.hpp	/^enum flag_fpu_t$/;"	g	namespace:boost::coroutines
+boost::coroutines::flag_unwind_t	/usr/include/boost/coroutine/flags.hpp	/^enum flag_unwind_t$/;"	g	namespace:boost::coroutines
+boost::coroutines::fpu_not_preserved	/usr/include/boost/coroutine/flags.hpp	/^    fpu_not_preserved$/;"	e	enum:boost::coroutines::flag_fpu_t
+boost::coroutines::fpu_preserved	/usr/include/boost/coroutine/flags.hpp	/^    fpu_preserved = 0,$/;"	e	enum:boost::coroutines::flag_fpu_t
+boost::coroutines::no_stack_unwind	/usr/include/boost/coroutine/flags.hpp	/^    no_stack_unwind$/;"	e	enum:boost::coroutines::flag_unwind_t
+boost::coroutines::range_begin	/usr/include/boost/coroutine/coroutine.hpp	/^range_begin( coroutine< Signature > & c)$/;"	f	namespace:boost::coroutines	signature:( coroutine< Signature > & c)
+boost::coroutines::range_begin	/usr/include/boost/coroutine/coroutine.hpp	/^range_begin( coroutine< Signature > const& c)$/;"	f	namespace:boost::coroutines	signature:( coroutine< Signature > const& c)
+boost::coroutines::range_end	/usr/include/boost/coroutine/coroutine.hpp	/^range_end( coroutine< Signature > & c)$/;"	f	namespace:boost::coroutines	signature:( coroutine< Signature > & c)
+boost::coroutines::range_end	/usr/include/boost/coroutine/coroutine.hpp	/^range_end( coroutine< Signature > const& c)$/;"	f	namespace:boost::coroutines	signature:( coroutine< Signature > const& c)
+boost::coroutines::stack_unwind	/usr/include/boost/coroutine/flags.hpp	/^    stack_unwind = 0,$/;"	e	enum:boost::coroutines::flag_unwind_t
+boost::range_const_iterator	/usr/include/boost/coroutine/coroutine.hpp	/^struct range_const_iterator< coroutines::coroutine< Signature > >$/;"	s	namespace:boost
+boost::range_const_iterator::type	/usr/include/boost/coroutine/coroutine.hpp	/^{ typedef typename coroutines::coroutine< Signature >::const_iterator type; };$/;"	t	struct:boost::range_const_iterator	access:public
+boost::range_mutable_iterator	/usr/include/boost/coroutine/coroutine.hpp	/^struct range_mutable_iterator< coroutines::coroutine< Signature > >$/;"	s	namespace:boost
+boost::range_mutable_iterator::type	/usr/include/boost/coroutine/coroutine.hpp	/^{ typedef typename coroutines::coroutine< Signature >::iterator type; };$/;"	t	struct:boost::range_mutable_iterator	access:public
+callee_	/usr/include/boost/coroutine/detail/coroutine_base.hpp	/^    context::fcontext_t *   callee_;$/;"	m	class:boost::coroutines::detail::coroutine_base	access:private
+caller	/usr/include/boost/coroutine/coroutine.hpp	/^struct caller$/;"	s	namespace:boost::coroutines::detail
+caller	/usr/include/boost/coroutine/coroutine.hpp	/^struct caller< Signature, C, Result, 0 >$/;"	s	namespace:boost::coroutines::detail
+caller	/usr/include/boost/coroutine/coroutine.hpp	/^struct caller< Signature, C, void, 0 >$/;"	s	namespace:boost::coroutines::detail
+caller	/usr/include/boost/coroutine/coroutine.hpp	/^struct caller< Signature, C, void, arity >$/;"	s	namespace:boost::coroutines::detail
+caller_	/usr/include/boost/coroutine/detail/coroutine_base.hpp	/^    context::fcontext_t     caller_;$/;"	m	class:boost::coroutines::detail::coroutine_base	access:private
+caller_type	/usr/include/boost/coroutine/coroutine.hpp	/^    >::type                                                     caller_type;$/;"	t	class:boost::coroutines::coroutine	access:public
+const_iterator	/usr/include/boost/coroutine/detail/coroutine_op.hpp	/^        const_iterator( const_iterator const& other) :$/;"	f	class:boost::coroutines::detail::coroutine_op::const_iterator	access:public	signature:( const_iterator const& other)
+const_iterator	/usr/include/boost/coroutine/detail/coroutine_op.hpp	/^        const_iterator() :$/;"	f	class:boost::coroutines::detail::coroutine_op::const_iterator	access:public	signature:()
+const_iterator	/usr/include/boost/coroutine/detail/coroutine_op.hpp	/^        explicit const_iterator( D * dp) :$/;"	f	class:boost::coroutines::detail::coroutine_op::const_iterator	access:public	signature:( D * dp)
+const_iterator	/usr/include/boost/coroutine/detail/coroutine_op.hpp	/^    class const_iterator : public std::iterator< std::input_iterator_tag, typename remove_reference< const Result >::type >$/;"	c	struct:boost::coroutines::detail::coroutine_op	inherits:std::iterator	access:public
+coroutine	/usr/include/boost/coroutine/coroutine.hpp	/^    coroutine( context::fcontext_t * callee,$/;"	f	class:boost::coroutines::coroutine	access:private	signature:( context::fcontext_t * callee, bool unwind, bool preserve_fpu, Allocator const& alloc)
+coroutine	/usr/include/boost/coroutine/coroutine.hpp	/^    explicit coroutine( Fn fn, arguments arg, attributes const& attr = attributes(),$/;"	f	class:boost::coroutines::coroutine	access:public	signature:( Fn fn, arguments arg, attributes const& attr = attributes(), stack_allocator const& stack_alloc = stack_allocator(), std::allocator< coroutine > const& alloc = std::allocator< coroutine >(), typename disable_if< is_convertible< Fn &, BOOST_RV_REF( Fn) >, dummy * >::type = 0)
+coroutine	/usr/include/boost/coroutine/coroutine.hpp	/^    explicit coroutine( Fn fn, attributes const& attr = attributes(),$/;"	f	class:boost::coroutines::coroutine	access:public	signature:( Fn fn, attributes const& attr = attributes(), stack_allocator const& stack_alloc = stack_allocator(), std::allocator< coroutine > const& alloc = std::allocator< coroutine >(), typename disable_if< is_convertible< Fn &, BOOST_RV_REF( Fn) >, dummy * >::type = 0)
+coroutine	/usr/include/boost/coroutine/coroutine.hpp	/^    explicit coroutine( Fn fn, attributes const& attr,$/;"	f	class:boost::coroutines::coroutine	access:public	signature:( Fn fn, attributes const& attr, StackAllocator const& stack_alloc, Allocator const& alloc, typename disable_if< is_convertible< Fn &, BOOST_RV_REF( Fn) >, dummy * >::type = 0)
+coroutine	/usr/include/boost/coroutine/coroutine.hpp	/^    explicit coroutine( Fn fn, attributes const& attr,$/;"	f	class:boost::coroutines::coroutine	access:public	signature:( Fn fn, attributes const& attr, StackAllocator const& stack_alloc, std::allocator< coroutine > const& alloc = std::allocator< coroutine >(), typename disable_if< is_convertible< Fn &, BOOST_RV_REF( Fn) >, dummy * >::type = 0)
+coroutine	/usr/include/boost/coroutine/coroutine.hpp	/^    explicit coroutine( coroutine_fn fn, arguments arg, attributes const& attr = attributes(),$/;"	f	class:boost::coroutines::coroutine	access:public	signature:( coroutine_fn fn, arguments arg, attributes const& attr = attributes(), stack_allocator const& stack_alloc = stack_allocator(), std::allocator< coroutine > const& alloc = std::allocator< coroutine >() )
+coroutine	/usr/include/boost/coroutine/coroutine.hpp	/^    explicit coroutine( coroutine_fn fn, attributes const& attr = attributes(),$/;"	f	class:boost::coroutines::coroutine	access:public	signature:( coroutine_fn fn, attributes const& attr = attributes(), stack_allocator const& stack_alloc = stack_allocator(), std::allocator< coroutine > const& alloc = std::allocator< coroutine >() )
+coroutine	/usr/include/boost/coroutine/coroutine.hpp	/^    explicit coroutine( coroutine_fn fn, attributes const& attr,$/;"	f	class:boost::coroutines::coroutine	access:public	signature:( coroutine_fn fn, attributes const& attr, StackAllocator const& stack_alloc, Allocator const& alloc)
+coroutine	/usr/include/boost/coroutine/coroutine.hpp	/^    explicit coroutine( coroutine_fn fn, attributes const& attr,$/;"	f	class:boost::coroutines::coroutine	access:public	signature:( coroutine_fn fn, attributes const& attr, StackAllocator const& stack_alloc, std::allocator< coroutine > const& alloc = std::allocator< coroutine >() )
+coroutine	/usr/include/boost/coroutine/coroutine.hpp	/^class coroutine : public detail::coroutine_op<$/;"	c	namespace:boost::coroutines	inherits:detail::coroutine_op,detail::coroutine_get
+coroutine	/usr/include/boost/coroutine/coroutine.hpp	/^class coroutine< Signature, 0 > : public detail::coroutine_op<$/;"	c	namespace:boost::coroutines	inherits:detail::coroutine_op,detail::coroutine_get
+coroutine_base	/usr/include/boost/coroutine/detail/coroutine_base.hpp	/^    coroutine_base( context::fcontext_t * callee, bool unwind, bool preserve_fpu) :$/;"	f	class:boost::coroutines::detail::coroutine_base	access:public	signature:( context::fcontext_t * callee, bool unwind, bool preserve_fpu)
+coroutine_base	/usr/include/boost/coroutine/detail/coroutine_base.hpp	/^class coroutine_base : private noncopyable,$/;"	c	namespace:boost::coroutines::detail	inherits:noncopyable,coroutine_base_resume
+coroutine_base	/usr/include/boost/coroutine/detail/coroutine_caller.hpp	/^        coroutine_base< Signature >( callee, unwind, preserve_fpu),$/;"	p	class:boost::coroutines::detail::coroutine_caller	access:public	signature:( callee, unwind, preserve_fpu)
+coroutine_base_resume	/usr/include/boost/coroutine/detail/coroutine_base_resume.hpp	/^class coroutine_base_resume< Signature, D, Result, 0 >$/;"	c	namespace:boost::coroutines::detail
+coroutine_base_resume	/usr/include/boost/coroutine/detail/coroutine_base_resume.hpp	/^class coroutine_base_resume< Signature, D, Result, 1 >$/;"	c	namespace:boost::coroutines::detail
+coroutine_base_resume	/usr/include/boost/coroutine/detail/coroutine_base_resume.hpp	/^class coroutine_base_resume< Signature, D, void, 0 >$/;"	c	namespace:boost::coroutines::detail
+coroutine_base_resume	/usr/include/boost/coroutine/detail/coroutine_base_resume.hpp	/^class coroutine_base_resume< Signature, D, void, 1 >$/;"	c	namespace:boost::coroutines::detail
+coroutine_caller	/usr/include/boost/coroutine/detail/coroutine_caller.hpp	/^class coroutine_caller : public  coroutine_base< Signature >$/;"	c	namespace:boost::coroutines::detail	inherits:coroutine_base
+coroutine_fn	/usr/include/boost/coroutine/coroutine.hpp	/^    typedef void ( * coroutine_fn) ( caller_type &);$/;"	t	class:boost::coroutines::coroutine	access:public
+coroutine_get	/usr/include/boost/coroutine/coroutine.hpp	/^        detail::coroutine_get<$/;"	p	class:boost::coroutines::coroutine::detail	access:public	signature:()
+coroutine_get	/usr/include/boost/coroutine/detail/coroutine_get.hpp	/^struct coroutine_get$/;"	s	namespace:boost::coroutines::detail
+coroutine_get	/usr/include/boost/coroutine/detail/coroutine_get.hpp	/^struct coroutine_get< D, void, arity >$/;"	s	namespace:boost::coroutines::detail
+coroutine_object	/usr/include/boost/coroutine/detail/coroutine_object_result_0.ipp	/^    coroutine_object( Fn fn, attributes const& attr,$/;"	f	class:coroutine_object	access:public	signature:( Fn fn, attributes const& attr, StackAllocator const& stack_alloc, allocator_t const& alloc)
+coroutine_object	/usr/include/boost/coroutine/detail/coroutine_object_result_0.ipp	/^    coroutine_object( const reference_wrapper< Fn > fn, attributes const& attr,$/;"	f	class:coroutine_object	access:public	signature:( const reference_wrapper< Fn > fn, attributes const& attr, StackAllocator const& stack_alloc, allocator_t const& alloc)
+coroutine_object	/usr/include/boost/coroutine/detail/coroutine_object_result_0.ipp	/^    coroutine_object( coroutine_object const&);$/;"	p	class:coroutine_object	file:	access:private	signature:( coroutine_object const&)
+coroutine_object	/usr/include/boost/coroutine/detail/coroutine_object_result_0.ipp	/^    coroutine_object( reference_wrapper< Fn > fn, attributes const& attr,$/;"	f	class:coroutine_object	access:public	signature:( reference_wrapper< Fn > fn, attributes const& attr, StackAllocator const& stack_alloc, allocator_t const& alloc)
+coroutine_object	/usr/include/boost/coroutine/detail/coroutine_object_result_0.ipp	/^class coroutine_object< Signature, Fn, StackAllocator, Allocator, Caller, Result, 0 > :$/;"	c	file:	inherits:coroutine_base
+coroutine_object	/usr/include/boost/coroutine/detail/coroutine_object_result_0.ipp	/^class coroutine_object< Signature, const reference_wrapper< Fn >, StackAllocator, Allocator, Caller, Result, 0 > :$/;"	c	file:	inherits:coroutine_base
+coroutine_object	/usr/include/boost/coroutine/detail/coroutine_object_result_0.ipp	/^class coroutine_object< Signature, reference_wrapper< Fn >, StackAllocator, Allocator, Caller, Result, 0 > :$/;"	c	file:	inherits:coroutine_base
+coroutine_object	/usr/include/boost/coroutine/detail/coroutine_object_result_1.ipp	/^    coroutine_object( Fn fn, attributes const& attr,$/;"	f	class:coroutine_object	access:public	signature:( Fn fn, attributes const& attr, StackAllocator const& stack_alloc, allocator_t const& alloc)
+coroutine_object	/usr/include/boost/coroutine/detail/coroutine_object_result_1.ipp	/^    coroutine_object( Fn fn, typename detail::param< arg_type >::type arg, attributes const& attr,$/;"	f	class:coroutine_object	access:public	signature:( Fn fn, typename detail::param< arg_type >::type arg, attributes const& attr, StackAllocator const& stack_alloc, allocator_t const& alloc)
+coroutine_object	/usr/include/boost/coroutine/detail/coroutine_object_result_1.ipp	/^    coroutine_object( const reference_wrapper< Fn > fn, attributes const& attr,$/;"	f	class:coroutine_object	access:public	signature:( const reference_wrapper< Fn > fn, attributes const& attr, StackAllocator const& stack_alloc, allocator_t const& alloc)
+coroutine_object	/usr/include/boost/coroutine/detail/coroutine_object_result_1.ipp	/^    coroutine_object( const reference_wrapper< Fn > fn, typename detail::param< arg_type >::type arg, attributes const& attr,$/;"	f	class:coroutine_object	access:public	signature:( const reference_wrapper< Fn > fn, typename detail::param< arg_type >::type arg, attributes const& attr, StackAllocator const& stack_alloc, allocator_t const& alloc)
+coroutine_object	/usr/include/boost/coroutine/detail/coroutine_object_result_1.ipp	/^    coroutine_object( coroutine_object &);$/;"	p	class:coroutine_object	file:	access:private	signature:( coroutine_object &)
+coroutine_object	/usr/include/boost/coroutine/detail/coroutine_object_result_1.ipp	/^    coroutine_object( reference_wrapper< Fn > fn, attributes const& attr,$/;"	f	class:coroutine_object	access:public	signature:( reference_wrapper< Fn > fn, attributes const& attr, StackAllocator const& stack_alloc, allocator_t const& alloc)
+coroutine_object	/usr/include/boost/coroutine/detail/coroutine_object_result_1.ipp	/^    coroutine_object( reference_wrapper< Fn > fn, typename detail::param< arg_type >::type arg, attributes const& attr,$/;"	f	class:coroutine_object	access:public	signature:( reference_wrapper< Fn > fn, typename detail::param< arg_type >::type arg, attributes const& attr, StackAllocator const& stack_alloc, allocator_t const& alloc)
+coroutine_object	/usr/include/boost/coroutine/detail/coroutine_object_result_1.ipp	/^class coroutine_object< Signature, Fn, StackAllocator, Allocator, Caller, Result, 1 > :$/;"	c	file:	inherits:coroutine_base
+coroutine_object	/usr/include/boost/coroutine/detail/coroutine_object_result_1.ipp	/^class coroutine_object< Signature, const reference_wrapper< Fn >, StackAllocator, Allocator, Caller, Result, 1 > :$/;"	c	file:	inherits:coroutine_base
+coroutine_object	/usr/include/boost/coroutine/detail/coroutine_object_result_1.ipp	/^class coroutine_object< Signature, reference_wrapper< Fn >, StackAllocator, Allocator, Caller, Result, 1 > :$/;"	c	file:	inherits:coroutine_base
+coroutine_object	/usr/include/boost/coroutine/detail/coroutine_object_result_arity.ipp	/^    coroutine_object( Fn fn, attributes const& attr,$/;"	f	class:coroutine_object	access:public	signature:( Fn fn, attributes const& attr, StackAllocator const& stack_alloc, allocator_t const& alloc)
+coroutine_object	/usr/include/boost/coroutine/detail/coroutine_object_result_arity.ipp	/^    coroutine_object( Fn fn, typename detail::param< arg_type >::type arg, attributes const& attr,$/;"	f	class:coroutine_object	access:public	signature:( Fn fn, typename detail::param< arg_type >::type arg, attributes const& attr, StackAllocator const& stack_alloc, allocator_t const& alloc)
+coroutine_object	/usr/include/boost/coroutine/detail/coroutine_object_result_arity.ipp	/^    coroutine_object( const reference_wrapper< Fn > fn, attributes const& attr,$/;"	f	class:coroutine_object	access:public	signature:( const reference_wrapper< Fn > fn, attributes const& attr, StackAllocator const& stack_alloc, allocator_t const& alloc)
+coroutine_object	/usr/include/boost/coroutine/detail/coroutine_object_result_arity.ipp	/^    coroutine_object( const reference_wrapper< Fn > fn, typename detail::param< arg_type >::type arg, attributes const& attr,$/;"	f	class:coroutine_object	access:public	signature:( const reference_wrapper< Fn > fn, typename detail::param< arg_type >::type arg, attributes const& attr, StackAllocator const& stack_alloc, allocator_t const& alloc)
+coroutine_object	/usr/include/boost/coroutine/detail/coroutine_object_result_arity.ipp	/^    coroutine_object( coroutine_object &);$/;"	p	class:coroutine_object	file:	access:private	signature:( coroutine_object &)
+coroutine_object	/usr/include/boost/coroutine/detail/coroutine_object_result_arity.ipp	/^    coroutine_object( reference_wrapper< Fn > fn, attributes const& attr,$/;"	f	class:coroutine_object	access:public	signature:( reference_wrapper< Fn > fn, attributes const& attr, StackAllocator const& stack_alloc, allocator_t const& alloc)
+coroutine_object	/usr/include/boost/coroutine/detail/coroutine_object_result_arity.ipp	/^    coroutine_object( reference_wrapper< Fn > fn, typename detail::param< arg_type >::type arg, attributes const& attr,$/;"	f	class:coroutine_object	access:public	signature:( reference_wrapper< Fn > fn, typename detail::param< arg_type >::type arg, attributes const& attr, StackAllocator const& stack_alloc, allocator_t const& alloc)
+coroutine_object	/usr/include/boost/coroutine/detail/coroutine_object_result_arity.ipp	/^class coroutine_object :$/;"	c	file:	inherits:coroutine_base
+coroutine_object	/usr/include/boost/coroutine/detail/coroutine_object_result_arity.ipp	/^class coroutine_object< Signature, const reference_wrapper< Fn >, StackAllocator, Allocator, Caller, Result, arity > :$/;"	c	file:	inherits:coroutine_base
+coroutine_object	/usr/include/boost/coroutine/detail/coroutine_object_result_arity.ipp	/^class coroutine_object< Signature, reference_wrapper< Fn >, StackAllocator, Allocator, Caller, Result, arity > :$/;"	c	file:	inherits:coroutine_base
+coroutine_object	/usr/include/boost/coroutine/detail/coroutine_object_void_0.ipp	/^    coroutine_object( Fn fn, attributes const& attr,$/;"	f	class:coroutine_object	access:public	signature:( Fn fn, attributes const& attr, StackAllocator const& stack_alloc, allocator_t const& alloc)
+coroutine_object	/usr/include/boost/coroutine/detail/coroutine_object_void_0.ipp	/^    coroutine_object( const reference_wrapper< Fn > fn, attributes const& attr,$/;"	f	class:coroutine_object	access:public	signature:( const reference_wrapper< Fn > fn, attributes const& attr, StackAllocator const& stack_alloc, allocator_t const& alloc)
+coroutine_object	/usr/include/boost/coroutine/detail/coroutine_object_void_0.ipp	/^    coroutine_object( coroutine_object const&);$/;"	p	class:coroutine_object	file:	access:private	signature:( coroutine_object const&)
+coroutine_object	/usr/include/boost/coroutine/detail/coroutine_object_void_0.ipp	/^    coroutine_object( reference_wrapper< Fn > fn, attributes const& attr,$/;"	f	class:coroutine_object	access:public	signature:( reference_wrapper< Fn > fn, attributes const& attr, StackAllocator const& stack_alloc, allocator_t const& alloc)
+coroutine_object	/usr/include/boost/coroutine/detail/coroutine_object_void_0.ipp	/^class coroutine_object< Signature, Fn, StackAllocator, Allocator, Caller, void, 0 > :$/;"	c	file:	inherits:coroutine_base
+coroutine_object	/usr/include/boost/coroutine/detail/coroutine_object_void_0.ipp	/^class coroutine_object< Signature, const reference_wrapper< Fn >, StackAllocator, Allocator, Caller, void, 0 > :$/;"	c	file:	inherits:coroutine_base
+coroutine_object	/usr/include/boost/coroutine/detail/coroutine_object_void_0.ipp	/^class coroutine_object< Signature, reference_wrapper< Fn >, StackAllocator, Allocator, Caller, void, 0 > :$/;"	c	file:	inherits:coroutine_base
+coroutine_object	/usr/include/boost/coroutine/detail/coroutine_object_void_1.ipp	/^    coroutine_object( Fn fn, attributes const& attr,$/;"	f	class:coroutine_object	access:public	signature:( Fn fn, attributes const& attr, StackAllocator const& stack_alloc, allocator_t const& alloc)
+coroutine_object	/usr/include/boost/coroutine/detail/coroutine_object_void_1.ipp	/^    coroutine_object( Fn fn, typename detail::param< arg_type >::type arg, attributes const& attr,$/;"	f	class:coroutine_object	access:public	signature:( Fn fn, typename detail::param< arg_type >::type arg, attributes const& attr, StackAllocator const& stack_alloc, allocator_t const& alloc)
+coroutine_object	/usr/include/boost/coroutine/detail/coroutine_object_void_1.ipp	/^    coroutine_object( const reference_wrapper< Fn > fn, attributes const& attr,$/;"	f	class:coroutine_object	access:public	signature:( const reference_wrapper< Fn > fn, attributes const& attr, StackAllocator const& stack_alloc, allocator_t const& alloc)
+coroutine_object	/usr/include/boost/coroutine/detail/coroutine_object_void_1.ipp	/^    coroutine_object( const reference_wrapper< Fn > fn,$/;"	f	class:coroutine_object	access:public	signature:( const reference_wrapper< Fn > fn, typename detail::param< arg_type >::type arg, attributes const& attr, StackAllocator const& stack_alloc, allocator_t const& alloc)
+coroutine_object	/usr/include/boost/coroutine/detail/coroutine_object_void_1.ipp	/^    coroutine_object( coroutine_object &);$/;"	p	class:coroutine_object	file:	access:private	signature:( coroutine_object &)
+coroutine_object	/usr/include/boost/coroutine/detail/coroutine_object_void_1.ipp	/^    coroutine_object( reference_wrapper< Fn > fn, attributes const& attr,$/;"	f	class:coroutine_object	access:public	signature:( reference_wrapper< Fn > fn, attributes const& attr, StackAllocator const& stack_alloc, allocator_t const& alloc)
+coroutine_object	/usr/include/boost/coroutine/detail/coroutine_object_void_1.ipp	/^    coroutine_object( reference_wrapper< Fn > fn,$/;"	f	class:coroutine_object	access:public	signature:( reference_wrapper< Fn > fn, typename detail::param< arg_type >::type arg, attributes const& attr, StackAllocator const& stack_alloc, allocator_t const& alloc)
+coroutine_object	/usr/include/boost/coroutine/detail/coroutine_object_void_1.ipp	/^class coroutine_object< Signature, Fn, StackAllocator, Allocator, Caller, void, 1 > :$/;"	c	file:	inherits:coroutine_base
+coroutine_object	/usr/include/boost/coroutine/detail/coroutine_object_void_1.ipp	/^class coroutine_object< Signature, const reference_wrapper< Fn >, StackAllocator, Allocator, Caller, void, 1 > :$/;"	c	file:	inherits:coroutine_base
+coroutine_object	/usr/include/boost/coroutine/detail/coroutine_object_void_1.ipp	/^class coroutine_object< Signature, reference_wrapper< Fn >, StackAllocator, Allocator, Caller, void, 1 > :$/;"	c	file:	inherits:coroutine_base
+coroutine_object	/usr/include/boost/coroutine/detail/coroutine_object_void_arity.ipp	/^    coroutine_object( Fn fn, attributes const& attr,$/;"	f	class:coroutine_object	access:public	signature:( Fn fn, attributes const& attr, StackAllocator const& stack_alloc, allocator_t const& alloc)
+coroutine_object	/usr/include/boost/coroutine/detail/coroutine_object_void_arity.ipp	/^    coroutine_object( Fn fn, typename detail::param< arg_type >::type arg, attributes const& attr,$/;"	f	class:coroutine_object	access:public	signature:( Fn fn, typename detail::param< arg_type >::type arg, attributes const& attr, StackAllocator const& stack_alloc, allocator_t const& alloc)
+coroutine_object	/usr/include/boost/coroutine/detail/coroutine_object_void_arity.ipp	/^    coroutine_object( const reference_wrapper< Fn > fn, attributes const& attr,$/;"	f	class:coroutine_object	access:public	signature:( const reference_wrapper< Fn > fn, attributes const& attr, StackAllocator const& stack_alloc, allocator_t const& alloc)
+coroutine_object	/usr/include/boost/coroutine/detail/coroutine_object_void_arity.ipp	/^    coroutine_object( const reference_wrapper< Fn > fn, typename detail::param< arg_type >::type arg, attributes const& attr,$/;"	f	class:coroutine_object	access:public	signature:( const reference_wrapper< Fn > fn, typename detail::param< arg_type >::type arg, attributes const& attr, StackAllocator const& stack_alloc, allocator_t const& alloc)
+coroutine_object	/usr/include/boost/coroutine/detail/coroutine_object_void_arity.ipp	/^    coroutine_object( coroutine_object &);$/;"	p	class:coroutine_object	file:	access:private	signature:( coroutine_object &)
+coroutine_object	/usr/include/boost/coroutine/detail/coroutine_object_void_arity.ipp	/^    coroutine_object( reference_wrapper< Fn > fn, attributes const& attr,$/;"	f	class:coroutine_object	access:public	signature:( reference_wrapper< Fn > fn, attributes const& attr, StackAllocator const& stack_alloc, allocator_t const& alloc)
+coroutine_object	/usr/include/boost/coroutine/detail/coroutine_object_void_arity.ipp	/^    coroutine_object( reference_wrapper< Fn > fn, typename detail::param< arg_type >::type arg, attributes const& attr,$/;"	f	class:coroutine_object	access:public	signature:( reference_wrapper< Fn > fn, typename detail::param< arg_type >::type arg, attributes const& attr, StackAllocator const& stack_alloc, allocator_t const& alloc)
+coroutine_object	/usr/include/boost/coroutine/detail/coroutine_object_void_arity.ipp	/^class coroutine_object< Signature, Fn, StackAllocator, Allocator, Caller, void, arity > :$/;"	c	file:	inherits:coroutine_base
+coroutine_object	/usr/include/boost/coroutine/detail/coroutine_object_void_arity.ipp	/^class coroutine_object< Signature, const reference_wrapper< Fn >, StackAllocator, Allocator, Caller, void, arity > :$/;"	c	file:	inherits:coroutine_base
+coroutine_object	/usr/include/boost/coroutine/detail/coroutine_object_void_arity.ipp	/^class coroutine_object< Signature, reference_wrapper< Fn >, StackAllocator, Allocator, Caller, void, arity > :$/;"	c	file:	inherits:coroutine_base
+coroutine_object::alloc_	/usr/include/boost/coroutine/detail/coroutine_object_result_0.ipp	/^        alloc_( alloc)$/;"	f	class:coroutine_object	access:public	signature:( alloc)
+coroutine_object::alloc_	/usr/include/boost/coroutine/detail/coroutine_object_result_0.ipp	/^    allocator_t         alloc_;$/;"	m	class:coroutine_object	file:	access:private
+coroutine_object::alloc_	/usr/include/boost/coroutine/detail/coroutine_object_result_1.ipp	/^        alloc_( alloc)$/;"	f	class:coroutine_object	access:public	signature:( alloc)
+coroutine_object::alloc_	/usr/include/boost/coroutine/detail/coroutine_object_result_1.ipp	/^    allocator_t         alloc_;$/;"	m	class:coroutine_object	file:	access:private
+coroutine_object::alloc_	/usr/include/boost/coroutine/detail/coroutine_object_result_arity.ipp	/^        alloc_( alloc)$/;"	f	class:coroutine_object	access:public	signature:( alloc)
+coroutine_object::alloc_	/usr/include/boost/coroutine/detail/coroutine_object_result_arity.ipp	/^    allocator_t         alloc_;$/;"	m	class:coroutine_object	file:	access:private
+coroutine_object::alloc_	/usr/include/boost/coroutine/detail/coroutine_object_void_0.ipp	/^        alloc_( alloc)$/;"	f	class:coroutine_object	access:public	signature:( alloc)
+coroutine_object::alloc_	/usr/include/boost/coroutine/detail/coroutine_object_void_0.ipp	/^    allocator_t         alloc_;$/;"	m	class:coroutine_object	file:	access:private
+coroutine_object::alloc_	/usr/include/boost/coroutine/detail/coroutine_object_void_1.ipp	/^        alloc_( alloc)$/;"	f	class:coroutine_object	access:public	signature:( alloc)
+coroutine_object::alloc_	/usr/include/boost/coroutine/detail/coroutine_object_void_1.ipp	/^    allocator_t         alloc_;$/;"	m	class:coroutine_object	file:	access:private
+coroutine_object::alloc_	/usr/include/boost/coroutine/detail/coroutine_object_void_arity.ipp	/^        alloc_( alloc)$/;"	f	class:coroutine_object	access:public	signature:( alloc)
+coroutine_object::alloc_	/usr/include/boost/coroutine/detail/coroutine_object_void_arity.ipp	/^    allocator_t         alloc_;$/;"	m	class:coroutine_object	file:	access:private
+coroutine_object::allocator_t	/usr/include/boost/coroutine/detail/coroutine_object_result_0.ipp	/^    >::other                                            allocator_t;$/;"	t	class:coroutine_object	file:	access:public
+coroutine_object::allocator_t	/usr/include/boost/coroutine/detail/coroutine_object_result_1.ipp	/^    >::other                                            allocator_t;$/;"	t	class:coroutine_object	file:	access:public
+coroutine_object::allocator_t	/usr/include/boost/coroutine/detail/coroutine_object_result_arity.ipp	/^    >::other                                            allocator_t;$/;"	t	class:coroutine_object	file:	access:public
+coroutine_object::allocator_t	/usr/include/boost/coroutine/detail/coroutine_object_void_0.ipp	/^    >::other                                        allocator_t;$/;"	t	class:coroutine_object	file:	access:public
+coroutine_object::allocator_t	/usr/include/boost/coroutine/detail/coroutine_object_void_1.ipp	/^    >::other                                            allocator_t;$/;"	t	class:coroutine_object	file:	access:public
+coroutine_object::allocator_t	/usr/include/boost/coroutine/detail/coroutine_object_void_arity.ipp	/^    >::other                                            allocator_t;$/;"	t	class:coroutine_object	file:	access:public
+coroutine_object::arg	/usr/include/boost/coroutine/detail/coroutine_object_result_1.ipp	/^    coroutine_object( BOOST_RV_REF( Fn) fn, typename detail::param< arg_type >::type arg, attributes const& attr,$/;"	m	class:coroutine_object	file:	access:public
+coroutine_object::arg	/usr/include/boost/coroutine/detail/coroutine_object_result_arity.ipp	/^    coroutine_object( BOOST_RV_REF( Fn) fn, typename detail::param< arg_type >::type arg, attributes const& attr,$/;"	m	class:coroutine_object	file:	access:public
+coroutine_object::arg	/usr/include/boost/coroutine/detail/coroutine_object_void_1.ipp	/^    coroutine_object( BOOST_RV_REF( Fn) fn, typename detail::param< arg_type >::type arg, attributes const& attr,$/;"	m	class:coroutine_object	file:	access:public
+coroutine_object::arg	/usr/include/boost/coroutine/detail/coroutine_object_void_arity.ipp	/^    coroutine_object( BOOST_RV_REF( Fn) fn, typename detail::param< arg_type >::type arg, attributes const& attr,$/;"	m	class:coroutine_object	file:	access:public
+coroutine_object::arg_type	/usr/include/boost/coroutine/detail/coroutine_object_result_1.ipp	/^    typedef typename arg< Signature >::type             arg_type;$/;"	t	class:coroutine_object	file:	access:public
+coroutine_object::arg_type	/usr/include/boost/coroutine/detail/coroutine_object_result_arity.ipp	/^    typedef typename arg< Signature >::type             arg_type;$/;"	t	class:coroutine_object	file:	access:public
+coroutine_object::arg_type	/usr/include/boost/coroutine/detail/coroutine_object_void_1.ipp	/^    typedef typename arg< Signature >::type             arg_type;$/;"	t	class:coroutine_object	file:	access:public
+coroutine_object::arg_type	/usr/include/boost/coroutine/detail/coroutine_object_void_arity.ipp	/^    typedef typename arg< Signature >::type             arg_type;$/;"	t	class:coroutine_object	file:	access:public
+coroutine_object::attr	/usr/include/boost/coroutine/detail/coroutine_object_result_0.ipp	/^    coroutine_object( BOOST_RV_REF( Fn) fn, attributes const& attr,$/;"	m	class:coroutine_object	file:	access:public
+coroutine_object::attr	/usr/include/boost/coroutine/detail/coroutine_object_result_1.ipp	/^    coroutine_object( BOOST_RV_REF( Fn) fn, attributes const& attr,$/;"	m	class:coroutine_object	file:	access:public
+coroutine_object::attr	/usr/include/boost/coroutine/detail/coroutine_object_result_1.ipp	/^    coroutine_object( BOOST_RV_REF( Fn) fn, typename detail::param< arg_type >::type arg, attributes const& attr,$/;"	m	class:coroutine_object	file:	access:public
+coroutine_object::attr	/usr/include/boost/coroutine/detail/coroutine_object_result_arity.ipp	/^    coroutine_object( BOOST_RV_REF( Fn) fn, attributes const& attr,$/;"	m	class:coroutine_object	file:	access:public
+coroutine_object::attr	/usr/include/boost/coroutine/detail/coroutine_object_result_arity.ipp	/^    coroutine_object( BOOST_RV_REF( Fn) fn, typename detail::param< arg_type >::type arg, attributes const& attr,$/;"	m	class:coroutine_object	file:	access:public
+coroutine_object::attr	/usr/include/boost/coroutine/detail/coroutine_object_void_0.ipp	/^    coroutine_object( BOOST_RV_REF( Fn) fn, attributes const& attr,$/;"	m	class:coroutine_object	file:	access:public
+coroutine_object::attr	/usr/include/boost/coroutine/detail/coroutine_object_void_1.ipp	/^    coroutine_object( BOOST_RV_REF( Fn) fn, attributes const& attr,$/;"	m	class:coroutine_object	file:	access:public
+coroutine_object::attr	/usr/include/boost/coroutine/detail/coroutine_object_void_1.ipp	/^    coroutine_object( BOOST_RV_REF( Fn) fn, typename detail::param< arg_type >::type arg, attributes const& attr,$/;"	m	class:coroutine_object	file:	access:public
+coroutine_object::attr	/usr/include/boost/coroutine/detail/coroutine_object_void_arity.ipp	/^    coroutine_object( BOOST_RV_REF( Fn) fn, attributes const& attr,$/;"	m	class:coroutine_object	file:	access:public
+coroutine_object::attr	/usr/include/boost/coroutine/detail/coroutine_object_void_arity.ipp	/^    coroutine_object( BOOST_RV_REF( Fn) fn, typename detail::param< arg_type >::type arg, attributes const& attr,$/;"	m	class:coroutine_object	file:	access:public
+coroutine_object::base_type	/usr/include/boost/coroutine/detail/coroutine_object_result_0.ipp	/^    typedef coroutine_base< Signature >                 base_type;$/;"	t	class:coroutine_object	file:	access:private
+coroutine_object::base_type	/usr/include/boost/coroutine/detail/coroutine_object_result_1.ipp	/^    typedef coroutine_base< Signature >                 base_type;$/;"	t	class:coroutine_object	file:	access:private
+coroutine_object::base_type	/usr/include/boost/coroutine/detail/coroutine_object_result_arity.ipp	/^    typedef coroutine_base< Signature >                 base_type;$/;"	t	class:coroutine_object	file:	access:private
+coroutine_object::base_type	/usr/include/boost/coroutine/detail/coroutine_object_void_0.ipp	/^    typedef coroutine_base< Signature >             base_type;$/;"	t	class:coroutine_object	file:	access:private
+coroutine_object::base_type	/usr/include/boost/coroutine/detail/coroutine_object_void_1.ipp	/^    typedef coroutine_base< Signature >                 base_type;$/;"	t	class:coroutine_object	file:	access:private
+coroutine_object::base_type	/usr/include/boost/coroutine/detail/coroutine_object_void_arity.ipp	/^    typedef coroutine_base< Signature >                 base_type;$/;"	t	class:coroutine_object	file:	access:private
+coroutine_object::coroutine_object	/usr/include/boost/coroutine/detail/coroutine_object_result_0.ipp	/^    coroutine_object( Fn fn, attributes const& attr,$/;"	f	class:coroutine_object	access:public	signature:( Fn fn, attributes const& attr, StackAllocator const& stack_alloc, allocator_t const& alloc)
+coroutine_object::coroutine_object	/usr/include/boost/coroutine/detail/coroutine_object_result_0.ipp	/^    coroutine_object( const reference_wrapper< Fn > fn, attributes const& attr,$/;"	f	class:coroutine_object	access:public	signature:( const reference_wrapper< Fn > fn, attributes const& attr, StackAllocator const& stack_alloc, allocator_t const& alloc)
+coroutine_object::coroutine_object	/usr/include/boost/coroutine/detail/coroutine_object_result_0.ipp	/^    coroutine_object( coroutine_object const&);$/;"	p	class:coroutine_object	file:	access:private	signature:( coroutine_object const&)
+coroutine_object::coroutine_object	/usr/include/boost/coroutine/detail/coroutine_object_result_0.ipp	/^    coroutine_object( reference_wrapper< Fn > fn, attributes const& attr,$/;"	f	class:coroutine_object	access:public	signature:( reference_wrapper< Fn > fn, attributes const& attr, StackAllocator const& stack_alloc, allocator_t const& alloc)
+coroutine_object::coroutine_object	/usr/include/boost/coroutine/detail/coroutine_object_result_1.ipp	/^    coroutine_object( Fn fn, attributes const& attr,$/;"	f	class:coroutine_object	access:public	signature:( Fn fn, attributes const& attr, StackAllocator const& stack_alloc, allocator_t const& alloc)
+coroutine_object::coroutine_object	/usr/include/boost/coroutine/detail/coroutine_object_result_1.ipp	/^    coroutine_object( Fn fn, typename detail::param< arg_type >::type arg, attributes const& attr,$/;"	f	class:coroutine_object	access:public	signature:( Fn fn, typename detail::param< arg_type >::type arg, attributes const& attr, StackAllocator const& stack_alloc, allocator_t const& alloc)
+coroutine_object::coroutine_object	/usr/include/boost/coroutine/detail/coroutine_object_result_1.ipp	/^    coroutine_object( const reference_wrapper< Fn > fn, attributes const& attr,$/;"	f	class:coroutine_object	access:public	signature:( const reference_wrapper< Fn > fn, attributes const& attr, StackAllocator const& stack_alloc, allocator_t const& alloc)
+coroutine_object::coroutine_object	/usr/include/boost/coroutine/detail/coroutine_object_result_1.ipp	/^    coroutine_object( const reference_wrapper< Fn > fn, typename detail::param< arg_type >::type arg, attributes const& attr,$/;"	f	class:coroutine_object	access:public	signature:( const reference_wrapper< Fn > fn, typename detail::param< arg_type >::type arg, attributes const& attr, StackAllocator const& stack_alloc, allocator_t const& alloc)
+coroutine_object::coroutine_object	/usr/include/boost/coroutine/detail/coroutine_object_result_1.ipp	/^    coroutine_object( coroutine_object &);$/;"	p	class:coroutine_object	file:	access:private	signature:( coroutine_object &)
+coroutine_object::coroutine_object	/usr/include/boost/coroutine/detail/coroutine_object_result_1.ipp	/^    coroutine_object( reference_wrapper< Fn > fn, attributes const& attr,$/;"	f	class:coroutine_object	access:public	signature:( reference_wrapper< Fn > fn, attributes const& attr, StackAllocator const& stack_alloc, allocator_t const& alloc)
+coroutine_object::coroutine_object	/usr/include/boost/coroutine/detail/coroutine_object_result_1.ipp	/^    coroutine_object( reference_wrapper< Fn > fn, typename detail::param< arg_type >::type arg, attributes const& attr,$/;"	f	class:coroutine_object	access:public	signature:( reference_wrapper< Fn > fn, typename detail::param< arg_type >::type arg, attributes const& attr, StackAllocator const& stack_alloc, allocator_t const& alloc)
+coroutine_object::coroutine_object	/usr/include/boost/coroutine/detail/coroutine_object_result_arity.ipp	/^    coroutine_object( Fn fn, attributes const& attr,$/;"	f	class:coroutine_object	access:public	signature:( Fn fn, attributes const& attr, StackAllocator const& stack_alloc, allocator_t const& alloc)
+coroutine_object::coroutine_object	/usr/include/boost/coroutine/detail/coroutine_object_result_arity.ipp	/^    coroutine_object( Fn fn, typename detail::param< arg_type >::type arg, attributes const& attr,$/;"	f	class:coroutine_object	access:public	signature:( Fn fn, typename detail::param< arg_type >::type arg, attributes const& attr, StackAllocator const& stack_alloc, allocator_t const& alloc)
+coroutine_object::coroutine_object	/usr/include/boost/coroutine/detail/coroutine_object_result_arity.ipp	/^    coroutine_object( const reference_wrapper< Fn > fn, attributes const& attr,$/;"	f	class:coroutine_object	access:public	signature:( const reference_wrapper< Fn > fn, attributes const& attr, StackAllocator const& stack_alloc, allocator_t const& alloc)
+coroutine_object::coroutine_object	/usr/include/boost/coroutine/detail/coroutine_object_result_arity.ipp	/^    coroutine_object( const reference_wrapper< Fn > fn, typename detail::param< arg_type >::type arg, attributes const& attr,$/;"	f	class:coroutine_object	access:public	signature:( const reference_wrapper< Fn > fn, typename detail::param< arg_type >::type arg, attributes const& attr, StackAllocator const& stack_alloc, allocator_t const& alloc)
+coroutine_object::coroutine_object	/usr/include/boost/coroutine/detail/coroutine_object_result_arity.ipp	/^    coroutine_object( coroutine_object &);$/;"	p	class:coroutine_object	file:	access:private	signature:( coroutine_object &)
+coroutine_object::coroutine_object	/usr/include/boost/coroutine/detail/coroutine_object_result_arity.ipp	/^    coroutine_object( reference_wrapper< Fn > fn, attributes const& attr,$/;"	f	class:coroutine_object	access:public	signature:( reference_wrapper< Fn > fn, attributes const& attr, StackAllocator const& stack_alloc, allocator_t const& alloc)
+coroutine_object::coroutine_object	/usr/include/boost/coroutine/detail/coroutine_object_result_arity.ipp	/^    coroutine_object( reference_wrapper< Fn > fn, typename detail::param< arg_type >::type arg, attributes const& attr,$/;"	f	class:coroutine_object	access:public	signature:( reference_wrapper< Fn > fn, typename detail::param< arg_type >::type arg, attributes const& attr, StackAllocator const& stack_alloc, allocator_t const& alloc)
+coroutine_object::coroutine_object	/usr/include/boost/coroutine/detail/coroutine_object_void_0.ipp	/^    coroutine_object( Fn fn, attributes const& attr,$/;"	f	class:coroutine_object	access:public	signature:( Fn fn, attributes const& attr, StackAllocator const& stack_alloc, allocator_t const& alloc)
+coroutine_object::coroutine_object	/usr/include/boost/coroutine/detail/coroutine_object_void_0.ipp	/^    coroutine_object( const reference_wrapper< Fn > fn, attributes const& attr,$/;"	f	class:coroutine_object	access:public	signature:( const reference_wrapper< Fn > fn, attributes const& attr, StackAllocator const& stack_alloc, allocator_t const& alloc)
+coroutine_object::coroutine_object	/usr/include/boost/coroutine/detail/coroutine_object_void_0.ipp	/^    coroutine_object( coroutine_object const&);$/;"	p	class:coroutine_object	file:	access:private	signature:( coroutine_object const&)
+coroutine_object::coroutine_object	/usr/include/boost/coroutine/detail/coroutine_object_void_0.ipp	/^    coroutine_object( reference_wrapper< Fn > fn, attributes const& attr,$/;"	f	class:coroutine_object	access:public	signature:( reference_wrapper< Fn > fn, attributes const& attr, StackAllocator const& stack_alloc, allocator_t const& alloc)
+coroutine_object::coroutine_object	/usr/include/boost/coroutine/detail/coroutine_object_void_1.ipp	/^    coroutine_object( Fn fn, attributes const& attr,$/;"	f	class:coroutine_object	access:public	signature:( Fn fn, attributes const& attr, StackAllocator const& stack_alloc, allocator_t const& alloc)
+coroutine_object::coroutine_object	/usr/include/boost/coroutine/detail/coroutine_object_void_1.ipp	/^    coroutine_object( Fn fn, typename detail::param< arg_type >::type arg, attributes const& attr,$/;"	f	class:coroutine_object	access:public	signature:( Fn fn, typename detail::param< arg_type >::type arg, attributes const& attr, StackAllocator const& stack_alloc, allocator_t const& alloc)
+coroutine_object::coroutine_object	/usr/include/boost/coroutine/detail/coroutine_object_void_1.ipp	/^    coroutine_object( const reference_wrapper< Fn > fn, attributes const& attr,$/;"	f	class:coroutine_object	access:public	signature:( const reference_wrapper< Fn > fn, attributes const& attr, StackAllocator const& stack_alloc, allocator_t const& alloc)
+coroutine_object::coroutine_object	/usr/include/boost/coroutine/detail/coroutine_object_void_1.ipp	/^    coroutine_object( const reference_wrapper< Fn > fn,$/;"	f	class:coroutine_object	access:public	signature:( const reference_wrapper< Fn > fn, typename detail::param< arg_type >::type arg, attributes const& attr, StackAllocator const& stack_alloc, allocator_t const& alloc)
+coroutine_object::coroutine_object	/usr/include/boost/coroutine/detail/coroutine_object_void_1.ipp	/^    coroutine_object( coroutine_object &);$/;"	p	class:coroutine_object	file:	access:private	signature:( coroutine_object &)
+coroutine_object::coroutine_object	/usr/include/boost/coroutine/detail/coroutine_object_void_1.ipp	/^    coroutine_object( reference_wrapper< Fn > fn, attributes const& attr,$/;"	f	class:coroutine_object	access:public	signature:( reference_wrapper< Fn > fn, attributes const& attr, StackAllocator const& stack_alloc, allocator_t const& alloc)
+coroutine_object::coroutine_object	/usr/include/boost/coroutine/detail/coroutine_object_void_1.ipp	/^    coroutine_object( reference_wrapper< Fn > fn,$/;"	f	class:coroutine_object	access:public	signature:( reference_wrapper< Fn > fn, typename detail::param< arg_type >::type arg, attributes const& attr, StackAllocator const& stack_alloc, allocator_t const& alloc)
+coroutine_object::coroutine_object	/usr/include/boost/coroutine/detail/coroutine_object_void_arity.ipp	/^    coroutine_object( Fn fn, attributes const& attr,$/;"	f	class:coroutine_object	access:public	signature:( Fn fn, attributes const& attr, StackAllocator const& stack_alloc, allocator_t const& alloc)
+coroutine_object::coroutine_object	/usr/include/boost/coroutine/detail/coroutine_object_void_arity.ipp	/^    coroutine_object( Fn fn, typename detail::param< arg_type >::type arg, attributes const& attr,$/;"	f	class:coroutine_object	access:public	signature:( Fn fn, typename detail::param< arg_type >::type arg, attributes const& attr, StackAllocator const& stack_alloc, allocator_t const& alloc)
+coroutine_object::coroutine_object	/usr/include/boost/coroutine/detail/coroutine_object_void_arity.ipp	/^    coroutine_object( const reference_wrapper< Fn > fn, attributes const& attr,$/;"	f	class:coroutine_object	access:public	signature:( const reference_wrapper< Fn > fn, attributes const& attr, StackAllocator const& stack_alloc, allocator_t const& alloc)
+coroutine_object::coroutine_object	/usr/include/boost/coroutine/detail/coroutine_object_void_arity.ipp	/^    coroutine_object( const reference_wrapper< Fn > fn, typename detail::param< arg_type >::type arg, attributes const& attr,$/;"	f	class:coroutine_object	access:public	signature:( const reference_wrapper< Fn > fn, typename detail::param< arg_type >::type arg, attributes const& attr, StackAllocator const& stack_alloc, allocator_t const& alloc)
+coroutine_object::coroutine_object	/usr/include/boost/coroutine/detail/coroutine_object_void_arity.ipp	/^    coroutine_object( coroutine_object &);$/;"	p	class:coroutine_object	file:	access:private	signature:( coroutine_object &)
+coroutine_object::coroutine_object	/usr/include/boost/coroutine/detail/coroutine_object_void_arity.ipp	/^    coroutine_object( reference_wrapper< Fn > fn, attributes const& attr,$/;"	f	class:coroutine_object	access:public	signature:( reference_wrapper< Fn > fn, attributes const& attr, StackAllocator const& stack_alloc, allocator_t const& alloc)
+coroutine_object::coroutine_object	/usr/include/boost/coroutine/detail/coroutine_object_void_arity.ipp	/^    coroutine_object( reference_wrapper< Fn > fn, typename detail::param< arg_type >::type arg, attributes const& attr,$/;"	f	class:coroutine_object	access:public	signature:( reference_wrapper< Fn > fn, typename detail::param< arg_type >::type arg, attributes const& attr, StackAllocator const& stack_alloc, allocator_t const& alloc)
+coroutine_object::deallocate_object	/usr/include/boost/coroutine/detail/coroutine_object_result_0.ipp	/^    void deallocate_object()$/;"	f	class:coroutine_object	access:public	signature:()
+coroutine_object::deallocate_object	/usr/include/boost/coroutine/detail/coroutine_object_result_1.ipp	/^    void deallocate_object()$/;"	f	class:coroutine_object	access:public	signature:()
+coroutine_object::deallocate_object	/usr/include/boost/coroutine/detail/coroutine_object_result_arity.ipp	/^    void deallocate_object()$/;"	f	class:coroutine_object	access:public	signature:()
+coroutine_object::deallocate_object	/usr/include/boost/coroutine/detail/coroutine_object_void_0.ipp	/^    void deallocate_object()$/;"	f	class:coroutine_object	access:public	signature:()
+coroutine_object::deallocate_object	/usr/include/boost/coroutine/detail/coroutine_object_void_1.ipp	/^    void deallocate_object()$/;"	f	class:coroutine_object	access:public	signature:()
+coroutine_object::deallocate_object	/usr/include/boost/coroutine/detail/coroutine_object_void_arity.ipp	/^    void deallocate_object()$/;"	f	class:coroutine_object	access:public	signature:()
+coroutine_object::destroy_	/usr/include/boost/coroutine/detail/coroutine_object_result_0.ipp	/^    static void destroy_( allocator_t & alloc, coroutine_object * p)$/;"	f	class:coroutine_object	file:	access:private	signature:( allocator_t & alloc, coroutine_object * p)
+coroutine_object::destroy_	/usr/include/boost/coroutine/detail/coroutine_object_result_1.ipp	/^    static void destroy_( allocator_t & alloc, coroutine_object * p)$/;"	f	class:coroutine_object	file:	access:private	signature:( allocator_t & alloc, coroutine_object * p)
+coroutine_object::destroy_	/usr/include/boost/coroutine/detail/coroutine_object_result_arity.ipp	/^    static void destroy_( allocator_t & alloc, coroutine_object * p)$/;"	f	class:coroutine_object	file:	access:private	signature:( allocator_t & alloc, coroutine_object * p)
+coroutine_object::destroy_	/usr/include/boost/coroutine/detail/coroutine_object_void_0.ipp	/^    static void destroy_( allocator_t & alloc, coroutine_object * p)$/;"	f	class:coroutine_object	file:	access:private	signature:( allocator_t & alloc, coroutine_object * p)
+coroutine_object::destroy_	/usr/include/boost/coroutine/detail/coroutine_object_void_1.ipp	/^    static void destroy_( allocator_t & alloc, coroutine_object * p)$/;"	f	class:coroutine_object	file:	access:private	signature:( allocator_t & alloc, coroutine_object * p)
+coroutine_object::destroy_	/usr/include/boost/coroutine/detail/coroutine_object_void_arity.ipp	/^    static void destroy_( allocator_t & alloc, coroutine_object * p)$/;"	f	class:coroutine_object	file:	access:private	signature:( allocator_t & alloc, coroutine_object * p)
+coroutine_object::enter_	/usr/include/boost/coroutine/detail/coroutine_object_result_0.ipp	/^    void enter_()$/;"	f	class:coroutine_object	file:	access:private	signature:()
+coroutine_object::enter_	/usr/include/boost/coroutine/detail/coroutine_object_result_1.ipp	/^    void enter_( typename detail::param< arg_type >::type arg)$/;"	f	class:coroutine_object	file:	access:private	signature:( typename detail::param< arg_type >::type arg)
+coroutine_object::enter_	/usr/include/boost/coroutine/detail/coroutine_object_result_1.ipp	/^    void enter_()$/;"	f	class:coroutine_object	file:	access:private	signature:()
+coroutine_object::enter_	/usr/include/boost/coroutine/detail/coroutine_object_result_arity.ipp	/^    void enter_( typename detail::param< arg_type >::type arg)$/;"	f	class:coroutine_object	file:	access:private	signature:( typename detail::param< arg_type >::type arg)
+coroutine_object::enter_	/usr/include/boost/coroutine/detail/coroutine_object_result_arity.ipp	/^    void enter_()$/;"	f	class:coroutine_object	file:	access:private	signature:()
+coroutine_object::enter_	/usr/include/boost/coroutine/detail/coroutine_object_void_0.ipp	/^    void enter_()$/;"	f	class:coroutine_object	file:	access:private	signature:()
+coroutine_object::enter_	/usr/include/boost/coroutine/detail/coroutine_object_void_1.ipp	/^    void enter_( typename detail::param< arg_type >::type arg)$/;"	f	class:coroutine_object	file:	access:private	signature:( typename detail::param< arg_type >::type arg)
+coroutine_object::enter_	/usr/include/boost/coroutine/detail/coroutine_object_void_1.ipp	/^    void enter_()$/;"	f	class:coroutine_object	file:	access:private	signature:()
+coroutine_object::enter_	/usr/include/boost/coroutine/detail/coroutine_object_void_arity.ipp	/^    void enter_( typename detail::param< arg_type >::type arg)$/;"	f	class:coroutine_object	file:	access:private	signature:( typename detail::param< arg_type >::type arg)
+coroutine_object::enter_	/usr/include/boost/coroutine/detail/coroutine_object_void_arity.ipp	/^    void enter_()$/;"	f	class:coroutine_object	file:	access:private	signature:()
+coroutine_object::fn	/usr/include/boost/coroutine/detail/coroutine_object_result_0.ipp	/^    coroutine_object( BOOST_RV_REF( Fn) fn, attributes const& attr,$/;"	m	class:coroutine_object	file:	access:public
+coroutine_object::fn	/usr/include/boost/coroutine/detail/coroutine_object_result_1.ipp	/^    coroutine_object( BOOST_RV_REF( Fn) fn, attributes const& attr,$/;"	m	class:coroutine_object	file:	access:public
+coroutine_object::fn	/usr/include/boost/coroutine/detail/coroutine_object_result_1.ipp	/^    coroutine_object( BOOST_RV_REF( Fn) fn, typename detail::param< arg_type >::type arg, attributes const& attr,$/;"	m	class:coroutine_object	file:	access:public
+coroutine_object::fn	/usr/include/boost/coroutine/detail/coroutine_object_result_arity.ipp	/^    coroutine_object( BOOST_RV_REF( Fn) fn, attributes const& attr,$/;"	m	class:coroutine_object	file:	access:public
+coroutine_object::fn	/usr/include/boost/coroutine/detail/coroutine_object_result_arity.ipp	/^    coroutine_object( BOOST_RV_REF( Fn) fn, typename detail::param< arg_type >::type arg, attributes const& attr,$/;"	m	class:coroutine_object	file:	access:public
+coroutine_object::fn	/usr/include/boost/coroutine/detail/coroutine_object_void_0.ipp	/^    coroutine_object( BOOST_RV_REF( Fn) fn, attributes const& attr,$/;"	m	class:coroutine_object	file:	access:public
+coroutine_object::fn	/usr/include/boost/coroutine/detail/coroutine_object_void_1.ipp	/^    coroutine_object( BOOST_RV_REF( Fn) fn, attributes const& attr,$/;"	m	class:coroutine_object	file:	access:public
+coroutine_object::fn	/usr/include/boost/coroutine/detail/coroutine_object_void_1.ipp	/^    coroutine_object( BOOST_RV_REF( Fn) fn, typename detail::param< arg_type >::type arg, attributes const& attr,$/;"	m	class:coroutine_object	file:	access:public
+coroutine_object::fn	/usr/include/boost/coroutine/detail/coroutine_object_void_arity.ipp	/^    coroutine_object( BOOST_RV_REF( Fn) fn, attributes const& attr,$/;"	m	class:coroutine_object	file:	access:public
+coroutine_object::fn	/usr/include/boost/coroutine/detail/coroutine_object_void_arity.ipp	/^    coroutine_object( BOOST_RV_REF( Fn) fn, typename detail::param< arg_type >::type arg, attributes const& attr,$/;"	m	class:coroutine_object	file:	access:public
+coroutine_object::fn_	/usr/include/boost/coroutine/detail/coroutine_object_result_0.ipp	/^        fn_( fn),$/;"	p	class:coroutine_object	file:	access:public	signature:( fn)
+coroutine_object::fn_	/usr/include/boost/coroutine/detail/coroutine_object_result_0.ipp	/^    Fn                  fn_;$/;"	m	class:coroutine_object	file:	access:private
+coroutine_object::fn_	/usr/include/boost/coroutine/detail/coroutine_object_result_1.ipp	/^        fn_( fn),$/;"	p	class:coroutine_object	file:	access:public	signature:( fn)
+coroutine_object::fn_	/usr/include/boost/coroutine/detail/coroutine_object_result_1.ipp	/^    Fn                  fn_;$/;"	m	class:coroutine_object	file:	access:private
+coroutine_object::fn_	/usr/include/boost/coroutine/detail/coroutine_object_result_arity.ipp	/^        fn_( fn),$/;"	p	class:coroutine_object	file:	access:public	signature:( fn)
+coroutine_object::fn_	/usr/include/boost/coroutine/detail/coroutine_object_result_arity.ipp	/^    Fn                  fn_;$/;"	m	class:coroutine_object	file:	access:private
+coroutine_object::fn_	/usr/include/boost/coroutine/detail/coroutine_object_void_0.ipp	/^        fn_( fn),$/;"	p	class:coroutine_object	file:	access:public	signature:( fn)
+coroutine_object::fn_	/usr/include/boost/coroutine/detail/coroutine_object_void_0.ipp	/^    Fn                  fn_;$/;"	m	class:coroutine_object	file:	access:private
+coroutine_object::fn_	/usr/include/boost/coroutine/detail/coroutine_object_void_1.ipp	/^        fn_( fn),$/;"	p	class:coroutine_object	file:	access:public	signature:( fn)
+coroutine_object::fn_	/usr/include/boost/coroutine/detail/coroutine_object_void_1.ipp	/^    Fn                  fn_;$/;"	m	class:coroutine_object	file:	access:private
+coroutine_object::fn_	/usr/include/boost/coroutine/detail/coroutine_object_void_arity.ipp	/^        fn_( fn),$/;"	p	class:coroutine_object	file:	access:public	signature:( fn)
+coroutine_object::fn_	/usr/include/boost/coroutine/detail/coroutine_object_void_arity.ipp	/^    Fn                  fn_;$/;"	m	class:coroutine_object	file:	access:private
+coroutine_object::make_fcontext	/usr/include/boost/coroutine/detail/coroutine_object_result_0.ipp	/^            context::make_fcontext($/;"	p	class:coroutine_object	file:	access:public	signature:(stack_alloc.allocate( attr.size), attr.size, trampoline1< coroutine_object >)
+coroutine_object::make_fcontext	/usr/include/boost/coroutine/detail/coroutine_object_result_1.ipp	/^            context::make_fcontext($/;"	p	class:coroutine_object	file:	access:public	signature:(stack_alloc.allocate( attr.size), attr.size, trampoline1< coroutine_object >)
+coroutine_object::make_fcontext	/usr/include/boost/coroutine/detail/coroutine_object_result_1.ipp	/^            context::make_fcontext($/;"	p	class:coroutine_object	file:	access:public	signature:(stack_alloc.allocate( attr.size), attr.size, trampoline2< coroutine_object, typename detail::param< arg_type >::type >)
+coroutine_object::make_fcontext	/usr/include/boost/coroutine/detail/coroutine_object_result_arity.ipp	/^            context::make_fcontext($/;"	p	class:coroutine_object	file:	access:public	signature:(stack_alloc.allocate( attr.size), attr.size, trampoline1< coroutine_object >)
+coroutine_object::make_fcontext	/usr/include/boost/coroutine/detail/coroutine_object_result_arity.ipp	/^            context::make_fcontext($/;"	p	class:coroutine_object	file:	access:public	signature:(stack_alloc.allocate( attr.size), attr.size, trampoline2< coroutine_object, typename detail::param< arg_type >::type >)
+coroutine_object::make_fcontext	/usr/include/boost/coroutine/detail/coroutine_object_void_0.ipp	/^            context::make_fcontext($/;"	p	class:coroutine_object	file:	access:public	signature:(stack_alloc.allocate( attr.size), attr.size, trampoline1< coroutine_object >)
+coroutine_object::make_fcontext	/usr/include/boost/coroutine/detail/coroutine_object_void_1.ipp	/^            context::make_fcontext($/;"	p	class:coroutine_object	file:	access:public	signature:(stack_alloc.allocate( attr.size), attr.size, trampoline1< coroutine_object >)
+coroutine_object::make_fcontext	/usr/include/boost/coroutine/detail/coroutine_object_void_1.ipp	/^            context::make_fcontext($/;"	p	class:coroutine_object	file:	access:public	signature:(stack_alloc.allocate( attr.size), attr.size, trampoline2< coroutine_object, typename detail::param< arg_type >::type >)
+coroutine_object::make_fcontext	/usr/include/boost/coroutine/detail/coroutine_object_void_arity.ipp	/^            context::make_fcontext($/;"	p	class:coroutine_object	file:	access:public	signature:(stack_alloc.allocate( attr.size), attr.size, trampoline1< coroutine_object >)
+coroutine_object::make_fcontext	/usr/include/boost/coroutine/detail/coroutine_object_void_arity.ipp	/^            context::make_fcontext($/;"	p	class:coroutine_object	file:	access:public	signature:(stack_alloc.allocate( attr.size), attr.size, trampoline2< coroutine_object, typename detail::param< arg_type >::type >)
+coroutine_object::operator =	/usr/include/boost/coroutine/detail/coroutine_object_result_0.ipp	/^    coroutine_object & operator=( coroutine_object const&);$/;"	p	class:coroutine_object	file:	access:private	signature:( coroutine_object const&)
+coroutine_object::operator =	/usr/include/boost/coroutine/detail/coroutine_object_result_1.ipp	/^    coroutine_object & operator=( coroutine_object const&);$/;"	p	class:coroutine_object	file:	access:private	signature:( coroutine_object const&)
+coroutine_object::operator =	/usr/include/boost/coroutine/detail/coroutine_object_result_arity.ipp	/^    coroutine_object & operator=( coroutine_object const&);$/;"	p	class:coroutine_object	file:	access:private	signature:( coroutine_object const&)
+coroutine_object::operator =	/usr/include/boost/coroutine/detail/coroutine_object_void_0.ipp	/^    coroutine_object & operator=( coroutine_object const&);$/;"	p	class:coroutine_object	file:	access:private	signature:( coroutine_object const&)
+coroutine_object::operator =	/usr/include/boost/coroutine/detail/coroutine_object_void_1.ipp	/^    coroutine_object & operator=( coroutine_object const&);$/;"	p	class:coroutine_object	file:	access:private	signature:( coroutine_object const&)
+coroutine_object::operator =	/usr/include/boost/coroutine/detail/coroutine_object_void_arity.ipp	/^    coroutine_object & operator=( coroutine_object const&);$/;"	p	class:coroutine_object	file:	access:private	signature:( coroutine_object const&)
+coroutine_object::run	/usr/include/boost/coroutine/detail/coroutine_object_result_0.ipp	/^    void run()$/;"	f	class:coroutine_object	access:public	signature:()
+coroutine_object::run	/usr/include/boost/coroutine/detail/coroutine_object_result_1.ipp	/^    void run( typename detail::param< arg_type >::type arg)$/;"	f	class:coroutine_object	access:public	signature:( typename detail::param< arg_type >::type arg)
+coroutine_object::run	/usr/include/boost/coroutine/detail/coroutine_object_result_1.ipp	/^    void run()$/;"	f	class:coroutine_object	access:public	signature:()
+coroutine_object::run	/usr/include/boost/coroutine/detail/coroutine_object_result_arity.ipp	/^    void run( typename detail::param< arg_type >::type arg)$/;"	f	class:coroutine_object	access:public	signature:( typename detail::param< arg_type >::type arg)
+coroutine_object::run	/usr/include/boost/coroutine/detail/coroutine_object_result_arity.ipp	/^    void run()$/;"	f	class:coroutine_object	access:public	signature:()
+coroutine_object::run	/usr/include/boost/coroutine/detail/coroutine_object_void_0.ipp	/^    void run()$/;"	f	class:coroutine_object	access:public	signature:()
+coroutine_object::run	/usr/include/boost/coroutine/detail/coroutine_object_void_1.ipp	/^    void run( typename detail::param< arg_type >::type arg)$/;"	f	class:coroutine_object	access:public	signature:( typename detail::param< arg_type >::type arg)
+coroutine_object::run	/usr/include/boost/coroutine/detail/coroutine_object_void_1.ipp	/^    void run()$/;"	f	class:coroutine_object	access:public	signature:()
+coroutine_object::run	/usr/include/boost/coroutine/detail/coroutine_object_void_arity.ipp	/^    void run( typename detail::param< arg_type >::type arg)$/;"	f	class:coroutine_object	access:public	signature:( typename detail::param< arg_type >::type arg)
+coroutine_object::run	/usr/include/boost/coroutine/detail/coroutine_object_void_arity.ipp	/^    void run()$/;"	f	class:coroutine_object	access:public	signature:()
+coroutine_object::run_	/usr/include/boost/coroutine/detail/coroutine_object_result_0.ipp	/^    void run_( Caller & c)$/;"	f	class:coroutine_object	file:	access:private	signature:( Caller & c)
+coroutine_object::run_	/usr/include/boost/coroutine/detail/coroutine_object_result_1.ipp	/^    void run_( Caller & c)$/;"	f	class:coroutine_object	file:	access:private	signature:( Caller & c)
+coroutine_object::run_	/usr/include/boost/coroutine/detail/coroutine_object_result_arity.ipp	/^    void run_( Caller & c)$/;"	f	class:coroutine_object	file:	access:private	signature:( Caller & c)
+coroutine_object::run_	/usr/include/boost/coroutine/detail/coroutine_object_void_0.ipp	/^    void run_( Caller & c)$/;"	f	class:coroutine_object	file:	access:private	signature:( Caller & c)
+coroutine_object::run_	/usr/include/boost/coroutine/detail/coroutine_object_void_1.ipp	/^    void run_( Caller & c)$/;"	f	class:coroutine_object	file:	access:private	signature:( Caller & c)
+coroutine_object::run_	/usr/include/boost/coroutine/detail/coroutine_object_void_arity.ipp	/^    void run_( Caller & c)$/;"	f	class:coroutine_object	file:	access:private	signature:( Caller & c)
+coroutine_object::stack_	/usr/include/boost/coroutine/detail/coroutine_object_result_0.ipp	/^    context::stack_t    stack_;$/;"	m	class:coroutine_object	file:	access:private
+coroutine_object::stack_	/usr/include/boost/coroutine/detail/coroutine_object_result_1.ipp	/^    context::stack_t    stack_;$/;"	m	class:coroutine_object	file:	access:private
+coroutine_object::stack_	/usr/include/boost/coroutine/detail/coroutine_object_result_arity.ipp	/^    context::stack_t    stack_;$/;"	m	class:coroutine_object	file:	access:private
+coroutine_object::stack_	/usr/include/boost/coroutine/detail/coroutine_object_void_0.ipp	/^    context::stack_t    stack_;$/;"	m	class:coroutine_object	file:	access:private
+coroutine_object::stack_	/usr/include/boost/coroutine/detail/coroutine_object_void_1.ipp	/^    context::stack_t    stack_;$/;"	m	class:coroutine_object	file:	access:private
+coroutine_object::stack_	/usr/include/boost/coroutine/detail/coroutine_object_void_arity.ipp	/^    context::stack_t    stack_;$/;"	m	class:coroutine_object	file:	access:private
+coroutine_object::stack_alloc	/usr/include/boost/coroutine/detail/coroutine_object_result_0.ipp	/^                      StackAllocator const& stack_alloc,$/;"	m	class:coroutine_object	file:	access:public
+coroutine_object::stack_alloc	/usr/include/boost/coroutine/detail/coroutine_object_result_1.ipp	/^                      StackAllocator const& stack_alloc,$/;"	m	class:coroutine_object	file:	access:public
+coroutine_object::stack_alloc	/usr/include/boost/coroutine/detail/coroutine_object_result_arity.ipp	/^                      StackAllocator const& stack_alloc,$/;"	m	class:coroutine_object	file:	access:public
+coroutine_object::stack_alloc	/usr/include/boost/coroutine/detail/coroutine_object_void_0.ipp	/^                      StackAllocator const& stack_alloc,$/;"	m	class:coroutine_object	file:	access:public
+coroutine_object::stack_alloc	/usr/include/boost/coroutine/detail/coroutine_object_void_1.ipp	/^                      StackAllocator const& stack_alloc,$/;"	m	class:coroutine_object	file:	access:public
+coroutine_object::stack_alloc	/usr/include/boost/coroutine/detail/coroutine_object_void_arity.ipp	/^                      StackAllocator const& stack_alloc,$/;"	m	class:coroutine_object	file:	access:public
+coroutine_object::stack_alloc_	/usr/include/boost/coroutine/detail/coroutine_object_result_0.ipp	/^        stack_alloc_( stack_alloc),$/;"	p	class:coroutine_object	file:	access:public	signature:( stack_alloc)
+coroutine_object::stack_alloc_	/usr/include/boost/coroutine/detail/coroutine_object_result_0.ipp	/^    StackAllocator      stack_alloc_;$/;"	m	class:coroutine_object	file:	access:private
+coroutine_object::stack_alloc_	/usr/include/boost/coroutine/detail/coroutine_object_result_1.ipp	/^        stack_alloc_( stack_alloc),$/;"	p	class:coroutine_object	file:	access:public	signature:( stack_alloc)
+coroutine_object::stack_alloc_	/usr/include/boost/coroutine/detail/coroutine_object_result_1.ipp	/^    StackAllocator      stack_alloc_;$/;"	m	class:coroutine_object	file:	access:private
+coroutine_object::stack_alloc_	/usr/include/boost/coroutine/detail/coroutine_object_result_arity.ipp	/^        stack_alloc_( stack_alloc),$/;"	p	class:coroutine_object	file:	access:public	signature:( stack_alloc)
+coroutine_object::stack_alloc_	/usr/include/boost/coroutine/detail/coroutine_object_result_arity.ipp	/^    StackAllocator      stack_alloc_;$/;"	m	class:coroutine_object	file:	access:private
+coroutine_object::stack_alloc_	/usr/include/boost/coroutine/detail/coroutine_object_void_0.ipp	/^        stack_alloc_( stack_alloc),$/;"	p	class:coroutine_object	file:	access:public	signature:( stack_alloc)
+coroutine_object::stack_alloc_	/usr/include/boost/coroutine/detail/coroutine_object_void_0.ipp	/^    StackAllocator      stack_alloc_;$/;"	m	class:coroutine_object	file:	access:private
+coroutine_object::stack_alloc_	/usr/include/boost/coroutine/detail/coroutine_object_void_1.ipp	/^        stack_alloc_( stack_alloc),$/;"	p	class:coroutine_object	file:	access:public	signature:( stack_alloc)
+coroutine_object::stack_alloc_	/usr/include/boost/coroutine/detail/coroutine_object_void_1.ipp	/^    StackAllocator      stack_alloc_;$/;"	m	class:coroutine_object	file:	access:private
+coroutine_object::stack_alloc_	/usr/include/boost/coroutine/detail/coroutine_object_void_arity.ipp	/^        stack_alloc_( stack_alloc),$/;"	p	class:coroutine_object	file:	access:public	signature:( stack_alloc)
+coroutine_object::stack_alloc_	/usr/include/boost/coroutine/detail/coroutine_object_void_arity.ipp	/^    StackAllocator      stack_alloc_;$/;"	m	class:coroutine_object	file:	access:private
+coroutine_object::~coroutine_object	/usr/include/boost/coroutine/detail/coroutine_object_result_0.ipp	/^    ~coroutine_object()$/;"	f	class:coroutine_object	access:public	signature:()
+coroutine_object::~coroutine_object	/usr/include/boost/coroutine/detail/coroutine_object_result_1.ipp	/^    ~coroutine_object()$/;"	f	class:coroutine_object	access:public	signature:()
+coroutine_object::~coroutine_object	/usr/include/boost/coroutine/detail/coroutine_object_result_arity.ipp	/^    ~coroutine_object()$/;"	f	class:coroutine_object	access:public	signature:()
+coroutine_object::~coroutine_object	/usr/include/boost/coroutine/detail/coroutine_object_void_0.ipp	/^    ~coroutine_object()$/;"	f	class:coroutine_object	access:public	signature:()
+coroutine_object::~coroutine_object	/usr/include/boost/coroutine/detail/coroutine_object_void_1.ipp	/^    ~coroutine_object()$/;"	f	class:coroutine_object	access:public	signature:()
+coroutine_object::~coroutine_object	/usr/include/boost/coroutine/detail/coroutine_object_void_arity.ipp	/^    ~coroutine_object()$/;"	f	class:coroutine_object	access:public	signature:()
+coroutine_op	/usr/include/boost/coroutine/coroutine.hpp	/^        detail::coroutine_op<$/;"	p	class:boost::coroutines::coroutine::detail	access:public	signature:()
+coroutine_op	/usr/include/boost/coroutine/detail/coroutine_op.hpp	/^struct coroutine_op< Signature, D, Result, 0 >$/;"	s	namespace:boost::coroutines::detail
+coroutine_op	/usr/include/boost/coroutine/detail/coroutine_op.hpp	/^struct coroutine_op< Signature, D, Result, 1 >$/;"	s	namespace:boost::coroutines::detail
+coroutine_op	/usr/include/boost/coroutine/detail/coroutine_op.hpp	/^struct coroutine_op< Signature, D, void, 0 >$/;"	s	namespace:boost::coroutines::detail
+coroutine_op	/usr/include/boost/coroutine/detail/coroutine_op.hpp	/^struct coroutine_op< Signature, D, void, 1 >$/;"	s	namespace:boost::coroutines::detail
+coroutines	/usr/include/boost/coroutine/attributes.hpp	/^namespace coroutines {$/;"	n	namespace:boost
+coroutines	/usr/include/boost/coroutine/coroutine.hpp	/^namespace coroutines {$/;"	n	namespace:boost
+coroutines	/usr/include/boost/coroutine/detail/arg.hpp	/^namespace coroutines {$/;"	n	namespace:boost
+coroutines	/usr/include/boost/coroutine/detail/coroutine_base.hpp	/^namespace coroutines {$/;"	n	namespace:boost
+coroutines	/usr/include/boost/coroutine/detail/coroutine_base_resume.hpp	/^namespace coroutines {$/;"	n	namespace:boost
+coroutines	/usr/include/boost/coroutine/detail/coroutine_caller.hpp	/^namespace coroutines {$/;"	n	namespace:boost
+coroutines	/usr/include/boost/coroutine/detail/coroutine_get.hpp	/^namespace coroutines {$/;"	n	namespace:boost
+coroutines	/usr/include/boost/coroutine/detail/coroutine_object.hpp	/^namespace coroutines {$/;"	n	namespace:boost
+coroutines	/usr/include/boost/coroutine/detail/coroutine_op.hpp	/^namespace coroutines {$/;"	n	namespace:boost
+coroutines	/usr/include/boost/coroutine/detail/exceptions.hpp	/^namespace coroutines {$/;"	n	namespace:boost
+coroutines	/usr/include/boost/coroutine/detail/flags.hpp	/^namespace coroutines {$/;"	n	namespace:boost
+coroutines	/usr/include/boost/coroutine/detail/holder.hpp	/^namespace coroutines {$/;"	n	namespace:boost
+coroutines	/usr/include/boost/coroutine/detail/param.hpp	/^namespace coroutines {$/;"	n	namespace:boost
+coroutines	/usr/include/boost/coroutine/detail/stack_allocator_posix.hpp	/^namespace coroutines {$/;"	n	namespace:boost
+coroutines	/usr/include/boost/coroutine/detail/stack_allocator_windows.hpp	/^namespace coroutines {$/;"	n	namespace:boost
+coroutines	/usr/include/boost/coroutine/flags.hpp	/^namespace coroutines {$/;"	n	namespace:boost
+coroutines	/usr/include/boost/coroutine/stack_allocator.hpp	/^namespace coroutines {$/;"	n	namespace:boost
+ctx	/usr/include/boost/coroutine/detail/holder.hpp	/^    context::fcontext_t *   ctx;$/;"	m	struct:boost::coroutines::detail::holder	access:public
+data	/usr/include/boost/coroutine/detail/holder.hpp	/^    optional< Data >        data;$/;"	m	struct:boost::coroutines::detail::holder	access:public
+deallocate	/usr/include/boost/coroutine/detail/stack_allocator_posix.hpp	/^    void deallocate( void * vp, std::size_t size) const$/;"	f	class:boost::coroutines::detail::stack_allocator	access:public	signature:( void * vp, std::size_t size) const
+deallocate	/usr/include/boost/coroutine/detail/stack_allocator_windows.hpp	/^    void deallocate( void * vp, std::size_t size) const$/;"	f	class:boost::coroutines::detail::stack_allocator	access:public	signature:( void * vp, std::size_t size) const
+deallocate_object	/usr/include/boost/coroutine/detail/coroutine_base.hpp	/^    virtual void deallocate_object() = 0;$/;"	p	class:boost::coroutines::detail::coroutine_base	access:protected	signature:()
+deallocate_object	/usr/include/boost/coroutine/detail/coroutine_caller.hpp	/^    void deallocate_object()$/;"	f	class:boost::coroutines::detail::coroutine_caller	access:public	signature:()
+deallocate_object	/usr/include/boost/coroutine/detail/coroutine_object_result_0.ipp	/^    void deallocate_object()$/;"	f	class:coroutine_object	access:public	signature:()
+deallocate_object	/usr/include/boost/coroutine/detail/coroutine_object_result_1.ipp	/^    void deallocate_object()$/;"	f	class:coroutine_object	access:public	signature:()
+deallocate_object	/usr/include/boost/coroutine/detail/coroutine_object_result_arity.ipp	/^    void deallocate_object()$/;"	f	class:coroutine_object	access:public	signature:()
+deallocate_object	/usr/include/boost/coroutine/detail/coroutine_object_void_0.ipp	/^    void deallocate_object()$/;"	f	class:coroutine_object	access:public	signature:()
+deallocate_object	/usr/include/boost/coroutine/detail/coroutine_object_void_1.ipp	/^    void deallocate_object()$/;"	f	class:coroutine_object	access:public	signature:()
+deallocate_object	/usr/include/boost/coroutine/detail/coroutine_object_void_arity.ipp	/^    void deallocate_object()$/;"	f	class:coroutine_object	access:public	signature:()
+default_stacksize	/usr/include/boost/coroutine/detail/stack_allocator_posix.hpp	/^    static std::size_t default_stacksize()$/;"	f	class:boost::coroutines::detail::stack_allocator	access:public	signature:()
+default_stacksize	/usr/include/boost/coroutine/detail/stack_allocator_windows.hpp	/^    static std::size_t default_stacksize()$/;"	f	class:boost::coroutines::detail::stack_allocator	access:public	signature:()
+destroy_	/usr/include/boost/coroutine/detail/coroutine_caller.hpp	/^    static void destroy_( allocator_t & alloc, coroutine_caller * p)$/;"	f	class:boost::coroutines::detail::coroutine_caller	access:private	signature:( allocator_t & alloc, coroutine_caller * p)
+destroy_	/usr/include/boost/coroutine/detail/coroutine_object_result_0.ipp	/^    static void destroy_( allocator_t & alloc, coroutine_object * p)$/;"	f	class:coroutine_object	file:	access:private	signature:( allocator_t & alloc, coroutine_object * p)
+destroy_	/usr/include/boost/coroutine/detail/coroutine_object_result_1.ipp	/^    static void destroy_( allocator_t & alloc, coroutine_object * p)$/;"	f	class:coroutine_object	file:	access:private	signature:( allocator_t & alloc, coroutine_object * p)
+destroy_	/usr/include/boost/coroutine/detail/coroutine_object_result_arity.ipp	/^    static void destroy_( allocator_t & alloc, coroutine_object * p)$/;"	f	class:coroutine_object	file:	access:private	signature:( allocator_t & alloc, coroutine_object * p)
+destroy_	/usr/include/boost/coroutine/detail/coroutine_object_void_0.ipp	/^    static void destroy_( allocator_t & alloc, coroutine_object * p)$/;"	f	class:coroutine_object	file:	access:private	signature:( allocator_t & alloc, coroutine_object * p)
+destroy_	/usr/include/boost/coroutine/detail/coroutine_object_void_1.ipp	/^    static void destroy_( allocator_t & alloc, coroutine_object * p)$/;"	f	class:coroutine_object	file:	access:private	signature:( allocator_t & alloc, coroutine_object * p)
+destroy_	/usr/include/boost/coroutine/detail/coroutine_object_void_arity.ipp	/^    static void destroy_( allocator_t & alloc, coroutine_object * p)$/;"	f	class:coroutine_object	file:	access:private	signature:( allocator_t & alloc, coroutine_object * p)
+detail	/usr/include/boost/coroutine/coroutine.hpp	/^namespace detail {$/;"	n	namespace:boost::coroutines
+detail	/usr/include/boost/coroutine/detail/arg.hpp	/^namespace detail {$/;"	n	namespace:boost::coroutines
+detail	/usr/include/boost/coroutine/detail/coroutine_base.hpp	/^namespace detail {$/;"	n	namespace:boost::coroutines
+detail	/usr/include/boost/coroutine/detail/coroutine_base_resume.hpp	/^namespace detail {$/;"	n	namespace:boost::coroutines
+detail	/usr/include/boost/coroutine/detail/coroutine_caller.hpp	/^namespace detail {$/;"	n	namespace:boost::coroutines
+detail	/usr/include/boost/coroutine/detail/coroutine_get.hpp	/^namespace detail {$/;"	n	namespace:boost::coroutines
+detail	/usr/include/boost/coroutine/detail/coroutine_object.hpp	/^namespace detail {$/;"	n	namespace:boost::coroutines
+detail	/usr/include/boost/coroutine/detail/coroutine_op.hpp	/^namespace detail {$/;"	n	namespace:boost::coroutines
+detail	/usr/include/boost/coroutine/detail/exceptions.hpp	/^namespace detail {$/;"	n	namespace:boost::coroutines
+detail	/usr/include/boost/coroutine/detail/flags.hpp	/^namespace detail {$/;"	n	namespace:boost::coroutines
+detail	/usr/include/boost/coroutine/detail/holder.hpp	/^namespace detail {$/;"	n	namespace:boost::coroutines
+detail	/usr/include/boost/coroutine/detail/param.hpp	/^namespace detail {$/;"	n	namespace:boost::coroutines
+detail	/usr/include/boost/coroutine/detail/stack_allocator_posix.hpp	/^namespace detail {$/;"	n	namespace:boost::coroutines
+detail	/usr/include/boost/coroutine/detail/stack_allocator_windows.hpp	/^namespace detail {$/;"	n	namespace:boost::coroutines
+do_unwind	/usr/include/boost/coroutine/attributes.hpp	/^        do_unwind( do_unwind_),$/;"	p	struct:boost::coroutines::attributes	access:public	signature:( do_unwind_)
+do_unwind	/usr/include/boost/coroutine/attributes.hpp	/^        do_unwind( stack_unwind),$/;"	p	struct:boost::coroutines::attributes	access:public	signature:( stack_unwind)
+do_unwind	/usr/include/boost/coroutine/attributes.hpp	/^    flag_unwind_t   do_unwind;$/;"	m	struct:boost::coroutines::attributes	access:public
+dp_	/usr/include/boost/coroutine/detail/coroutine_op.hpp	/^        D                       *   dp_;$/;"	m	class:boost::coroutines::detail::coroutine_op::const_iterator	access:private
+dp_	/usr/include/boost/coroutine/detail/coroutine_op.hpp	/^        D               *   dp_;$/;"	m	class:boost::coroutines::detail::coroutine_op::iterator	access:private
+dp_	/usr/include/boost/coroutine/detail/coroutine_op.hpp	/^       D    *   dp_;$/;"	m	class:boost::coroutines::detail::coroutine_op::iterator	access:private
+dummy	/usr/include/boost/coroutine/coroutine.hpp	/^    struct dummy$/;"	s	class:boost::coroutines::coroutine	access:private
+enter_	/usr/include/boost/coroutine/detail/coroutine_object_result_0.ipp	/^    void enter_()$/;"	f	class:coroutine_object	file:	access:private	signature:()
+enter_	/usr/include/boost/coroutine/detail/coroutine_object_result_1.ipp	/^    void enter_( typename detail::param< arg_type >::type arg)$/;"	f	class:coroutine_object	file:	access:private	signature:( typename detail::param< arg_type >::type arg)
+enter_	/usr/include/boost/coroutine/detail/coroutine_object_result_1.ipp	/^    void enter_()$/;"	f	class:coroutine_object	file:	access:private	signature:()
+enter_	/usr/include/boost/coroutine/detail/coroutine_object_result_arity.ipp	/^    void enter_( typename detail::param< arg_type >::type arg)$/;"	f	class:coroutine_object	file:	access:private	signature:( typename detail::param< arg_type >::type arg)
+enter_	/usr/include/boost/coroutine/detail/coroutine_object_result_arity.ipp	/^    void enter_()$/;"	f	class:coroutine_object	file:	access:private	signature:()
+enter_	/usr/include/boost/coroutine/detail/coroutine_object_void_0.ipp	/^    void enter_()$/;"	f	class:coroutine_object	file:	access:private	signature:()
+enter_	/usr/include/boost/coroutine/detail/coroutine_object_void_1.ipp	/^    void enter_( typename detail::param< arg_type >::type arg)$/;"	f	class:coroutine_object	file:	access:private	signature:( typename detail::param< arg_type >::type arg)
+enter_	/usr/include/boost/coroutine/detail/coroutine_object_void_1.ipp	/^    void enter_()$/;"	f	class:coroutine_object	file:	access:private	signature:()
+enter_	/usr/include/boost/coroutine/detail/coroutine_object_void_arity.ipp	/^    void enter_( typename detail::param< arg_type >::type arg)$/;"	f	class:coroutine_object	file:	access:private	signature:( typename detail::param< arg_type >::type arg)
+enter_	/usr/include/boost/coroutine/detail/coroutine_object_void_arity.ipp	/^    void enter_()$/;"	f	class:coroutine_object	file:	access:private	signature:()
+except_	/usr/include/boost/coroutine/detail/coroutine_base.hpp	/^    exception_ptr           except_;$/;"	m	class:boost::coroutines::detail::coroutine_base	access:private
+fetch_	/usr/include/boost/coroutine/detail/coroutine_op.hpp	/^        void fetch_()$/;"	f	class:boost::coroutines::detail::coroutine_op::const_iterator	access:private	signature:()
+fetch_	/usr/include/boost/coroutine/detail/coroutine_op.hpp	/^        void fetch_()$/;"	f	class:boost::coroutines::detail::coroutine_op::iterator	access:private	signature:()
+flag_complete	/usr/include/boost/coroutine/detail/flags.hpp	/^    flag_complete       = 1 << 1,$/;"	e	enum:boost::coroutines::detail::flag_t
+flag_force_unwind	/usr/include/boost/coroutine/detail/flags.hpp	/^    flag_force_unwind   = 1 << 3,$/;"	e	enum:boost::coroutines::detail::flag_t
+flag_fpu_t	/usr/include/boost/coroutine/flags.hpp	/^enum flag_fpu_t$/;"	g	namespace:boost::coroutines
+flag_preserve_fpu	/usr/include/boost/coroutine/detail/flags.hpp	/^    flag_preserve_fpu   = 1 << 4$/;"	e	enum:boost::coroutines::detail::flag_t
+flag_t	/usr/include/boost/coroutine/detail/flags.hpp	/^enum flag_t$/;"	g	namespace:boost::coroutines::detail
+flag_unwind_stack	/usr/include/boost/coroutine/detail/flags.hpp	/^    flag_unwind_stack   = 1 << 2,$/;"	e	enum:boost::coroutines::detail::flag_t
+flag_unwind_t	/usr/include/boost/coroutine/flags.hpp	/^enum flag_unwind_t$/;"	g	namespace:boost::coroutines
+flags_	/usr/include/boost/coroutine/detail/coroutine_base.hpp	/^    int                     flags_;$/;"	m	class:boost::coroutines::detail::coroutine_base	access:private
+fn	/usr/include/boost/coroutine/coroutine.hpp	/^    explicit coroutine( BOOST_RV_REF( Fn) fn, arguments arg, attributes const& attr = attributes(),$/;"	m	class:boost::coroutines::coroutine	access:public
+fn	/usr/include/boost/coroutine/coroutine.hpp	/^    explicit coroutine( BOOST_RV_REF( Fn) fn, arguments arg, attributes const& attr,$/;"	m	class:boost::coroutines::coroutine	access:public
+fn	/usr/include/boost/coroutine/coroutine.hpp	/^    explicit coroutine( BOOST_RV_REF( Fn) fn, attributes const& attr = attributes(),$/;"	m	class:boost::coroutines::coroutine	access:public
+fn	/usr/include/boost/coroutine/coroutine.hpp	/^    explicit coroutine( BOOST_RV_REF( Fn) fn, attributes const& attr,$/;"	m	class:boost::coroutines::coroutine	access:public
+fn	/usr/include/boost/coroutine/detail/coroutine_object_result_0.ipp	/^    coroutine_object( BOOST_RV_REF( Fn) fn, attributes const& attr,$/;"	m	class:coroutine_object	file:	access:public
+fn	/usr/include/boost/coroutine/detail/coroutine_object_result_1.ipp	/^    coroutine_object( BOOST_RV_REF( Fn) fn, attributes const& attr,$/;"	m	class:coroutine_object	file:	access:public
+fn	/usr/include/boost/coroutine/detail/coroutine_object_result_1.ipp	/^    coroutine_object( BOOST_RV_REF( Fn) fn, typename detail::param< arg_type >::type arg, attributes const& attr,$/;"	m	class:coroutine_object	file:	access:public
+fn	/usr/include/boost/coroutine/detail/coroutine_object_result_arity.ipp	/^    coroutine_object( BOOST_RV_REF( Fn) fn, attributes const& attr,$/;"	m	class:coroutine_object	file:	access:public
+fn	/usr/include/boost/coroutine/detail/coroutine_object_result_arity.ipp	/^    coroutine_object( BOOST_RV_REF( Fn) fn, typename detail::param< arg_type >::type arg, attributes const& attr,$/;"	m	class:coroutine_object	file:	access:public
+fn	/usr/include/boost/coroutine/detail/coroutine_object_void_0.ipp	/^    coroutine_object( BOOST_RV_REF( Fn) fn, attributes const& attr,$/;"	m	class:coroutine_object	file:	access:public
+fn	/usr/include/boost/coroutine/detail/coroutine_object_void_1.ipp	/^    coroutine_object( BOOST_RV_REF( Fn) fn, attributes const& attr,$/;"	m	class:coroutine_object	file:	access:public
+fn	/usr/include/boost/coroutine/detail/coroutine_object_void_1.ipp	/^    coroutine_object( BOOST_RV_REF( Fn) fn, typename detail::param< arg_type >::type arg, attributes const& attr,$/;"	m	class:coroutine_object	file:	access:public
+fn	/usr/include/boost/coroutine/detail/coroutine_object_void_arity.ipp	/^    coroutine_object( BOOST_RV_REF( Fn) fn, attributes const& attr,$/;"	m	class:coroutine_object	file:	access:public
+fn	/usr/include/boost/coroutine/detail/coroutine_object_void_arity.ipp	/^    coroutine_object( BOOST_RV_REF( Fn) fn, typename detail::param< arg_type >::type arg, attributes const& attr,$/;"	m	class:coroutine_object	file:	access:public
+fn_	/usr/include/boost/coroutine/detail/coroutine_object_result_0.ipp	/^        fn_( fn),$/;"	p	class:coroutine_object	file:	access:public	signature:( fn)
+fn_	/usr/include/boost/coroutine/detail/coroutine_object_result_0.ipp	/^    Fn                  fn_;$/;"	m	class:coroutine_object	file:	access:private
+fn_	/usr/include/boost/coroutine/detail/coroutine_object_result_1.ipp	/^        fn_( fn),$/;"	p	class:coroutine_object	file:	access:public	signature:( fn)
+fn_	/usr/include/boost/coroutine/detail/coroutine_object_result_1.ipp	/^    Fn                  fn_;$/;"	m	class:coroutine_object	file:	access:private
+fn_	/usr/include/boost/coroutine/detail/coroutine_object_result_arity.ipp	/^        fn_( fn),$/;"	p	class:coroutine_object	file:	access:public	signature:( fn)
+fn_	/usr/include/boost/coroutine/detail/coroutine_object_result_arity.ipp	/^    Fn                  fn_;$/;"	m	class:coroutine_object	file:	access:private
+fn_	/usr/include/boost/coroutine/detail/coroutine_object_void_0.ipp	/^        fn_( fn),$/;"	p	class:coroutine_object	file:	access:public	signature:( fn)
+fn_	/usr/include/boost/coroutine/detail/coroutine_object_void_0.ipp	/^    Fn                  fn_;$/;"	m	class:coroutine_object	file:	access:private
+fn_	/usr/include/boost/coroutine/detail/coroutine_object_void_1.ipp	/^        fn_( fn),$/;"	p	class:coroutine_object	file:	access:public	signature:( fn)
+fn_	/usr/include/boost/coroutine/detail/coroutine_object_void_1.ipp	/^    Fn                  fn_;$/;"	m	class:coroutine_object	file:	access:private
+fn_	/usr/include/boost/coroutine/detail/coroutine_object_void_arity.ipp	/^        fn_( fn),$/;"	p	class:coroutine_object	file:	access:public	signature:( fn)
+fn_	/usr/include/boost/coroutine/detail/coroutine_object_void_arity.ipp	/^    Fn                  fn_;$/;"	m	class:coroutine_object	file:	access:private
+force_unwind	/usr/include/boost/coroutine/detail/holder.hpp	/^    bool                    force_unwind;$/;"	m	struct:boost::coroutines::detail::holder	access:public
+forced_unwind	/usr/include/boost/coroutine/detail/exceptions.hpp	/^struct forced_unwind {};$/;"	s	namespace:boost::coroutines::detail
+fpu_not_preserved	/usr/include/boost/coroutine/flags.hpp	/^    fpu_not_preserved$/;"	e	enum:boost::coroutines::flag_fpu_t
+fpu_preserved	/usr/include/boost/coroutine/flags.hpp	/^    fpu_preserved = 0,$/;"	e	enum:boost::coroutines::flag_fpu_t
+get	/usr/include/boost/coroutine/detail/coroutine_get.hpp	/^    typename param< Result >::type get() const$/;"	f	struct:boost::coroutines::detail::coroutine_get	access:public	signature:() const
+has_result	/usr/include/boost/coroutine/detail/coroutine_get.hpp	/^    bool has_result() const$/;"	f	struct:boost::coroutines::detail::coroutine_get	access:public	signature:() const
+holder	/usr/include/boost/coroutine/detail/holder.hpp	/^    holder( context::fcontext_t * ctx_) :$/;"	f	struct:boost::coroutines::detail::holder	access:public	signature:( context::fcontext_t * ctx_)
+holder	/usr/include/boost/coroutine/detail/holder.hpp	/^    holder( context::fcontext_t * ctx_, Data data_) :$/;"	f	struct:boost::coroutines::detail::holder	access:public	signature:( context::fcontext_t * ctx_, Data data_)
+holder	/usr/include/boost/coroutine/detail/holder.hpp	/^    holder( context::fcontext_t * ctx_, bool force_unwind_ = false) :$/;"	f	struct:boost::coroutines::detail::holder	access:public	signature:( context::fcontext_t * ctx_, bool force_unwind_ = false)
+holder	/usr/include/boost/coroutine/detail/holder.hpp	/^    holder( context::fcontext_t * ctx_, bool force_unwind_) :$/;"	f	struct:boost::coroutines::detail::holder	access:public	signature:( context::fcontext_t * ctx_, bool force_unwind_)
+holder	/usr/include/boost/coroutine/detail/holder.hpp	/^    holder( holder const& other) :$/;"	f	struct:boost::coroutines::detail::holder	access:public	signature:( holder const& other)
+holder	/usr/include/boost/coroutine/detail/holder.hpp	/^struct holder$/;"	s	namespace:boost::coroutines::detail
+holder	/usr/include/boost/coroutine/detail/holder.hpp	/^struct holder< void >$/;"	s	namespace:boost::coroutines::detail
+impl_	/usr/include/boost/coroutine/coroutine.hpp	/^        impl_()$/;"	f	class:boost::coroutines::coroutine	access:public	signature:()
+impl_	/usr/include/boost/coroutine/coroutine.hpp	/^    ptr_t  impl_;$/;"	m	class:boost::coroutines::coroutine	access:private
+increment_	/usr/include/boost/coroutine/detail/coroutine_op.hpp	/^        void increment_()$/;"	f	class:boost::coroutines::detail::coroutine_op::const_iterator	access:private	signature:()
+increment_	/usr/include/boost/coroutine/detail/coroutine_op.hpp	/^        void increment_()$/;"	f	class:boost::coroutines::detail::coroutine_op::iterator	access:private	signature:()
+is_stack_unbound	/usr/include/boost/coroutine/detail/stack_allocator_posix.hpp	/^    static bool is_stack_unbound()$/;"	f	class:boost::coroutines::detail::stack_allocator	access:public	signature:()
+is_stack_unbound	/usr/include/boost/coroutine/detail/stack_allocator_windows.hpp	/^    static bool is_stack_unbound()$/;"	f	class:boost::coroutines::detail::stack_allocator	access:public	signature:()
+iterator	/usr/include/boost/coroutine/detail/coroutine_op.hpp	/^        explicit iterator( D * dp) :$/;"	f	class:boost::coroutines::detail::coroutine_op::iterator	access:public	signature:( D * dp)
+iterator	/usr/include/boost/coroutine/detail/coroutine_op.hpp	/^        iterator( iterator const& other) :$/;"	f	class:boost::coroutines::detail::coroutine_op::iterator	access:public	signature:( iterator const& other)
+iterator	/usr/include/boost/coroutine/detail/coroutine_op.hpp	/^        iterator() :$/;"	f	class:boost::coroutines::detail::coroutine_op::iterator	access:public	signature:()
+iterator	/usr/include/boost/coroutine/detail/coroutine_op.hpp	/^    class iterator : public std::iterator< std::input_iterator_tag, typename remove_reference< Result >::type >$/;"	c	struct:boost::coroutines::detail::coroutine_op	inherits:std::iterator	access:public
+iterator	/usr/include/boost/coroutine/detail/coroutine_op.hpp	/^    class iterator : public std::iterator< std::output_iterator_tag, void, void, void, void >$/;"	c	struct:boost::coroutines::detail::coroutine_op	inherits:std::iterator	access:public
+make_fcontext	/usr/include/boost/coroutine/detail/coroutine_object_result_0.ipp	/^            context::make_fcontext($/;"	p	class:coroutine_object	file:	access:public	signature:(stack_alloc.allocate( attr.size), attr.size, trampoline1< coroutine_object >)
+make_fcontext	/usr/include/boost/coroutine/detail/coroutine_object_result_1.ipp	/^            context::make_fcontext($/;"	p	class:coroutine_object	file:	access:public	signature:(stack_alloc.allocate( attr.size), attr.size, trampoline1< coroutine_object >)
+make_fcontext	/usr/include/boost/coroutine/detail/coroutine_object_result_1.ipp	/^            context::make_fcontext($/;"	p	class:coroutine_object	file:	access:public	signature:(stack_alloc.allocate( attr.size), attr.size, trampoline2< coroutine_object, typename detail::param< arg_type >::type >)
+make_fcontext	/usr/include/boost/coroutine/detail/coroutine_object_result_arity.ipp	/^            context::make_fcontext($/;"	p	class:coroutine_object	file:	access:public	signature:(stack_alloc.allocate( attr.size), attr.size, trampoline1< coroutine_object >)
+make_fcontext	/usr/include/boost/coroutine/detail/coroutine_object_result_arity.ipp	/^            context::make_fcontext($/;"	p	class:coroutine_object	file:	access:public	signature:(stack_alloc.allocate( attr.size), attr.size, trampoline2< coroutine_object, typename detail::param< arg_type >::type >)
+make_fcontext	/usr/include/boost/coroutine/detail/coroutine_object_void_0.ipp	/^            context::make_fcontext($/;"	p	class:coroutine_object	file:	access:public	signature:(stack_alloc.allocate( attr.size), attr.size, trampoline1< coroutine_object >)
+make_fcontext	/usr/include/boost/coroutine/detail/coroutine_object_void_1.ipp	/^            context::make_fcontext($/;"	p	class:coroutine_object	file:	access:public	signature:(stack_alloc.allocate( attr.size), attr.size, trampoline1< coroutine_object >)
+make_fcontext	/usr/include/boost/coroutine/detail/coroutine_object_void_1.ipp	/^            context::make_fcontext($/;"	p	class:coroutine_object	file:	access:public	signature:(stack_alloc.allocate( attr.size), attr.size, trampoline2< coroutine_object, typename detail::param< arg_type >::type >)
+make_fcontext	/usr/include/boost/coroutine/detail/coroutine_object_void_arity.ipp	/^            context::make_fcontext($/;"	p	class:coroutine_object	file:	access:public	signature:(stack_alloc.allocate( attr.size), attr.size, trampoline1< coroutine_object >)
+make_fcontext	/usr/include/boost/coroutine/detail/coroutine_object_void_arity.ipp	/^            context::make_fcontext($/;"	p	class:coroutine_object	file:	access:public	signature:(stack_alloc.allocate( attr.size), attr.size, trampoline2< coroutine_object, typename detail::param< arg_type >::type >)
+maximum_stacksize	/usr/include/boost/coroutine/detail/stack_allocator_posix.hpp	/^    static std::size_t maximum_stacksize()$/;"	f	class:boost::coroutines::detail::stack_allocator	access:public	signature:()
+maximum_stacksize	/usr/include/boost/coroutine/detail/stack_allocator_windows.hpp	/^    static std::size_t maximum_stacksize()$/;"	f	class:boost::coroutines::detail::stack_allocator	access:public	signature:()
+minimum_stacksize	/usr/include/boost/coroutine/detail/stack_allocator_posix.hpp	/^    static std::size_t minimum_stacksize()$/;"	f	class:boost::coroutines::detail::stack_allocator	access:public	signature:()
+minimum_stacksize	/usr/include/boost/coroutine/detail/stack_allocator_windows.hpp	/^    static std::size_t minimum_stacksize()$/;"	f	class:boost::coroutines::detail::stack_allocator	access:public	signature:()
+no_stack_unwind	/usr/include/boost/coroutine/flags.hpp	/^    no_stack_unwind$/;"	e	enum:boost::coroutines::flag_unwind_t
+nonnull	/usr/include/boost/coroutine/coroutine.hpp	/^    { void nonnull() {} };$/;"	f	struct:boost::coroutines::coroutine::dummy	access:public	signature:()
+operator !=	/usr/include/boost/coroutine/detail/coroutine_op.hpp	/^        bool operator!=( const_iterator const& other)$/;"	f	class:boost::coroutines::detail::coroutine_op::const_iterator	access:public	signature:( const_iterator const& other)
+operator !=	/usr/include/boost/coroutine/detail/coroutine_op.hpp	/^        bool operator!=( iterator const& other)$/;"	f	class:boost::coroutines::detail::coroutine_op::iterator	access:public	signature:( iterator const& other)
+operator ()	/usr/include/boost/coroutine/detail/coroutine_op.hpp	/^    D & operator()( arg_type a1)$/;"	f	struct:boost::coroutines::detail::coroutine_op	access:public	signature:( arg_type a1)
+operator ()	/usr/include/boost/coroutine/detail/coroutine_op.hpp	/^    D & operator()()$/;"	f	struct:boost::coroutines::detail::coroutine_op	access:public	signature:()
+operator *	/usr/include/boost/coroutine/detail/coroutine_op.hpp	/^        iterator & operator*()$/;"	f	class:boost::coroutines::detail::coroutine_op::iterator	access:public	signature:()
+operator *	/usr/include/boost/coroutine/detail/coroutine_op.hpp	/^        reference_t operator*() const$/;"	f	class:boost::coroutines::detail::coroutine_op::const_iterator	access:public	signature:() const
+operator *	/usr/include/boost/coroutine/detail/coroutine_op.hpp	/^        reference_t operator*() const$/;"	f	class:boost::coroutines::detail::coroutine_op::iterator	access:public	signature:() const
+operator ++	/usr/include/boost/coroutine/detail/coroutine_op.hpp	/^        const_iterator & operator++()$/;"	f	class:boost::coroutines::detail::coroutine_op::const_iterator	access:public	signature:()
+operator ++	/usr/include/boost/coroutine/detail/coroutine_op.hpp	/^        iterator & operator++()$/;"	f	class:boost::coroutines::detail::coroutine_op::iterator	access:public	signature:()
+operator ->	/usr/include/boost/coroutine/detail/coroutine_op.hpp	/^        pointer_t operator->() const$/;"	f	class:boost::coroutines::detail::coroutine_op::const_iterator	access:public	signature:() const
+operator ->	/usr/include/boost/coroutine/detail/coroutine_op.hpp	/^        pointer_t operator->() const$/;"	f	class:boost::coroutines::detail::coroutine_op::iterator	access:public	signature:() const
+operator =	/usr/include/boost/coroutine/detail/coroutine_object_result_0.ipp	/^    coroutine_object & operator=( coroutine_object const&);$/;"	p	class:coroutine_object	file:	access:private	signature:( coroutine_object const&)
+operator =	/usr/include/boost/coroutine/detail/coroutine_object_result_1.ipp	/^    coroutine_object & operator=( coroutine_object const&);$/;"	p	class:coroutine_object	file:	access:private	signature:( coroutine_object const&)
+operator =	/usr/include/boost/coroutine/detail/coroutine_object_result_arity.ipp	/^    coroutine_object & operator=( coroutine_object const&);$/;"	p	class:coroutine_object	file:	access:private	signature:( coroutine_object const&)
+operator =	/usr/include/boost/coroutine/detail/coroutine_object_void_0.ipp	/^    coroutine_object & operator=( coroutine_object const&);$/;"	p	class:coroutine_object	file:	access:private	signature:( coroutine_object const&)
+operator =	/usr/include/boost/coroutine/detail/coroutine_object_void_1.ipp	/^    coroutine_object & operator=( coroutine_object const&);$/;"	p	class:coroutine_object	file:	access:private	signature:( coroutine_object const&)
+operator =	/usr/include/boost/coroutine/detail/coroutine_object_void_arity.ipp	/^    coroutine_object & operator=( coroutine_object const&);$/;"	p	class:coroutine_object	file:	access:private	signature:( coroutine_object const&)
+operator =	/usr/include/boost/coroutine/detail/coroutine_op.hpp	/^        const_iterator & operator=( const_iterator const& other)$/;"	f	class:boost::coroutines::detail::coroutine_op::const_iterator	access:public	signature:( const_iterator const& other)
+operator =	/usr/include/boost/coroutine/detail/coroutine_op.hpp	/^        iterator & operator=( arg_type a1)$/;"	f	class:boost::coroutines::detail::coroutine_op::iterator	access:public	signature:( arg_type a1)
+operator =	/usr/include/boost/coroutine/detail/coroutine_op.hpp	/^        iterator & operator=( iterator const& other)$/;"	f	class:boost::coroutines::detail::coroutine_op::iterator	access:public	signature:( iterator const& other)
+operator =	/usr/include/boost/coroutine/detail/holder.hpp	/^    holder & operator=( holder const& other)$/;"	f	struct:boost::coroutines::detail::holder	access:public	signature:( holder const& other)
+operator ==	/usr/include/boost/coroutine/detail/coroutine_op.hpp	/^        bool operator==( const_iterator const& other)$/;"	f	class:boost::coroutines::detail::coroutine_op::const_iterator	access:public	signature:( const_iterator const& other)
+operator ==	/usr/include/boost/coroutine/detail/coroutine_op.hpp	/^        bool operator==( iterator const& other)$/;"	f	class:boost::coroutines::detail::coroutine_op::iterator	access:public	signature:( iterator const& other)
+page_count	/usr/include/boost/coroutine/detail/stack_allocator_posix.hpp	/^std::size_t page_count( std::size_t stacksize)$/;"	f	namespace:boost::coroutines::detail	signature:( std::size_t stacksize)
+page_count	/usr/include/boost/coroutine/detail/stack_allocator_windows.hpp	/^std::size_t page_count( std::size_t stacksize)$/;"	f	namespace:boost::coroutines::detail	signature:( std::size_t stacksize)
+pagesize	/usr/include/boost/coroutine/detail/stack_allocator_posix.hpp	/^std::size_t pagesize()$/;"	f	namespace:boost::coroutines::detail	signature:()
+pagesize	/usr/include/boost/coroutine/detail/stack_allocator_windows.hpp	/^std::size_t pagesize()$/;"	f	namespace:boost::coroutines::detail	signature:()
+param	/usr/include/boost/coroutine/detail/param.hpp	/^struct param : $/;"	s	namespace:boost::coroutines::detail	inherits:mpl::eval_if
+pointer_t	/usr/include/boost/coroutine/detail/coroutine_op.hpp	/^        typedef typename std::iterator_traits< iterator >::pointer      pointer_t;$/;"	t	class:boost::coroutines::detail::coroutine_op::const_iterator	access:public
+pointer_t	/usr/include/boost/coroutine/detail/coroutine_op.hpp	/^        typedef typename std::iterator_traits< iterator >::pointer      pointer_t;$/;"	t	class:boost::coroutines::detail::coroutine_op::iterator	access:public
+preserve_fpu	/usr/include/boost/coroutine/attributes.hpp	/^        preserve_fpu( fpu_preserved)$/;"	f	struct:boost::coroutines::attributes	access:public	signature:( fpu_preserved)
+preserve_fpu	/usr/include/boost/coroutine/attributes.hpp	/^        preserve_fpu( preserve_fpu_)$/;"	f	struct:boost::coroutines::attributes	access:public	signature:( preserve_fpu_)
+preserve_fpu	/usr/include/boost/coroutine/attributes.hpp	/^    flag_fpu_t      preserve_fpu;$/;"	m	struct:boost::coroutines::attributes	access:public
+ptr_t	/usr/include/boost/coroutine/coroutine.hpp	/^    typedef typename base_t::ptr_t                              ptr_t;$/;"	t	class:boost::coroutines::coroutine	access:private
+ptr_t	/usr/include/boost/coroutine/detail/coroutine_base.hpp	/^    typedef intrusive_ptr< coroutine_base >     ptr_t;$/;"	t	class:boost::coroutines::detail::coroutine_base	access:public
+range_begin	/usr/include/boost/coroutine/coroutine.hpp	/^range_begin( coroutine< Signature > & c)$/;"	f	namespace:boost::coroutines	signature:( coroutine< Signature > & c)
+range_begin	/usr/include/boost/coroutine/coroutine.hpp	/^range_begin( coroutine< Signature > const& c)$/;"	f	namespace:boost::coroutines	signature:( coroutine< Signature > const& c)
+range_const_iterator	/usr/include/boost/coroutine/coroutine.hpp	/^struct range_const_iterator< coroutines::coroutine< Signature > >$/;"	s	namespace:boost
+range_end	/usr/include/boost/coroutine/coroutine.hpp	/^range_end( coroutine< Signature > & c)$/;"	f	namespace:boost::coroutines	signature:( coroutine< Signature > & c)
+range_end	/usr/include/boost/coroutine/coroutine.hpp	/^range_end( coroutine< Signature > const& c)$/;"	f	namespace:boost::coroutines	signature:( coroutine< Signature > const& c)
+range_mutable_iterator	/usr/include/boost/coroutine/coroutine.hpp	/^struct range_mutable_iterator< coroutines::coroutine< Signature > >$/;"	s	namespace:boost
+reference_t	/usr/include/boost/coroutine/detail/coroutine_op.hpp	/^        typedef typename std::iterator_traits< iterator >::reference    reference_t;$/;"	t	class:boost::coroutines::detail::coroutine_op::const_iterator	access:public
+reference_t	/usr/include/boost/coroutine/detail/coroutine_op.hpp	/^        typedef typename std::iterator_traits< iterator >::reference    reference_t;$/;"	t	class:boost::coroutines::detail::coroutine_op::iterator	access:public
+result_	/usr/include/boost/coroutine/detail/coroutine_base_resume.hpp	/^    optional< Result >  result_;$/;"	m	class:boost::coroutines::detail::coroutine_base_resume	access:protected
+resume	/usr/include/boost/coroutine/detail/coroutine_base_resume.hpp	/^    void resume( arg_type a1)$/;"	f	class:boost::coroutines::detail::coroutine_base_resume	access:public	signature:( arg_type a1)
+resume	/usr/include/boost/coroutine/detail/coroutine_base_resume.hpp	/^    void resume()$/;"	f	class:boost::coroutines::detail::coroutine_base_resume	access:public	signature:()
+run	/usr/include/boost/coroutine/detail/coroutine_object_result_0.ipp	/^    void run()$/;"	f	class:coroutine_object	access:public	signature:()
+run	/usr/include/boost/coroutine/detail/coroutine_object_result_1.ipp	/^    void run( typename detail::param< arg_type >::type arg)$/;"	f	class:coroutine_object	access:public	signature:( typename detail::param< arg_type >::type arg)
+run	/usr/include/boost/coroutine/detail/coroutine_object_result_1.ipp	/^    void run()$/;"	f	class:coroutine_object	access:public	signature:()
+run	/usr/include/boost/coroutine/detail/coroutine_object_result_arity.ipp	/^    void run( typename detail::param< arg_type >::type arg)$/;"	f	class:coroutine_object	access:public	signature:( typename detail::param< arg_type >::type arg)
+run	/usr/include/boost/coroutine/detail/coroutine_object_result_arity.ipp	/^    void run()$/;"	f	class:coroutine_object	access:public	signature:()
+run	/usr/include/boost/coroutine/detail/coroutine_object_void_0.ipp	/^    void run()$/;"	f	class:coroutine_object	access:public	signature:()
+run	/usr/include/boost/coroutine/detail/coroutine_object_void_1.ipp	/^    void run( typename detail::param< arg_type >::type arg)$/;"	f	class:coroutine_object	access:public	signature:( typename detail::param< arg_type >::type arg)
+run	/usr/include/boost/coroutine/detail/coroutine_object_void_1.ipp	/^    void run()$/;"	f	class:coroutine_object	access:public	signature:()
+run	/usr/include/boost/coroutine/detail/coroutine_object_void_arity.ipp	/^    void run( typename detail::param< arg_type >::type arg)$/;"	f	class:coroutine_object	access:public	signature:( typename detail::param< arg_type >::type arg)
+run	/usr/include/boost/coroutine/detail/coroutine_object_void_arity.ipp	/^    void run()$/;"	f	class:coroutine_object	access:public	signature:()
+run_	/usr/include/boost/coroutine/detail/coroutine_object_result_0.ipp	/^    void run_( Caller & c)$/;"	f	class:coroutine_object	file:	access:private	signature:( Caller & c)
+run_	/usr/include/boost/coroutine/detail/coroutine_object_result_1.ipp	/^    void run_( Caller & c)$/;"	f	class:coroutine_object	file:	access:private	signature:( Caller & c)
+run_	/usr/include/boost/coroutine/detail/coroutine_object_result_arity.ipp	/^    void run_( Caller & c)$/;"	f	class:coroutine_object	file:	access:private	signature:( Caller & c)
+run_	/usr/include/boost/coroutine/detail/coroutine_object_void_0.ipp	/^    void run_( Caller & c)$/;"	f	class:coroutine_object	file:	access:private	signature:( Caller & c)
+run_	/usr/include/boost/coroutine/detail/coroutine_object_void_1.ipp	/^    void run_( Caller & c)$/;"	f	class:coroutine_object	file:	access:private	signature:( Caller & c)
+run_	/usr/include/boost/coroutine/detail/coroutine_object_void_arity.ipp	/^    void run_( Caller & c)$/;"	f	class:coroutine_object	file:	access:private	signature:( Caller & c)
+safe_bool	/usr/include/boost/coroutine/coroutine.hpp	/^    typedef void ( dummy::*safe_bool)();$/;"	t	class:boost::coroutines::coroutine	access:private
+size	/usr/include/boost/coroutine/attributes.hpp	/^    std::size_t     size;$/;"	m	struct:boost::coroutines::attributes	access:public
+stack_	/usr/include/boost/coroutine/detail/coroutine_object_result_0.ipp	/^    context::stack_t    stack_;$/;"	m	class:coroutine_object	file:	access:private
+stack_	/usr/include/boost/coroutine/detail/coroutine_object_result_1.ipp	/^    context::stack_t    stack_;$/;"	m	class:coroutine_object	file:	access:private
+stack_	/usr/include/boost/coroutine/detail/coroutine_object_result_arity.ipp	/^    context::stack_t    stack_;$/;"	m	class:coroutine_object	file:	access:private
+stack_	/usr/include/boost/coroutine/detail/coroutine_object_void_0.ipp	/^    context::stack_t    stack_;$/;"	m	class:coroutine_object	file:	access:private
+stack_	/usr/include/boost/coroutine/detail/coroutine_object_void_1.ipp	/^    context::stack_t    stack_;$/;"	m	class:coroutine_object	file:	access:private
+stack_	/usr/include/boost/coroutine/detail/coroutine_object_void_arity.ipp	/^    context::stack_t    stack_;$/;"	m	class:coroutine_object	file:	access:private
+stack_alloc	/usr/include/boost/coroutine/coroutine.hpp	/^               StackAllocator const& stack_alloc,$/;"	m	class:boost::coroutines::coroutine	access:public
+stack_alloc	/usr/include/boost/coroutine/coroutine.hpp	/^               stack_allocator const& stack_alloc =$/;"	m	class:boost::coroutines::coroutine	access:public
+stack_alloc	/usr/include/boost/coroutine/detail/coroutine_object_result_0.ipp	/^                      StackAllocator const& stack_alloc,$/;"	m	class:coroutine_object	file:	access:public
+stack_alloc	/usr/include/boost/coroutine/detail/coroutine_object_result_1.ipp	/^                      StackAllocator const& stack_alloc,$/;"	m	class:coroutine_object	file:	access:public
+stack_alloc	/usr/include/boost/coroutine/detail/coroutine_object_result_arity.ipp	/^                      StackAllocator const& stack_alloc,$/;"	m	class:coroutine_object	file:	access:public
+stack_alloc	/usr/include/boost/coroutine/detail/coroutine_object_void_0.ipp	/^                      StackAllocator const& stack_alloc,$/;"	m	class:coroutine_object	file:	access:public
+stack_alloc	/usr/include/boost/coroutine/detail/coroutine_object_void_1.ipp	/^                      StackAllocator const& stack_alloc,$/;"	m	class:coroutine_object	file:	access:public
+stack_alloc	/usr/include/boost/coroutine/detail/coroutine_object_void_arity.ipp	/^                      StackAllocator const& stack_alloc,$/;"	m	class:coroutine_object	file:	access:public
+stack_alloc_	/usr/include/boost/coroutine/detail/coroutine_object_result_0.ipp	/^        stack_alloc_( stack_alloc),$/;"	p	class:coroutine_object	file:	access:public	signature:( stack_alloc)
+stack_alloc_	/usr/include/boost/coroutine/detail/coroutine_object_result_0.ipp	/^    StackAllocator      stack_alloc_;$/;"	m	class:coroutine_object	file:	access:private
+stack_alloc_	/usr/include/boost/coroutine/detail/coroutine_object_result_1.ipp	/^        stack_alloc_( stack_alloc),$/;"	p	class:coroutine_object	file:	access:public	signature:( stack_alloc)
+stack_alloc_	/usr/include/boost/coroutine/detail/coroutine_object_result_1.ipp	/^    StackAllocator      stack_alloc_;$/;"	m	class:coroutine_object	file:	access:private
+stack_alloc_	/usr/include/boost/coroutine/detail/coroutine_object_result_arity.ipp	/^        stack_alloc_( stack_alloc),$/;"	p	class:coroutine_object	file:	access:public	signature:( stack_alloc)
+stack_alloc_	/usr/include/boost/coroutine/detail/coroutine_object_result_arity.ipp	/^    StackAllocator      stack_alloc_;$/;"	m	class:coroutine_object	file:	access:private
+stack_alloc_	/usr/include/boost/coroutine/detail/coroutine_object_void_0.ipp	/^        stack_alloc_( stack_alloc),$/;"	p	class:coroutine_object	file:	access:public	signature:( stack_alloc)
+stack_alloc_	/usr/include/boost/coroutine/detail/coroutine_object_void_0.ipp	/^    StackAllocator      stack_alloc_;$/;"	m	class:coroutine_object	file:	access:private
+stack_alloc_	/usr/include/boost/coroutine/detail/coroutine_object_void_1.ipp	/^        stack_alloc_( stack_alloc),$/;"	p	class:coroutine_object	file:	access:public	signature:( stack_alloc)
+stack_alloc_	/usr/include/boost/coroutine/detail/coroutine_object_void_1.ipp	/^    StackAllocator      stack_alloc_;$/;"	m	class:coroutine_object	file:	access:private
+stack_alloc_	/usr/include/boost/coroutine/detail/coroutine_object_void_arity.ipp	/^        stack_alloc_( stack_alloc),$/;"	p	class:coroutine_object	file:	access:public	signature:( stack_alloc)
+stack_alloc_	/usr/include/boost/coroutine/detail/coroutine_object_void_arity.ipp	/^    StackAllocator      stack_alloc_;$/;"	m	class:coroutine_object	file:	access:private
+stack_allocator	/usr/include/boost/coroutine/detail/stack_allocator_posix.hpp	/^class stack_allocator$/;"	c	namespace:boost::coroutines::detail
+stack_allocator	/usr/include/boost/coroutine/detail/stack_allocator_windows.hpp	/^class stack_allocator$/;"	c	namespace:boost::coroutines::detail
+stack_unwind	/usr/include/boost/coroutine/flags.hpp	/^    stack_unwind = 0,$/;"	e	enum:boost::coroutines::flag_unwind_t
+stacksize_limit	/usr/include/boost/coroutine/detail/stack_allocator_posix.hpp	/^rlimit stacksize_limit()$/;"	f	namespace:boost::coroutines::detail	signature:()
+stacksize_limit_	/usr/include/boost/coroutine/detail/stack_allocator_posix.hpp	/^rlimit stacksize_limit_()$/;"	f	namespace:boost::coroutines::detail	signature:()
+system_info	/usr/include/boost/coroutine/detail/stack_allocator_windows.hpp	/^SYSTEM_INFO system_info()$/;"	f	namespace:boost::coroutines::detail	signature:()
+system_info_	/usr/include/boost/coroutine/detail/stack_allocator_windows.hpp	/^SYSTEM_INFO system_info_()$/;"	f	namespace:boost::coroutines::detail	signature:()
+trampoline1	/usr/include/boost/coroutine/detail/coroutine_object.hpp	/^void trampoline1( intptr_t vp)$/;"	f	namespace:boost::coroutines::detail	signature:( intptr_t vp)
+trampoline2	/usr/include/boost/coroutine/detail/coroutine_object.hpp	/^void trampoline2( intptr_t vp)$/;"	f	namespace:boost::coroutines::detail	signature:( intptr_t vp)
+type	/usr/include/boost/coroutine/coroutine.hpp	/^               >::type = 0) :$/;"	m	class:boost::coroutines::coroutine::disable_if	access:public
+type	/usr/include/boost/coroutine/coroutine.hpp	/^{ typedef C< typename detail::arg< Signature >::type( Result), 1 > type; };$/;"	t	struct:boost::coroutines::detail::caller	access:public
+type	/usr/include/boost/coroutine/coroutine.hpp	/^{ typedef C< typename detail::arg< Signature >::type(), 0 > type; };$/;"	t	struct:boost::coroutines::detail::caller	access:public
+type	/usr/include/boost/coroutine/coroutine.hpp	/^{ typedef C< void( Result), 1 > type; };$/;"	t	struct:boost::coroutines::detail::caller	access:public
+type	/usr/include/boost/coroutine/coroutine.hpp	/^{ typedef C< void(), 0 > type; };$/;"	t	struct:boost::coroutines::detail::caller	access:public
+type	/usr/include/boost/coroutine/coroutine.hpp	/^{ typedef typename coroutines::coroutine< Signature >::const_iterator type; };$/;"	t	struct:boost::range_const_iterator	access:public
+type	/usr/include/boost/coroutine/coroutine.hpp	/^{ typedef typename coroutines::coroutine< Signature >::iterator type; };$/;"	t	struct:boost::range_mutable_iterator	access:public
+type	/usr/include/boost/coroutine/detail/arg.hpp	/^    typedef typename function_traits< Signature >::arg1_type    type;$/;"	t	struct:boost::coroutines::detail::arg	access:public
+use_count_	/usr/include/boost/coroutine/detail/coroutine_base.hpp	/^    unsigned int            use_count_;$/;"	m	class:boost::coroutines::detail::coroutine_base	access:private
+val_	/usr/include/boost/coroutine/detail/coroutine_op.hpp	/^        optional< Result >  val_;$/;"	m	class:boost::coroutines::detail::coroutine_op::iterator	access:private
+val_	/usr/include/boost/coroutine/detail/coroutine_op.hpp	/^        optional< const Result >    val_;$/;"	m	class:boost::coroutines::detail::coroutine_op::const_iterator	access:private
+~coroutine_base	/usr/include/boost/coroutine/detail/coroutine_base.hpp	/^    virtual ~coroutine_base()$/;"	f	class:boost::coroutines::detail::coroutine_base	access:public	signature:()
+~coroutine_object	/usr/include/boost/coroutine/detail/coroutine_object_result_0.ipp	/^    ~coroutine_object()$/;"	f	class:coroutine_object	access:public	signature:()
+~coroutine_object	/usr/include/boost/coroutine/detail/coroutine_object_result_1.ipp	/^    ~coroutine_object()$/;"	f	class:coroutine_object	access:public	signature:()
+~coroutine_object	/usr/include/boost/coroutine/detail/coroutine_object_result_arity.ipp	/^    ~coroutine_object()$/;"	f	class:coroutine_object	access:public	signature:()
+~coroutine_object	/usr/include/boost/coroutine/detail/coroutine_object_void_0.ipp	/^    ~coroutine_object()$/;"	f	class:coroutine_object	access:public	signature:()
+~coroutine_object	/usr/include/boost/coroutine/detail/coroutine_object_void_1.ipp	/^    ~coroutine_object()$/;"	f	class:coroutine_object	access:public	signature:()
+~coroutine_object	/usr/include/boost/coroutine/detail/coroutine_object_void_arity.ipp	/^    ~coroutine_object()$/;"	f	class:coroutine_object	access:public	signature:()

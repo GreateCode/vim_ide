@@ -1,0 +1,705 @@
+!_TAG_FILE_FORMAT	2	/extended format; --format=1 will not append ;" to lines/
+!_TAG_FILE_SORTED	1	/0=unsorted, 1=sorted, 2=foldcase/
+!_TAG_PROGRAM_AUTHOR	Darren Hiebert	/dhiebert@users.sourceforge.net/
+!_TAG_PROGRAM_NAME	Exuberant Ctags	//
+!_TAG_PROGRAM_URL	http://ctags.sourceforge.net	/official site/
+!_TAG_PROGRAM_VERSION	5.8	//
+BOOST_FLYWEIGHT_01	/usr/include/boost/flyweight/detail/dyn_perfect_fwd.hpp	44;"	d
+BOOST_FLYWEIGHT_01	/usr/include/boost/flyweight/detail/dyn_perfect_fwd.hpp	65;"	d
+BOOST_FLYWEIGHT_ASSOC_CONTAINER_FACTORY_FWD_HPP	/usr/include/boost/flyweight/assoc_container_factory_fwd.hpp	10;"	d
+BOOST_FLYWEIGHT_ASSOC_CONTAINER_FACTORY_HPP	/usr/include/boost/flyweight/assoc_container_factory.hpp	10;"	d
+BOOST_FLYWEIGHT_COMPLETE_COMP_OPS	/usr/include/boost/flyweight/flyweight.hpp	296;"	d
+BOOST_FLYWEIGHT_COMPLETE_COMP_OPS	/usr/include/boost/flyweight/flyweight.hpp	399;"	d
+BOOST_FLYWEIGHT_COMPLETE_COMP_OPS_DECL	/usr/include/boost/flyweight/flyweight_fwd.hpp	162;"	d
+BOOST_FLYWEIGHT_COMPLETE_COMP_OPS_DECL	/usr/include/boost/flyweight/flyweight_fwd.hpp	88;"	d
+BOOST_FLYWEIGHT_CONST	/usr/include/boost/flyweight/detail/dyn_perfect_fwd.hpp	21;"	d
+BOOST_FLYWEIGHT_CONST	/usr/include/boost/flyweight/detail/dyn_perfect_fwd.hpp	70;"	d
+BOOST_FLYWEIGHT_CONST0	/usr/include/boost/flyweight/detail/dyn_perfect_fwd.hpp	22;"	d
+BOOST_FLYWEIGHT_CONST0	/usr/include/boost/flyweight/detail/dyn_perfect_fwd.hpp	69;"	d
+BOOST_FLYWEIGHT_CONST1	/usr/include/boost/flyweight/detail/dyn_perfect_fwd.hpp	23;"	d
+BOOST_FLYWEIGHT_CONST1	/usr/include/boost/flyweight/detail/dyn_perfect_fwd.hpp	68;"	d
+BOOST_FLYWEIGHT_DETAIL_DEFAULT_VALUE_POLICY_HPP	/usr/include/boost/flyweight/detail/default_value_policy.hpp	10;"	d
+BOOST_FLYWEIGHT_DETAIL_FLYWEIGHT_CORE_HPP	/usr/include/boost/flyweight/detail/flyweight_core.hpp	10;"	d
+BOOST_FLYWEIGHT_DETAIL_IS_PLACEHOLDER_EXPR_HPP	/usr/include/boost/flyweight/detail/is_placeholder_expr.hpp	10;"	d
+BOOST_FLYWEIGHT_DETAIL_NESTED_XXX_IF_NOT_PH_HPP	/usr/include/boost/flyweight/detail/nested_xxx_if_not_ph.hpp	10;"	d
+BOOST_FLYWEIGHT_DETAIL_NOT_PLACEHOLDER_EXPR_HPP	/usr/include/boost/flyweight/detail/not_placeholder_expr.hpp	10;"	d
+BOOST_FLYWEIGHT_DETAIL_RECURSIVE_LW_MUTEX_HPP	/usr/include/boost/flyweight/detail/recursive_lw_mutex.hpp	10;"	d
+BOOST_FLYWEIGHT_DETAIL_VALUE_TAG_HPP	/usr/include/boost/flyweight/detail/value_tag.hpp	10;"	d
+BOOST_FLYWEIGHT_FACTORY_TAG_HPP	/usr/include/boost/flyweight/factory_tag.hpp	10;"	d
+BOOST_FLYWEIGHT_FLYWEIGHT_FWD_HPP	/usr/include/boost/flyweight/flyweight_fwd.hpp	10;"	d
+BOOST_FLYWEIGHT_FLYWEIGHT_HPP	/usr/include/boost/flyweight/flyweight.hpp	12;"	d
+BOOST_FLYWEIGHT_HASHED_FACTORY_FWD_HPP	/usr/include/boost/flyweight/hashed_factory_fwd.hpp	10;"	d
+BOOST_FLYWEIGHT_HASHED_FACTORY_HPP	/usr/include/boost/flyweight/hashed_factory.hpp	10;"	d
+BOOST_FLYWEIGHT_HOLDER_TAG_HPP	/usr/include/boost/flyweight/holder_tag.hpp	10;"	d
+BOOST_FLYWEIGHT_INTERMODULE_HOLDER_FWD_HPP	/usr/include/boost/flyweight/intermodule_holder_fwd.hpp	10;"	d
+BOOST_FLYWEIGHT_INTERMODULE_HOLDER_HPP	/usr/include/boost/flyweight/intermodule_holder.hpp	10;"	d
+BOOST_FLYWEIGHT_KEY_VALUE_FWD_HPP	/usr/include/boost/flyweight/key_value_fwd.hpp	10;"	d
+BOOST_FLYWEIGHT_KEY_VALUE_HPP	/usr/include/boost/flyweight/key_value.hpp	10;"	d
+BOOST_FLYWEIGHT_LIMIT_PERFECT_FWD_ARGS	/usr/include/boost/flyweight/detail/perfect_fwd.hpp	21;"	d
+BOOST_FLYWEIGHT_LOCKING_TAG_HPP	/usr/include/boost/flyweight/locking_tag.hpp	10;"	d
+BOOST_FLYWEIGHT_NESTED_XXX_IF_NOT_PLACEHOLDER_EXPRESSION_DEF	/usr/include/boost/flyweight/assoc_container_factory.hpp	/^BOOST_FLYWEIGHT_NESTED_XXX_IF_NOT_PLACEHOLDER_EXPRESSION_DEF(iterator);$/;"	p	namespace:boost::flyweights::detail	signature:(iterator)
+BOOST_FLYWEIGHT_NESTED_XXX_IF_NOT_PLACEHOLDER_EXPRESSION_DEF	/usr/include/boost/flyweight/assoc_container_factory.hpp	/^BOOST_FLYWEIGHT_NESTED_XXX_IF_NOT_PLACEHOLDER_EXPRESSION_DEF(value_type);$/;"	p	namespace:boost::flyweights::detail	signature:(value_type)
+BOOST_FLYWEIGHT_NESTED_XXX_IF_NOT_PLACEHOLDER_EXPRESSION_DEF	/usr/include/boost/flyweight/detail/nested_xxx_if_not_ph.hpp	23;"	d
+BOOST_FLYWEIGHT_NOT_A_PLACEHOLDER_EXPRESSION	/usr/include/boost/flyweight/detail/not_placeholder_expr.hpp	46;"	d
+BOOST_FLYWEIGHT_NOT_A_PLACEHOLDER_EXPRESSION	/usr/include/boost/flyweight/detail/not_placeholder_expr.hpp	54;"	d
+BOOST_FLYWEIGHT_NOT_A_PLACEHOLDER_EXPRESSION_DEF	/usr/include/boost/flyweight/detail/not_placeholder_expr.hpp	49;"	d
+BOOST_FLYWEIGHT_NOT_A_PLACEHOLDER_EXPRESSION_DEF	/usr/include/boost/flyweight/detail/not_placeholder_expr.hpp	55;"	d
+BOOST_FLYWEIGHT_NO_LOCKING_FWD_HPP	/usr/include/boost/flyweight/no_locking_fwd.hpp	10;"	d
+BOOST_FLYWEIGHT_NO_LOCKING_HPP	/usr/include/boost/flyweight/no_locking.hpp	10;"	d
+BOOST_FLYWEIGHT_NO_TRACKING_FWD_HPP	/usr/include/boost/flyweight/no_tracking_fwd.hpp	10;"	d
+BOOST_FLYWEIGHT_NO_TRACKING_HPP	/usr/include/boost/flyweight/no_tracking.hpp	10;"	d
+BOOST_FLYWEIGHT_PERFECT_FWD	/usr/include/boost/flyweight/detail/dyn_perfect_fwd.hpp	37;"	d
+BOOST_FLYWEIGHT_PERFECT_FWD	/usr/include/boost/flyweight/detail/dyn_perfect_fwd.hpp	66;"	d
+BOOST_FLYWEIGHT_PERFECT_FWDS_1	/usr/include/boost/flyweight/detail/pp_perfect_fwd.hpp	12;"	d
+BOOST_FLYWEIGHT_PERFECT_FWDS_1	/usr/include/boost/flyweight/detail/pp_perfect_fwd.hpp	131;"	d
+BOOST_FLYWEIGHT_PERFECT_FWDS_2	/usr/include/boost/flyweight/detail/pp_perfect_fwd.hpp	135;"	d
+BOOST_FLYWEIGHT_PERFECT_FWDS_2	/usr/include/boost/flyweight/detail/pp_perfect_fwd.hpp	18;"	d
+BOOST_FLYWEIGHT_PERFECT_FWDS_3	/usr/include/boost/flyweight/detail/pp_perfect_fwd.hpp	139;"	d
+BOOST_FLYWEIGHT_PERFECT_FWDS_3	/usr/include/boost/flyweight/detail/pp_perfect_fwd.hpp	26;"	d
+BOOST_FLYWEIGHT_PERFECT_FWDS_4	/usr/include/boost/flyweight/detail/pp_perfect_fwd.hpp	143;"	d
+BOOST_FLYWEIGHT_PERFECT_FWDS_4	/usr/include/boost/flyweight/detail/pp_perfect_fwd.hpp	38;"	d
+BOOST_FLYWEIGHT_PERFECT_FWDS_5	/usr/include/boost/flyweight/detail/pp_perfect_fwd.hpp	147;"	d
+BOOST_FLYWEIGHT_PERFECT_FWDS_5	/usr/include/boost/flyweight/detail/pp_perfect_fwd.hpp	58;"	d
+BOOST_FLYWEIGHT_PERFECT_FWDS_N	/usr/include/boost/flyweight/detail/dyn_perfect_fwd.hpp	48;"	d
+BOOST_FLYWEIGHT_PERFECT_FWD_ARG	/usr/include/boost/flyweight/detail/dyn_perfect_fwd.hpp	29;"	d
+BOOST_FLYWEIGHT_PERFECT_FWD_ARG	/usr/include/boost/flyweight/detail/dyn_perfect_fwd.hpp	67;"	d
+BOOST_FLYWEIGHT_PERFECT_FWD_BODY	/usr/include/boost/flyweight/detail/default_value_policy.hpp	39;"	d
+BOOST_FLYWEIGHT_PERFECT_FWD_BODY	/usr/include/boost/flyweight/detail/dyn_perfect_fwd.hpp	74;"	d
+BOOST_FLYWEIGHT_PERFECT_FWD_BODY	/usr/include/boost/flyweight/detail/flyweight_core.hpp	122;"	d
+BOOST_FLYWEIGHT_PERFECT_FWD_BODY	/usr/include/boost/flyweight/detail/pp_perfect_fwd.hpp	153;"	d
+BOOST_FLYWEIGHT_PERFECT_FWD_BODY	/usr/include/boost/flyweight/flyweight.hpp	192;"	d
+BOOST_FLYWEIGHT_PERFECT_FWD_BODY	/usr/include/boost/flyweight/key_value.hpp	163;"	d
+BOOST_FLYWEIGHT_PERFECT_FWD_BODY	/usr/include/boost/flyweight/key_value.hpp	58;"	d
+BOOST_FLYWEIGHT_PERFECT_FWD_NAME	/usr/include/boost/flyweight/detail/default_value_policy.hpp	38;"	d
+BOOST_FLYWEIGHT_PERFECT_FWD_NAME	/usr/include/boost/flyweight/detail/dyn_perfect_fwd.hpp	75;"	d
+BOOST_FLYWEIGHT_PERFECT_FWD_NAME	/usr/include/boost/flyweight/detail/flyweight_core.hpp	121;"	d
+BOOST_FLYWEIGHT_PERFECT_FWD_NAME	/usr/include/boost/flyweight/detail/pp_perfect_fwd.hpp	152;"	d
+BOOST_FLYWEIGHT_PERFECT_FWD_NAME	/usr/include/boost/flyweight/flyweight.hpp	191;"	d
+BOOST_FLYWEIGHT_PERFECT_FWD_NAME	/usr/include/boost/flyweight/key_value.hpp	162;"	d
+BOOST_FLYWEIGHT_PERFECT_FWD_NAME	/usr/include/boost/flyweight/key_value.hpp	57;"	d
+BOOST_FLYWEIGHT_PERFECT_FWD_OVERLOADS	/usr/include/boost/flyweight/detail/dyn_perfect_fwd.hpp	53;"	d
+BOOST_FLYWEIGHT_PERFECT_FWD_OVERLOADS	/usr/include/boost/flyweight/detail/dyn_perfect_fwd.hpp	64;"	d
+BOOST_FLYWEIGHT_PERFECT_FWD_OVERLOADS	/usr/include/boost/flyweight/detail/pp_perfect_fwd.hpp	103;"	d
+BOOST_FLYWEIGHT_PERFECT_FWD_OVERLOADS	/usr/include/boost/flyweight/detail/pp_perfect_fwd.hpp	108;"	d
+BOOST_FLYWEIGHT_PERFECT_FWD_OVERLOADS	/usr/include/boost/flyweight/detail/pp_perfect_fwd.hpp	114;"	d
+BOOST_FLYWEIGHT_PERFECT_FWD_OVERLOADS	/usr/include/boost/flyweight/detail/pp_perfect_fwd.hpp	128;"	d
+BOOST_FLYWEIGHT_PERFECT_FWD_OVERLOADS	/usr/include/boost/flyweight/detail/pp_perfect_fwd.hpp	94;"	d
+BOOST_FLYWEIGHT_PERFECT_FWD_OVERLOADS	/usr/include/boost/flyweight/detail/pp_perfect_fwd.hpp	96;"	d
+BOOST_FLYWEIGHT_PERFECT_FWD_OVERLOADS	/usr/include/boost/flyweight/detail/pp_perfect_fwd.hpp	99;"	d
+BOOST_FLYWEIGHT_REFCOUNTED_FWD_HPP	/usr/include/boost/flyweight/refcounted_fwd.hpp	10;"	d
+BOOST_FLYWEIGHT_REFCOUNTED_HPP	/usr/include/boost/flyweight/refcounted.hpp	10;"	d
+BOOST_FLYWEIGHT_SET_FACTORY_FWD_HPP	/usr/include/boost/flyweight/set_factory_fwd.hpp	10;"	d
+BOOST_FLYWEIGHT_SET_FACTORY_HPP	/usr/include/boost/flyweight/set_factory.hpp	10;"	d
+BOOST_FLYWEIGHT_SIMPLE_LOCKING_FWD_HPP	/usr/include/boost/flyweight/simple_locking_fwd.hpp	10;"	d
+BOOST_FLYWEIGHT_SIMPLE_LOCKING_HPP	/usr/include/boost/flyweight/simple_locking.hpp	10;"	d
+BOOST_FLYWEIGHT_STATIC_HOLDER_FWD_HPP	/usr/include/boost/flyweight/static_holder_fwd.hpp	10;"	d
+BOOST_FLYWEIGHT_STATIC_HOLDER_HPP	/usr/include/boost/flyweight/static_holder.hpp	10;"	d
+BOOST_FLYWEIGHT_TAG_HPP	/usr/include/boost/flyweight/tag.hpp	10;"	d
+BOOST_FLYWEIGHT_TEMPL_ARGS	/usr/include/boost/flyweight/flyweight.hpp	223;"	d
+BOOST_FLYWEIGHT_TEMPL_ARGS	/usr/include/boost/flyweight/flyweight.hpp	400;"	d
+BOOST_FLYWEIGHT_TEMPL_ARGS	/usr/include/boost/flyweight/flyweight_fwd.hpp	163;"	d
+BOOST_FLYWEIGHT_TEMPL_ARGS	/usr/include/boost/flyweight/flyweight_fwd.hpp	39;"	d
+BOOST_FLYWEIGHT_TRACKING_TAG_HPP	/usr/include/boost/flyweight/tracking_tag.hpp	10;"	d
+BOOST_FLYWEIGHT_TYPENAME_TEMPL_ARGS	/usr/include/boost/flyweight/flyweight.hpp	220;"	d
+BOOST_FLYWEIGHT_TYPENAME_TEMPL_ARGS	/usr/include/boost/flyweight/flyweight.hpp	401;"	d
+BOOST_FLYWEIGHT_TYPENAME_TEMPL_ARGS	/usr/include/boost/flyweight/flyweight_fwd.hpp	164;"	d
+BOOST_FLYWEIGHT_TYPENAME_TEMPL_ARGS	/usr/include/boost/flyweight/flyweight_fwd.hpp	36;"	d
+BOOST_MPL_ASSERT_MSG	/usr/include/boost/flyweight/flyweight.hpp	/^  BOOST_MPL_ASSERT_MSG($/;"	p	class:boost::flyweights::flyweight	access:private	signature:(is_same<unmatched_arg_detected,detail::unmatched_arg>::value), INVALID_ARGUMENT_TO_FLYWEIGHT, (flyweight)
+BOOST_MPL_ASSERT_MSG	/usr/include/boost/flyweight/key_value.hpp	/^      BOOST_MPL_ASSERT_MSG($/;"	p	struct:boost::flyweights::detail::regular_key_value::rep_type::no_key_from_value_failure	access:public	signature:( false, NO_KEY_FROM_VALUE_CONVERSION_PROVIDED, (key_type,value_type))
+add_deleter	/usr/include/boost/flyweight/refcounted.hpp	/^  void add_deleter()const{++del_ref;}$/;"	f	class:boost::flyweights::detail::refcounted_value	access:private	signature:() const
+add_ref	/usr/include/boost/flyweight/refcounted.hpp	/^  long add_ref()const{return ++ref;}$/;"	f	class:boost::flyweights::detail::refcounted_value	access:private	signature:() const
+apply	/usr/include/boost/flyweight/assoc_container_factory.hpp	/^  struct apply$/;"	s	struct:boost::flyweights::assoc_container_factory	access:public
+apply	/usr/include/boost/flyweight/detail/is_placeholder_expr.hpp	/^  struct apply{$/;"	s	struct:boost::flyweights::detail::is_placeholder_expression_helper	access:public
+apply	/usr/include/boost/flyweight/hashed_factory.hpp	/^  struct apply:$/;"	s	struct:boost::flyweights::hashed_factory	inherits:mpl::apply2	access:public
+apply	/usr/include/boost/flyweight/intermodule_holder.hpp	/^  struct apply$/;"	s	struct:boost::flyweights::intermodule_holder	access:public
+apply	/usr/include/boost/flyweight/no_tracking.hpp	/^    struct apply{typedef Handle type;};$/;"	s	struct:boost::flyweights::no_tracking::handle_type	access:public
+apply	/usr/include/boost/flyweight/no_tracking.hpp	/^    struct apply{typedef Value type;};$/;"	s	struct:boost::flyweights::no_tracking::entry_type	access:public
+apply	/usr/include/boost/flyweight/refcounted.hpp	/^    struct apply$/;"	s	struct:boost::flyweights::refcounted::entry_type	access:public
+apply	/usr/include/boost/flyweight/refcounted.hpp	/^    struct apply$/;"	s	struct:boost::flyweights::refcounted::handle_type	access:public
+apply	/usr/include/boost/flyweight/set_factory.hpp	/^  struct apply:$/;"	s	struct:boost::flyweights::set_factory	inherits:mpl::apply2	access:public
+apply	/usr/include/boost/flyweight/static_holder.hpp	/^  struct apply$/;"	s	struct:boost::flyweights::static_holder	access:public
+args	/usr/include/boost/flyweight/flyweight.hpp	/^  >::type                                 args;$/;"	t	class:boost::flyweights::flyweight	access:private
+assoc_container_factory	/usr/include/boost/flyweight/assoc_container_factory.hpp	/^struct assoc_container_factory:factory_marker$/;"	s	namespace:boost::flyweights	inherits:factory_marker
+assoc_container_factory_class	/usr/include/boost/flyweight/assoc_container_factory.hpp	/^class assoc_container_factory_class:public factory_marker$/;"	c	namespace:boost::flyweights	inherits:factory_marker
+b	/usr/include/boost/flyweight/flyweight.hpp	/^    bool b;$/;"	m	class:boost::flyweights::flyweight::initializer	access:private
+base_handle_type	/usr/include/boost/flyweight/detail/flyweight_core.hpp	/^  typedef typename factory_type::handle_type base_handle_type;$/;"	t	class:boost::flyweights::detail::flyweight_core	access:public
+boost	/usr/include/boost/flyweight/assoc_container_factory.hpp	/^namespace boost{$/;"	n
+boost	/usr/include/boost/flyweight/assoc_container_factory.hpp	/^namespace boost{namespace flyweights{namespace detail{$/;"	n
+boost	/usr/include/boost/flyweight/assoc_container_factory_fwd.hpp	/^namespace boost{$/;"	n
+boost	/usr/include/boost/flyweight/detail/default_value_policy.hpp	/^namespace boost{$/;"	n
+boost	/usr/include/boost/flyweight/detail/flyweight_core.hpp	/^namespace boost{$/;"	n
+boost	/usr/include/boost/flyweight/detail/is_placeholder_expr.hpp	/^namespace boost{$/;"	n
+boost	/usr/include/boost/flyweight/detail/recursive_lw_mutex.hpp	/^namespace boost{$/;"	n
+boost	/usr/include/boost/flyweight/detail/value_tag.hpp	/^namespace boost{$/;"	n
+boost	/usr/include/boost/flyweight/factory_tag.hpp	/^namespace boost{$/;"	n
+boost	/usr/include/boost/flyweight/flyweight.hpp	/^namespace boost{$/;"	n
+boost	/usr/include/boost/flyweight/flyweight_fwd.hpp	/^namespace boost{$/;"	n
+boost	/usr/include/boost/flyweight/hashed_factory.hpp	/^namespace boost{$/;"	n
+boost	/usr/include/boost/flyweight/hashed_factory_fwd.hpp	/^namespace boost{$/;"	n
+boost	/usr/include/boost/flyweight/holder_tag.hpp	/^namespace boost{$/;"	n
+boost	/usr/include/boost/flyweight/intermodule_holder.hpp	/^namespace boost{$/;"	n
+boost	/usr/include/boost/flyweight/intermodule_holder_fwd.hpp	/^namespace boost{$/;"	n
+boost	/usr/include/boost/flyweight/key_value.hpp	/^namespace boost{$/;"	n
+boost	/usr/include/boost/flyweight/key_value_fwd.hpp	/^namespace boost{$/;"	n
+boost	/usr/include/boost/flyweight/locking_tag.hpp	/^namespace boost{$/;"	n
+boost	/usr/include/boost/flyweight/no_locking.hpp	/^namespace boost{$/;"	n
+boost	/usr/include/boost/flyweight/no_locking_fwd.hpp	/^namespace boost{$/;"	n
+boost	/usr/include/boost/flyweight/no_tracking.hpp	/^namespace boost{$/;"	n
+boost	/usr/include/boost/flyweight/no_tracking_fwd.hpp	/^namespace boost{$/;"	n
+boost	/usr/include/boost/flyweight/refcounted.hpp	/^namespace boost{$/;"	n
+boost	/usr/include/boost/flyweight/refcounted_fwd.hpp	/^namespace boost{$/;"	n
+boost	/usr/include/boost/flyweight/set_factory.hpp	/^namespace boost{$/;"	n
+boost	/usr/include/boost/flyweight/set_factory_fwd.hpp	/^namespace boost{$/;"	n
+boost	/usr/include/boost/flyweight/simple_locking.hpp	/^namespace boost{$/;"	n
+boost	/usr/include/boost/flyweight/simple_locking_fwd.hpp	/^namespace boost{$/;"	n
+boost	/usr/include/boost/flyweight/static_holder.hpp	/^namespace boost{$/;"	n
+boost	/usr/include/boost/flyweight/static_holder_fwd.hpp	/^namespace boost{$/;"	n
+boost	/usr/include/boost/flyweight/tag.hpp	/^namespace boost{$/;"	n
+boost	/usr/include/boost/flyweight/tracking_tag.hpp	/^namespace boost{$/;"	n
+boost::flyweights	/usr/include/boost/flyweight/assoc_container_factory.hpp	/^namespace boost{namespace flyweights{namespace detail{$/;"	n	namespace:boost
+boost::flyweights	/usr/include/boost/flyweight/assoc_container_factory.hpp	/^namespace flyweights{$/;"	n	namespace:boost
+boost::flyweights	/usr/include/boost/flyweight/assoc_container_factory_fwd.hpp	/^namespace flyweights{$/;"	n	namespace:boost
+boost::flyweights	/usr/include/boost/flyweight/detail/default_value_policy.hpp	/^namespace flyweights{$/;"	n	namespace:boost
+boost::flyweights	/usr/include/boost/flyweight/detail/flyweight_core.hpp	/^namespace flyweights{$/;"	n	namespace:boost
+boost::flyweights	/usr/include/boost/flyweight/detail/is_placeholder_expr.hpp	/^namespace flyweights{$/;"	n	namespace:boost
+boost::flyweights	/usr/include/boost/flyweight/detail/recursive_lw_mutex.hpp	/^namespace flyweights{$/;"	n	namespace:boost
+boost::flyweights	/usr/include/boost/flyweight/detail/value_tag.hpp	/^namespace flyweights{$/;"	n	namespace:boost
+boost::flyweights	/usr/include/boost/flyweight/factory_tag.hpp	/^namespace flyweights{$/;"	n	namespace:boost
+boost::flyweights	/usr/include/boost/flyweight/flyweight.hpp	/^namespace flyweights{$/;"	n	namespace:boost
+boost::flyweights	/usr/include/boost/flyweight/flyweight_fwd.hpp	/^namespace flyweights{$/;"	n	namespace:boost
+boost::flyweights	/usr/include/boost/flyweight/hashed_factory.hpp	/^namespace flyweights{$/;"	n	namespace:boost
+boost::flyweights	/usr/include/boost/flyweight/hashed_factory_fwd.hpp	/^namespace flyweights{$/;"	n	namespace:boost
+boost::flyweights	/usr/include/boost/flyweight/holder_tag.hpp	/^namespace flyweights{$/;"	n	namespace:boost
+boost::flyweights	/usr/include/boost/flyweight/intermodule_holder.hpp	/^namespace flyweights{$/;"	n	namespace:boost
+boost::flyweights	/usr/include/boost/flyweight/intermodule_holder_fwd.hpp	/^namespace flyweights{$/;"	n	namespace:boost
+boost::flyweights	/usr/include/boost/flyweight/key_value.hpp	/^namespace flyweights{$/;"	n	namespace:boost
+boost::flyweights	/usr/include/boost/flyweight/key_value_fwd.hpp	/^namespace flyweights{$/;"	n	namespace:boost
+boost::flyweights	/usr/include/boost/flyweight/locking_tag.hpp	/^namespace flyweights{$/;"	n	namespace:boost
+boost::flyweights	/usr/include/boost/flyweight/no_locking.hpp	/^namespace flyweights{$/;"	n	namespace:boost
+boost::flyweights	/usr/include/boost/flyweight/no_locking_fwd.hpp	/^namespace flyweights{$/;"	n	namespace:boost
+boost::flyweights	/usr/include/boost/flyweight/no_tracking.hpp	/^namespace flyweights{$/;"	n	namespace:boost
+boost::flyweights	/usr/include/boost/flyweight/no_tracking_fwd.hpp	/^namespace flyweights{$/;"	n	namespace:boost
+boost::flyweights	/usr/include/boost/flyweight/refcounted.hpp	/^namespace flyweights{$/;"	n	namespace:boost
+boost::flyweights	/usr/include/boost/flyweight/refcounted_fwd.hpp	/^namespace flyweights{$/;"	n	namespace:boost
+boost::flyweights	/usr/include/boost/flyweight/set_factory.hpp	/^namespace flyweights{$/;"	n	namespace:boost
+boost::flyweights	/usr/include/boost/flyweight/set_factory_fwd.hpp	/^namespace flyweights{$/;"	n	namespace:boost
+boost::flyweights	/usr/include/boost/flyweight/simple_locking.hpp	/^namespace flyweights{$/;"	n	namespace:boost
+boost::flyweights	/usr/include/boost/flyweight/simple_locking_fwd.hpp	/^namespace flyweights{$/;"	n	namespace:boost
+boost::flyweights	/usr/include/boost/flyweight/static_holder.hpp	/^namespace flyweights{$/;"	n	namespace:boost
+boost::flyweights	/usr/include/boost/flyweight/static_holder_fwd.hpp	/^namespace flyweights{$/;"	n	namespace:boost
+boost::flyweights	/usr/include/boost/flyweight/tag.hpp	/^namespace flyweights{$/;"	n	namespace:boost
+boost::flyweights	/usr/include/boost/flyweight/tracking_tag.hpp	/^namespace flyweights{$/;"	n	namespace:boost
+boost::flyweights::assoc_container_factory	/usr/include/boost/flyweight/assoc_container_factory.hpp	/^struct assoc_container_factory:factory_marker$/;"	s	namespace:boost::flyweights	inherits:factory_marker
+boost::flyweights::assoc_container_factory::apply	/usr/include/boost/flyweight/assoc_container_factory.hpp	/^  struct apply$/;"	s	struct:boost::flyweights::assoc_container_factory	access:public
+boost::flyweights::assoc_container_factory::apply::type	/usr/include/boost/flyweight/assoc_container_factory.hpp	/^    > type;$/;"	t	struct:boost::flyweights::assoc_container_factory::apply	access:public
+boost::flyweights::assoc_container_factory_class	/usr/include/boost/flyweight/assoc_container_factory.hpp	/^class assoc_container_factory_class:public factory_marker$/;"	c	namespace:boost::flyweights	inherits:factory_marker
+boost::flyweights::assoc_container_factory_class::cont	/usr/include/boost/flyweight/assoc_container_factory.hpp	/^  container_type cont;$/;"	m	class:boost::flyweights::assoc_container_factory_class	access:private
+boost::flyweights::assoc_container_factory_class::container_type	/usr/include/boost/flyweight/assoc_container_factory.hpp	/^  >::type container_type;$/;"	t	class:boost::flyweights::assoc_container_factory_class	access:private
+boost::flyweights::assoc_container_factory_class::entry	/usr/include/boost/flyweight/assoc_container_factory.hpp	/^  static const entry_type& entry(handle_type h){return *h;}$/;"	f	class:boost::flyweights::assoc_container_factory_class	access:public	signature:(handle_type h)
+boost::flyweights::assoc_container_factory_class::entry_type	/usr/include/boost/flyweight/assoc_container_factory.hpp	/^  >::type                                entry_type;$/;"	t	class:boost::flyweights::assoc_container_factory_class	access:public
+boost::flyweights::assoc_container_factory_class::erase	/usr/include/boost/flyweight/assoc_container_factory.hpp	/^  void erase(handle_type h)$/;"	f	class:boost::flyweights::assoc_container_factory_class	access:public	signature:(handle_type h)
+boost::flyweights::assoc_container_factory_class::handle_type	/usr/include/boost/flyweight/assoc_container_factory.hpp	/^  >::type                                handle_type;$/;"	t	class:boost::flyweights::assoc_container_factory_class	access:public
+boost::flyweights::assoc_container_factory_class::insert	/usr/include/boost/flyweight/assoc_container_factory.hpp	/^  handle_type insert(const entry_type& x)$/;"	f	class:boost::flyweights::assoc_container_factory_class	access:public	signature:(const entry_type& x)
+boost::flyweights::assoc_container_factory_class::type	/usr/include/boost/flyweight/assoc_container_factory.hpp	/^  typedef assoc_container_factory_class type;$/;"	t	class:boost::flyweights::assoc_container_factory_class	access:public
+boost::flyweights::detail	/usr/include/boost/flyweight/assoc_container_factory.hpp	/^namespace boost{namespace flyweights{namespace detail{$/;"	n	namespace:boost::flyweights
+boost::flyweights::detail	/usr/include/boost/flyweight/detail/default_value_policy.hpp	/^namespace detail{$/;"	n	namespace:boost::flyweights
+boost::flyweights::detail	/usr/include/boost/flyweight/detail/flyweight_core.hpp	/^namespace detail{$/;"	n	namespace:boost::flyweights
+boost::flyweights::detail	/usr/include/boost/flyweight/detail/is_placeholder_expr.hpp	/^namespace detail{$/;"	n	namespace:boost::flyweights
+boost::flyweights::detail	/usr/include/boost/flyweight/detail/recursive_lw_mutex.hpp	/^namespace detail{$/;"	n	namespace:boost::flyweights
+boost::flyweights::detail	/usr/include/boost/flyweight/detail/value_tag.hpp	/^namespace detail{$/;"	n	namespace:boost::flyweights
+boost::flyweights::detail	/usr/include/boost/flyweight/flyweight.hpp	/^namespace detail{$/;"	n	namespace:boost::flyweights
+boost::flyweights::detail	/usr/include/boost/flyweight/key_value.hpp	/^namespace detail{$/;"	n	namespace:boost::flyweights
+boost::flyweights::detail	/usr/include/boost/flyweight/refcounted.hpp	/^namespace detail{$/;"	n	namespace:boost::flyweights
+boost::flyweights::detail	/usr/include/boost/flyweight/tag.hpp	/^namespace detail{$/;"	n	namespace:boost::flyweights
+boost::flyweights::detail::BOOST_FLYWEIGHT_NESTED_XXX_IF_NOT_PLACEHOLDER_EXPRESSION_DEF	/usr/include/boost/flyweight/assoc_container_factory.hpp	/^BOOST_FLYWEIGHT_NESTED_XXX_IF_NOT_PLACEHOLDER_EXPRESSION_DEF(iterator);$/;"	p	namespace:boost::flyweights::detail	signature:(iterator)
+boost::flyweights::detail::BOOST_FLYWEIGHT_NESTED_XXX_IF_NOT_PLACEHOLDER_EXPRESSION_DEF	/usr/include/boost/flyweight/assoc_container_factory.hpp	/^BOOST_FLYWEIGHT_NESTED_XXX_IF_NOT_PLACEHOLDER_EXPRESSION_DEF(value_type);$/;"	p	namespace:boost::flyweights::detail	signature:(value_type)
+boost::flyweights::detail::default_value_policy	/usr/include/boost/flyweight/detail/default_value_policy.hpp	/^struct default_value_policy:value_marker$/;"	s	namespace:boost::flyweights::detail	inherits:value_marker
+boost::flyweights::detail::default_value_policy::construct_value	/usr/include/boost/flyweight/detail/default_value_policy.hpp	/^  static void construct_value(const rep_type&){}$/;"	f	struct:boost::flyweights::detail::default_value_policy	access:public	signature:(const rep_type&)
+boost::flyweights::detail::default_value_policy::copy_value	/usr/include/boost/flyweight/detail/default_value_policy.hpp	/^  static void copy_value(const rep_type&){}$/;"	f	struct:boost::flyweights::detail::default_value_policy	access:public	signature:(const rep_type&)
+boost::flyweights::detail::default_value_policy::key_type	/usr/include/boost/flyweight/detail/default_value_policy.hpp	/^  typedef Value key_type;$/;"	t	struct:boost::flyweights::detail::default_value_policy	access:public
+boost::flyweights::detail::default_value_policy::rep_type	/usr/include/boost/flyweight/detail/default_value_policy.hpp	/^  struct rep_type$/;"	s	struct:boost::flyweights::detail::default_value_policy	access:public
+boost::flyweights::detail::default_value_policy::rep_type::operator const value_type&	/usr/include/boost/flyweight/detail/default_value_policy.hpp	/^    operator const value_type&()const{return x;}$/;"	f	struct:boost::flyweights::detail::default_value_policy::rep_type	access:public	signature:() const
+boost::flyweights::detail::default_value_policy::rep_type::x	/usr/include/boost/flyweight/detail/default_value_policy.hpp	/^    value_type x;$/;"	m	struct:boost::flyweights::detail::default_value_policy::rep_type	access:public
+boost::flyweights::detail::default_value_policy::value_type	/usr/include/boost/flyweight/detail/default_value_policy.hpp	/^  typedef Value value_type;$/;"	t	struct:boost::flyweights::detail::default_value_policy	access:public
+boost::flyweights::detail::flyweight_core	/usr/include/boost/flyweight/detail/flyweight_core.hpp	/^class flyweight_core$/;"	c	namespace:boost::flyweights::detail
+boost::flyweights::detail::flyweight_core::base_handle_type	/usr/include/boost/flyweight/detail/flyweight_core.hpp	/^  typedef typename factory_type::handle_type base_handle_type;$/;"	t	class:boost::flyweights::detail::flyweight_core	access:public
+boost::flyweights::detail::flyweight_core::entry	/usr/include/boost/flyweight/detail/flyweight_core.hpp	/^  static const entry_type& entry(const base_handle_type& h)$/;"	f	class:boost::flyweights::detail::flyweight_core	access:public	signature:(const base_handle_type& h)
+boost::flyweights::detail::flyweight_core::entry_type	/usr/include/boost/flyweight/detail/flyweight_core.hpp	/^  >::type                                    entry_type;$/;"	t	class:boost::flyweights::detail::flyweight_core	access:public
+boost::flyweights::detail::flyweight_core::factory	/usr/include/boost/flyweight/detail/flyweight_core.hpp	/^  static factory_type& factory()$/;"	f	class:boost::flyweights::detail::flyweight_core	access:public	signature:()
+boost::flyweights::detail::flyweight_core::factory_type	/usr/include/boost/flyweight/detail/flyweight_core.hpp	/^  >::type                                    factory_type;$/;"	t	class:boost::flyweights::detail::flyweight_core	access:public
+boost::flyweights::detail::flyweight_core::handle_type	/usr/include/boost/flyweight/detail/flyweight_core.hpp	/^  >::type                                    handle_type;$/;"	t	class:boost::flyweights::detail::flyweight_core	access:public
+boost::flyweights::detail::flyweight_core::holder_arg	/usr/include/boost/flyweight/detail/flyweight_core.hpp	/^  struct                              holder_arg$/;"	s	class:boost::flyweights::detail::flyweight_core	access:private
+boost::flyweights::detail::flyweight_core::holder_arg::factory	/usr/include/boost/flyweight/detail/flyweight_core.hpp	/^    factory_type factory;$/;"	m	struct:boost::flyweights::detail::flyweight_core::holder_arg	access:public
+boost::flyweights::detail::flyweight_core::holder_arg::mutex	/usr/include/boost/flyweight/detail/flyweight_core.hpp	/^    mutex_type   mutex;$/;"	m	struct:boost::flyweights::detail::flyweight_core::holder_arg	access:public
+boost::flyweights::detail::flyweight_core::holder_type	/usr/include/boost/flyweight/detail/flyweight_core.hpp	/^  >::type                             holder_type;$/;"	t	class:boost::flyweights::detail::flyweight_core	access:private
+boost::flyweights::detail::flyweight_core::init	/usr/include/boost/flyweight/detail/flyweight_core.hpp	/^  static bool init()$/;"	f	class:boost::flyweights::detail::flyweight_core	access:public	signature:()
+boost::flyweights::detail::flyweight_core::insert	/usr/include/boost/flyweight/detail/flyweight_core.hpp	/^  static handle_type insert(const value_type& x){return insert_value(x);}$/;"	f	class:boost::flyweights::detail::flyweight_core	access:public	signature:(const value_type& x)
+boost::flyweights::detail::flyweight_core::insert	/usr/include/boost/flyweight/detail/flyweight_core.hpp	/^  static handle_type insert(value_type& x){return insert_value(x);}$/;"	f	class:boost::flyweights::detail::flyweight_core	access:public	signature:(value_type& x)
+boost::flyweights::detail::flyweight_core::insert_rep	/usr/include/boost/flyweight/detail/flyweight_core.hpp	/^  static handle_type insert_rep(const rep_type& x)$/;"	f	class:boost::flyweights::detail::flyweight_core	access:private	signature:(const rep_type& x)
+boost::flyweights::detail::flyweight_core::insert_value	/usr/include/boost/flyweight/detail/flyweight_core.hpp	/^  static handle_type insert_value(const value_type& x)$/;"	f	class:boost::flyweights::detail::flyweight_core	access:private	signature:(const value_type& x)
+boost::flyweights::detail::flyweight_core::key	/usr/include/boost/flyweight/detail/flyweight_core.hpp	/^  static const key_type& key(const handle_type& h)$/;"	f	class:boost::flyweights::detail::flyweight_core	access:public	signature:(const handle_type& h)
+boost::flyweights::detail::flyweight_core::key_type	/usr/include/boost/flyweight/detail/flyweight_core.hpp	/^  typedef typename ValuePolicy::key_type     key_type;$/;"	t	class:boost::flyweights::detail::flyweight_core	access:public
+boost::flyweights::detail::flyweight_core::lock_type	/usr/include/boost/flyweight/detail/flyweight_core.hpp	/^  typedef typename LockingPolicy::lock_type  lock_type;$/;"	t	class:boost::flyweights::detail::flyweight_core	access:public
+boost::flyweights::detail::flyweight_core::mutex	/usr/include/boost/flyweight/detail/flyweight_core.hpp	/^  static mutex_type& mutex()$/;"	f	class:boost::flyweights::detail::flyweight_core	access:public	signature:()
+boost::flyweights::detail::flyweight_core::mutex_type	/usr/include/boost/flyweight/detail/flyweight_core.hpp	/^  typedef typename LockingPolicy::mutex_type mutex_type;$/;"	t	class:boost::flyweights::detail::flyweight_core	access:public
+boost::flyweights::detail::flyweight_core::rep_type	/usr/include/boost/flyweight/detail/flyweight_core.hpp	/^  typedef typename ValuePolicy::rep_type     rep_type;$/;"	t	class:boost::flyweights::detail::flyweight_core	access:public
+boost::flyweights::detail::flyweight_core::static_factory_ptr	/usr/include/boost/flyweight/detail/flyweight_core.hpp	/^  FactorySpecifier,LockingPolicy,HolderSpecifier>::static_factory_ptr=0;$/;"	m	class:boost::flyweights::detail::flyweight_core
+boost::flyweights::detail::flyweight_core::static_factory_ptr	/usr/include/boost/flyweight/detail/flyweight_core.hpp	/^  static factory_type* static_factory_ptr;$/;"	m	class:boost::flyweights::detail::flyweight_core	access:private
+boost::flyweights::detail::flyweight_core::static_initializer	/usr/include/boost/flyweight/detail/flyweight_core.hpp	/^  FactorySpecifier,LockingPolicy,HolderSpecifier>::static_initializer=$/;"	m	class:boost::flyweights::detail::flyweight_core
+boost::flyweights::detail::flyweight_core::static_initializer	/usr/include/boost/flyweight/detail/flyweight_core.hpp	/^  static bool          static_initializer;$/;"	m	class:boost::flyweights::detail::flyweight_core	access:private
+boost::flyweights::detail::flyweight_core::static_mutex_ptr	/usr/include/boost/flyweight/detail/flyweight_core.hpp	/^  FactorySpecifier,LockingPolicy,HolderSpecifier>::static_mutex_ptr=0;$/;"	m	class:boost::flyweights::detail::flyweight_core
+boost::flyweights::detail::flyweight_core::static_mutex_ptr	/usr/include/boost/flyweight/detail/flyweight_core.hpp	/^  static mutex_type*   static_mutex_ptr;$/;"	m	class:boost::flyweights::detail::flyweight_core	access:private
+boost::flyweights::detail::flyweight_core::value	/usr/include/boost/flyweight/detail/flyweight_core.hpp	/^  static const value_type& value(const handle_type& h)$/;"	f	class:boost::flyweights::detail::flyweight_core	access:public	signature:(const handle_type& h)
+boost::flyweights::detail::flyweight_core::value_type	/usr/include/boost/flyweight/detail/flyweight_core.hpp	/^  typedef typename ValuePolicy::value_type   value_type;$/;"	t	class:boost::flyweights::detail::flyweight_core	access:public
+boost::flyweights::detail::flyweight_core_tracking_helper	/usr/include/boost/flyweight/detail/flyweight_core.hpp	/^struct flyweight_core_tracking_helper$/;"	s	namespace:boost::flyweights::detail
+boost::flyweights::detail::flyweight_core_tracking_helper::core	/usr/include/boost/flyweight/detail/flyweight_core.hpp	/^  >                                   core;$/;"	t	struct:boost::flyweights::detail::flyweight_core_tracking_helper	access:private
+boost::flyweights::detail::flyweight_core_tracking_helper::entry	/usr/include/boost/flyweight/detail/flyweight_core.hpp	/^  static const entry_type& entry(const handle_type& h)$/;"	f	struct:boost::flyweights::detail::flyweight_core_tracking_helper	access:public	signature:(const handle_type& h)
+boost::flyweights::detail::flyweight_core_tracking_helper::entry_type	/usr/include/boost/flyweight/detail/flyweight_core.hpp	/^  typedef typename core::entry_type   entry_type;$/;"	t	struct:boost::flyweights::detail::flyweight_core_tracking_helper	access:private
+boost::flyweights::detail::flyweight_core_tracking_helper::erase	/usr/include/boost/flyweight/detail/flyweight_core.hpp	/^  static void erase(const handle_type& h,Checker check)$/;"	f	struct:boost::flyweights::detail::flyweight_core_tracking_helper	access:public	signature:(const handle_type& h,Checker check)
+boost::flyweights::detail::flyweight_core_tracking_helper::handle_type	/usr/include/boost/flyweight/detail/flyweight_core.hpp	/^  typedef typename core::handle_type  handle_type;$/;"	t	struct:boost::flyweights::detail::flyweight_core_tracking_helper	access:private
+boost::flyweights::detail::flyweight_signature	/usr/include/boost/flyweight/flyweight.hpp	/^struct flyweight_signature:$/;"	s	namespace:boost::flyweights::detail	inherits:parameter::parameters
+boost::flyweights::detail::flyweight_unmatched_signature	/usr/include/boost/flyweight/flyweight.hpp	/^struct flyweight_unmatched_signature:$/;"	s	namespace:boost::flyweights::detail	inherits:parameter::parameters
+boost::flyweights::detail::is_placeholder_expression	/usr/include/boost/flyweight/detail/is_placeholder_expr.hpp	/^struct is_placeholder_expression:$/;"	s	namespace:boost::flyweights::detail	inherits:mpl::not_
+boost::flyweights::detail::is_placeholder_expression_helper	/usr/include/boost/flyweight/detail/is_placeholder_expr.hpp	/^struct is_placeholder_expression_helper$/;"	s	namespace:boost::flyweights::detail
+boost::flyweights::detail::is_placeholder_expression_helper::apply	/usr/include/boost/flyweight/detail/is_placeholder_expr.hpp	/^  struct apply{$/;"	s	struct:boost::flyweights::detail::is_placeholder_expression_helper	access:public
+boost::flyweights::detail::is_placeholder_expression_helper::apply::type	/usr/include/boost/flyweight/detail/is_placeholder_expr.hpp	/^    typedef int type;$/;"	t	struct:boost::flyweights::detail::is_placeholder_expression_helper::apply	access:public
+boost::flyweights::detail::is_tag	/usr/include/boost/flyweight/tag.hpp	/^struct is_tag:is_base_and_derived<tag_marker,T>$/;"	s	namespace:boost::flyweights::detail	inherits:is_base_and_derived
+boost::flyweights::detail::is_value	/usr/include/boost/flyweight/detail/value_tag.hpp	/^struct is_value:is_base_and_derived<value_marker,T>$/;"	s	namespace:boost::flyweights::detail	inherits:is_base_and_derived
+boost::flyweights::detail::optimized_key_value	/usr/include/boost/flyweight/key_value.hpp	/^struct optimized_key_value:value_marker$/;"	s	namespace:boost::flyweights::detail	inherits:value_marker
+boost::flyweights::detail::optimized_key_value::construct_value	/usr/include/boost/flyweight/key_value.hpp	/^  static void construct_value(const rep_type& r)$/;"	f	struct:boost::flyweights::detail::optimized_key_value	access:public	signature:(const rep_type& r)
+boost::flyweights::detail::optimized_key_value::copy_value	/usr/include/boost/flyweight/key_value.hpp	/^  static void copy_value(const rep_type& r)$/;"	f	struct:boost::flyweights::detail::optimized_key_value	access:public	signature:(const rep_type& r)
+boost::flyweights::detail::optimized_key_value::key_type	/usr/include/boost/flyweight/key_value.hpp	/^  typedef Key   key_type;$/;"	t	struct:boost::flyweights::detail::optimized_key_value	access:public
+boost::flyweights::detail::optimized_key_value::rep_type	/usr/include/boost/flyweight/key_value.hpp	/^  class rep_type$/;"	c	struct:boost::flyweights::detail::optimized_key_value	access:public
+boost::flyweights::detail::optimized_key_value::rep_type::construct_value	/usr/include/boost/flyweight/key_value.hpp	/^    void construct_value()const$/;"	f	class:boost::flyweights::detail::optimized_key_value::rep_type	access:private	signature:() const
+boost::flyweights::detail::optimized_key_value::rep_type::copy_value	/usr/include/boost/flyweight/key_value.hpp	/^    void copy_value()const$/;"	f	class:boost::flyweights::detail::optimized_key_value::rep_type	access:private	signature:() const
+boost::flyweights::detail::optimized_key_value::rep_type::key_from_value	/usr/include/boost/flyweight/key_value.hpp	/^    static const key_type& key_from_value(const value_type& x)$/;"	f	class:boost::flyweights::detail::optimized_key_value::rep_type	access:private	signature:(const value_type& x)
+boost::flyweights::detail::optimized_key_value::rep_type::key_ptr	/usr/include/boost/flyweight/key_value.hpp	/^    key_type* key_ptr()const$/;"	f	class:boost::flyweights::detail::optimized_key_value::rep_type	access:private	signature:() const
+boost::flyweights::detail::optimized_key_value::rep_type::operator const key_type&	/usr/include/boost/flyweight/key_value.hpp	/^    operator const key_type&()const$/;"	f	class:boost::flyweights::detail::optimized_key_value::rep_type	access:public	signature:() const
+boost::flyweights::detail::optimized_key_value::rep_type::operator const value_type&	/usr/include/boost/flyweight/key_value.hpp	/^    operator const value_type&()const$/;"	f	class:boost::flyweights::detail::optimized_key_value::rep_type	access:public	signature:() const
+boost::flyweights::detail::optimized_key_value::rep_type::rep_type	/usr/include/boost/flyweight/key_value.hpp	/^    rep_type(const rep_type& x):value_ptr(x.value_ptr)$/;"	f	class:boost::flyweights::detail::optimized_key_value::rep_type	access:public	signature:(const rep_type& x)
+boost::flyweights::detail::optimized_key_value::rep_type::rep_type	/usr/include/boost/flyweight/key_value.hpp	/^    rep_type(const value_type& x):value_ptr(&x){}$/;"	f	class:boost::flyweights::detail::optimized_key_value::rep_type	access:public	signature:(const value_type& x)
+boost::flyweights::detail::optimized_key_value::rep_type::spc	/usr/include/boost/flyweight/key_value.hpp	/^    >::type                                    spc;$/;"	m	class:boost::flyweights::detail::optimized_key_value::rep_type	access:private
+boost::flyweights::detail::optimized_key_value::rep_type::spc_ptr	/usr/include/boost/flyweight/key_value.hpp	/^    void* spc_ptr()const{return static_cast<void*>(&spc);}$/;"	f	class:boost::flyweights::detail::optimized_key_value::rep_type	access:private	signature:() const
+boost::flyweights::detail::optimized_key_value::rep_type::value_cted	/usr/include/boost/flyweight/key_value.hpp	/^    bool  value_cted()const{return value_ptr==spc_ptr();}$/;"	f	class:boost::flyweights::detail::optimized_key_value::rep_type	access:private	signature:() const
+boost::flyweights::detail::optimized_key_value::rep_type::value_ptr	/usr/include/boost/flyweight/key_value.hpp	/^    mutable const value_type*                  value_ptr;$/;"	m	class:boost::flyweights::detail::optimized_key_value::rep_type	access:private
+boost::flyweights::detail::optimized_key_value::rep_type::~rep_type	/usr/include/boost/flyweight/key_value.hpp	/^    ~rep_type()$/;"	f	class:boost::flyweights::detail::optimized_key_value::rep_type	access:public	signature:()
+boost::flyweights::detail::optimized_key_value::value_type	/usr/include/boost/flyweight/key_value.hpp	/^  typedef Value value_type;$/;"	t	struct:boost::flyweights::detail::optimized_key_value	access:public
+boost::flyweights::detail::recursive_lightweight_mutex	/usr/include/boost/flyweight/detail/recursive_lw_mutex.hpp	/^typedef boost::detail::lightweight_mutex recursive_lightweight_mutex;$/;"	t	namespace:boost::flyweights::detail
+boost::flyweights::detail::refcounted_handle	/usr/include/boost/flyweight/refcounted.hpp	/^class refcounted_handle$/;"	c	namespace:boost::flyweights::detail
+boost::flyweights::detail::refcounted_handle::check_erase	/usr/include/boost/flyweight/refcounted.hpp	/^  static bool check_erase(const refcounted_handle& x)$/;"	f	class:boost::flyweights::detail::refcounted_handle	access:private	signature:(const refcounted_handle& x)
+boost::flyweights::detail::refcounted_handle::h	/usr/include/boost/flyweight/refcounted.hpp	/^  Handle h;$/;"	m	class:boost::flyweights::detail::refcounted_handle	access:private
+boost::flyweights::detail::refcounted_handle::operator =	/usr/include/boost/flyweight/refcounted.hpp	/^  refcounted_handle& operator=(refcounted_handle x)$/;"	f	class:boost::flyweights::detail::refcounted_handle	access:public	signature:(refcounted_handle x)
+boost::flyweights::detail::refcounted_handle::operator const Handle&	/usr/include/boost/flyweight/refcounted.hpp	/^  operator const Handle&()const{return h;}$/;"	f	class:boost::flyweights::detail::refcounted_handle	access:public	signature:() const
+boost::flyweights::detail::refcounted_handle::refcounted_handle	/usr/include/boost/flyweight/refcounted.hpp	/^  explicit refcounted_handle(const Handle& h_):h(h_)$/;"	f	class:boost::flyweights::detail::refcounted_handle	access:public	signature:(const Handle& h_)
+boost::flyweights::detail::refcounted_handle::refcounted_handle	/usr/include/boost/flyweight/refcounted.hpp	/^  refcounted_handle(const refcounted_handle& x):h(x.h)$/;"	f	class:boost::flyweights::detail::refcounted_handle	access:public	signature:(const refcounted_handle& x)
+boost::flyweights::detail::refcounted_handle::swap	/usr/include/boost/flyweight/refcounted.hpp	/^  friend void swap(refcounted_handle& x, refcounted_handle& y)$/;"	f	class:boost::flyweights::detail::refcounted_handle	access:friend	signature:(refcounted_handle& x, refcounted_handle& y)
+boost::flyweights::detail::refcounted_handle::~refcounted_handle	/usr/include/boost/flyweight/refcounted.hpp	/^  ~refcounted_handle()$/;"	f	class:boost::flyweights::detail::refcounted_handle	access:public	signature:()
+boost::flyweights::detail::refcounted_value	/usr/include/boost/flyweight/refcounted.hpp	/^class refcounted_value$/;"	c	namespace:boost::flyweights::detail
+boost::flyweights::detail::refcounted_value::add_deleter	/usr/include/boost/flyweight/refcounted.hpp	/^  void add_deleter()const{++del_ref;}$/;"	f	class:boost::flyweights::detail::refcounted_value	access:private	signature:() const
+boost::flyweights::detail::refcounted_value::add_ref	/usr/include/boost/flyweight/refcounted.hpp	/^  long add_ref()const{return ++ref;}$/;"	f	class:boost::flyweights::detail::refcounted_value	access:private	signature:() const
+boost::flyweights::detail::refcounted_value::count	/usr/include/boost/flyweight/refcounted.hpp	/^  long count()const{return ref;}$/;"	f	class:boost::flyweights::detail::refcounted_value	access:private	signature:() const
+boost::flyweights::detail::refcounted_value::del_ref	/usr/include/boost/flyweight/refcounted.hpp	/^  mutable long                        del_ref;$/;"	m	class:boost::flyweights::detail::refcounted_value	access:private
+boost::flyweights::detail::refcounted_value::operator =	/usr/include/boost/flyweight/refcounted.hpp	/^  refcounted_value& operator=(const refcounted_value& r)$/;"	f	class:boost::flyweights::detail::refcounted_value	access:public	signature:(const refcounted_value& r)
+boost::flyweights::detail::refcounted_value::operator const Key&	/usr/include/boost/flyweight/refcounted.hpp	/^  operator const Key&()const{return x;}$/;"	f	class:boost::flyweights::detail::refcounted_value	access:public	signature:() const
+boost::flyweights::detail::refcounted_value::operator const Value&	/usr/include/boost/flyweight/refcounted.hpp	/^  operator const Value&()const{return x;}$/;"	f	class:boost::flyweights::detail::refcounted_value	access:public	signature:() const
+boost::flyweights::detail::refcounted_value::ref	/usr/include/boost/flyweight/refcounted.hpp	/^  mutable boost::detail::atomic_count ref;$/;"	m	class:boost::flyweights::detail::refcounted_value	access:private
+boost::flyweights::detail::refcounted_value::refcounted_value	/usr/include/boost/flyweight/refcounted.hpp	/^  explicit refcounted_value(const Value& x_):$/;"	f	class:boost::flyweights::detail::refcounted_value	access:public	signature:(const Value& x_)
+boost::flyweights::detail::refcounted_value::refcounted_value	/usr/include/boost/flyweight/refcounted.hpp	/^  refcounted_value(const refcounted_value& r):$/;"	f	class:boost::flyweights::detail::refcounted_value	access:public	signature:(const refcounted_value& r)
+boost::flyweights::detail::refcounted_value::release	/usr/include/boost/flyweight/refcounted.hpp	/^  bool release()const{return (--ref==0);}$/;"	f	class:boost::flyweights::detail::refcounted_value	access:private	signature:() const
+boost::flyweights::detail::refcounted_value::release_deleter	/usr/include/boost/flyweight/refcounted.hpp	/^  bool release_deleter()const{return (--del_ref==0);}$/;"	f	class:boost::flyweights::detail::refcounted_value	access:private	signature:() const
+boost::flyweights::detail::refcounted_value::x	/usr/include/boost/flyweight/refcounted.hpp	/^  Value                               x;$/;"	m	class:boost::flyweights::detail::refcounted_value	access:private
+boost::flyweights::detail::regular_key_value	/usr/include/boost/flyweight/key_value.hpp	/^struct regular_key_value:value_marker$/;"	s	namespace:boost::flyweights::detail	inherits:value_marker
+boost::flyweights::detail::regular_key_value::construct_value	/usr/include/boost/flyweight/key_value.hpp	/^  static void construct_value(const rep_type& r)$/;"	f	struct:boost::flyweights::detail::regular_key_value	access:public	signature:(const rep_type& r)
+boost::flyweights::detail::regular_key_value::copy_value	/usr/include/boost/flyweight/key_value.hpp	/^  static void copy_value(const rep_type&){}$/;"	f	struct:boost::flyweights::detail::regular_key_value	access:public	signature:(const rep_type&)
+boost::flyweights::detail::regular_key_value::key_type	/usr/include/boost/flyweight/key_value.hpp	/^  typedef Key   key_type;$/;"	t	struct:boost::flyweights::detail::regular_key_value	access:public
+boost::flyweights::detail::regular_key_value::rep_type	/usr/include/boost/flyweight/key_value.hpp	/^  class rep_type$/;"	c	struct:boost::flyweights::detail::regular_key_value	access:public
+boost::flyweights::detail::regular_key_value::rep_type::construct_value	/usr/include/boost/flyweight/key_value.hpp	/^    void construct_value()const$/;"	f	class:boost::flyweights::detail::regular_key_value::rep_type	access:private	signature:() const
+boost::flyweights::detail::regular_key_value::rep_type::key	/usr/include/boost/flyweight/key_value.hpp	/^    key_type                                 key;$/;"	m	class:boost::flyweights::detail::regular_key_value::rep_type	access:private
+boost::flyweights::detail::regular_key_value::rep_type::no_key_from_value_failure	/usr/include/boost/flyweight/key_value.hpp	/^    struct no_key_from_value_failure$/;"	s	class:boost::flyweights::detail::regular_key_value::rep_type	access:private
+boost::flyweights::detail::regular_key_value::rep_type::no_key_from_value_failure::BOOST_MPL_ASSERT_MSG	/usr/include/boost/flyweight/key_value.hpp	/^      BOOST_MPL_ASSERT_MSG($/;"	p	struct:boost::flyweights::detail::regular_key_value::rep_type::no_key_from_value_failure	access:public	signature:( false, NO_KEY_FROM_VALUE_CONVERSION_PROVIDED, (key_type,value_type))
+boost::flyweights::detail::regular_key_value::rep_type::no_key_from_value_failure::operator const key_type&	/usr/include/boost/flyweight/key_value.hpp	/^      operator const key_type&()const;$/;"	p	struct:boost::flyweights::detail::regular_key_value::rep_type::no_key_from_value_failure	access:public	signature:() const
+boost::flyweights::detail::regular_key_value::rep_type::operator const key_type&	/usr/include/boost/flyweight/key_value.hpp	/^    operator const key_type&()const{return key;}$/;"	f	class:boost::flyweights::detail::regular_key_value::rep_type	access:public	signature:() const
+boost::flyweights::detail::regular_key_value::rep_type::operator const value_type&	/usr/include/boost/flyweight/key_value.hpp	/^    operator const value_type&()const$/;"	f	class:boost::flyweights::detail::regular_key_value::rep_type	access:public	signature:() const
+boost::flyweights::detail::regular_key_value::rep_type::rep_type	/usr/include/boost/flyweight/key_value.hpp	/^    rep_type(const rep_type& x):key(x.key),value_ptr(0){}$/;"	f	class:boost::flyweights::detail::regular_key_value::rep_type	access:public	signature:(const rep_type& x)
+boost::flyweights::detail::regular_key_value::rep_type::rep_type	/usr/include/boost/flyweight/key_value.hpp	/^    rep_type(const value_type& x):key(no_key_from_value_failure()){}$/;"	f	class:boost::flyweights::detail::regular_key_value::rep_type	access:public	signature:(const value_type& x)
+boost::flyweights::detail::regular_key_value::rep_type::spc	/usr/include/boost/flyweight/key_value.hpp	/^    >::type                                  spc;$/;"	m	class:boost::flyweights::detail::regular_key_value::rep_type	access:private
+boost::flyweights::detail::regular_key_value::rep_type::spc_ptr	/usr/include/boost/flyweight/key_value.hpp	/^    void* spc_ptr()const{return static_cast<void*>(&spc);}$/;"	f	class:boost::flyweights::detail::regular_key_value::rep_type	access:private	signature:() const
+boost::flyweights::detail::regular_key_value::rep_type::value_ptr	/usr/include/boost/flyweight/key_value.hpp	/^    mutable const value_type*                value_ptr;$/;"	m	class:boost::flyweights::detail::regular_key_value::rep_type	access:private
+boost::flyweights::detail::regular_key_value::rep_type::~rep_type	/usr/include/boost/flyweight/key_value.hpp	/^    ~rep_type()$/;"	f	class:boost::flyweights::detail::regular_key_value::rep_type	access:public	signature:()
+boost::flyweights::detail::regular_key_value::value_type	/usr/include/boost/flyweight/key_value.hpp	/^  typedef Value value_type;$/;"	t	struct:boost::flyweights::detail::regular_key_value	access:public
+boost::flyweights::detail::tag_marker	/usr/include/boost/flyweight/tag.hpp	/^struct tag_marker{};$/;"	s	namespace:boost::flyweights::detail
+boost::flyweights::detail::value	/usr/include/boost/flyweight/detail/value_tag.hpp	/^struct value:parameter::template_keyword<value<>,T>$/;"	s	namespace:boost::flyweights::detail	inherits:parameter::template_keyword
+boost::flyweights::detail::value_marker	/usr/include/boost/flyweight/detail/value_tag.hpp	/^struct value_marker{};$/;"	s	namespace:boost::flyweights::detail
+boost::flyweights::factory	/usr/include/boost/flyweight/factory_tag.hpp	/^struct factory:parameter::template_keyword<factory<>,T>$/;"	s	namespace:boost::flyweights	inherits:parameter::template_keyword
+boost::flyweights::factory_marker	/usr/include/boost/flyweight/factory_tag.hpp	/^struct factory_marker{};$/;"	s	namespace:boost::flyweights
+boost::flyweights::flyweight	/usr/include/boost/flyweight/flyweight.hpp	/^class flyweight$/;"	c	namespace:boost::flyweights
+boost::flyweights::flyweight::BOOST_MPL_ASSERT_MSG	/usr/include/boost/flyweight/flyweight.hpp	/^  BOOST_MPL_ASSERT_MSG($/;"	p	class:boost::flyweights::flyweight	access:private	signature:(is_same<unmatched_arg_detected,detail::unmatched_arg>::value), INVALID_ARGUMENT_TO_FLYWEIGHT, (flyweight)
+boost::flyweights::flyweight::args	/usr/include/boost/flyweight/flyweight.hpp	/^  >::type                                 args;$/;"	t	class:boost::flyweights::flyweight	access:private
+boost::flyweights::flyweight::core	/usr/include/boost/flyweight/flyweight.hpp	/^  >                                            core;$/;"	t	class:boost::flyweights::flyweight	access:private
+boost::flyweights::flyweight::factory_specifier	/usr/include/boost/flyweight/flyweight.hpp	/^  >::type                                 factory_specifier;$/;"	t	class:boost::flyweights::flyweight	access:private
+boost::flyweights::flyweight::flyweight	/usr/include/boost/flyweight/flyweight.hpp	/^  flyweight():h(core::insert(key_type())){}$/;"	f	class:boost::flyweights::flyweight	access:public	signature:()
+boost::flyweights::flyweight::flyweight	/usr/include/boost/flyweight/flyweight.hpp	/^  flyweight(const flyweight& x):h(x.h){}$/;"	f	class:boost::flyweights::flyweight	access:public	signature:(const flyweight& x)
+boost::flyweights::flyweight::flyweight	/usr/include/boost/flyweight/flyweight.hpp	/^  flyweight(flyweight& x):h(x.h){}$/;"	f	class:boost::flyweights::flyweight	access:public	signature:(flyweight& x)
+boost::flyweights::flyweight::get	/usr/include/boost/flyweight/flyweight.hpp	/^  const value_type& get()const{return core::value(h);}$/;"	f	class:boost::flyweights::flyweight	access:public	signature:() const
+boost::flyweights::flyweight::get_key	/usr/include/boost/flyweight/flyweight.hpp	/^  const key_type&   get_key()const{return core::key(h);}$/;"	f	class:boost::flyweights::flyweight	access:public	signature:() const
+boost::flyweights::flyweight::h	/usr/include/boost/flyweight/flyweight.hpp	/^  handle_type h;$/;"	m	class:boost::flyweights::flyweight	access:private
+boost::flyweights::flyweight::handle_type	/usr/include/boost/flyweight/flyweight.hpp	/^  typedef typename core::handle_type           handle_type;$/;"	t	class:boost::flyweights::flyweight	access:private
+boost::flyweights::flyweight::holder_specifier	/usr/include/boost/flyweight/flyweight.hpp	/^  >::type                                 holder_specifier;$/;"	t	class:boost::flyweights::flyweight	access:private
+boost::flyweights::flyweight::init	/usr/include/boost/flyweight/flyweight.hpp	/^  static bool init(){return core::init();}$/;"	f	class:boost::flyweights::flyweight	access:public	signature:()
+boost::flyweights::flyweight::initializer	/usr/include/boost/flyweight/flyweight.hpp	/^  class initializer$/;"	c	class:boost::flyweights::flyweight	access:public
+boost::flyweights::flyweight::initializer::b	/usr/include/boost/flyweight/flyweight.hpp	/^    bool b;$/;"	m	class:boost::flyweights::flyweight::initializer	access:private
+boost::flyweights::flyweight::initializer::initializer	/usr/include/boost/flyweight/flyweight.hpp	/^    initializer():b(init()){}$/;"	f	class:boost::flyweights::flyweight::initializer	access:public	signature:()
+boost::flyweights::flyweight::key_type	/usr/include/boost/flyweight/flyweight.hpp	/^  typedef typename value_policy::key_type      key_type;$/;"	t	class:boost::flyweights::flyweight	access:public
+boost::flyweights::flyweight::locking_policy	/usr/include/boost/flyweight/flyweight.hpp	/^  >::type                                 locking_policy;$/;"	t	class:boost::flyweights::flyweight	access:private
+boost::flyweights::flyweight::operator =	/usr/include/boost/flyweight/flyweight.hpp	/^  flyweight& operator=(const flyweight& x){h=x.h;return *this;}$/;"	f	class:boost::flyweights::flyweight	access:public	signature:(const flyweight& x)
+boost::flyweights::flyweight::operator =	/usr/include/boost/flyweight/flyweight.hpp	/^  flyweight& operator=(const value_type& x){return operator=(flyweight(x));}$/;"	f	class:boost::flyweights::flyweight	access:public	signature:(const value_type& x)
+boost::flyweights::flyweight::operator ==	/usr/include/boost/flyweight/flyweight.hpp	/^  friend bool operator==(const flyweight& x,const flyweight& y)$/;"	f	class:boost::flyweights::flyweight	access:friend	signature:(const flyweight& x,const flyweight& y)
+boost::flyweights::flyweight::operator const value_type&	/usr/include/boost/flyweight/flyweight.hpp	/^  operator const    value_type&()const{return get();}$/;"	f	class:boost::flyweights::flyweight	access:public	signature:() const
+boost::flyweights::flyweight::swap	/usr/include/boost/flyweight/flyweight.hpp	/^  void swap(flyweight& x){boost::swap(h,x.h);}$/;"	f	class:boost::flyweights::flyweight	access:public	signature:(flyweight& x)
+boost::flyweights::flyweight::tag_type	/usr/include/boost/flyweight/flyweight.hpp	/^  >::type                                 tag_type;$/;"	t	class:boost::flyweights::flyweight	access:private
+boost::flyweights::flyweight::tracking_policy	/usr/include/boost/flyweight/flyweight.hpp	/^  >::type                                 tracking_policy;$/;"	t	class:boost::flyweights::flyweight	access:private
+boost::flyweights::flyweight::unmatched_arg_detected	/usr/include/boost/flyweight/flyweight.hpp	/^  >::type                                 unmatched_arg_detected;$/;"	t	class:boost::flyweights::flyweight	access:private
+boost::flyweights::flyweight::unmatched_args	/usr/include/boost/flyweight/flyweight.hpp	/^  >::type                                 unmatched_args;$/;"	t	class:boost::flyweights::flyweight	access:private
+boost::flyweights::flyweight::value_policy	/usr/include/boost/flyweight/flyweight.hpp	/^  >::type                                 value_policy;$/;"	t	class:boost::flyweights::flyweight	access:private
+boost::flyweights::flyweight::value_type	/usr/include/boost/flyweight/flyweight.hpp	/^  typedef typename value_policy::value_type    value_type;$/;"	t	class:boost::flyweights::flyweight	access:public
+boost::flyweights::hashed_factory	/usr/include/boost/flyweight/hashed_factory.hpp	/^struct hashed_factory:factory_marker$/;"	s	namespace:boost::flyweights	inherits:factory_marker
+boost::flyweights::hashed_factory::apply	/usr/include/boost/flyweight/hashed_factory.hpp	/^  struct apply:$/;"	s	struct:boost::flyweights::hashed_factory	inherits:mpl::apply2	access:public
+boost::flyweights::hashed_factory_class	/usr/include/boost/flyweight/hashed_factory.hpp	/^class hashed_factory_class:public factory_marker$/;"	c	namespace:boost::flyweights	inherits:factory_marker
+boost::flyweights::hashed_factory_class::cont	/usr/include/boost/flyweight/hashed_factory.hpp	/^  container_type cont;$/;"	m	class:boost::flyweights::hashed_factory_class	access:private
+boost::flyweights::hashed_factory_class::container_type	/usr/include/boost/flyweight/hashed_factory.hpp	/^  > container_type;$/;"	t	class:boost::flyweights::hashed_factory_class	access:private
+boost::flyweights::hashed_factory_class::entry	/usr/include/boost/flyweight/hashed_factory.hpp	/^  static const Entry& entry(handle_type h){return *h;}$/;"	f	class:boost::flyweights::hashed_factory_class	access:public	signature:(handle_type h)
+boost::flyweights::hashed_factory_class::erase	/usr/include/boost/flyweight/hashed_factory.hpp	/^  void erase(handle_type h)$/;"	f	class:boost::flyweights::hashed_factory_class	access:public	signature:(handle_type h)
+boost::flyweights::hashed_factory_class::handle_type	/usr/include/boost/flyweight/hashed_factory.hpp	/^  typedef const Entry* handle_type;$/;"	t	class:boost::flyweights::hashed_factory_class	access:public
+boost::flyweights::hashed_factory_class::index_list	/usr/include/boost/flyweight/hashed_factory.hpp	/^  struct index_list:$/;"	s	class:boost::flyweights::hashed_factory_class	inherits:boost::mpl::vector1	access:private
+boost::flyweights::hashed_factory_class::insert	/usr/include/boost/flyweight/hashed_factory.hpp	/^  handle_type insert(const Entry& x)$/;"	f	class:boost::flyweights::hashed_factory_class	access:public	signature:(const Entry& x)
+boost::flyweights::hashed_factory_class::type	/usr/include/boost/flyweight/hashed_factory.hpp	/^  typedef hashed_factory_class type;$/;"	t	class:boost::flyweights::hashed_factory_class	access:public
+boost::flyweights::holder	/usr/include/boost/flyweight/holder_tag.hpp	/^struct holder:parameter::template_keyword<holder<>,T>$/;"	s	namespace:boost::flyweights	inherits:parameter::template_keyword
+boost::flyweights::holder_marker	/usr/include/boost/flyweight/holder_tag.hpp	/^struct holder_marker{};$/;"	s	namespace:boost::flyweights
+boost::flyweights::in	/usr/include/boost/flyweight/flyweight.hpp	/^  BOOST_TEMPLATED_STREAM(istream,ElemType,Traits)& in,$/;"	m	namespace:boost::flyweights
+boost::flyweights::in	/usr/include/boost/flyweight/flyweight_fwd.hpp	/^  BOOST_TEMPLATED_STREAM(istream,ElemType,Traits)& in,$/;"	m	namespace:boost::flyweights
+boost::flyweights::intermodule_holder	/usr/include/boost/flyweight/intermodule_holder.hpp	/^struct intermodule_holder:holder_marker$/;"	s	namespace:boost::flyweights	inherits:holder_marker
+boost::flyweights::intermodule_holder::apply	/usr/include/boost/flyweight/intermodule_holder.hpp	/^  struct apply$/;"	s	struct:boost::flyweights::intermodule_holder	access:public
+boost::flyweights::intermodule_holder::apply::type	/usr/include/boost/flyweight/intermodule_holder.hpp	/^    typedef intermodule_holder_class<C> type;$/;"	t	struct:boost::flyweights::intermodule_holder::apply	access:public
+boost::flyweights::intermodule_holder_class	/usr/include/boost/flyweight/intermodule_holder.hpp	/^struct intermodule_holder_class:$/;"	s	namespace:boost::flyweights	inherits:interprocess::ipcdetail::intermodule_singleton,holder_marker
+boost::flyweights::intermodule_holder_class::type	/usr/include/boost/flyweight/intermodule_holder.hpp	/^  typedef intermodule_holder_class type;$/;"	t	struct:boost::flyweights::intermodule_holder_class	access:public
+boost::flyweights::is_factory	/usr/include/boost/flyweight/factory_tag.hpp	/^struct is_factory:is_base_and_derived<factory_marker,T>$/;"	s	namespace:boost::flyweights	inherits:is_base_and_derived
+boost::flyweights::is_holder	/usr/include/boost/flyweight/holder_tag.hpp	/^struct is_holder:is_base_and_derived<holder_marker,T>$/;"	s	namespace:boost::flyweights	inherits:is_base_and_derived
+boost::flyweights::is_locking	/usr/include/boost/flyweight/locking_tag.hpp	/^struct is_locking:is_base_and_derived<locking_marker,T>$/;"	s	namespace:boost::flyweights	inherits:is_base_and_derived
+boost::flyweights::is_tracking	/usr/include/boost/flyweight/tracking_tag.hpp	/^struct is_tracking:is_base_and_derived<tracking_marker,T>$/;"	s	namespace:boost::flyweights	inherits:is_base_and_derived
+boost::flyweights::key_value	/usr/include/boost/flyweight/key_value.hpp	/^struct key_value:$/;"	s	namespace:boost::flyweights	inherits:mpl::if_::type
+boost::flyweights::locking	/usr/include/boost/flyweight/locking_tag.hpp	/^struct locking:parameter::template_keyword<locking<>,T>$/;"	s	namespace:boost::flyweights	inherits:parameter::template_keyword
+boost::flyweights::locking_marker	/usr/include/boost/flyweight/locking_tag.hpp	/^struct locking_marker{};$/;"	s	namespace:boost::flyweights
+boost::flyweights::no_locking	/usr/include/boost/flyweight/no_locking.hpp	/^struct no_locking:locking_marker$/;"	s	namespace:boost::flyweights	inherits:locking_marker
+boost::flyweights::no_locking::lock_type	/usr/include/boost/flyweight/no_locking.hpp	/^  typedef mutex_type lock_type;$/;"	t	struct:boost::flyweights::no_locking	access:public
+boost::flyweights::no_locking::mutex_type	/usr/include/boost/flyweight/no_locking.hpp	/^  struct             mutex_type{};$/;"	s	struct:boost::flyweights::no_locking	access:public
+boost::flyweights::no_tracking	/usr/include/boost/flyweight/no_tracking.hpp	/^struct no_tracking:tracking_marker$/;"	s	namespace:boost::flyweights	inherits:tracking_marker
+boost::flyweights::no_tracking::entry_type	/usr/include/boost/flyweight/no_tracking.hpp	/^  struct entry_type$/;"	s	struct:boost::flyweights::no_tracking	access:public
+boost::flyweights::no_tracking::entry_type::apply	/usr/include/boost/flyweight/no_tracking.hpp	/^    struct apply{typedef Value type;};$/;"	s	struct:boost::flyweights::no_tracking::entry_type	access:public
+boost::flyweights::no_tracking::entry_type::apply::type	/usr/include/boost/flyweight/no_tracking.hpp	/^    struct apply{typedef Value type;};$/;"	t	struct:boost::flyweights::no_tracking::entry_type::apply	access:public
+boost::flyweights::no_tracking::handle_type	/usr/include/boost/flyweight/no_tracking.hpp	/^  struct handle_type$/;"	s	struct:boost::flyweights::no_tracking	access:public
+boost::flyweights::no_tracking::handle_type::apply	/usr/include/boost/flyweight/no_tracking.hpp	/^    struct apply{typedef Handle type;};$/;"	s	struct:boost::flyweights::no_tracking::handle_type	access:public
+boost::flyweights::no_tracking::handle_type::apply::type	/usr/include/boost/flyweight/no_tracking.hpp	/^    struct apply{typedef Handle type;};$/;"	t	struct:boost::flyweights::no_tracking::handle_type::apply	access:public
+boost::flyweights::operator <	/usr/include/boost/flyweight/flyweight.hpp	/^bool operator<($/;"	f	namespace:boost::flyweights	signature:( const T1& x,const flyweight<T2,BOOST_FLYWEIGHT_TEMPL_ARGS(2)>& y)
+boost::flyweights::operator <	/usr/include/boost/flyweight/flyweight.hpp	/^bool operator<($/;"	f	namespace:boost::flyweights	signature:( const flyweight<T1,BOOST_FLYWEIGHT_TEMPL_ARGS(1)>& x, const flyweight<T2,BOOST_FLYWEIGHT_TEMPL_ARGS(2)>& y)
+boost::flyweights::operator <	/usr/include/boost/flyweight/flyweight.hpp	/^bool operator<($/;"	f	namespace:boost::flyweights	signature:( const flyweight<T1,BOOST_FLYWEIGHT_TEMPL_ARGS(1)>& x,const T2& y)
+boost::flyweights::operator <	/usr/include/boost/flyweight/flyweight_fwd.hpp	/^bool operator<($/;"	p	namespace:boost::flyweights	signature:( const T1& x,const flyweight<T2,BOOST_FLYWEIGHT_TEMPL_ARGS(2)>& y)
+boost::flyweights::operator <	/usr/include/boost/flyweight/flyweight_fwd.hpp	/^bool operator<($/;"	p	namespace:boost::flyweights	signature:( const flyweight<T1,BOOST_FLYWEIGHT_TEMPL_ARGS(1)>& x, const flyweight<T2,BOOST_FLYWEIGHT_TEMPL_ARGS(2)>& y)
+boost::flyweights::operator <	/usr/include/boost/flyweight/flyweight_fwd.hpp	/^bool operator<($/;"	p	namespace:boost::flyweights	signature:( const flyweight<T1,BOOST_FLYWEIGHT_TEMPL_ARGS(1)>& x,const T2& y)
+boost::flyweights::operator ==	/usr/include/boost/flyweight/flyweight.hpp	/^bool operator==($/;"	f	namespace:boost::flyweights	signature:( const T1& x,const flyweight<T2,BOOST_FLYWEIGHT_TEMPL_ARGS(2)>& y)
+boost::flyweights::operator ==	/usr/include/boost/flyweight/flyweight.hpp	/^bool operator==($/;"	f	namespace:boost::flyweights	signature:( const flyweight<T1,BOOST_FLYWEIGHT_TEMPL_ARGS(1)>& x, const flyweight<T2,BOOST_FLYWEIGHT_TEMPL_ARGS(2)>& y)
+boost::flyweights::operator ==	/usr/include/boost/flyweight/flyweight.hpp	/^bool operator==($/;"	f	namespace:boost::flyweights	signature:( const flyweight<T1,BOOST_FLYWEIGHT_TEMPL_ARGS(1)>& x,const T2& y)
+boost::flyweights::operator ==	/usr/include/boost/flyweight/flyweight_fwd.hpp	/^bool operator==($/;"	p	namespace:boost::flyweights	signature:( const T1& x,const flyweight<T2,BOOST_FLYWEIGHT_TEMPL_ARGS(2)>& y)
+boost::flyweights::operator ==	/usr/include/boost/flyweight/flyweight_fwd.hpp	/^bool operator==($/;"	p	namespace:boost::flyweights	signature:( const flyweight<T1,BOOST_FLYWEIGHT_TEMPL_ARGS(1)>& x, const flyweight<T2,BOOST_FLYWEIGHT_TEMPL_ARGS(2)>& y)
+boost::flyweights::operator ==	/usr/include/boost/flyweight/flyweight_fwd.hpp	/^bool operator==($/;"	p	namespace:boost::flyweights	signature:( const flyweight<T1,BOOST_FLYWEIGHT_TEMPL_ARGS(1)>& x,const T2& y)
+boost::flyweights::out	/usr/include/boost/flyweight/flyweight.hpp	/^  BOOST_TEMPLATED_STREAM(ostream,ElemType,Traits)& out,$/;"	m	namespace:boost::flyweights
+boost::flyweights::out	/usr/include/boost/flyweight/flyweight_fwd.hpp	/^  BOOST_TEMPLATED_STREAM(ostream,ElemType,Traits)& out,$/;"	m	namespace:boost::flyweights
+boost::flyweights::refcounted	/usr/include/boost/flyweight/refcounted.hpp	/^struct refcounted:tracking_marker$/;"	s	namespace:boost::flyweights	inherits:tracking_marker
+boost::flyweights::refcounted::entry_type	/usr/include/boost/flyweight/refcounted.hpp	/^  struct entry_type$/;"	s	struct:boost::flyweights::refcounted	access:public
+boost::flyweights::refcounted::entry_type::apply	/usr/include/boost/flyweight/refcounted.hpp	/^    struct apply$/;"	s	struct:boost::flyweights::refcounted::entry_type	access:public
+boost::flyweights::refcounted::entry_type::apply::type	/usr/include/boost/flyweight/refcounted.hpp	/^      typedef detail::refcounted_value<Value,Key> type;$/;"	t	struct:boost::flyweights::refcounted::entry_type::apply	access:public
+boost::flyweights::refcounted::handle_type	/usr/include/boost/flyweight/refcounted.hpp	/^  struct handle_type$/;"	s	struct:boost::flyweights::refcounted	access:public
+boost::flyweights::refcounted::handle_type::apply	/usr/include/boost/flyweight/refcounted.hpp	/^    struct apply$/;"	s	struct:boost::flyweights::refcounted::handle_type	access:public
+boost::flyweights::refcounted::handle_type::apply::type	/usr/include/boost/flyweight/refcounted.hpp	/^      typedef detail::refcounted_handle<Handle,TrackingHelper> type;$/;"	t	struct:boost::flyweights::refcounted::handle_type::apply	access:public
+boost::flyweights::set_factory	/usr/include/boost/flyweight/set_factory.hpp	/^struct set_factory:factory_marker$/;"	s	namespace:boost::flyweights	inherits:factory_marker
+boost::flyweights::set_factory::apply	/usr/include/boost/flyweight/set_factory.hpp	/^  struct apply:$/;"	s	struct:boost::flyweights::set_factory	inherits:mpl::apply2	access:public
+boost::flyweights::set_factory_class	/usr/include/boost/flyweight/set_factory.hpp	/^class set_factory_class:$/;"	c	namespace:boost::flyweights	inherits:assoc_container_factory_class
+boost::flyweights::set_factory_class::type	/usr/include/boost/flyweight/set_factory.hpp	/^  typedef set_factory_class type;$/;"	t	class:boost::flyweights::set_factory_class	access:public
+boost::flyweights::simple_locking	/usr/include/boost/flyweight/simple_locking.hpp	/^struct simple_locking:locking_marker$/;"	s	namespace:boost::flyweights	inherits:locking_marker
+boost::flyweights::simple_locking::lock_type	/usr/include/boost/flyweight/simple_locking.hpp	/^  typedef mutex_type::scoped_lock             lock_type;$/;"	t	struct:boost::flyweights::simple_locking	access:public
+boost::flyweights::simple_locking::mutex_type	/usr/include/boost/flyweight/simple_locking.hpp	/^  typedef detail::recursive_lightweight_mutex mutex_type;$/;"	t	struct:boost::flyweights::simple_locking	access:public
+boost::flyweights::static_holder	/usr/include/boost/flyweight/static_holder.hpp	/^struct static_holder:holder_marker$/;"	s	namespace:boost::flyweights	inherits:holder_marker
+boost::flyweights::static_holder::apply	/usr/include/boost/flyweight/static_holder.hpp	/^  struct apply$/;"	s	struct:boost::flyweights::static_holder	access:public
+boost::flyweights::static_holder::apply::type	/usr/include/boost/flyweight/static_holder.hpp	/^    typedef static_holder_class<C> type;$/;"	t	struct:boost::flyweights::static_holder::apply	access:public
+boost::flyweights::static_holder_class	/usr/include/boost/flyweight/static_holder.hpp	/^struct static_holder_class:holder_marker$/;"	s	namespace:boost::flyweights	inherits:holder_marker
+boost::flyweights::static_holder_class::get	/usr/include/boost/flyweight/static_holder.hpp	/^  static C& get()$/;"	f	struct:boost::flyweights::static_holder_class	access:public	signature:()
+boost::flyweights::static_holder_class::type	/usr/include/boost/flyweight/static_holder.hpp	/^  typedef static_holder_class type;$/;"	t	struct:boost::flyweights::static_holder_class	access:public
+boost::flyweights::swap	/usr/include/boost/flyweight/flyweight.hpp	/^void swap($/;"	f	namespace:boost::flyweights	signature:( flyweight<T,BOOST_FLYWEIGHT_TEMPL_ARGS(_)>& x, flyweight<T,BOOST_FLYWEIGHT_TEMPL_ARGS(_)>& y)
+boost::flyweights::swap	/usr/include/boost/flyweight/flyweight_fwd.hpp	/^inline void swap($/;"	p	namespace:boost::flyweights	signature:( flyweight<T,BOOST_FLYWEIGHT_TEMPL_ARGS(_)>& x, flyweight<T,BOOST_FLYWEIGHT_TEMPL_ARGS(_)>& y)
+boost::flyweights::tag	/usr/include/boost/flyweight/tag.hpp	/^struct tag:parameter::template_keyword<tag<>,T>,detail::tag_marker$/;"	s	namespace:boost::flyweights	inherits:parameter::template_keyword,detail::tag_marker
+boost::flyweights::tracking	/usr/include/boost/flyweight/tracking_tag.hpp	/^struct tracking:parameter::template_keyword<tracking<>,T>$/;"	s	namespace:boost::flyweights	inherits:parameter::template_keyword
+boost::flyweights::tracking_marker	/usr/include/boost/flyweight/tracking_tag.hpp	/^struct tracking_marker{};$/;"	s	namespace:boost::flyweights
+boost::flyweights::x	/usr/include/boost/flyweight/flyweight_fwd.hpp	/^  const flyweight<T,BOOST_FLYWEIGHT_TEMPL_ARGS(_)>& x);$/;"	m	namespace:boost::flyweights
+boost::flyweights::x	/usr/include/boost/flyweight/flyweight_fwd.hpp	/^  flyweight<T,BOOST_FLYWEIGHT_TEMPL_ARGS(_)>& x);$/;"	m	namespace:boost::flyweights
+check_erase	/usr/include/boost/flyweight/refcounted.hpp	/^  static bool check_erase(const refcounted_handle& x)$/;"	f	class:boost::flyweights::detail::refcounted_handle	access:private	signature:(const refcounted_handle& x)
+construct_value	/usr/include/boost/flyweight/detail/default_value_policy.hpp	/^  static void construct_value(const rep_type&){}$/;"	f	struct:boost::flyweights::detail::default_value_policy	access:public	signature:(const rep_type&)
+construct_value	/usr/include/boost/flyweight/key_value.hpp	/^    void construct_value()const$/;"	f	class:boost::flyweights::detail::optimized_key_value::rep_type	access:private	signature:() const
+construct_value	/usr/include/boost/flyweight/key_value.hpp	/^    void construct_value()const$/;"	f	class:boost::flyweights::detail::regular_key_value::rep_type	access:private	signature:() const
+construct_value	/usr/include/boost/flyweight/key_value.hpp	/^  static void construct_value(const rep_type& r)$/;"	f	struct:boost::flyweights::detail::optimized_key_value	access:public	signature:(const rep_type& r)
+construct_value	/usr/include/boost/flyweight/key_value.hpp	/^  static void construct_value(const rep_type& r)$/;"	f	struct:boost::flyweights::detail::regular_key_value	access:public	signature:(const rep_type& r)
+cont	/usr/include/boost/flyweight/assoc_container_factory.hpp	/^  container_type cont;$/;"	m	class:boost::flyweights::assoc_container_factory_class	access:private
+cont	/usr/include/boost/flyweight/hashed_factory.hpp	/^  container_type cont;$/;"	m	class:boost::flyweights::hashed_factory_class	access:private
+container_type	/usr/include/boost/flyweight/assoc_container_factory.hpp	/^  >::type container_type;$/;"	t	class:boost::flyweights::assoc_container_factory_class	access:private
+container_type	/usr/include/boost/flyweight/hashed_factory.hpp	/^  > container_type;$/;"	t	class:boost::flyweights::hashed_factory_class	access:private
+copy_value	/usr/include/boost/flyweight/detail/default_value_policy.hpp	/^  static void copy_value(const rep_type&){}$/;"	f	struct:boost::flyweights::detail::default_value_policy	access:public	signature:(const rep_type&)
+copy_value	/usr/include/boost/flyweight/key_value.hpp	/^    void copy_value()const$/;"	f	class:boost::flyweights::detail::optimized_key_value::rep_type	access:private	signature:() const
+copy_value	/usr/include/boost/flyweight/key_value.hpp	/^  static void copy_value(const rep_type& r)$/;"	f	struct:boost::flyweights::detail::optimized_key_value	access:public	signature:(const rep_type& r)
+copy_value	/usr/include/boost/flyweight/key_value.hpp	/^  static void copy_value(const rep_type&){}$/;"	f	struct:boost::flyweights::detail::regular_key_value	access:public	signature:(const rep_type&)
+core	/usr/include/boost/flyweight/detail/flyweight_core.hpp	/^  >                                   core;$/;"	t	struct:boost::flyweights::detail::flyweight_core_tracking_helper	access:private
+core	/usr/include/boost/flyweight/flyweight.hpp	/^  >                                            core;$/;"	t	class:boost::flyweights::flyweight	access:private
+count	/usr/include/boost/flyweight/refcounted.hpp	/^  long count()const{return ref;}$/;"	f	class:boost::flyweights::detail::refcounted_value	access:private	signature:() const
+default_value_policy	/usr/include/boost/flyweight/detail/default_value_policy.hpp	/^struct default_value_policy:value_marker$/;"	s	namespace:boost::flyweights::detail	inherits:value_marker
+del_ref	/usr/include/boost/flyweight/refcounted.hpp	/^  mutable long                        del_ref;$/;"	m	class:boost::flyweights::detail::refcounted_value	access:private
+detail	/usr/include/boost/flyweight/assoc_container_factory.hpp	/^namespace boost{namespace flyweights{namespace detail{$/;"	n	namespace:boost::flyweights
+detail	/usr/include/boost/flyweight/detail/default_value_policy.hpp	/^namespace detail{$/;"	n	namespace:boost::flyweights
+detail	/usr/include/boost/flyweight/detail/flyweight_core.hpp	/^namespace detail{$/;"	n	namespace:boost::flyweights
+detail	/usr/include/boost/flyweight/detail/is_placeholder_expr.hpp	/^namespace detail{$/;"	n	namespace:boost::flyweights
+detail	/usr/include/boost/flyweight/detail/recursive_lw_mutex.hpp	/^namespace detail{$/;"	n	namespace:boost::flyweights
+detail	/usr/include/boost/flyweight/detail/value_tag.hpp	/^namespace detail{$/;"	n	namespace:boost::flyweights
+detail	/usr/include/boost/flyweight/flyweight.hpp	/^namespace detail{$/;"	n	namespace:boost::flyweights
+detail	/usr/include/boost/flyweight/key_value.hpp	/^namespace detail{$/;"	n	namespace:boost::flyweights
+detail	/usr/include/boost/flyweight/refcounted.hpp	/^namespace detail{$/;"	n	namespace:boost::flyweights
+detail	/usr/include/boost/flyweight/tag.hpp	/^namespace detail{$/;"	n	namespace:boost::flyweights
+entry	/usr/include/boost/flyweight/assoc_container_factory.hpp	/^  static const entry_type& entry(handle_type h){return *h;}$/;"	f	class:boost::flyweights::assoc_container_factory_class	access:public	signature:(handle_type h)
+entry	/usr/include/boost/flyweight/detail/flyweight_core.hpp	/^  static const entry_type& entry(const base_handle_type& h)$/;"	f	class:boost::flyweights::detail::flyweight_core	access:public	signature:(const base_handle_type& h)
+entry	/usr/include/boost/flyweight/detail/flyweight_core.hpp	/^  static const entry_type& entry(const handle_type& h)$/;"	f	struct:boost::flyweights::detail::flyweight_core_tracking_helper	access:public	signature:(const handle_type& h)
+entry	/usr/include/boost/flyweight/hashed_factory.hpp	/^  static const Entry& entry(handle_type h){return *h;}$/;"	f	class:boost::flyweights::hashed_factory_class	access:public	signature:(handle_type h)
+entry_type	/usr/include/boost/flyweight/assoc_container_factory.hpp	/^  >::type                                entry_type;$/;"	t	class:boost::flyweights::assoc_container_factory_class	access:public
+entry_type	/usr/include/boost/flyweight/detail/flyweight_core.hpp	/^  >::type                                    entry_type;$/;"	t	class:boost::flyweights::detail::flyweight_core	access:public
+entry_type	/usr/include/boost/flyweight/detail/flyweight_core.hpp	/^  typedef typename core::entry_type   entry_type;$/;"	t	struct:boost::flyweights::detail::flyweight_core_tracking_helper	access:private
+entry_type	/usr/include/boost/flyweight/no_tracking.hpp	/^  struct entry_type$/;"	s	struct:boost::flyweights::no_tracking	access:public
+entry_type	/usr/include/boost/flyweight/refcounted.hpp	/^  struct entry_type$/;"	s	struct:boost::flyweights::refcounted	access:public
+erase	/usr/include/boost/flyweight/assoc_container_factory.hpp	/^  void erase(handle_type h)$/;"	f	class:boost::flyweights::assoc_container_factory_class	access:public	signature:(handle_type h)
+erase	/usr/include/boost/flyweight/detail/flyweight_core.hpp	/^  static void erase(const handle_type& h,Checker check)$/;"	f	struct:boost::flyweights::detail::flyweight_core_tracking_helper	access:public	signature:(const handle_type& h,Checker check)
+erase	/usr/include/boost/flyweight/hashed_factory.hpp	/^  void erase(handle_type h)$/;"	f	class:boost::flyweights::hashed_factory_class	access:public	signature:(handle_type h)
+factory	/usr/include/boost/flyweight/detail/flyweight_core.hpp	/^    factory_type factory;$/;"	m	struct:boost::flyweights::detail::flyweight_core::holder_arg	access:public
+factory	/usr/include/boost/flyweight/detail/flyweight_core.hpp	/^  static factory_type& factory()$/;"	f	class:boost::flyweights::detail::flyweight_core	access:public	signature:()
+factory	/usr/include/boost/flyweight/factory_tag.hpp	/^struct factory:parameter::template_keyword<factory<>,T>$/;"	s	namespace:boost::flyweights	inherits:parameter::template_keyword
+factory_marker	/usr/include/boost/flyweight/factory_tag.hpp	/^struct factory_marker{};$/;"	s	namespace:boost::flyweights
+factory_specifier	/usr/include/boost/flyweight/flyweight.hpp	/^  >::type                                 factory_specifier;$/;"	t	class:boost::flyweights::flyweight	access:private
+factory_type	/usr/include/boost/flyweight/detail/flyweight_core.hpp	/^  >::type                                    factory_type;$/;"	t	class:boost::flyweights::detail::flyweight_core	access:public
+flyweight	/usr/include/boost/flyweight/flyweight.hpp	/^  flyweight():h(core::insert(key_type())){}$/;"	f	class:boost::flyweights::flyweight	access:public	signature:()
+flyweight	/usr/include/boost/flyweight/flyweight.hpp	/^  flyweight(const flyweight& x):h(x.h){}$/;"	f	class:boost::flyweights::flyweight	access:public	signature:(const flyweight& x)
+flyweight	/usr/include/boost/flyweight/flyweight.hpp	/^  flyweight(flyweight& x):h(x.h){}$/;"	f	class:boost::flyweights::flyweight	access:public	signature:(flyweight& x)
+flyweight	/usr/include/boost/flyweight/flyweight.hpp	/^class flyweight$/;"	c	namespace:boost::flyweights
+flyweight_core	/usr/include/boost/flyweight/detail/flyweight_core.hpp	/^class flyweight_core$/;"	c	namespace:boost::flyweights::detail
+flyweight_core_tracking_helper	/usr/include/boost/flyweight/detail/flyweight_core.hpp	/^struct flyweight_core_tracking_helper$/;"	s	namespace:boost::flyweights::detail
+flyweight_signature	/usr/include/boost/flyweight/flyweight.hpp	/^struct flyweight_signature:$/;"	s	namespace:boost::flyweights::detail	inherits:parameter::parameters
+flyweight_unmatched_signature	/usr/include/boost/flyweight/flyweight.hpp	/^struct flyweight_unmatched_signature:$/;"	s	namespace:boost::flyweights::detail	inherits:parameter::parameters
+flyweights	/usr/include/boost/flyweight/assoc_container_factory.hpp	/^namespace boost{namespace flyweights{namespace detail{$/;"	n	namespace:boost
+flyweights	/usr/include/boost/flyweight/assoc_container_factory.hpp	/^namespace flyweights{$/;"	n	namespace:boost
+flyweights	/usr/include/boost/flyweight/assoc_container_factory_fwd.hpp	/^namespace flyweights{$/;"	n	namespace:boost
+flyweights	/usr/include/boost/flyweight/detail/default_value_policy.hpp	/^namespace flyweights{$/;"	n	namespace:boost
+flyweights	/usr/include/boost/flyweight/detail/flyweight_core.hpp	/^namespace flyweights{$/;"	n	namespace:boost
+flyweights	/usr/include/boost/flyweight/detail/is_placeholder_expr.hpp	/^namespace flyweights{$/;"	n	namespace:boost
+flyweights	/usr/include/boost/flyweight/detail/recursive_lw_mutex.hpp	/^namespace flyweights{$/;"	n	namespace:boost
+flyweights	/usr/include/boost/flyweight/detail/value_tag.hpp	/^namespace flyweights{$/;"	n	namespace:boost
+flyweights	/usr/include/boost/flyweight/factory_tag.hpp	/^namespace flyweights{$/;"	n	namespace:boost
+flyweights	/usr/include/boost/flyweight/flyweight.hpp	/^namespace flyweights{$/;"	n	namespace:boost
+flyweights	/usr/include/boost/flyweight/flyweight_fwd.hpp	/^namespace flyweights{$/;"	n	namespace:boost
+flyweights	/usr/include/boost/flyweight/hashed_factory.hpp	/^namespace flyweights{$/;"	n	namespace:boost
+flyweights	/usr/include/boost/flyweight/hashed_factory_fwd.hpp	/^namespace flyweights{$/;"	n	namespace:boost
+flyweights	/usr/include/boost/flyweight/holder_tag.hpp	/^namespace flyweights{$/;"	n	namespace:boost
+flyweights	/usr/include/boost/flyweight/intermodule_holder.hpp	/^namespace flyweights{$/;"	n	namespace:boost
+flyweights	/usr/include/boost/flyweight/intermodule_holder_fwd.hpp	/^namespace flyweights{$/;"	n	namespace:boost
+flyweights	/usr/include/boost/flyweight/key_value.hpp	/^namespace flyweights{$/;"	n	namespace:boost
+flyweights	/usr/include/boost/flyweight/key_value_fwd.hpp	/^namespace flyweights{$/;"	n	namespace:boost
+flyweights	/usr/include/boost/flyweight/locking_tag.hpp	/^namespace flyweights{$/;"	n	namespace:boost
+flyweights	/usr/include/boost/flyweight/no_locking.hpp	/^namespace flyweights{$/;"	n	namespace:boost
+flyweights	/usr/include/boost/flyweight/no_locking_fwd.hpp	/^namespace flyweights{$/;"	n	namespace:boost
+flyweights	/usr/include/boost/flyweight/no_tracking.hpp	/^namespace flyweights{$/;"	n	namespace:boost
+flyweights	/usr/include/boost/flyweight/no_tracking_fwd.hpp	/^namespace flyweights{$/;"	n	namespace:boost
+flyweights	/usr/include/boost/flyweight/refcounted.hpp	/^namespace flyweights{$/;"	n	namespace:boost
+flyweights	/usr/include/boost/flyweight/refcounted_fwd.hpp	/^namespace flyweights{$/;"	n	namespace:boost
+flyweights	/usr/include/boost/flyweight/set_factory.hpp	/^namespace flyweights{$/;"	n	namespace:boost
+flyweights	/usr/include/boost/flyweight/set_factory_fwd.hpp	/^namespace flyweights{$/;"	n	namespace:boost
+flyweights	/usr/include/boost/flyweight/simple_locking.hpp	/^namespace flyweights{$/;"	n	namespace:boost
+flyweights	/usr/include/boost/flyweight/simple_locking_fwd.hpp	/^namespace flyweights{$/;"	n	namespace:boost
+flyweights	/usr/include/boost/flyweight/static_holder.hpp	/^namespace flyweights{$/;"	n	namespace:boost
+flyweights	/usr/include/boost/flyweight/static_holder_fwd.hpp	/^namespace flyweights{$/;"	n	namespace:boost
+flyweights	/usr/include/boost/flyweight/tag.hpp	/^namespace flyweights{$/;"	n	namespace:boost
+flyweights	/usr/include/boost/flyweight/tracking_tag.hpp	/^namespace flyweights{$/;"	n	namespace:boost
+get	/usr/include/boost/flyweight/flyweight.hpp	/^  const value_type& get()const{return core::value(h);}$/;"	f	class:boost::flyweights::flyweight	access:public	signature:() const
+get	/usr/include/boost/flyweight/static_holder.hpp	/^  static C& get()$/;"	f	struct:boost::flyweights::static_holder_class	access:public	signature:()
+get_key	/usr/include/boost/flyweight/flyweight.hpp	/^  const key_type&   get_key()const{return core::key(h);}$/;"	f	class:boost::flyweights::flyweight	access:public	signature:() const
+h	/usr/include/boost/flyweight/flyweight.hpp	/^  handle_type h;$/;"	m	class:boost::flyweights::flyweight	access:private
+h	/usr/include/boost/flyweight/refcounted.hpp	/^  Handle h;$/;"	m	class:boost::flyweights::detail::refcounted_handle	access:private
+handle_type	/usr/include/boost/flyweight/assoc_container_factory.hpp	/^  >::type                                handle_type;$/;"	t	class:boost::flyweights::assoc_container_factory_class	access:public
+handle_type	/usr/include/boost/flyweight/detail/flyweight_core.hpp	/^  >::type                                    handle_type;$/;"	t	class:boost::flyweights::detail::flyweight_core	access:public
+handle_type	/usr/include/boost/flyweight/detail/flyweight_core.hpp	/^  typedef typename core::handle_type  handle_type;$/;"	t	struct:boost::flyweights::detail::flyweight_core_tracking_helper	access:private
+handle_type	/usr/include/boost/flyweight/flyweight.hpp	/^  typedef typename core::handle_type           handle_type;$/;"	t	class:boost::flyweights::flyweight	access:private
+handle_type	/usr/include/boost/flyweight/hashed_factory.hpp	/^  typedef const Entry* handle_type;$/;"	t	class:boost::flyweights::hashed_factory_class	access:public
+handle_type	/usr/include/boost/flyweight/no_tracking.hpp	/^  struct handle_type$/;"	s	struct:boost::flyweights::no_tracking	access:public
+handle_type	/usr/include/boost/flyweight/refcounted.hpp	/^  struct handle_type$/;"	s	struct:boost::flyweights::refcounted	access:public
+hashed_factory	/usr/include/boost/flyweight/hashed_factory.hpp	/^struct hashed_factory:factory_marker$/;"	s	namespace:boost::flyweights	inherits:factory_marker
+hashed_factory_class	/usr/include/boost/flyweight/hashed_factory.hpp	/^class hashed_factory_class:public factory_marker$/;"	c	namespace:boost::flyweights	inherits:factory_marker
+holder	/usr/include/boost/flyweight/holder_tag.hpp	/^struct holder:parameter::template_keyword<holder<>,T>$/;"	s	namespace:boost::flyweights	inherits:parameter::template_keyword
+holder_arg	/usr/include/boost/flyweight/detail/flyweight_core.hpp	/^  struct                              holder_arg$/;"	s	class:boost::flyweights::detail::flyweight_core	access:private
+holder_marker	/usr/include/boost/flyweight/holder_tag.hpp	/^struct holder_marker{};$/;"	s	namespace:boost::flyweights
+holder_specifier	/usr/include/boost/flyweight/flyweight.hpp	/^  >::type                                 holder_specifier;$/;"	t	class:boost::flyweights::flyweight	access:private
+holder_type	/usr/include/boost/flyweight/detail/flyweight_core.hpp	/^  >::type                             holder_type;$/;"	t	class:boost::flyweights::detail::flyweight_core	access:private
+in	/usr/include/boost/flyweight/flyweight.hpp	/^  BOOST_TEMPLATED_STREAM(istream,ElemType,Traits)& in,$/;"	m	namespace:boost::flyweights
+in	/usr/include/boost/flyweight/flyweight_fwd.hpp	/^  BOOST_TEMPLATED_STREAM(istream,ElemType,Traits)& in,$/;"	m	namespace:boost::flyweights
+index_list	/usr/include/boost/flyweight/hashed_factory.hpp	/^  struct index_list:$/;"	s	class:boost::flyweights::hashed_factory_class	inherits:boost::mpl::vector1	access:private
+init	/usr/include/boost/flyweight/detail/flyweight_core.hpp	/^  static bool init()$/;"	f	class:boost::flyweights::detail::flyweight_core	access:public	signature:()
+init	/usr/include/boost/flyweight/flyweight.hpp	/^  static bool init(){return core::init();}$/;"	f	class:boost::flyweights::flyweight	access:public	signature:()
+initializer	/usr/include/boost/flyweight/flyweight.hpp	/^    initializer():b(init()){}$/;"	f	class:boost::flyweights::flyweight::initializer	access:public	signature:()
+initializer	/usr/include/boost/flyweight/flyweight.hpp	/^  class initializer$/;"	c	class:boost::flyweights::flyweight	access:public
+insert	/usr/include/boost/flyweight/assoc_container_factory.hpp	/^  handle_type insert(const entry_type& x)$/;"	f	class:boost::flyweights::assoc_container_factory_class	access:public	signature:(const entry_type& x)
+insert	/usr/include/boost/flyweight/detail/flyweight_core.hpp	/^  static handle_type insert(const value_type& x){return insert_value(x);}$/;"	f	class:boost::flyweights::detail::flyweight_core	access:public	signature:(const value_type& x)
+insert	/usr/include/boost/flyweight/detail/flyweight_core.hpp	/^  static handle_type insert(value_type& x){return insert_value(x);}$/;"	f	class:boost::flyweights::detail::flyweight_core	access:public	signature:(value_type& x)
+insert	/usr/include/boost/flyweight/hashed_factory.hpp	/^  handle_type insert(const Entry& x)$/;"	f	class:boost::flyweights::hashed_factory_class	access:public	signature:(const Entry& x)
+insert_rep	/usr/include/boost/flyweight/detail/flyweight_core.hpp	/^  static handle_type insert_rep(const rep_type& x)$/;"	f	class:boost::flyweights::detail::flyweight_core	access:private	signature:(const rep_type& x)
+insert_value	/usr/include/boost/flyweight/detail/flyweight_core.hpp	/^  static handle_type insert_value(const value_type& x)$/;"	f	class:boost::flyweights::detail::flyweight_core	access:private	signature:(const value_type& x)
+intermodule_holder	/usr/include/boost/flyweight/intermodule_holder.hpp	/^struct intermodule_holder:holder_marker$/;"	s	namespace:boost::flyweights	inherits:holder_marker
+intermodule_holder_class	/usr/include/boost/flyweight/intermodule_holder.hpp	/^struct intermodule_holder_class:$/;"	s	namespace:boost::flyweights	inherits:interprocess::ipcdetail::intermodule_singleton,holder_marker
+is_factory	/usr/include/boost/flyweight/factory_tag.hpp	/^struct is_factory:is_base_and_derived<factory_marker,T>$/;"	s	namespace:boost::flyweights	inherits:is_base_and_derived
+is_holder	/usr/include/boost/flyweight/holder_tag.hpp	/^struct is_holder:is_base_and_derived<holder_marker,T>$/;"	s	namespace:boost::flyweights	inherits:is_base_and_derived
+is_locking	/usr/include/boost/flyweight/locking_tag.hpp	/^struct is_locking:is_base_and_derived<locking_marker,T>$/;"	s	namespace:boost::flyweights	inherits:is_base_and_derived
+is_placeholder_expression	/usr/include/boost/flyweight/detail/is_placeholder_expr.hpp	/^struct is_placeholder_expression:$/;"	s	namespace:boost::flyweights::detail	inherits:mpl::not_
+is_placeholder_expression_helper	/usr/include/boost/flyweight/detail/is_placeholder_expr.hpp	/^struct is_placeholder_expression_helper$/;"	s	namespace:boost::flyweights::detail
+is_tag	/usr/include/boost/flyweight/tag.hpp	/^struct is_tag:is_base_and_derived<tag_marker,T>$/;"	s	namespace:boost::flyweights::detail	inherits:is_base_and_derived
+is_tracking	/usr/include/boost/flyweight/tracking_tag.hpp	/^struct is_tracking:is_base_and_derived<tracking_marker,T>$/;"	s	namespace:boost::flyweights	inherits:is_base_and_derived
+is_value	/usr/include/boost/flyweight/detail/value_tag.hpp	/^struct is_value:is_base_and_derived<value_marker,T>$/;"	s	namespace:boost::flyweights::detail	inherits:is_base_and_derived
+key	/usr/include/boost/flyweight/detail/flyweight_core.hpp	/^  static const key_type& key(const handle_type& h)$/;"	f	class:boost::flyweights::detail::flyweight_core	access:public	signature:(const handle_type& h)
+key	/usr/include/boost/flyweight/key_value.hpp	/^    key_type                                 key;$/;"	m	class:boost::flyweights::detail::regular_key_value::rep_type	access:private
+key_from_value	/usr/include/boost/flyweight/key_value.hpp	/^    static const key_type& key_from_value(const value_type& x)$/;"	f	class:boost::flyweights::detail::optimized_key_value::rep_type	access:private	signature:(const value_type& x)
+key_ptr	/usr/include/boost/flyweight/key_value.hpp	/^    key_type* key_ptr()const$/;"	f	class:boost::flyweights::detail::optimized_key_value::rep_type	access:private	signature:() const
+key_type	/usr/include/boost/flyweight/detail/default_value_policy.hpp	/^  typedef Value key_type;$/;"	t	struct:boost::flyweights::detail::default_value_policy	access:public
+key_type	/usr/include/boost/flyweight/detail/flyweight_core.hpp	/^  typedef typename ValuePolicy::key_type     key_type;$/;"	t	class:boost::flyweights::detail::flyweight_core	access:public
+key_type	/usr/include/boost/flyweight/flyweight.hpp	/^  typedef typename value_policy::key_type      key_type;$/;"	t	class:boost::flyweights::flyweight	access:public
+key_type	/usr/include/boost/flyweight/key_value.hpp	/^  typedef Key   key_type;$/;"	t	struct:boost::flyweights::detail::optimized_key_value	access:public
+key_type	/usr/include/boost/flyweight/key_value.hpp	/^  typedef Key   key_type;$/;"	t	struct:boost::flyweights::detail::regular_key_value	access:public
+key_value	/usr/include/boost/flyweight/key_value.hpp	/^struct key_value:$/;"	s	namespace:boost::flyweights	inherits:mpl::if_::type
+lock_type	/usr/include/boost/flyweight/detail/flyweight_core.hpp	/^  typedef typename LockingPolicy::lock_type  lock_type;$/;"	t	class:boost::flyweights::detail::flyweight_core	access:public
+lock_type	/usr/include/boost/flyweight/no_locking.hpp	/^  typedef mutex_type lock_type;$/;"	t	struct:boost::flyweights::no_locking	access:public
+lock_type	/usr/include/boost/flyweight/simple_locking.hpp	/^  typedef mutex_type::scoped_lock             lock_type;$/;"	t	struct:boost::flyweights::simple_locking	access:public
+locking	/usr/include/boost/flyweight/locking_tag.hpp	/^struct locking:parameter::template_keyword<locking<>,T>$/;"	s	namespace:boost::flyweights	inherits:parameter::template_keyword
+locking_marker	/usr/include/boost/flyweight/locking_tag.hpp	/^struct locking_marker{};$/;"	s	namespace:boost::flyweights
+locking_policy	/usr/include/boost/flyweight/flyweight.hpp	/^  >::type                                 locking_policy;$/;"	t	class:boost::flyweights::flyweight	access:private
+mutex	/usr/include/boost/flyweight/detail/flyweight_core.hpp	/^    mutex_type   mutex;$/;"	m	struct:boost::flyweights::detail::flyweight_core::holder_arg	access:public
+mutex	/usr/include/boost/flyweight/detail/flyweight_core.hpp	/^  static mutex_type& mutex()$/;"	f	class:boost::flyweights::detail::flyweight_core	access:public	signature:()
+mutex_type	/usr/include/boost/flyweight/detail/flyweight_core.hpp	/^  typedef typename LockingPolicy::mutex_type mutex_type;$/;"	t	class:boost::flyweights::detail::flyweight_core	access:public
+mutex_type	/usr/include/boost/flyweight/no_locking.hpp	/^  struct             mutex_type{};$/;"	s	struct:boost::flyweights::no_locking	access:public
+mutex_type	/usr/include/boost/flyweight/simple_locking.hpp	/^  typedef detail::recursive_lightweight_mutex mutex_type;$/;"	t	struct:boost::flyweights::simple_locking	access:public
+no_key_from_value_failure	/usr/include/boost/flyweight/key_value.hpp	/^    struct no_key_from_value_failure$/;"	s	class:boost::flyweights::detail::regular_key_value::rep_type	access:private
+no_locking	/usr/include/boost/flyweight/no_locking.hpp	/^struct no_locking:locking_marker$/;"	s	namespace:boost::flyweights	inherits:locking_marker
+no_tracking	/usr/include/boost/flyweight/no_tracking.hpp	/^struct no_tracking:tracking_marker$/;"	s	namespace:boost::flyweights	inherits:tracking_marker
+operator <	/usr/include/boost/flyweight/flyweight.hpp	/^bool operator<($/;"	f	namespace:boost::flyweights	signature:( const T1& x,const flyweight<T2,BOOST_FLYWEIGHT_TEMPL_ARGS(2)>& y)
+operator <	/usr/include/boost/flyweight/flyweight.hpp	/^bool operator<($/;"	f	namespace:boost::flyweights	signature:( const flyweight<T1,BOOST_FLYWEIGHT_TEMPL_ARGS(1)>& x, const flyweight<T2,BOOST_FLYWEIGHT_TEMPL_ARGS(2)>& y)
+operator <	/usr/include/boost/flyweight/flyweight.hpp	/^bool operator<($/;"	f	namespace:boost::flyweights	signature:( const flyweight<T1,BOOST_FLYWEIGHT_TEMPL_ARGS(1)>& x,const T2& y)
+operator <	/usr/include/boost/flyweight/flyweight_fwd.hpp	/^bool operator<($/;"	p	namespace:boost::flyweights	signature:( const T1& x,const flyweight<T2,BOOST_FLYWEIGHT_TEMPL_ARGS(2)>& y)
+operator <	/usr/include/boost/flyweight/flyweight_fwd.hpp	/^bool operator<($/;"	p	namespace:boost::flyweights	signature:( const flyweight<T1,BOOST_FLYWEIGHT_TEMPL_ARGS(1)>& x, const flyweight<T2,BOOST_FLYWEIGHT_TEMPL_ARGS(2)>& y)
+operator <	/usr/include/boost/flyweight/flyweight_fwd.hpp	/^bool operator<($/;"	p	namespace:boost::flyweights	signature:( const flyweight<T1,BOOST_FLYWEIGHT_TEMPL_ARGS(1)>& x,const T2& y)
+operator =	/usr/include/boost/flyweight/flyweight.hpp	/^  flyweight& operator=(const flyweight& x){h=x.h;return *this;}$/;"	f	class:boost::flyweights::flyweight	access:public	signature:(const flyweight& x)
+operator =	/usr/include/boost/flyweight/flyweight.hpp	/^  flyweight& operator=(const value_type& x){return operator=(flyweight(x));}$/;"	f	class:boost::flyweights::flyweight	access:public	signature:(const value_type& x)
+operator =	/usr/include/boost/flyweight/refcounted.hpp	/^  refcounted_handle& operator=(refcounted_handle x)$/;"	f	class:boost::flyweights::detail::refcounted_handle	access:public	signature:(refcounted_handle x)
+operator =	/usr/include/boost/flyweight/refcounted.hpp	/^  refcounted_value& operator=(const refcounted_value& r)$/;"	f	class:boost::flyweights::detail::refcounted_value	access:public	signature:(const refcounted_value& r)
+operator ==	/usr/include/boost/flyweight/flyweight.hpp	/^  friend bool operator==(const flyweight& x,const flyweight& y)$/;"	f	class:boost::flyweights::flyweight	access:friend	signature:(const flyweight& x,const flyweight& y)
+operator ==	/usr/include/boost/flyweight/flyweight.hpp	/^bool operator==($/;"	f	namespace:boost::flyweights	signature:( const T1& x,const flyweight<T2,BOOST_FLYWEIGHT_TEMPL_ARGS(2)>& y)
+operator ==	/usr/include/boost/flyweight/flyweight.hpp	/^bool operator==($/;"	f	namespace:boost::flyweights	signature:( const flyweight<T1,BOOST_FLYWEIGHT_TEMPL_ARGS(1)>& x, const flyweight<T2,BOOST_FLYWEIGHT_TEMPL_ARGS(2)>& y)
+operator ==	/usr/include/boost/flyweight/flyweight.hpp	/^bool operator==($/;"	f	namespace:boost::flyweights	signature:( const flyweight<T1,BOOST_FLYWEIGHT_TEMPL_ARGS(1)>& x,const T2& y)
+operator ==	/usr/include/boost/flyweight/flyweight_fwd.hpp	/^bool operator==($/;"	p	namespace:boost::flyweights	signature:( const T1& x,const flyweight<T2,BOOST_FLYWEIGHT_TEMPL_ARGS(2)>& y)
+operator ==	/usr/include/boost/flyweight/flyweight_fwd.hpp	/^bool operator==($/;"	p	namespace:boost::flyweights	signature:( const flyweight<T1,BOOST_FLYWEIGHT_TEMPL_ARGS(1)>& x, const flyweight<T2,BOOST_FLYWEIGHT_TEMPL_ARGS(2)>& y)
+operator ==	/usr/include/boost/flyweight/flyweight_fwd.hpp	/^bool operator==($/;"	p	namespace:boost::flyweights	signature:( const flyweight<T1,BOOST_FLYWEIGHT_TEMPL_ARGS(1)>& x,const T2& y)
+operator const Handle&	/usr/include/boost/flyweight/refcounted.hpp	/^  operator const Handle&()const{return h;}$/;"	f	class:boost::flyweights::detail::refcounted_handle	access:public	signature:() const
+operator const Key&	/usr/include/boost/flyweight/refcounted.hpp	/^  operator const Key&()const{return x;}$/;"	f	class:boost::flyweights::detail::refcounted_value	access:public	signature:() const
+operator const Value&	/usr/include/boost/flyweight/refcounted.hpp	/^  operator const Value&()const{return x;}$/;"	f	class:boost::flyweights::detail::refcounted_value	access:public	signature:() const
+operator const key_type&	/usr/include/boost/flyweight/key_value.hpp	/^      operator const key_type&()const;$/;"	p	struct:boost::flyweights::detail::regular_key_value::rep_type::no_key_from_value_failure	access:public	signature:() const
+operator const key_type&	/usr/include/boost/flyweight/key_value.hpp	/^    operator const key_type&()const$/;"	f	class:boost::flyweights::detail::optimized_key_value::rep_type	access:public	signature:() const
+operator const key_type&	/usr/include/boost/flyweight/key_value.hpp	/^    operator const key_type&()const{return key;}$/;"	f	class:boost::flyweights::detail::regular_key_value::rep_type	access:public	signature:() const
+operator const value_type&	/usr/include/boost/flyweight/detail/default_value_policy.hpp	/^    operator const value_type&()const{return x;}$/;"	f	struct:boost::flyweights::detail::default_value_policy::rep_type	access:public	signature:() const
+operator const value_type&	/usr/include/boost/flyweight/flyweight.hpp	/^  operator const    value_type&()const{return get();}$/;"	f	class:boost::flyweights::flyweight	access:public	signature:() const
+operator const value_type&	/usr/include/boost/flyweight/key_value.hpp	/^    operator const value_type&()const$/;"	f	class:boost::flyweights::detail::optimized_key_value::rep_type	access:public	signature:() const
+operator const value_type&	/usr/include/boost/flyweight/key_value.hpp	/^    operator const value_type&()const$/;"	f	class:boost::flyweights::detail::regular_key_value::rep_type	access:public	signature:() const
+optimized_key_value	/usr/include/boost/flyweight/key_value.hpp	/^struct optimized_key_value:value_marker$/;"	s	namespace:boost::flyweights::detail	inherits:value_marker
+out	/usr/include/boost/flyweight/flyweight.hpp	/^  BOOST_TEMPLATED_STREAM(ostream,ElemType,Traits)& out,$/;"	m	namespace:boost::flyweights
+out	/usr/include/boost/flyweight/flyweight_fwd.hpp	/^  BOOST_TEMPLATED_STREAM(ostream,ElemType,Traits)& out,$/;"	m	namespace:boost::flyweights
+recursive_lightweight_mutex	/usr/include/boost/flyweight/detail/recursive_lw_mutex.hpp	/^typedef boost::detail::lightweight_mutex recursive_lightweight_mutex;$/;"	t	namespace:boost::flyweights::detail
+ref	/usr/include/boost/flyweight/refcounted.hpp	/^  mutable boost::detail::atomic_count ref;$/;"	m	class:boost::flyweights::detail::refcounted_value	access:private
+refcounted	/usr/include/boost/flyweight/refcounted.hpp	/^struct refcounted:tracking_marker$/;"	s	namespace:boost::flyweights	inherits:tracking_marker
+refcounted_handle	/usr/include/boost/flyweight/refcounted.hpp	/^  explicit refcounted_handle(const Handle& h_):h(h_)$/;"	f	class:boost::flyweights::detail::refcounted_handle	access:public	signature:(const Handle& h_)
+refcounted_handle	/usr/include/boost/flyweight/refcounted.hpp	/^  refcounted_handle(const refcounted_handle& x):h(x.h)$/;"	f	class:boost::flyweights::detail::refcounted_handle	access:public	signature:(const refcounted_handle& x)
+refcounted_handle	/usr/include/boost/flyweight/refcounted.hpp	/^class refcounted_handle$/;"	c	namespace:boost::flyweights::detail
+refcounted_value	/usr/include/boost/flyweight/refcounted.hpp	/^  explicit refcounted_value(const Value& x_):$/;"	f	class:boost::flyweights::detail::refcounted_value	access:public	signature:(const Value& x_)
+refcounted_value	/usr/include/boost/flyweight/refcounted.hpp	/^  refcounted_value(const refcounted_value& r):$/;"	f	class:boost::flyweights::detail::refcounted_value	access:public	signature:(const refcounted_value& r)
+refcounted_value	/usr/include/boost/flyweight/refcounted.hpp	/^class refcounted_value$/;"	c	namespace:boost::flyweights::detail
+regular_key_value	/usr/include/boost/flyweight/key_value.hpp	/^struct regular_key_value:value_marker$/;"	s	namespace:boost::flyweights::detail	inherits:value_marker
+release	/usr/include/boost/flyweight/refcounted.hpp	/^  bool release()const{return (--ref==0);}$/;"	f	class:boost::flyweights::detail::refcounted_value	access:private	signature:() const
+release_deleter	/usr/include/boost/flyweight/refcounted.hpp	/^  bool release_deleter()const{return (--del_ref==0);}$/;"	f	class:boost::flyweights::detail::refcounted_value	access:private	signature:() const
+rep_type	/usr/include/boost/flyweight/detail/default_value_policy.hpp	/^  struct rep_type$/;"	s	struct:boost::flyweights::detail::default_value_policy	access:public
+rep_type	/usr/include/boost/flyweight/detail/flyweight_core.hpp	/^  typedef typename ValuePolicy::rep_type     rep_type;$/;"	t	class:boost::flyweights::detail::flyweight_core	access:public
+rep_type	/usr/include/boost/flyweight/key_value.hpp	/^    rep_type(const rep_type& x):key(x.key),value_ptr(0){}$/;"	f	class:boost::flyweights::detail::regular_key_value::rep_type	access:public	signature:(const rep_type& x)
+rep_type	/usr/include/boost/flyweight/key_value.hpp	/^    rep_type(const rep_type& x):value_ptr(x.value_ptr)$/;"	f	class:boost::flyweights::detail::optimized_key_value::rep_type	access:public	signature:(const rep_type& x)
+rep_type	/usr/include/boost/flyweight/key_value.hpp	/^    rep_type(const value_type& x):key(no_key_from_value_failure()){}$/;"	f	class:boost::flyweights::detail::regular_key_value::rep_type	access:public	signature:(const value_type& x)
+rep_type	/usr/include/boost/flyweight/key_value.hpp	/^    rep_type(const value_type& x):value_ptr(&x){}$/;"	f	class:boost::flyweights::detail::optimized_key_value::rep_type	access:public	signature:(const value_type& x)
+rep_type	/usr/include/boost/flyweight/key_value.hpp	/^  class rep_type$/;"	c	struct:boost::flyweights::detail::optimized_key_value	access:public
+rep_type	/usr/include/boost/flyweight/key_value.hpp	/^  class rep_type$/;"	c	struct:boost::flyweights::detail::regular_key_value	access:public
+set_factory	/usr/include/boost/flyweight/set_factory.hpp	/^struct set_factory:factory_marker$/;"	s	namespace:boost::flyweights	inherits:factory_marker
+set_factory_class	/usr/include/boost/flyweight/set_factory.hpp	/^class set_factory_class:$/;"	c	namespace:boost::flyweights	inherits:assoc_container_factory_class
+simple_locking	/usr/include/boost/flyweight/simple_locking.hpp	/^struct simple_locking:locking_marker$/;"	s	namespace:boost::flyweights	inherits:locking_marker
+spc	/usr/include/boost/flyweight/key_value.hpp	/^    >::type                                    spc;$/;"	m	class:boost::flyweights::detail::optimized_key_value::rep_type	access:private
+spc	/usr/include/boost/flyweight/key_value.hpp	/^    >::type                                  spc;$/;"	m	class:boost::flyweights::detail::regular_key_value::rep_type	access:private
+spc_ptr	/usr/include/boost/flyweight/key_value.hpp	/^    void* spc_ptr()const{return static_cast<void*>(&spc);}$/;"	f	class:boost::flyweights::detail::optimized_key_value::rep_type	access:private	signature:() const
+spc_ptr	/usr/include/boost/flyweight/key_value.hpp	/^    void* spc_ptr()const{return static_cast<void*>(&spc);}$/;"	f	class:boost::flyweights::detail::regular_key_value::rep_type	access:private	signature:() const
+static_factory_ptr	/usr/include/boost/flyweight/detail/flyweight_core.hpp	/^  FactorySpecifier,LockingPolicy,HolderSpecifier>::static_factory_ptr=0;$/;"	m	class:boost::flyweights::detail::flyweight_core
+static_factory_ptr	/usr/include/boost/flyweight/detail/flyweight_core.hpp	/^  static factory_type* static_factory_ptr;$/;"	m	class:boost::flyweights::detail::flyweight_core	access:private
+static_holder	/usr/include/boost/flyweight/static_holder.hpp	/^struct static_holder:holder_marker$/;"	s	namespace:boost::flyweights	inherits:holder_marker
+static_holder_class	/usr/include/boost/flyweight/static_holder.hpp	/^struct static_holder_class:holder_marker$/;"	s	namespace:boost::flyweights	inherits:holder_marker
+static_initializer	/usr/include/boost/flyweight/detail/flyweight_core.hpp	/^  FactorySpecifier,LockingPolicy,HolderSpecifier>::static_initializer=$/;"	m	class:boost::flyweights::detail::flyweight_core
+static_initializer	/usr/include/boost/flyweight/detail/flyweight_core.hpp	/^  static bool          static_initializer;$/;"	m	class:boost::flyweights::detail::flyweight_core	access:private
+static_mutex_ptr	/usr/include/boost/flyweight/detail/flyweight_core.hpp	/^  FactorySpecifier,LockingPolicy,HolderSpecifier>::static_mutex_ptr=0;$/;"	m	class:boost::flyweights::detail::flyweight_core
+static_mutex_ptr	/usr/include/boost/flyweight/detail/flyweight_core.hpp	/^  static mutex_type*   static_mutex_ptr;$/;"	m	class:boost::flyweights::detail::flyweight_core	access:private
+swap	/usr/include/boost/flyweight/flyweight.hpp	/^  void swap(flyweight& x){boost::swap(h,x.h);}$/;"	f	class:boost::flyweights::flyweight	access:public	signature:(flyweight& x)
+swap	/usr/include/boost/flyweight/flyweight.hpp	/^void swap($/;"	f	namespace:boost::flyweights	signature:( flyweight<T,BOOST_FLYWEIGHT_TEMPL_ARGS(_)>& x, flyweight<T,BOOST_FLYWEIGHT_TEMPL_ARGS(_)>& y)
+swap	/usr/include/boost/flyweight/flyweight_fwd.hpp	/^inline void swap($/;"	p	namespace:boost::flyweights	signature:( flyweight<T,BOOST_FLYWEIGHT_TEMPL_ARGS(_)>& x, flyweight<T,BOOST_FLYWEIGHT_TEMPL_ARGS(_)>& y)
+swap	/usr/include/boost/flyweight/refcounted.hpp	/^  friend void swap(refcounted_handle& x, refcounted_handle& y)$/;"	f	class:boost::flyweights::detail::refcounted_handle	access:friend	signature:(refcounted_handle& x, refcounted_handle& y)
+tag	/usr/include/boost/flyweight/tag.hpp	/^struct tag:parameter::template_keyword<tag<>,T>,detail::tag_marker$/;"	s	namespace:boost::flyweights	inherits:parameter::template_keyword,detail::tag_marker
+tag_marker	/usr/include/boost/flyweight/tag.hpp	/^struct tag_marker{};$/;"	s	namespace:boost::flyweights::detail
+tag_type	/usr/include/boost/flyweight/flyweight.hpp	/^  >::type                                 tag_type;$/;"	t	class:boost::flyweights::flyweight	access:private
+tracking	/usr/include/boost/flyweight/tracking_tag.hpp	/^struct tracking:parameter::template_keyword<tracking<>,T>$/;"	s	namespace:boost::flyweights	inherits:parameter::template_keyword
+tracking_marker	/usr/include/boost/flyweight/tracking_tag.hpp	/^struct tracking_marker{};$/;"	s	namespace:boost::flyweights
+tracking_policy	/usr/include/boost/flyweight/flyweight.hpp	/^  >::type                                 tracking_policy;$/;"	t	class:boost::flyweights::flyweight	access:private
+type	/usr/include/boost/flyweight/assoc_container_factory.hpp	/^    > type;$/;"	t	struct:boost::flyweights::assoc_container_factory::apply	access:public
+type	/usr/include/boost/flyweight/assoc_container_factory.hpp	/^  typedef assoc_container_factory_class type;$/;"	t	class:boost::flyweights::assoc_container_factory_class	access:public
+type	/usr/include/boost/flyweight/detail/is_placeholder_expr.hpp	/^    typedef int type;$/;"	t	struct:boost::flyweights::detail::is_placeholder_expression_helper::apply	access:public
+type	/usr/include/boost/flyweight/hashed_factory.hpp	/^  typedef hashed_factory_class type;$/;"	t	class:boost::flyweights::hashed_factory_class	access:public
+type	/usr/include/boost/flyweight/intermodule_holder.hpp	/^    typedef intermodule_holder_class<C> type;$/;"	t	struct:boost::flyweights::intermodule_holder::apply	access:public
+type	/usr/include/boost/flyweight/intermodule_holder.hpp	/^  typedef intermodule_holder_class type;$/;"	t	struct:boost::flyweights::intermodule_holder_class	access:public
+type	/usr/include/boost/flyweight/no_tracking.hpp	/^    struct apply{typedef Handle type;};$/;"	t	struct:boost::flyweights::no_tracking::handle_type::apply	access:public
+type	/usr/include/boost/flyweight/no_tracking.hpp	/^    struct apply{typedef Value type;};$/;"	t	struct:boost::flyweights::no_tracking::entry_type::apply	access:public
+type	/usr/include/boost/flyweight/refcounted.hpp	/^      typedef detail::refcounted_handle<Handle,TrackingHelper> type;$/;"	t	struct:boost::flyweights::refcounted::handle_type::apply	access:public
+type	/usr/include/boost/flyweight/refcounted.hpp	/^      typedef detail::refcounted_value<Value,Key> type;$/;"	t	struct:boost::flyweights::refcounted::entry_type::apply	access:public
+type	/usr/include/boost/flyweight/set_factory.hpp	/^  typedef set_factory_class type;$/;"	t	class:boost::flyweights::set_factory_class	access:public
+type	/usr/include/boost/flyweight/static_holder.hpp	/^    typedef static_holder_class<C> type;$/;"	t	struct:boost::flyweights::static_holder::apply	access:public
+type	/usr/include/boost/flyweight/static_holder.hpp	/^  typedef static_holder_class type;$/;"	t	struct:boost::flyweights::static_holder_class	access:public
+unmatched_arg_detected	/usr/include/boost/flyweight/flyweight.hpp	/^  >::type                                 unmatched_arg_detected;$/;"	t	class:boost::flyweights::flyweight	access:private
+unmatched_args	/usr/include/boost/flyweight/flyweight.hpp	/^  >::type                                 unmatched_args;$/;"	t	class:boost::flyweights::flyweight	access:private
+value	/usr/include/boost/flyweight/detail/flyweight_core.hpp	/^  static const value_type& value(const handle_type& h)$/;"	f	class:boost::flyweights::detail::flyweight_core	access:public	signature:(const handle_type& h)
+value	/usr/include/boost/flyweight/detail/value_tag.hpp	/^struct value:parameter::template_keyword<value<>,T>$/;"	s	namespace:boost::flyweights::detail	inherits:parameter::template_keyword
+value_cted	/usr/include/boost/flyweight/key_value.hpp	/^    bool  value_cted()const{return value_ptr==spc_ptr();}$/;"	f	class:boost::flyweights::detail::optimized_key_value::rep_type	access:private	signature:() const
+value_marker	/usr/include/boost/flyweight/detail/value_tag.hpp	/^struct value_marker{};$/;"	s	namespace:boost::flyweights::detail
+value_policy	/usr/include/boost/flyweight/flyweight.hpp	/^  >::type                                 value_policy;$/;"	t	class:boost::flyweights::flyweight	access:private
+value_ptr	/usr/include/boost/flyweight/key_value.hpp	/^    mutable const value_type*                  value_ptr;$/;"	m	class:boost::flyweights::detail::optimized_key_value::rep_type	access:private
+value_ptr	/usr/include/boost/flyweight/key_value.hpp	/^    mutable const value_type*                value_ptr;$/;"	m	class:boost::flyweights::detail::regular_key_value::rep_type	access:private
+value_type	/usr/include/boost/flyweight/detail/default_value_policy.hpp	/^  typedef Value value_type;$/;"	t	struct:boost::flyweights::detail::default_value_policy	access:public
+value_type	/usr/include/boost/flyweight/detail/flyweight_core.hpp	/^  typedef typename ValuePolicy::value_type   value_type;$/;"	t	class:boost::flyweights::detail::flyweight_core	access:public
+value_type	/usr/include/boost/flyweight/flyweight.hpp	/^  typedef typename value_policy::value_type    value_type;$/;"	t	class:boost::flyweights::flyweight	access:public
+value_type	/usr/include/boost/flyweight/key_value.hpp	/^  typedef Value value_type;$/;"	t	struct:boost::flyweights::detail::optimized_key_value	access:public
+value_type	/usr/include/boost/flyweight/key_value.hpp	/^  typedef Value value_type;$/;"	t	struct:boost::flyweights::detail::regular_key_value	access:public
+x	/usr/include/boost/flyweight/detail/default_value_policy.hpp	/^    value_type x;$/;"	m	struct:boost::flyweights::detail::default_value_policy::rep_type	access:public
+x	/usr/include/boost/flyweight/flyweight_fwd.hpp	/^  const flyweight<T,BOOST_FLYWEIGHT_TEMPL_ARGS(_)>& x);$/;"	m	namespace:boost::flyweights
+x	/usr/include/boost/flyweight/flyweight_fwd.hpp	/^  flyweight<T,BOOST_FLYWEIGHT_TEMPL_ARGS(_)>& x);$/;"	m	namespace:boost::flyweights
+x	/usr/include/boost/flyweight/refcounted.hpp	/^  Value                               x;$/;"	m	class:boost::flyweights::detail::refcounted_value	access:private
+~refcounted_handle	/usr/include/boost/flyweight/refcounted.hpp	/^  ~refcounted_handle()$/;"	f	class:boost::flyweights::detail::refcounted_handle	access:public	signature:()
+~rep_type	/usr/include/boost/flyweight/key_value.hpp	/^    ~rep_type()$/;"	f	class:boost::flyweights::detail::optimized_key_value::rep_type	access:public	signature:()
+~rep_type	/usr/include/boost/flyweight/key_value.hpp	/^    ~rep_type()$/;"	f	class:boost::flyweights::detail::regular_key_value::rep_type	access:public	signature:()
