@@ -67,8 +67,8 @@ set fileencodings=utf8,ucs-bom,gbk,cp936,gb2312,gb18030
 filetype on
 filetype plugin on
 filetype indent on
-set foldmethod=indent
 set foldmethod=syntax
+set foldmethod=indent
 set nofoldenable
 
 " create file settings
@@ -207,10 +207,6 @@ let g:ycm_complete_in_strings = 1
 "自动关闭补全窗口
 au CursorMovedI,InsertLeave * if pumvisible() == 0|silent! pclose|endif
 set completeopt=menuone,longest,menu
-
-"代码补全窗口美化
-highlight Pmenu 	guibg=darkgrey 	guifg=black
-highlight PmenuSel 	guibg=lightgrep guibg=black
 
 "补全文件和变量
 let g:SuperTabDefaultCompletionType="context"
@@ -412,6 +408,9 @@ let g:go_highlight_operators = 1
 let g:go_highlight_build_constraints = 1
 let g:go_fmt_command = "goimports"
 
+"代码补全窗口美化
+highlight Pmenu 	guibg=darkgrey 	guifg=black
+highlight PmenuSel 	guibg=lightgrep guibg=black
 set tags+=~/.vim/my_tags/boost/accumulators
 set tags+=~/.vim/my_tags/boost/algorithm
 set tags+=~/.vim/my_tags/boost/archive
