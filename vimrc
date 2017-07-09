@@ -64,12 +64,12 @@ set iskeyword+=.
 set termencoding=utf-8
 set encoding=utf8
 set fileencodings=utf8,ucs-bom,gbk,cp936,gb2312,gb18030
-filetype on
-filetype plugin on
-filetype indent on
 set foldmethod=syntax
 set foldmethod=indent
 set nofoldenable
+filetype on
+filetype plugin on
+filetype indent on
 
 " create file settings
 autocmd BufNewFile *.cpp,*.cc,*.c,*.hpp,*.h,*.sh,*.py exec ":call SetTitle()" 
@@ -135,7 +135,7 @@ Plugin 'vim-airline/vim-airline'
 Plugin 'vim-airline/vim-airline-themes'
 Plugin 'vim-scripts/a.vim'
 Plugin 'vim-scripts/DoxygenToolkit.vim'
-Plugin 'vim-scripts/SQLComplete.vim'
+"Plugin 'vim-scripts/SQLComplete.vim'
 Plugin 'vim-scripts/txt.vim'
 Plugin 'ryanoasis/vim-devicons'
 Plugin 'gorodinskiy/vim-coloresque'
@@ -160,7 +160,7 @@ map <F8> :NextColorScheme<CR>
 imap <F8> <ESC> :NextColorScheme<CR>
 map <F9> :PreviousColorScheme<CR>
 imap <F9> <ESC> :PreviousColorScheme<CR>
-colorscheme blues
+"colorscheme blues
 
 let c_no_curly_error=1
 let g:cpp_class_scope_highlight = 1
@@ -277,15 +277,6 @@ inoremap <expr><TAB>  pumvisible() ? "\<C-n>" : "\<TAB>"
 " <C-h>, <BS>: close popup and delete backword char.
 inoremap <expr><C-h> neocomplete#smart_close_popup()."\<C-h>"
 inoremap <expr><BS> neocomplete#smart_close_popup()."\<C-h>"
-" Close popup by <Space>.
-"inoremap <expr><Space> pumvisible() ? "\<C-y>" : "\<Space>"
-" AutoComplPop like behavior.
-"let g:neocomplete#enable_auto_select = 1
-" Shell like behavior(not recommended).
-"set completeopt+=longest
-"let g:neocomplete#enable_auto_select = 1
-"let g:neocomplete#disable_auto_complete = 1
-"inoremap <expr><TAB>  pumvisible() ? "\<Down>" : "\<C-x>\<C-u>"
 
 " Enable omni completion.
 autocmd FileType css setlocal omnifunc=csscomplete#CompleteCSS
@@ -409,95 +400,88 @@ let g:go_highlight_build_constraints = 1
 let g:go_fmt_command = "goimports"
 
 "代码补全窗口美化
-highlight Pmenu 	guibg=darkgrey 	guifg=black
-highlight PmenuSel 	guibg=lightgrep guibg=black
+highlight Pmenu guibg=darkgrey guifg=black
+highlight PmenuSel guibg=lightgrey guifg=black
+
 set tags+=~/.vim/my_tags/boost/accumulators
 set tags+=~/.vim/my_tags/boost/algorithm
 set tags+=~/.vim/my_tags/boost/archive
 set tags+=~/.vim/my_tags/boost/asio
 set tags+=~/.vim/my_tags/boost/assign
 set tags+=~/.vim/my_tags/boost/atomic
-set tags+=~/.vim/my_tags/boost/bimap
 set tags+=~/.vim/my_tags/boost/bind
 set tags+=~/.vim/my_tags/boost/chrono
 set tags+=~/.vim/my_tags/boost/circular_buffer
-set tags+=~/.vim/my_tags/boost/compatibility
-set tags+=~/.vim/my_tags/boost/concept
-set tags+=~/.vim/my_tags/boost/concept_check
 set tags+=~/.vim/my_tags/boost/config
 set tags+=~/.vim/my_tags/boost/container
 set tags+=~/.vim/my_tags/boost/context
 set tags+=~/.vim/my_tags/boost/coroutine
 set tags+=~/.vim/my_tags/boost/date_time
 set tags+=~/.vim/my_tags/boost/detail
-set tags+=~/.vim/my_tags/boost/dynamic_bitset
-set tags+=~/.vim/my_tags/boost/exception
 set tags+=~/.vim/my_tags/boost/filesystem
-set tags+=~/.vim/my_tags/boost/flyweight
 set tags+=~/.vim/my_tags/boost/format
 set tags+=~/.vim/my_tags/boost/function
 set tags+=~/.vim/my_tags/boost/functional
 set tags+=~/.vim/my_tags/boost/function_types
-set tags+=~/.vim/my_tags/boost/fusion
-set tags+=~/.vim/my_tags/boost/geometry
-set tags+=~/.vim/my_tags/boost/gil
-set tags+=~/.vim/my_tags/boost/graph
 set tags+=~/.vim/my_tags/boost/heap
-set tags+=~/.vim/my_tags/boost/icl
-set tags+=~/.vim/my_tags/boost/integer
-set tags+=~/.vim/my_tags/boost/interprocess
-set tags+=~/.vim/my_tags/boost/intrusive
 set tags+=~/.vim/my_tags/boost/io
 set tags+=~/.vim/my_tags/boost/iostreams
 set tags+=~/.vim/my_tags/boost/iterator
 set tags+=~/.vim/my_tags/boost/lambda
-set tags+=~/.vim/my_tags/boost/locale
-set tags+=~/.vim/my_tags/boost/local_function
 set tags+=~/.vim/my_tags/boost/lockfree
-set tags+=~/.vim/my_tags/boost/logic
 set tags+=~/.vim/my_tags/boost/math
 set tags+=~/.vim/my_tags/boost/move
-set tags+=~/.vim/my_tags/boost/mpi
-set tags+=~/.vim/my_tags/boost/mpl
-set tags+=~/.vim/my_tags/boost/msm
 set tags+=~/.vim/my_tags/boost/multi_array
-set tags+=~/.vim/my_tags/boost/multi_index
-set tags+=~/.vim/my_tags/boost/multiprecision
 set tags+=~/.vim/my_tags/boost/numeric
 set tags+=~/.vim/my_tags/boost/optional
-set tags+=~/.vim/my_tags/boost/parameter
-set tags+=~/.vim/my_tags/boost/pending
-set tags+=~/.vim/my_tags/boost/phoenix
-set tags+=~/.vim/my_tags/boost/polygon
 set tags+=~/.vim/my_tags/boost/pool
-set tags+=~/.vim/my_tags/boost/preprocessor
-set tags+=~/.vim/my_tags/boost/program_options
 set tags+=~/.vim/my_tags/boost/property_map
 set tags+=~/.vim/my_tags/boost/property_tree
 set tags+=~/.vim/my_tags/boost/proto
 set tags+=~/.vim/my_tags/boost/ptr_container
-set tags+=~/.vim/my_tags/boost/python
 set tags+=~/.vim/my_tags/boost/random
 set tags+=~/.vim/my_tags/boost/range
-set tags+=~/.vim/my_tags/boost/ratio
 set tags+=~/.vim/my_tags/boost/regex
 set tags+=~/.vim/my_tags/boost/serialization
 set tags+=~/.vim/my_tags/boost/signals
 set tags+=~/.vim/my_tags/boost/signals2
 set tags+=~/.vim/my_tags/boost/smart_ptr
-set tags+=~/.vim/my_tags/boost/spirit
-set tags+=~/.vim/my_tags/boost/statechart
 set tags+=~/.vim/my_tags/boost/system
-set tags+=~/.vim/my_tags/boost/test
 set tags+=~/.vim/my_tags/boost/thread
 set tags+=~/.vim/my_tags/boost/timer
 set tags+=~/.vim/my_tags/boost/tr1
 set tags+=~/.vim/my_tags/boost/tuple
 set tags+=~/.vim/my_tags/boost/type_traits
-set tags+=~/.vim/my_tags/boost/units
-set tags+=~/.vim/my_tags/boost/unordered
-set tags+=~/.vim/my_tags/boost/utility
-set tags+=~/.vim/my_tags/boost/uuid
 set tags+=~/.vim/my_tags/boost/variant
-set tags+=~/.vim/my_tags/boost/wave
-set tags+=~/.vim/my_tags/boost/xpressive
+
+
+"ctermbg:背景色,ctermfg:字体色
+"用于关闭的折叠的行
+"highlight Folded gui=NONE guibg=NONE guifg=DarkBlue
+"highlight Folded cterm=NONE ctermbg=NONE ctermfg=DarkBlue
+"'incsearch' 高亮
+"highlight IncSearch ctermbg=White ctermfg=Red
+"highlight IncSearch guibg=White guifg=Red
+"配对的括号
+"highlight MatchParen ctermbg=DarkBlue ctermfg=Red
+"highlight MatchParen guibg=DarkBlue guifg=Red
+"窗口尾部的'~'和'@' 
+"highlight NonText ctermbg=NONE ctermfg=DarkRed
+"highlight NonText guibg=NONE guifg=DarkRed
+"弹出菜单普通项目
+"highlight Pmenu gui=NONE guibg=black guifg=Darkblue
+highlight Pmenu cterm=NONE ctermbg=black ctermfg=168
+"弹出菜单选中项目
+"highlight PmenuSel gui=bold guibg=LightGray guifg=Black
+highlight PmenuSel cterm=bold ctermbg=lightblue ctermfg=Black
+"弹出菜单滚动条
+highlight PmenuSbar gui=bold guibg=DarkGreen guifg=Red
+highlight PmenuSbar cterm=bold ctermbg=DarkGreen ctermfg=Red
+"弹出菜单滚动条的拇指
+highlight PmenuThumb gui=NONE guibg=LightGreen guifg=Red
+highlight PmenuThumb cterm=NONE ctermbg=LightGreen ctermfg=Red
+"特殊键，字符和'listchars'
+"highlight SpecialKey ctermbg=NONE ctermfg=DarkRed
+"highlight SpecialKey guibg=NONE guifg=DarkRed
+
+
