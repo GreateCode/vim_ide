@@ -4,7 +4,7 @@
 "                        \ V /| | | | | | | | | (__
 "                       (_)_/ |_|_| |_| |_|_|  \___|
 "
-" Author: chxuan <787280310@qq.com>
+" Author: chxuan <yanghongchao_it@163.com>
 " Source: https://github.com/chxuan/vimplus
 
 " genernal settings
