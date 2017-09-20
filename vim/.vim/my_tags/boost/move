@@ -1,0 +1,431 @@
+!_TAG_FILE_FORMAT	2	/extended format; --format=1 will not append ;" to lines/
+!_TAG_FILE_SORTED	1	/0=unsorted, 1=sorted, 2=foldcase/
+!_TAG_PROGRAM_AUTHOR	Darren Hiebert	/dhiebert@users.sourceforge.net/
+!_TAG_PROGRAM_NAME	Exuberant Ctags	//
+!_TAG_PROGRAM_URL	http://ctags.sourceforge.net	/official site/
+!_TAG_PROGRAM_VERSION	5.8	//
+BOOST_CATCH_CONST_RLVALUE	/usr/include/boost/move/core.hpp	145;"	d
+BOOST_COPYABLE_AND_MOVABLE	/usr/include/boost/move/core.hpp	172;"	d
+BOOST_COPYABLE_AND_MOVABLE_ALT	/usr/include/boost/move/core.hpp	184;"	d
+BOOST_COPY_ASSIGN_REF	/usr/include/boost/move/core.hpp	125;"	d
+BOOST_COPY_ASSIGN_REF_2_TEMPL_ARGS	/usr/include/boost/move/core.hpp	137;"	d
+BOOST_COPY_ASSIGN_REF_3_TEMPL_ARGS	/usr/include/boost/move/core.hpp	141;"	d
+BOOST_COPY_ASSIGN_REF_BEG	/usr/include/boost/move/core.hpp	129;"	d
+BOOST_COPY_ASSIGN_REF_END	/usr/include/boost/move/core.hpp	133;"	d
+BOOST_FWD_REF	/usr/include/boost/move/core.hpp	121;"	d
+BOOST_MOVABLE_BUT_NOT_COPYABLE	/usr/include/boost/move/core.hpp	154;"	d
+BOOST_MOVE_ALGORITHM_HPP	/usr/include/boost/move/algorithm.hpp	15;"	d
+BOOST_MOVE_ATTRIBUTE_MAY_ALIAS	/usr/include/boost/move/core.hpp	/^   } BOOST_MOVE_ATTRIBUTE_MAY_ALIAS;$/;"	m	namespace:boost	typeref:class:boost::rv
+BOOST_MOVE_ATTRIBUTE_MAY_ALIAS	/usr/include/boost/move/core.hpp	27;"	d
+BOOST_MOVE_ATTRIBUTE_MAY_ALIAS	/usr/include/boost/move/core.hpp	29;"	d
+BOOST_MOVE_CATCH_CONST	/usr/include/boost/move/detail/move_helpers.hpp	31;"	d
+BOOST_MOVE_CATCH_CONST	/usr/include/boost/move/detail/move_helpers.hpp	37;"	d
+BOOST_MOVE_CATCH_FWD	/usr/include/boost/move/detail/move_helpers.hpp	35;"	d
+BOOST_MOVE_CATCH_FWD	/usr/include/boost/move/detail/move_helpers.hpp	39;"	d
+BOOST_MOVE_CATCH_RVALUE	/usr/include/boost/move/detail/move_helpers.hpp	33;"	d
+BOOST_MOVE_CATCH_RVALUE	/usr/include/boost/move/detail/move_helpers.hpp	38;"	d
+BOOST_MOVE_CONVERSION_AWARE_CATCH	/usr/include/boost/move/detail/move_helpers.hpp	44;"	d
+BOOST_MOVE_CONVERSION_AWARE_CATCH	/usr/include/boost/move/detail/move_helpers.hpp	78;"	d
+BOOST_MOVE_CONVERSION_AWARE_CATCH	/usr/include/boost/move/detail/move_helpers.hpp	98;"	d
+BOOST_MOVE_CONVERSION_AWARE_CATCH_1ARG	/usr/include/boost/move/detail/move_helpers.hpp	111;"	d
+BOOST_MOVE_CONVERSION_AWARE_CATCH_1ARG	/usr/include/boost/move/detail/move_helpers.hpp	145;"	d
+BOOST_MOVE_CONVERSION_AWARE_CATCH_1ARG	/usr/include/boost/move/detail/move_helpers.hpp	165;"	d
+BOOST_MOVE_CORE_HPP	/usr/include/boost/move/core.hpp	17;"	d
+BOOST_MOVE_CRT_SECURE_NO_DEPRECATE	/usr/include/boost/move/detail/config_begin.hpp	14;"	d
+BOOST_MOVE_DETAIL_CRT_SECURE_NO_DEPRECATE	/usr/include/boost/move/detail/config_end.hpp	13;"	d
+BOOST_MOVE_DETAIL_META_UTILS_HPP	/usr/include/boost/move/detail/meta_utils.hpp	15;"	d
+BOOST_MOVE_ITERATOR_HPP	/usr/include/boost/move/iterator.hpp	15;"	d
+BOOST_MOVE_MOVE_HELPERS_HPP	/usr/include/boost/move/detail/move_helpers.hpp	13;"	d
+BOOST_MOVE_MOVE_HPP	/usr/include/boost/move/move.hpp	18;"	d
+BOOST_MOVE_MOVE_TRAITS_HPP	/usr/include/boost/move/traits.hpp	15;"	d
+BOOST_MOVE_MOVE_UTILITY_HPP	/usr/include/boost/move/utility.hpp	15;"	d
+BOOST_MOVE_SCL_SECURE_NO_WARNINGS	/usr/include/boost/move/detail/config_begin.hpp	18;"	d
+BOOST_MOVE_SCL_SECURE_NO_WARNINGS	/usr/include/boost/move/detail/config_end.hpp	17;"	d
+BOOST_RV_REF	/usr/include/boost/move/core.hpp	101;"	d
+BOOST_RV_REF_2_TEMPL_ARGS	/usr/include/boost/move/core.hpp	105;"	d
+BOOST_RV_REF_3_TEMPL_ARGS	/usr/include/boost/move/core.hpp	109;"	d
+BOOST_RV_REF_BEG	/usr/include/boost/move/core.hpp	113;"	d
+BOOST_RV_REF_END	/usr/include/boost/move/core.hpp	117;"	d
+_	/usr/include/boost/move/detail/meta_utils.hpp	/^   struct twochar { char _[2]; };$/;"	m	struct:boost::move_detail::is_class_or_union::twochar	access:public
+_CRT_SECURE_NO_DEPRECATE	/usr/include/boost/move/detail/config_begin.hpp	15;"	d
+_CRT_SECURE_NO_DEPRECATE	/usr/include/boost/move/detail/config_end.hpp	14;"	d
+_SCL_SECURE_NO_WARNINGS	/usr/include/boost/move/detail/config_begin.hpp	19;"	d
+_SCL_SECURE_NO_WARNINGS	/usr/include/boost/move/detail/config_end.hpp	18;"	d
+add_rvalue_reference	/usr/include/boost/move/traits.hpp	/^   struct add_rvalue_reference$/;"	s	namespace:boost::move_detail	inherits:detail_add_rvalue_reference::add_rvalue_reference_impl
+add_rvalue_reference	/usr/include/boost/move/traits.hpp	/^   struct add_rvalue_reference<T &>$/;"	s	namespace:boost::move_detail
+add_rvalue_reference	/usr/include/boost/move/traits.hpp	/^   template< class T > struct add_rvalue_reference { typedef T&& type; };$/;"	s	namespace:boost::move_detail
+add_rvalue_reference_impl	/usr/include/boost/move/traits.hpp	/^      struct add_rvalue_reference_impl { typedef T type; };$/;"	s	namespace:boost::move_detail::detail_add_rvalue_reference
+add_rvalue_reference_impl	/usr/include/boost/move/traits.hpp	/^      struct add_rvalue_reference_impl< T, emulation, true > { typedef T & type; };$/;"	s	namespace:boost::move_detail::detail_add_rvalue_reference
+add_rvalue_reference_impl	/usr/include/boost/move/traits.hpp	/^      struct add_rvalue_reference_impl< T, true, rv > { typedef ::boost::rv<T>& type; };$/;"	s	namespace:boost::move_detail::detail_add_rvalue_reference
+addr_impl_ref	/usr/include/boost/move/detail/meta_utils.hpp	/^   inline addr_impl_ref( T & v ): v_( v ) {}$/;"	f	struct:boost::move_detail::addr_impl_ref	access:public	signature:( T & v )
+addr_impl_ref	/usr/include/boost/move/detail/meta_utils.hpp	/^template<class T> struct addr_impl_ref$/;"	s	namespace:boost::move_detail
+addressof	/usr/include/boost/move/detail/meta_utils.hpp	/^inline T * addressof( T & v )$/;"	f	namespace:boost::move_detail	signature:( T & v )
+addressof_impl	/usr/include/boost/move/detail/meta_utils.hpp	/^template<class T> struct addressof_impl$/;"	s	namespace:boost::move_detail
+and_	/usr/include/boost/move/detail/meta_utils.hpp	/^struct and_$/;"	s	namespace:boost::move_detail	inherits:integral_constant
+back_move_insert_iterator	/usr/include/boost/move/iterator.hpp	/^   explicit back_move_insert_iterator(C& x) : container_m(&x) { }$/;"	f	class:boost::back_move_insert_iterator	access:public	signature:(C& x)
+back_move_insert_iterator	/usr/include/boost/move/iterator.hpp	/^class back_move_insert_iterator$/;"	c	namespace:boost	inherits:std::iterator
+back_move_inserter	/usr/include/boost/move/iterator.hpp	/^inline back_move_insert_iterator<C> back_move_inserter(C& x)$/;"	f	namespace:boost	signature:(C& x)
+base	/usr/include/boost/move/iterator.hpp	/^   iterator_type base() const$/;"	f	class:boost::move_iterator	access:public	signature:() const
+boost	/usr/include/boost/move/algorithm.hpp	/^namespace boost {$/;"	n
+boost	/usr/include/boost/move/core.hpp	/^   namespace boost {$/;"	n
+boost	/usr/include/boost/move/detail/meta_utils.hpp	/^namespace boost {$/;"	n
+boost	/usr/include/boost/move/iterator.hpp	/^namespace boost {$/;"	n
+boost	/usr/include/boost/move/traits.hpp	/^namespace boost {$/;"	n
+boost	/usr/include/boost/move/utility.hpp	/^   namespace boost {$/;"	n
+boost::BOOST_MOVE_ATTRIBUTE_MAY_ALIAS	/usr/include/boost/move/core.hpp	/^   } BOOST_MOVE_ATTRIBUTE_MAY_ALIAS;$/;"	m	namespace:boost	typeref:class:boost::rv
+boost::back_move_insert_iterator	/usr/include/boost/move/iterator.hpp	/^class back_move_insert_iterator$/;"	c	namespace:boost	inherits:std::iterator
+boost::back_move_insert_iterator::back_move_insert_iterator	/usr/include/boost/move/iterator.hpp	/^   explicit back_move_insert_iterator(C& x) : container_m(&x) { }$/;"	f	class:boost::back_move_insert_iterator	access:public	signature:(C& x)
+boost::back_move_insert_iterator::container_m	/usr/include/boost/move/iterator.hpp	/^   C* container_m;$/;"	m	class:boost::back_move_insert_iterator	access:private
+boost::back_move_insert_iterator::container_type	/usr/include/boost/move/iterator.hpp	/^   typedef C                        container_type;$/;"	t	class:boost::back_move_insert_iterator	access:public
+boost::back_move_insert_iterator::operator *	/usr/include/boost/move/iterator.hpp	/^   back_move_insert_iterator& operator*()     { return *this; }$/;"	f	class:boost::back_move_insert_iterator	access:public	signature:()
+boost::back_move_insert_iterator::operator ++	/usr/include/boost/move/iterator.hpp	/^   back_move_insert_iterator& operator++()    { return *this; }$/;"	f	class:boost::back_move_insert_iterator	access:public	signature:()
+boost::back_move_insert_iterator::operator ++	/usr/include/boost/move/iterator.hpp	/^   back_move_insert_iterator& operator++(int) { return *this; }$/;"	f	class:boost::back_move_insert_iterator	access:public	signature:(int)
+boost::back_move_insert_iterator::operator =	/usr/include/boost/move/iterator.hpp	/^   back_move_insert_iterator& operator=(reference x)$/;"	f	class:boost::back_move_insert_iterator	access:public	signature:(reference x)
+boost::back_move_insert_iterator::reference	/usr/include/boost/move/iterator.hpp	/^   typedef typename C::reference    reference;$/;"	t	class:boost::back_move_insert_iterator	access:public
+boost::back_move_insert_iterator::value_type	/usr/include/boost/move/iterator.hpp	/^   typedef typename C::value_type   value_type;$/;"	t	class:boost::back_move_insert_iterator	access:public
+boost::back_move_inserter	/usr/include/boost/move/iterator.hpp	/^inline back_move_insert_iterator<C> back_move_inserter(C& x)$/;"	f	namespace:boost	signature:(C& x)
+boost::copy_or_move	/usr/include/boost/move/algorithm.hpp	/^inline F copy_or_move(I f, I l, F r$/;"	f	namespace:boost	signature:(I f, I l, F r ,typename ::boost::move_detail::disable_if< move_detail::is_move_iterator<I> >::type* = 0 )
+boost::copy_or_move	/usr/include/boost/move/algorithm.hpp	/^inline F copy_or_move(I f, I l, F r,$/;"	f	namespace:boost	signature:(I f, I l, F r, typename ::boost::move_detail::enable_if< move_detail::is_move_iterator<I> >::type* = 0)
+boost::enable_move_utility_emulation	/usr/include/boost/move/utility.hpp	/^   struct enable_move_utility_emulation$/;"	s	namespace:boost
+boost::enable_move_utility_emulation::value	/usr/include/boost/move/utility.hpp	/^      static const bool value = true;$/;"	m	struct:boost::enable_move_utility_emulation	access:public
+boost::forward	/usr/include/boost/move/utility.hpp	/^         forward(const typename ::boost::move_detail::identity<T>::type &x)$/;"	f	namespace:boost	signature:(const typename ::boost::move_detail::identity<T>::type &x)
+boost::forward	/usr/include/boost/move/utility.hpp	/^      forward(const typename ::boost::move_detail::identity<T>::type &x)$/;"	f	namespace:boost	signature:(const typename ::boost::move_detail::identity<T>::type &x)
+boost::front_move_insert_iterator	/usr/include/boost/move/iterator.hpp	/^class front_move_insert_iterator$/;"	c	namespace:boost	inherits:std::iterator
+boost::front_move_insert_iterator::container_m	/usr/include/boost/move/iterator.hpp	/^   C* container_m;$/;"	m	class:boost::front_move_insert_iterator	access:private
+boost::front_move_insert_iterator::container_type	/usr/include/boost/move/iterator.hpp	/^   typedef C                        container_type;$/;"	t	class:boost::front_move_insert_iterator	access:public
+boost::front_move_insert_iterator::front_move_insert_iterator	/usr/include/boost/move/iterator.hpp	/^   explicit front_move_insert_iterator(C& x) : container_m(&x) { }$/;"	f	class:boost::front_move_insert_iterator	access:public	signature:(C& x)
+boost::front_move_insert_iterator::operator *	/usr/include/boost/move/iterator.hpp	/^   front_move_insert_iterator& operator*()     { return *this; }$/;"	f	class:boost::front_move_insert_iterator	access:public	signature:()
+boost::front_move_insert_iterator::operator ++	/usr/include/boost/move/iterator.hpp	/^   front_move_insert_iterator& operator++()    { return *this; }$/;"	f	class:boost::front_move_insert_iterator	access:public	signature:()
+boost::front_move_insert_iterator::operator ++	/usr/include/boost/move/iterator.hpp	/^   front_move_insert_iterator& operator++(int) { return *this; }$/;"	f	class:boost::front_move_insert_iterator	access:public	signature:(int)
+boost::front_move_insert_iterator::operator =	/usr/include/boost/move/iterator.hpp	/^   front_move_insert_iterator& operator=(reference x)$/;"	f	class:boost::front_move_insert_iterator	access:public	signature:(reference x)
+boost::front_move_insert_iterator::reference	/usr/include/boost/move/iterator.hpp	/^   typedef typename C::reference    reference;$/;"	t	class:boost::front_move_insert_iterator	access:public
+boost::front_move_insert_iterator::value_type	/usr/include/boost/move/iterator.hpp	/^   typedef typename C::value_type   value_type;$/;"	t	class:boost::front_move_insert_iterator	access:public
+boost::front_move_inserter	/usr/include/boost/move/iterator.hpp	/^inline front_move_insert_iterator<C> front_move_inserter(C& x)$/;"	f	namespace:boost	signature:(C& x)
+boost::has_move_emulation_enabled	/usr/include/boost/move/core.hpp	/^   struct has_move_emulation_enabled$/;"	s	namespace:boost	inherits:::boost::move_detail::is_convertible
+boost::has_move_emulation_enabled	/usr/include/boost/move/core.hpp	/^   struct has_move_emulation_enabled< ::boost::rv<T> >$/;"	s	namespace:boost	inherits:::boost::move_detail::integral_constant
+boost::has_move_emulation_enabled	/usr/include/boost/move/core.hpp	/^   struct has_move_emulation_enabled<T&>$/;"	s	namespace:boost	inherits:::boost::move_detail::integral_constant
+boost::has_nothrow_move	/usr/include/boost/move/traits.hpp	/^struct has_nothrow_move$/;"	s	namespace:boost	inherits:::boost::move_detail::integral_constant
+boost::has_trivial_destructor_after_move	/usr/include/boost/move/traits.hpp	/^struct has_trivial_destructor_after_move$/;"	s	namespace:boost	inherits:::boost::has_trivial_destructor
+boost::make_move_iterator	/usr/include/boost/move/iterator.hpp	/^inline move_iterator<It> make_move_iterator(const It &it)$/;"	f	namespace:boost	signature:(const It &it)
+boost::move	/usr/include/boost/move/algorithm.hpp	/^   O move(I f, I l, O result)$/;"	f	namespace:boost	signature:(I f, I l, O result)
+boost::move	/usr/include/boost/move/utility.hpp	/^         move(T& x)$/;"	f	namespace:boost	signature:(T& x)
+boost::move	/usr/include/boost/move/utility.hpp	/^         move(rv<T>& x)$/;"	f	namespace:boost	signature:(rv<T>& x)
+boost::move_backward	/usr/include/boost/move/algorithm.hpp	/^   O move_backward(I f, I l, O result)$/;"	f	namespace:boost	signature:(I f, I l, O result)
+boost::move_detail	/usr/include/boost/move/algorithm.hpp	/^namespace move_detail {$/;"	n	namespace:boost
+boost::move_detail	/usr/include/boost/move/core.hpp	/^   namespace move_detail {$/;"	n	namespace:boost
+boost::move_detail	/usr/include/boost/move/detail/meta_utils.hpp	/^namespace move_detail {$/;"	n	namespace:boost
+boost::move_detail	/usr/include/boost/move/iterator.hpp	/^namespace move_detail {$/;"	n	namespace:boost
+boost::move_detail	/usr/include/boost/move/traits.hpp	/^namespace move_detail {$/;"	n	namespace:boost
+boost::move_detail::add_rvalue_reference	/usr/include/boost/move/traits.hpp	/^   struct add_rvalue_reference$/;"	s	namespace:boost::move_detail	inherits:detail_add_rvalue_reference::add_rvalue_reference_impl
+boost::move_detail::add_rvalue_reference	/usr/include/boost/move/traits.hpp	/^   struct add_rvalue_reference<T &>$/;"	s	namespace:boost::move_detail
+boost::move_detail::add_rvalue_reference	/usr/include/boost/move/traits.hpp	/^   template< class T > struct add_rvalue_reference { typedef T&& type; };$/;"	s	namespace:boost::move_detail
+boost::move_detail::add_rvalue_reference::type	/usr/include/boost/move/traits.hpp	/^   template< class T > struct add_rvalue_reference { typedef T&& type; };$/;"	t	struct:boost::move_detail::add_rvalue_reference	access:public
+boost::move_detail::add_rvalue_reference::type	/usr/include/boost/move/traits.hpp	/^   {  typedef T & type; };$/;"	t	struct:boost::move_detail::add_rvalue_reference	access:public
+boost::move_detail::addr_impl_ref	/usr/include/boost/move/detail/meta_utils.hpp	/^template<class T> struct addr_impl_ref$/;"	s	namespace:boost::move_detail
+boost::move_detail::addr_impl_ref::addr_impl_ref	/usr/include/boost/move/detail/meta_utils.hpp	/^   inline addr_impl_ref( T & v ): v_( v ) {}$/;"	f	struct:boost::move_detail::addr_impl_ref	access:public	signature:( T & v )
+boost::move_detail::addr_impl_ref::operator =	/usr/include/boost/move/detail/meta_utils.hpp	/^   addr_impl_ref & operator=(const addr_impl_ref &);$/;"	p	struct:boost::move_detail::addr_impl_ref	access:private	signature:(const addr_impl_ref &)
+boost::move_detail::addr_impl_ref::operator T&	/usr/include/boost/move/detail/meta_utils.hpp	/^   inline operator T& () const { return v_; }$/;"	f	struct:boost::move_detail::addr_impl_ref	access:public	signature:() const
+boost::move_detail::addr_impl_ref::v_	/usr/include/boost/move/detail/meta_utils.hpp	/^   T & v_;$/;"	m	struct:boost::move_detail::addr_impl_ref	access:public
+boost::move_detail::addressof	/usr/include/boost/move/detail/meta_utils.hpp	/^inline T * addressof( T & v )$/;"	f	namespace:boost::move_detail	signature:( T & v )
+boost::move_detail::addressof_impl	/usr/include/boost/move/detail/meta_utils.hpp	/^template<class T> struct addressof_impl$/;"	s	namespace:boost::move_detail
+boost::move_detail::addressof_impl::f	/usr/include/boost/move/detail/meta_utils.hpp	/^   static inline T * f( T & v, long )$/;"	f	struct:boost::move_detail::addressof_impl	access:public	signature:( T & v, long )
+boost::move_detail::addressof_impl::f	/usr/include/boost/move/detail/meta_utils.hpp	/^   static inline T * f( T * v, int )$/;"	f	struct:boost::move_detail::addressof_impl	access:public	signature:( T * v, int )
+boost::move_detail::and_	/usr/include/boost/move/detail/meta_utils.hpp	/^struct and_$/;"	s	namespace:boost::move_detail	inherits:integral_constant
+boost::move_detail::declval	/usr/include/boost/move/traits.hpp	/^typename boost::move_detail::add_rvalue_reference<T>::type declval();$/;"	p	namespace:boost::move_detail	signature:()
+boost::move_detail::detail_add_rvalue_reference	/usr/include/boost/move/traits.hpp	/^   namespace detail_add_rvalue_reference$/;"	n	namespace:boost::move_detail
+boost::move_detail::detail_add_rvalue_reference::add_rvalue_reference_impl	/usr/include/boost/move/traits.hpp	/^      struct add_rvalue_reference_impl { typedef T type; };$/;"	s	namespace:boost::move_detail::detail_add_rvalue_reference
+boost::move_detail::detail_add_rvalue_reference::add_rvalue_reference_impl	/usr/include/boost/move/traits.hpp	/^      struct add_rvalue_reference_impl< T, emulation, true > { typedef T & type; };$/;"	s	namespace:boost::move_detail::detail_add_rvalue_reference
+boost::move_detail::detail_add_rvalue_reference::add_rvalue_reference_impl	/usr/include/boost/move/traits.hpp	/^      struct add_rvalue_reference_impl< T, true, rv > { typedef ::boost::rv<T>& type; };$/;"	s	namespace:boost::move_detail::detail_add_rvalue_reference
+boost::move_detail::detail_add_rvalue_reference::add_rvalue_reference_impl::type	/usr/include/boost/move/traits.hpp	/^      struct add_rvalue_reference_impl { typedef T type; };$/;"	t	struct:boost::move_detail::detail_add_rvalue_reference::add_rvalue_reference_impl	access:public
+boost::move_detail::detail_add_rvalue_reference::add_rvalue_reference_impl::type	/usr/include/boost/move/traits.hpp	/^      struct add_rvalue_reference_impl< T, emulation, true > { typedef T & type; };$/;"	t	struct:boost::move_detail::detail_add_rvalue_reference::add_rvalue_reference_impl	access:public
+boost::move_detail::detail_add_rvalue_reference::add_rvalue_reference_impl::type	/usr/include/boost/move/traits.hpp	/^      struct add_rvalue_reference_impl< T, true, rv > { typedef ::boost::rv<T>& type; };$/;"	t	struct:boost::move_detail::detail_add_rvalue_reference::add_rvalue_reference_impl	access:public
+boost::move_detail::disable_if	/usr/include/boost/move/detail/meta_utils.hpp	/^struct disable_if : public enable_if_c<!Cond::value, T> {};$/;"	s	namespace:boost::move_detail	inherits:enable_if_c
+boost::move_detail::empty	/usr/include/boost/move/detail/meta_utils.hpp	/^struct empty{};$/;"	s	namespace:boost::move_detail
+boost::move_detail::enable_if	/usr/include/boost/move/detail/meta_utils.hpp	/^struct enable_if : public enable_if_c<Cond::value, T> {};$/;"	s	namespace:boost::move_detail	inherits:enable_if_c
+boost::move_detail::enable_if_c	/usr/include/boost/move/detail/meta_utils.hpp	/^struct enable_if_c$/;"	s	namespace:boost::move_detail
+boost::move_detail::enable_if_c	/usr/include/boost/move/detail/meta_utils.hpp	/^struct enable_if_c<false, T> {};$/;"	s	namespace:boost::move_detail
+boost::move_detail::enable_if_c::type	/usr/include/boost/move/detail/meta_utils.hpp	/^   typedef T type;$/;"	t	struct:boost::move_detail::enable_if_c	access:public
+boost::move_detail::forward_type	/usr/include/boost/move/traits.hpp	/^   template< class T> struct forward_type { typedef T type; };$/;"	s	namespace:boost::move_detail
+boost::move_detail::forward_type::type	/usr/include/boost/move/traits.hpp	/^   template< class T> struct forward_type { typedef T type; };$/;"	t	struct:boost::move_detail::forward_type	access:public
+boost::move_detail::identity	/usr/include/boost/move/detail/meta_utils.hpp	/^struct identity$/;"	s	namespace:boost::move_detail
+boost::move_detail::identity::type	/usr/include/boost/move/detail/meta_utils.hpp	/^   typedef T type;$/;"	t	struct:boost::move_detail::identity	access:public
+boost::move_detail::if_	/usr/include/boost/move/detail/meta_utils.hpp	/^struct if_$/;"	s	namespace:boost::move_detail
+boost::move_detail::if_::type	/usr/include/boost/move/detail/meta_utils.hpp	/^   typedef typename if_c<0 != T1::value, T2, T3>::type type;$/;"	t	struct:boost::move_detail::if_	access:public
+boost::move_detail::if_c	/usr/include/boost/move/detail/meta_utils.hpp	/^struct if_c$/;"	s	namespace:boost::move_detail
+boost::move_detail::if_c	/usr/include/boost/move/detail/meta_utils.hpp	/^struct if_c<false,T1,T2>$/;"	s	namespace:boost::move_detail
+boost::move_detail::if_c::type	/usr/include/boost/move/detail/meta_utils.hpp	/^   typedef T1 type;$/;"	t	struct:boost::move_detail::if_c	access:public
+boost::move_detail::if_c::type	/usr/include/boost/move/detail/meta_utils.hpp	/^   typedef T2 type;$/;"	t	struct:boost::move_detail::if_c	access:public
+boost::move_detail::integral_constant	/usr/include/boost/move/detail/meta_utils.hpp	/^struct integral_constant$/;"	s	namespace:boost::move_detail
+boost::move_detail::integral_constant::type	/usr/include/boost/move/detail/meta_utils.hpp	/^   typedef integral_constant<T, v> type;$/;"	t	struct:boost::move_detail::integral_constant	access:public
+boost::move_detail::integral_constant::value	/usr/include/boost/move/detail/meta_utils.hpp	/^   static const T value = v;$/;"	m	struct:boost::move_detail::integral_constant	access:public
+boost::move_detail::integral_constant::value_type	/usr/include/boost/move/detail/meta_utils.hpp	/^   typedef T value_type;$/;"	t	struct:boost::move_detail::integral_constant	access:public
+boost::move_detail::is_class_or_union	/usr/include/boost/move/detail/meta_utils.hpp	/^struct is_class_or_union$/;"	s	namespace:boost::move_detail
+boost::move_detail::is_class_or_union::is_class_or_union_tester	/usr/include/boost/move/detail/meta_utils.hpp	/^   static char is_class_or_union_tester(void(U::*)(void));$/;"	p	struct:boost::move_detail::is_class_or_union	access:public	signature:(void(U::*)(void))
+boost::move_detail::is_class_or_union::is_class_or_union_tester	/usr/include/boost/move/detail/meta_utils.hpp	/^   static twochar is_class_or_union_tester(...);$/;"	p	struct:boost::move_detail::is_class_or_union	access:public	signature:(....)
+boost::move_detail::is_class_or_union::twochar	/usr/include/boost/move/detail/meta_utils.hpp	/^   struct twochar { char _[2]; };$/;"	s	struct:boost::move_detail::is_class_or_union	access:public
+boost::move_detail::is_class_or_union::twochar::_	/usr/include/boost/move/detail/meta_utils.hpp	/^   struct twochar { char _[2]; };$/;"	m	struct:boost::move_detail::is_class_or_union::twochar	access:public
+boost::move_detail::is_class_or_union::value	/usr/include/boost/move/detail/meta_utils.hpp	/^   static const bool value = sizeof(is_class_or_union_tester<T>(0)) == sizeof(char);$/;"	m	struct:boost::move_detail::is_class_or_union	access:public
+boost::move_detail::is_convertible	/usr/include/boost/move/detail/meta_utils.hpp	/^class is_convertible$/;"	c	namespace:boost::move_detail
+boost::move_detail::is_convertible::dispatch	/usr/include/boost/move/detail/meta_utils.hpp	/^   static false_t dispatch(...);$/;"	p	class:boost::move_detail::is_convertible	access:private	signature:(....)
+boost::move_detail::is_convertible::dispatch	/usr/include/boost/move/detail/meta_utils.hpp	/^   static true_t dispatch(U);$/;"	p	class:boost::move_detail::is_convertible	access:private	signature:(U)
+boost::move_detail::is_convertible::false_t	/usr/include/boost/move/detail/meta_utils.hpp	/^   class false_t { char dummy[2]; };$/;"	c	class:boost::move_detail::is_convertible	access:private
+boost::move_detail::is_convertible::false_t::dummy	/usr/include/boost/move/detail/meta_utils.hpp	/^   class false_t { char dummy[2]; };$/;"	m	class:boost::move_detail::is_convertible::false_t	access:private
+boost::move_detail::is_convertible::trigger	/usr/include/boost/move/detail/meta_utils.hpp	/^   static T &trigger();$/;"	p	class:boost::move_detail::is_convertible	access:private	signature:()
+boost::move_detail::is_convertible::true_t	/usr/include/boost/move/detail/meta_utils.hpp	/^   typedef char true_t;$/;"	t	class:boost::move_detail::is_convertible	access:private
+boost::move_detail::is_convertible::value	/usr/include/boost/move/detail/meta_utils.hpp	/^   enum { value = sizeof(dispatch(trigger())) == sizeof(true_t) };$/;"	e	enum:boost::move_detail::is_convertible::__anon1
+boost::move_detail::is_lvalue_reference	/usr/include/boost/move/detail/meta_utils.hpp	/^struct is_lvalue_reference$/;"	s	namespace:boost::move_detail	inherits:integral_constant
+boost::move_detail::is_lvalue_reference	/usr/include/boost/move/detail/meta_utils.hpp	/^struct is_lvalue_reference<T&>$/;"	s	namespace:boost::move_detail	inherits:integral_constant
+boost::move_detail::is_move_iterator	/usr/include/boost/move/iterator.hpp	/^struct is_move_iterator$/;"	s	namespace:boost::move_detail	inherits:::boost::move_detail::integral_constant
+boost::move_detail::is_move_iterator	/usr/include/boost/move/iterator.hpp	/^struct is_move_iterator< ::boost::move_iterator<I> >$/;"	s	namespace:boost::move_detail	inherits:::boost::move_detail::integral_constant
+boost::move_detail::is_rv	/usr/include/boost/move/core.hpp	/^   struct is_rv$/;"	s	namespace:boost::move_detail	inherits:::boost::move_detail::integral_constant
+boost::move_detail::is_rv	/usr/include/boost/move/core.hpp	/^   struct is_rv< const rv<T> >$/;"	s	namespace:boost::move_detail	inherits:::boost::move_detail::integral_constant
+boost::move_detail::is_rv	/usr/include/boost/move/core.hpp	/^   struct is_rv< rv<T> >$/;"	s	namespace:boost::move_detail	inherits:::boost::move_detail::integral_constant
+boost::move_detail::is_rvalue_reference	/usr/include/boost/move/traits.hpp	/^   template< class T > struct is_rvalue_reference< T&& > : ::boost::move_detail::integral_constant<bool, true> { };$/;"	s	namespace:boost::move_detail	inherits:::boost::move_detail::integral_constant
+boost::move_detail::is_rvalue_reference	/usr/include/boost/move/traits.hpp	/^   template< class T > struct is_rvalue_reference< boost::rv<T>& >$/;"	s	namespace:boost::move_detail	inherits:::boost::move_detail::integral_constant
+boost::move_detail::is_rvalue_reference	/usr/include/boost/move/traits.hpp	/^   template< class T > struct is_rvalue_reference< const boost::rv<T>& >$/;"	s	namespace:boost::move_detail	inherits:::boost::move_detail::integral_constant
+boost::move_detail::is_rvalue_reference	/usr/include/boost/move/traits.hpp	/^template< class T > struct is_rvalue_reference : ::boost::move_detail::integral_constant<bool, false> { };$/;"	s	namespace:boost::move_detail	inherits:::boost::move_detail::integral_constant
+boost::move_detail::move_move_iterator	/usr/include/boost/move/algorithm.hpp	/^inline F move_move_iterator(I f, I l, F r$/;"	f	namespace:boost::move_detail	signature:(I f, I l, F r )
+boost::move_detail::not_	/usr/include/boost/move/detail/meta_utils.hpp	/^struct not_$/;"	s	namespace:boost::move_detail	inherits:integral_constant
+boost::move_detail::remove_rvalue_reference	/usr/include/boost/move/traits.hpp	/^   template< class T > struct remove_rvalue_reference< T&& >                  { typedef T type; };$/;"	s	namespace:boost::move_detail
+boost::move_detail::remove_rvalue_reference	/usr/include/boost/move/traits.hpp	/^   template< class T > struct remove_rvalue_reference< const rv<T> >          { typedef T type; };$/;"	s	namespace:boost::move_detail
+boost::move_detail::remove_rvalue_reference	/usr/include/boost/move/traits.hpp	/^   template< class T > struct remove_rvalue_reference< const rv<T>& >         { typedef T type; };$/;"	s	namespace:boost::move_detail
+boost::move_detail::remove_rvalue_reference	/usr/include/boost/move/traits.hpp	/^   template< class T > struct remove_rvalue_reference< const volatile rv<T> > { typedef T type; };$/;"	s	namespace:boost::move_detail
+boost::move_detail::remove_rvalue_reference	/usr/include/boost/move/traits.hpp	/^   template< class T > struct remove_rvalue_reference< const volatile rv<T>& >{ typedef T type; };$/;"	s	namespace:boost::move_detail
+boost::move_detail::remove_rvalue_reference	/usr/include/boost/move/traits.hpp	/^   template< class T > struct remove_rvalue_reference< rv<T> >                { typedef T type; };$/;"	s	namespace:boost::move_detail
+boost::move_detail::remove_rvalue_reference	/usr/include/boost/move/traits.hpp	/^   template< class T > struct remove_rvalue_reference< rv<T>& >               { typedef T type; };$/;"	s	namespace:boost::move_detail
+boost::move_detail::remove_rvalue_reference	/usr/include/boost/move/traits.hpp	/^   template< class T > struct remove_rvalue_reference< volatile rv<T> >       { typedef T type; };$/;"	s	namespace:boost::move_detail
+boost::move_detail::remove_rvalue_reference	/usr/include/boost/move/traits.hpp	/^   template< class T > struct remove_rvalue_reference< volatile rv<T>& >      { typedef T type; };$/;"	s	namespace:boost::move_detail
+boost::move_detail::remove_rvalue_reference	/usr/include/boost/move/traits.hpp	/^template< class T > struct remove_rvalue_reference { typedef T type; };$/;"	s	namespace:boost::move_detail
+boost::move_detail::remove_rvalue_reference::type	/usr/include/boost/move/traits.hpp	/^   template< class T > struct remove_rvalue_reference< T&& >                  { typedef T type; };$/;"	t	struct:boost::move_detail::remove_rvalue_reference	access:public
+boost::move_detail::remove_rvalue_reference::type	/usr/include/boost/move/traits.hpp	/^   template< class T > struct remove_rvalue_reference< const rv<T> >          { typedef T type; };$/;"	t	struct:boost::move_detail::remove_rvalue_reference	access:public
+boost::move_detail::remove_rvalue_reference::type	/usr/include/boost/move/traits.hpp	/^   template< class T > struct remove_rvalue_reference< const rv<T>& >         { typedef T type; };$/;"	t	struct:boost::move_detail::remove_rvalue_reference	access:public
+boost::move_detail::remove_rvalue_reference::type	/usr/include/boost/move/traits.hpp	/^   template< class T > struct remove_rvalue_reference< const volatile rv<T> > { typedef T type; };$/;"	t	struct:boost::move_detail::remove_rvalue_reference	access:public
+boost::move_detail::remove_rvalue_reference::type	/usr/include/boost/move/traits.hpp	/^   template< class T > struct remove_rvalue_reference< const volatile rv<T>& >{ typedef T type; };$/;"	t	struct:boost::move_detail::remove_rvalue_reference	access:public
+boost::move_detail::remove_rvalue_reference::type	/usr/include/boost/move/traits.hpp	/^   template< class T > struct remove_rvalue_reference< rv<T> >                { typedef T type; };$/;"	t	struct:boost::move_detail::remove_rvalue_reference	access:public
+boost::move_detail::remove_rvalue_reference::type	/usr/include/boost/move/traits.hpp	/^   template< class T > struct remove_rvalue_reference< rv<T>& >               { typedef T type; };$/;"	t	struct:boost::move_detail::remove_rvalue_reference	access:public
+boost::move_detail::remove_rvalue_reference::type	/usr/include/boost/move/traits.hpp	/^   template< class T > struct remove_rvalue_reference< volatile rv<T> >       { typedef T type; };$/;"	t	struct:boost::move_detail::remove_rvalue_reference	access:public
+boost::move_detail::remove_rvalue_reference::type	/usr/include/boost/move/traits.hpp	/^   template< class T > struct remove_rvalue_reference< volatile rv<T>& >      { typedef T type; };$/;"	t	struct:boost::move_detail::remove_rvalue_reference	access:public
+boost::move_detail::remove_rvalue_reference::type	/usr/include/boost/move/traits.hpp	/^template< class T > struct remove_rvalue_reference { typedef T type; };$/;"	t	struct:boost::move_detail::remove_rvalue_reference	access:public
+boost::move_detail::uninitialized_move_move_iterator	/usr/include/boost/move/algorithm.hpp	/^inline F uninitialized_move_move_iterator(I f, I l, F r$/;"	f	namespace:boost::move_detail	signature:(I f, I l, F r )
+boost::move_insert_iterator	/usr/include/boost/move/iterator.hpp	/^class move_insert_iterator$/;"	c	namespace:boost	inherits:std::iterator
+boost::move_insert_iterator::container_m	/usr/include/boost/move/iterator.hpp	/^   C* container_m;$/;"	m	class:boost::move_insert_iterator	access:private
+boost::move_insert_iterator::container_type	/usr/include/boost/move/iterator.hpp	/^   typedef C                        container_type;$/;"	t	class:boost::move_insert_iterator	access:public
+boost::move_insert_iterator::move_insert_iterator	/usr/include/boost/move/iterator.hpp	/^   explicit move_insert_iterator(C& x, typename C::iterator pos)$/;"	f	class:boost::move_insert_iterator	access:public	signature:(C& x, typename C::iterator pos)
+boost::move_insert_iterator::operator *	/usr/include/boost/move/iterator.hpp	/^   move_insert_iterator& operator*()     { return *this; }$/;"	f	class:boost::move_insert_iterator	access:public	signature:()
+boost::move_insert_iterator::operator ++	/usr/include/boost/move/iterator.hpp	/^   move_insert_iterator& operator++()    { return *this; }$/;"	f	class:boost::move_insert_iterator	access:public	signature:()
+boost::move_insert_iterator::operator ++	/usr/include/boost/move/iterator.hpp	/^   move_insert_iterator& operator++(int) { return *this; }$/;"	f	class:boost::move_insert_iterator	access:public	signature:(int)
+boost::move_insert_iterator::operator =	/usr/include/boost/move/iterator.hpp	/^   move_insert_iterator& operator=(reference x)$/;"	f	class:boost::move_insert_iterator	access:public	signature:(reference x)
+boost::move_insert_iterator::pos_	/usr/include/boost/move/iterator.hpp	/^   typename C::iterator pos_;$/;"	m	class:boost::move_insert_iterator	access:private
+boost::move_insert_iterator::reference	/usr/include/boost/move/iterator.hpp	/^   typedef typename C::reference    reference;$/;"	t	class:boost::move_insert_iterator	access:public
+boost::move_insert_iterator::value_type	/usr/include/boost/move/iterator.hpp	/^   typedef typename C::value_type   value_type;$/;"	t	class:boost::move_insert_iterator	access:public
+boost::move_inserter	/usr/include/boost/move/iterator.hpp	/^inline move_insert_iterator<C> move_inserter(C& x, typename C::iterator it)$/;"	f	namespace:boost	signature:(C& x, typename C::iterator it)
+boost::move_iterator	/usr/include/boost/move/iterator.hpp	/^class move_iterator$/;"	c	namespace:boost
+boost::move_iterator::base	/usr/include/boost/move/iterator.hpp	/^   iterator_type base() const$/;"	f	class:boost::move_iterator	access:public	signature:() const
+boost::move_iterator::difference_type	/usr/include/boost/move/iterator.hpp	/^   typedef typename std::iterator_traits<iterator_type>::difference_type   difference_type;$/;"	t	class:boost::move_iterator	access:public
+boost::move_iterator::iterator_category	/usr/include/boost/move/iterator.hpp	/^   typedef typename std::iterator_traits<iterator_type>::iterator_category iterator_category;$/;"	t	class:boost::move_iterator	access:public
+boost::move_iterator::iterator_type	/usr/include/boost/move/iterator.hpp	/^   typedef It                                                              iterator_type;$/;"	t	class:boost::move_iterator	access:public
+boost::move_iterator::m_it	/usr/include/boost/move/iterator.hpp	/^   It m_it;$/;"	m	class:boost::move_iterator	access:private
+boost::move_iterator::move_iterator	/usr/include/boost/move/iterator.hpp	/^   explicit move_iterator(It i)$/;"	f	class:boost::move_iterator	access:public	signature:(It i)
+boost::move_iterator::move_iterator	/usr/include/boost/move/iterator.hpp	/^   move_iterator()$/;"	f	class:boost::move_iterator	access:public	signature:()
+boost::move_iterator::move_iterator	/usr/include/boost/move/iterator.hpp	/^   move_iterator(const move_iterator<U>& u)$/;"	f	class:boost::move_iterator	access:public	signature:(const move_iterator<U>& u)
+boost::move_iterator::operator !=	/usr/include/boost/move/iterator.hpp	/^   friend bool operator!=(const move_iterator& x, const move_iterator& y)$/;"	f	class:boost::move_iterator	access:friend	signature:(const move_iterator& x, const move_iterator& y)
+boost::move_iterator::operator *	/usr/include/boost/move/iterator.hpp	/^   reference operator*() const$/;"	f	class:boost::move_iterator	access:public	signature:() const
+boost::move_iterator::operator +	/usr/include/boost/move/iterator.hpp	/^   friend move_iterator operator+(difference_type n, const move_iterator& x)$/;"	f	class:boost::move_iterator	access:friend	signature:(difference_type n, const move_iterator& x)
+boost::move_iterator::operator +	/usr/include/boost/move/iterator.hpp	/^   move_iterator<iterator_type>  operator+ (difference_type n) const$/;"	f	class:boost::move_iterator	access:public	signature:(difference_type n) const
+boost::move_iterator::operator ++	/usr/include/boost/move/iterator.hpp	/^   move_iterator& operator++()$/;"	f	class:boost::move_iterator	access:public	signature:()
+boost::move_iterator::operator ++	/usr/include/boost/move/iterator.hpp	/^   move_iterator<iterator_type>  operator++(int)$/;"	f	class:boost::move_iterator	access:public	signature:(int)
+boost::move_iterator::operator +=	/usr/include/boost/move/iterator.hpp	/^   move_iterator& operator+=(difference_type n)$/;"	f	class:boost::move_iterator	access:public	signature:(difference_type n)
+boost::move_iterator::operator -	/usr/include/boost/move/iterator.hpp	/^   friend difference_type operator-(const move_iterator& x, const move_iterator& y)$/;"	f	class:boost::move_iterator	access:friend	signature:(const move_iterator& x, const move_iterator& y)
+boost::move_iterator::operator -	/usr/include/boost/move/iterator.hpp	/^   move_iterator<iterator_type>  operator- (difference_type n) const$/;"	f	class:boost::move_iterator	access:public	signature:(difference_type n) const
+boost::move_iterator::operator --	/usr/include/boost/move/iterator.hpp	/^   move_iterator& operator--()$/;"	f	class:boost::move_iterator	access:public	signature:()
+boost::move_iterator::operator --	/usr/include/boost/move/iterator.hpp	/^   move_iterator<iterator_type>  operator--(int)$/;"	f	class:boost::move_iterator	access:public	signature:(int)
+boost::move_iterator::operator -=	/usr/include/boost/move/iterator.hpp	/^   move_iterator& operator-=(difference_type n)$/;"	f	class:boost::move_iterator	access:public	signature:(difference_type n)
+boost::move_iterator::operator ->	/usr/include/boost/move/iterator.hpp	/^   pointer   operator->() const$/;"	f	class:boost::move_iterator	access:public	signature:() const
+boost::move_iterator::operator <	/usr/include/boost/move/iterator.hpp	/^   friend bool operator< (const move_iterator& x, const move_iterator& y)$/;"	f	class:boost::move_iterator	access:friend	signature:(const move_iterator& x, const move_iterator& y)
+boost::move_iterator::operator <=	/usr/include/boost/move/iterator.hpp	/^   friend bool operator<=(const move_iterator& x, const move_iterator& y)$/;"	f	class:boost::move_iterator	access:friend	signature:(const move_iterator& x, const move_iterator& y)
+boost::move_iterator::operator ==	/usr/include/boost/move/iterator.hpp	/^   friend bool operator==(const move_iterator& x, const move_iterator& y)$/;"	f	class:boost::move_iterator	access:friend	signature:(const move_iterator& x, const move_iterator& y)
+boost::move_iterator::operator >	/usr/include/boost/move/iterator.hpp	/^   friend bool operator> (const move_iterator& x, const move_iterator& y)$/;"	f	class:boost::move_iterator	access:friend	signature:(const move_iterator& x, const move_iterator& y)
+boost::move_iterator::operator >=	/usr/include/boost/move/iterator.hpp	/^   friend bool operator>=(const move_iterator& x, const move_iterator& y)$/;"	f	class:boost::move_iterator	access:friend	signature:(const move_iterator& x, const move_iterator& y)
+boost::move_iterator::operator []	/usr/include/boost/move/iterator.hpp	/^   reference operator[](difference_type n) const$/;"	f	class:boost::move_iterator	access:public	signature:(difference_type n) const
+boost::move_iterator::pointer	/usr/include/boost/move/iterator.hpp	/^   typedef It                                                              pointer;$/;"	t	class:boost::move_iterator	access:public
+boost::move_iterator::reference	/usr/include/boost/move/iterator.hpp	/^      , value_type & >::type                                               reference;$/;"	t	class:boost::move_iterator	access:public
+boost::move_iterator::reference	/usr/include/boost/move/iterator.hpp	/^   typedef value_type &&                                                   reference;$/;"	t	class:boost::move_iterator	access:public
+boost::move_iterator::value_type	/usr/include/boost/move/iterator.hpp	/^   typedef typename std::iterator_traits<iterator_type>::value_type        value_type;$/;"	t	class:boost::move_iterator	access:public
+boost::rv	/usr/include/boost/move/core.hpp	/^   class rv$/;"	c	namespace:boost	inherits:::boost::move_detail::if_c::type
+boost::rv::operator =	/usr/include/boost/move/core.hpp	/^      void operator=(rv const&);$/;"	p	class:boost::rv	access:private	signature:(rv const&)
+boost::rv::rv	/usr/include/boost/move/core.hpp	/^      rv();$/;"	p	class:boost::rv	access:private	signature:()
+boost::rv::rv	/usr/include/boost/move/core.hpp	/^      rv(rv const&);$/;"	p	class:boost::rv	access:private	signature:(rv const&)
+boost::rv::~rv	/usr/include/boost/move/core.hpp	/^      ~rv();$/;"	p	class:boost::rv	access:private	signature:()
+boost::uninitialized_copy_or_move	/usr/include/boost/move/algorithm.hpp	/^inline F uninitialized_copy_or_move(I f, I l, F r$/;"	f	namespace:boost	signature:(I f, I l, F r ,typename ::boost::move_detail::disable_if< move_detail::is_move_iterator<I> >::type* = 0 )
+boost::uninitialized_copy_or_move	/usr/include/boost/move/algorithm.hpp	/^inline F uninitialized_copy_or_move(I f, I l, F r,$/;"	f	namespace:boost	signature:(I f, I l, F r, typename ::boost::move_detail::enable_if< move_detail::is_move_iterator<I> >::type* = 0)
+boost::uninitialized_move	/usr/include/boost/move/algorithm.hpp	/^F uninitialized_move(I f, I l, F r$/;"	f	namespace:boost	signature:(I f, I l, F r )
+container_m	/usr/include/boost/move/iterator.hpp	/^   C* container_m;$/;"	m	class:boost::back_move_insert_iterator	access:private
+container_m	/usr/include/boost/move/iterator.hpp	/^   C* container_m;$/;"	m	class:boost::front_move_insert_iterator	access:private
+container_m	/usr/include/boost/move/iterator.hpp	/^   C* container_m;$/;"	m	class:boost::move_insert_iterator	access:private
+container_type	/usr/include/boost/move/iterator.hpp	/^   typedef C                        container_type;$/;"	t	class:boost::back_move_insert_iterator	access:public
+container_type	/usr/include/boost/move/iterator.hpp	/^   typedef C                        container_type;$/;"	t	class:boost::front_move_insert_iterator	access:public
+container_type	/usr/include/boost/move/iterator.hpp	/^   typedef C                        container_type;$/;"	t	class:boost::move_insert_iterator	access:public
+copy_or_move	/usr/include/boost/move/algorithm.hpp	/^inline F copy_or_move(I f, I l, F r$/;"	f	namespace:boost	signature:(I f, I l, F r ,typename ::boost::move_detail::disable_if< move_detail::is_move_iterator<I> >::type* = 0 )
+copy_or_move	/usr/include/boost/move/algorithm.hpp	/^inline F copy_or_move(I f, I l, F r,$/;"	f	namespace:boost	signature:(I f, I l, F r, typename ::boost::move_detail::enable_if< move_detail::is_move_iterator<I> >::type* = 0)
+declval	/usr/include/boost/move/traits.hpp	/^typename boost::move_detail::add_rvalue_reference<T>::type declval();$/;"	p	namespace:boost::move_detail	signature:()
+detail_add_rvalue_reference	/usr/include/boost/move/traits.hpp	/^   namespace detail_add_rvalue_reference$/;"	n	namespace:boost::move_detail
+difference_type	/usr/include/boost/move/iterator.hpp	/^   typedef typename std::iterator_traits<iterator_type>::difference_type   difference_type;$/;"	t	class:boost::move_iterator	access:public
+disable_if	/usr/include/boost/move/detail/meta_utils.hpp	/^struct disable_if : public enable_if_c<!Cond::value, T> {};$/;"	s	namespace:boost::move_detail	inherits:enable_if_c
+dispatch	/usr/include/boost/move/detail/meta_utils.hpp	/^   static false_t dispatch(...);$/;"	p	class:boost::move_detail::is_convertible	access:private	signature:(....)
+dispatch	/usr/include/boost/move/detail/meta_utils.hpp	/^   static true_t dispatch(U);$/;"	p	class:boost::move_detail::is_convertible	access:private	signature:(U)
+dummy	/usr/include/boost/move/detail/meta_utils.hpp	/^   class false_t { char dummy[2]; };$/;"	m	class:boost::move_detail::is_convertible::false_t	access:private
+empty	/usr/include/boost/move/detail/meta_utils.hpp	/^struct empty{};$/;"	s	namespace:boost::move_detail
+enable_if	/usr/include/boost/move/detail/meta_utils.hpp	/^struct enable_if : public enable_if_c<Cond::value, T> {};$/;"	s	namespace:boost::move_detail	inherits:enable_if_c
+enable_if_c	/usr/include/boost/move/detail/meta_utils.hpp	/^struct enable_if_c$/;"	s	namespace:boost::move_detail
+enable_if_c	/usr/include/boost/move/detail/meta_utils.hpp	/^struct enable_if_c<false, T> {};$/;"	s	namespace:boost::move_detail
+enable_move_utility_emulation	/usr/include/boost/move/utility.hpp	/^   struct enable_move_utility_emulation$/;"	s	namespace:boost
+f	/usr/include/boost/move/detail/meta_utils.hpp	/^   static inline T * f( T & v, long )$/;"	f	struct:boost::move_detail::addressof_impl	access:public	signature:( T & v, long )
+f	/usr/include/boost/move/detail/meta_utils.hpp	/^   static inline T * f( T * v, int )$/;"	f	struct:boost::move_detail::addressof_impl	access:public	signature:( T * v, int )
+false_t	/usr/include/boost/move/detail/meta_utils.hpp	/^   class false_t { char dummy[2]; };$/;"	c	class:boost::move_detail::is_convertible	access:private
+forward	/usr/include/boost/move/utility.hpp	/^         forward(const typename ::boost::move_detail::identity<T>::type &x)$/;"	f	namespace:boost	signature:(const typename ::boost::move_detail::identity<T>::type &x)
+forward	/usr/include/boost/move/utility.hpp	/^      forward(const typename ::boost::move_detail::identity<T>::type &x)$/;"	f	namespace:boost	signature:(const typename ::boost::move_detail::identity<T>::type &x)
+forward_type	/usr/include/boost/move/traits.hpp	/^   template< class T> struct forward_type { typedef T type; };$/;"	s	namespace:boost::move_detail
+front_move_insert_iterator	/usr/include/boost/move/iterator.hpp	/^   explicit front_move_insert_iterator(C& x) : container_m(&x) { }$/;"	f	class:boost::front_move_insert_iterator	access:public	signature:(C& x)
+front_move_insert_iterator	/usr/include/boost/move/iterator.hpp	/^class front_move_insert_iterator$/;"	c	namespace:boost	inherits:std::iterator
+front_move_inserter	/usr/include/boost/move/iterator.hpp	/^inline front_move_insert_iterator<C> front_move_inserter(C& x)$/;"	f	namespace:boost	signature:(C& x)
+has_move_emulation_enabled	/usr/include/boost/move/core.hpp	/^   struct has_move_emulation_enabled$/;"	s	namespace:boost	inherits:::boost::move_detail::is_convertible
+has_move_emulation_enabled	/usr/include/boost/move/core.hpp	/^   struct has_move_emulation_enabled< ::boost::rv<T> >$/;"	s	namespace:boost	inherits:::boost::move_detail::integral_constant
+has_move_emulation_enabled	/usr/include/boost/move/core.hpp	/^   struct has_move_emulation_enabled<T&>$/;"	s	namespace:boost	inherits:::boost::move_detail::integral_constant
+has_nothrow_move	/usr/include/boost/move/traits.hpp	/^struct has_nothrow_move$/;"	s	namespace:boost	inherits:::boost::move_detail::integral_constant
+has_trivial_destructor_after_move	/usr/include/boost/move/traits.hpp	/^struct has_trivial_destructor_after_move$/;"	s	namespace:boost	inherits:::boost::has_trivial_destructor
+identity	/usr/include/boost/move/detail/meta_utils.hpp	/^struct identity$/;"	s	namespace:boost::move_detail
+if_	/usr/include/boost/move/detail/meta_utils.hpp	/^struct if_$/;"	s	namespace:boost::move_detail
+if_c	/usr/include/boost/move/detail/meta_utils.hpp	/^struct if_c$/;"	s	namespace:boost::move_detail
+if_c	/usr/include/boost/move/detail/meta_utils.hpp	/^struct if_c<false,T1,T2>$/;"	s	namespace:boost::move_detail
+integral_constant	/usr/include/boost/move/detail/meta_utils.hpp	/^struct integral_constant$/;"	s	namespace:boost::move_detail
+is_class_or_union	/usr/include/boost/move/detail/meta_utils.hpp	/^struct is_class_or_union$/;"	s	namespace:boost::move_detail
+is_class_or_union_tester	/usr/include/boost/move/detail/meta_utils.hpp	/^   static char is_class_or_union_tester(void(U::*)(void));$/;"	p	struct:boost::move_detail::is_class_or_union	access:public	signature:(void(U::*)(void))
+is_class_or_union_tester	/usr/include/boost/move/detail/meta_utils.hpp	/^   static twochar is_class_or_union_tester(...);$/;"	p	struct:boost::move_detail::is_class_or_union	access:public	signature:(....)
+is_convertible	/usr/include/boost/move/detail/meta_utils.hpp	/^class is_convertible$/;"	c	namespace:boost::move_detail
+is_lvalue_reference	/usr/include/boost/move/detail/meta_utils.hpp	/^struct is_lvalue_reference$/;"	s	namespace:boost::move_detail	inherits:integral_constant
+is_lvalue_reference	/usr/include/boost/move/detail/meta_utils.hpp	/^struct is_lvalue_reference<T&>$/;"	s	namespace:boost::move_detail	inherits:integral_constant
+is_move_iterator	/usr/include/boost/move/iterator.hpp	/^struct is_move_iterator$/;"	s	namespace:boost::move_detail	inherits:::boost::move_detail::integral_constant
+is_move_iterator	/usr/include/boost/move/iterator.hpp	/^struct is_move_iterator< ::boost::move_iterator<I> >$/;"	s	namespace:boost::move_detail	inherits:::boost::move_detail::integral_constant
+is_rv	/usr/include/boost/move/core.hpp	/^   struct is_rv$/;"	s	namespace:boost::move_detail	inherits:::boost::move_detail::integral_constant
+is_rv	/usr/include/boost/move/core.hpp	/^   struct is_rv< const rv<T> >$/;"	s	namespace:boost::move_detail	inherits:::boost::move_detail::integral_constant
+is_rv	/usr/include/boost/move/core.hpp	/^   struct is_rv< rv<T> >$/;"	s	namespace:boost::move_detail	inherits:::boost::move_detail::integral_constant
+is_rvalue_reference	/usr/include/boost/move/traits.hpp	/^   template< class T > struct is_rvalue_reference< T&& > : ::boost::move_detail::integral_constant<bool, true> { };$/;"	s	namespace:boost::move_detail	inherits:::boost::move_detail::integral_constant
+is_rvalue_reference	/usr/include/boost/move/traits.hpp	/^   template< class T > struct is_rvalue_reference< boost::rv<T>& >$/;"	s	namespace:boost::move_detail	inherits:::boost::move_detail::integral_constant
+is_rvalue_reference	/usr/include/boost/move/traits.hpp	/^   template< class T > struct is_rvalue_reference< const boost::rv<T>& >$/;"	s	namespace:boost::move_detail	inherits:::boost::move_detail::integral_constant
+is_rvalue_reference	/usr/include/boost/move/traits.hpp	/^template< class T > struct is_rvalue_reference : ::boost::move_detail::integral_constant<bool, false> { };$/;"	s	namespace:boost::move_detail	inherits:::boost::move_detail::integral_constant
+iterator_category	/usr/include/boost/move/iterator.hpp	/^   typedef typename std::iterator_traits<iterator_type>::iterator_category iterator_category;$/;"	t	class:boost::move_iterator	access:public
+iterator_type	/usr/include/boost/move/iterator.hpp	/^   typedef It                                                              iterator_type;$/;"	t	class:boost::move_iterator	access:public
+m_it	/usr/include/boost/move/iterator.hpp	/^   It m_it;$/;"	m	class:boost::move_iterator	access:private
+make_move_iterator	/usr/include/boost/move/iterator.hpp	/^inline move_iterator<It> make_move_iterator(const It &it)$/;"	f	namespace:boost	signature:(const It &it)
+move	/usr/include/boost/move/algorithm.hpp	/^   O move(I f, I l, O result)$/;"	f	namespace:boost	signature:(I f, I l, O result)
+move	/usr/include/boost/move/utility.hpp	/^         move(T& x)$/;"	f	namespace:boost	signature:(T& x)
+move	/usr/include/boost/move/utility.hpp	/^         move(rv<T>& x)$/;"	f	namespace:boost	signature:(rv<T>& x)
+move_backward	/usr/include/boost/move/algorithm.hpp	/^   O move_backward(I f, I l, O result)$/;"	f	namespace:boost	signature:(I f, I l, O result)
+move_detail	/usr/include/boost/move/algorithm.hpp	/^namespace move_detail {$/;"	n	namespace:boost
+move_detail	/usr/include/boost/move/core.hpp	/^   namespace move_detail {$/;"	n	namespace:boost
+move_detail	/usr/include/boost/move/detail/meta_utils.hpp	/^namespace move_detail {$/;"	n	namespace:boost
+move_detail	/usr/include/boost/move/iterator.hpp	/^namespace move_detail {$/;"	n	namespace:boost
+move_detail	/usr/include/boost/move/traits.hpp	/^namespace move_detail {$/;"	n	namespace:boost
+move_insert_iterator	/usr/include/boost/move/iterator.hpp	/^   explicit move_insert_iterator(C& x, typename C::iterator pos)$/;"	f	class:boost::move_insert_iterator	access:public	signature:(C& x, typename C::iterator pos)
+move_insert_iterator	/usr/include/boost/move/iterator.hpp	/^class move_insert_iterator$/;"	c	namespace:boost	inherits:std::iterator
+move_inserter	/usr/include/boost/move/iterator.hpp	/^inline move_insert_iterator<C> move_inserter(C& x, typename C::iterator it)$/;"	f	namespace:boost	signature:(C& x, typename C::iterator it)
+move_iterator	/usr/include/boost/move/iterator.hpp	/^   explicit move_iterator(It i)$/;"	f	class:boost::move_iterator	access:public	signature:(It i)
+move_iterator	/usr/include/boost/move/iterator.hpp	/^   move_iterator()$/;"	f	class:boost::move_iterator	access:public	signature:()
+move_iterator	/usr/include/boost/move/iterator.hpp	/^   move_iterator(const move_iterator<U>& u)$/;"	f	class:boost::move_iterator	access:public	signature:(const move_iterator<U>& u)
+move_iterator	/usr/include/boost/move/iterator.hpp	/^class move_iterator$/;"	c	namespace:boost
+move_move_iterator	/usr/include/boost/move/algorithm.hpp	/^inline F move_move_iterator(I f, I l, F r$/;"	f	namespace:boost::move_detail	signature:(I f, I l, F r )
+not_	/usr/include/boost/move/detail/meta_utils.hpp	/^struct not_$/;"	s	namespace:boost::move_detail	inherits:integral_constant
+operator !=	/usr/include/boost/move/iterator.hpp	/^   friend bool operator!=(const move_iterator& x, const move_iterator& y)$/;"	f	class:boost::move_iterator	access:friend	signature:(const move_iterator& x, const move_iterator& y)
+operator *	/usr/include/boost/move/iterator.hpp	/^   back_move_insert_iterator& operator*()     { return *this; }$/;"	f	class:boost::back_move_insert_iterator	access:public	signature:()
+operator *	/usr/include/boost/move/iterator.hpp	/^   front_move_insert_iterator& operator*()     { return *this; }$/;"	f	class:boost::front_move_insert_iterator	access:public	signature:()
+operator *	/usr/include/boost/move/iterator.hpp	/^   move_insert_iterator& operator*()     { return *this; }$/;"	f	class:boost::move_insert_iterator	access:public	signature:()
+operator *	/usr/include/boost/move/iterator.hpp	/^   reference operator*() const$/;"	f	class:boost::move_iterator	access:public	signature:() const
+operator +	/usr/include/boost/move/iterator.hpp	/^   friend move_iterator operator+(difference_type n, const move_iterator& x)$/;"	f	class:boost::move_iterator	access:friend	signature:(difference_type n, const move_iterator& x)
+operator +	/usr/include/boost/move/iterator.hpp	/^   move_iterator<iterator_type>  operator+ (difference_type n) const$/;"	f	class:boost::move_iterator	access:public	signature:(difference_type n) const
+operator ++	/usr/include/boost/move/iterator.hpp	/^   back_move_insert_iterator& operator++()    { return *this; }$/;"	f	class:boost::back_move_insert_iterator	access:public	signature:()
+operator ++	/usr/include/boost/move/iterator.hpp	/^   back_move_insert_iterator& operator++(int) { return *this; }$/;"	f	class:boost::back_move_insert_iterator	access:public	signature:(int)
+operator ++	/usr/include/boost/move/iterator.hpp	/^   front_move_insert_iterator& operator++()    { return *this; }$/;"	f	class:boost::front_move_insert_iterator	access:public	signature:()
+operator ++	/usr/include/boost/move/iterator.hpp	/^   front_move_insert_iterator& operator++(int) { return *this; }$/;"	f	class:boost::front_move_insert_iterator	access:public	signature:(int)
+operator ++	/usr/include/boost/move/iterator.hpp	/^   move_insert_iterator& operator++()    { return *this; }$/;"	f	class:boost::move_insert_iterator	access:public	signature:()
+operator ++	/usr/include/boost/move/iterator.hpp	/^   move_insert_iterator& operator++(int) { return *this; }$/;"	f	class:boost::move_insert_iterator	access:public	signature:(int)
+operator ++	/usr/include/boost/move/iterator.hpp	/^   move_iterator& operator++()$/;"	f	class:boost::move_iterator	access:public	signature:()
+operator ++	/usr/include/boost/move/iterator.hpp	/^   move_iterator<iterator_type>  operator++(int)$/;"	f	class:boost::move_iterator	access:public	signature:(int)
+operator +=	/usr/include/boost/move/iterator.hpp	/^   move_iterator& operator+=(difference_type n)$/;"	f	class:boost::move_iterator	access:public	signature:(difference_type n)
+operator -	/usr/include/boost/move/iterator.hpp	/^   friend difference_type operator-(const move_iterator& x, const move_iterator& y)$/;"	f	class:boost::move_iterator	access:friend	signature:(const move_iterator& x, const move_iterator& y)
+operator -	/usr/include/boost/move/iterator.hpp	/^   move_iterator<iterator_type>  operator- (difference_type n) const$/;"	f	class:boost::move_iterator	access:public	signature:(difference_type n) const
+operator --	/usr/include/boost/move/iterator.hpp	/^   move_iterator& operator--()$/;"	f	class:boost::move_iterator	access:public	signature:()
+operator --	/usr/include/boost/move/iterator.hpp	/^   move_iterator<iterator_type>  operator--(int)$/;"	f	class:boost::move_iterator	access:public	signature:(int)
+operator -=	/usr/include/boost/move/iterator.hpp	/^   move_iterator& operator-=(difference_type n)$/;"	f	class:boost::move_iterator	access:public	signature:(difference_type n)
+operator ->	/usr/include/boost/move/iterator.hpp	/^   pointer   operator->() const$/;"	f	class:boost::move_iterator	access:public	signature:() const
+operator <	/usr/include/boost/move/iterator.hpp	/^   friend bool operator< (const move_iterator& x, const move_iterator& y)$/;"	f	class:boost::move_iterator	access:friend	signature:(const move_iterator& x, const move_iterator& y)
+operator <=	/usr/include/boost/move/iterator.hpp	/^   friend bool operator<=(const move_iterator& x, const move_iterator& y)$/;"	f	class:boost::move_iterator	access:friend	signature:(const move_iterator& x, const move_iterator& y)
+operator =	/usr/include/boost/move/core.hpp	/^      void operator=(rv const&);$/;"	p	class:boost::rv	access:private	signature:(rv const&)
+operator =	/usr/include/boost/move/detail/meta_utils.hpp	/^   addr_impl_ref & operator=(const addr_impl_ref &);$/;"	p	struct:boost::move_detail::addr_impl_ref	access:private	signature:(const addr_impl_ref &)
+operator =	/usr/include/boost/move/iterator.hpp	/^   back_move_insert_iterator& operator=(reference x)$/;"	f	class:boost::back_move_insert_iterator	access:public	signature:(reference x)
+operator =	/usr/include/boost/move/iterator.hpp	/^   front_move_insert_iterator& operator=(reference x)$/;"	f	class:boost::front_move_insert_iterator	access:public	signature:(reference x)
+operator =	/usr/include/boost/move/iterator.hpp	/^   move_insert_iterator& operator=(reference x)$/;"	f	class:boost::move_insert_iterator	access:public	signature:(reference x)
+operator ==	/usr/include/boost/move/iterator.hpp	/^   friend bool operator==(const move_iterator& x, const move_iterator& y)$/;"	f	class:boost::move_iterator	access:friend	signature:(const move_iterator& x, const move_iterator& y)
+operator >	/usr/include/boost/move/iterator.hpp	/^   friend bool operator> (const move_iterator& x, const move_iterator& y)$/;"	f	class:boost::move_iterator	access:friend	signature:(const move_iterator& x, const move_iterator& y)
+operator >=	/usr/include/boost/move/iterator.hpp	/^   friend bool operator>=(const move_iterator& x, const move_iterator& y)$/;"	f	class:boost::move_iterator	access:friend	signature:(const move_iterator& x, const move_iterator& y)
+operator T&	/usr/include/boost/move/detail/meta_utils.hpp	/^   inline operator T& () const { return v_; }$/;"	f	struct:boost::move_detail::addr_impl_ref	access:public	signature:() const
+operator []	/usr/include/boost/move/iterator.hpp	/^   reference operator[](difference_type n) const$/;"	f	class:boost::move_iterator	access:public	signature:(difference_type n) const
+pointer	/usr/include/boost/move/iterator.hpp	/^   typedef It                                                              pointer;$/;"	t	class:boost::move_iterator	access:public
+pos_	/usr/include/boost/move/iterator.hpp	/^   typename C::iterator pos_;$/;"	m	class:boost::move_insert_iterator	access:private
+reference	/usr/include/boost/move/iterator.hpp	/^      , value_type & >::type                                               reference;$/;"	t	class:boost::move_iterator	access:public
+reference	/usr/include/boost/move/iterator.hpp	/^   typedef typename C::reference    reference;$/;"	t	class:boost::back_move_insert_iterator	access:public
+reference	/usr/include/boost/move/iterator.hpp	/^   typedef typename C::reference    reference;$/;"	t	class:boost::front_move_insert_iterator	access:public
+reference	/usr/include/boost/move/iterator.hpp	/^   typedef typename C::reference    reference;$/;"	t	class:boost::move_insert_iterator	access:public
+reference	/usr/include/boost/move/iterator.hpp	/^   typedef value_type &&                                                   reference;$/;"	t	class:boost::move_iterator	access:public
+remove_rvalue_reference	/usr/include/boost/move/traits.hpp	/^   template< class T > struct remove_rvalue_reference< T&& >                  { typedef T type; };$/;"	s	namespace:boost::move_detail
+remove_rvalue_reference	/usr/include/boost/move/traits.hpp	/^   template< class T > struct remove_rvalue_reference< const rv<T> >          { typedef T type; };$/;"	s	namespace:boost::move_detail
+remove_rvalue_reference	/usr/include/boost/move/traits.hpp	/^   template< class T > struct remove_rvalue_reference< const rv<T>& >         { typedef T type; };$/;"	s	namespace:boost::move_detail
+remove_rvalue_reference	/usr/include/boost/move/traits.hpp	/^   template< class T > struct remove_rvalue_reference< const volatile rv<T> > { typedef T type; };$/;"	s	namespace:boost::move_detail
+remove_rvalue_reference	/usr/include/boost/move/traits.hpp	/^   template< class T > struct remove_rvalue_reference< const volatile rv<T>& >{ typedef T type; };$/;"	s	namespace:boost::move_detail
+remove_rvalue_reference	/usr/include/boost/move/traits.hpp	/^   template< class T > struct remove_rvalue_reference< rv<T> >                { typedef T type; };$/;"	s	namespace:boost::move_detail
+remove_rvalue_reference	/usr/include/boost/move/traits.hpp	/^   template< class T > struct remove_rvalue_reference< rv<T>& >               { typedef T type; };$/;"	s	namespace:boost::move_detail
+remove_rvalue_reference	/usr/include/boost/move/traits.hpp	/^   template< class T > struct remove_rvalue_reference< volatile rv<T> >       { typedef T type; };$/;"	s	namespace:boost::move_detail
+remove_rvalue_reference	/usr/include/boost/move/traits.hpp	/^   template< class T > struct remove_rvalue_reference< volatile rv<T>& >      { typedef T type; };$/;"	s	namespace:boost::move_detail
+remove_rvalue_reference	/usr/include/boost/move/traits.hpp	/^template< class T > struct remove_rvalue_reference { typedef T type; };$/;"	s	namespace:boost::move_detail
+rv	/usr/include/boost/move/core.hpp	/^      rv();$/;"	p	class:boost::rv	access:private	signature:()
+rv	/usr/include/boost/move/core.hpp	/^      rv(rv const&);$/;"	p	class:boost::rv	access:private	signature:(rv const&)
+rv	/usr/include/boost/move/core.hpp	/^   class rv$/;"	c	namespace:boost	inherits:::boost::move_detail::if_c::type
+trigger	/usr/include/boost/move/detail/meta_utils.hpp	/^   static T &trigger();$/;"	p	class:boost::move_detail::is_convertible	access:private	signature:()
+true_t	/usr/include/boost/move/detail/meta_utils.hpp	/^   typedef char true_t;$/;"	t	class:boost::move_detail::is_convertible	access:private
+twochar	/usr/include/boost/move/detail/meta_utils.hpp	/^   struct twochar { char _[2]; };$/;"	s	struct:boost::move_detail::is_class_or_union	access:public
+type	/usr/include/boost/move/detail/meta_utils.hpp	/^   typedef T type;$/;"	t	struct:boost::move_detail::enable_if_c	access:public
+type	/usr/include/boost/move/detail/meta_utils.hpp	/^   typedef T type;$/;"	t	struct:boost::move_detail::identity	access:public
+type	/usr/include/boost/move/detail/meta_utils.hpp	/^   typedef T1 type;$/;"	t	struct:boost::move_detail::if_c	access:public
+type	/usr/include/boost/move/detail/meta_utils.hpp	/^   typedef T2 type;$/;"	t	struct:boost::move_detail::if_c	access:public
+type	/usr/include/boost/move/detail/meta_utils.hpp	/^   typedef integral_constant<T, v> type;$/;"	t	struct:boost::move_detail::integral_constant	access:public
+type	/usr/include/boost/move/detail/meta_utils.hpp	/^   typedef typename if_c<0 != T1::value, T2, T3>::type type;$/;"	t	struct:boost::move_detail::if_	access:public
+type	/usr/include/boost/move/traits.hpp	/^      struct add_rvalue_reference_impl { typedef T type; };$/;"	t	struct:boost::move_detail::detail_add_rvalue_reference::add_rvalue_reference_impl	access:public
+type	/usr/include/boost/move/traits.hpp	/^      struct add_rvalue_reference_impl< T, emulation, true > { typedef T & type; };$/;"	t	struct:boost::move_detail::detail_add_rvalue_reference::add_rvalue_reference_impl	access:public
+type	/usr/include/boost/move/traits.hpp	/^      struct add_rvalue_reference_impl< T, true, rv > { typedef ::boost::rv<T>& type; };$/;"	t	struct:boost::move_detail::detail_add_rvalue_reference::add_rvalue_reference_impl	access:public
+type	/usr/include/boost/move/traits.hpp	/^   template< class T > struct add_rvalue_reference { typedef T&& type; };$/;"	t	struct:boost::move_detail::add_rvalue_reference	access:public
+type	/usr/include/boost/move/traits.hpp	/^   template< class T > struct remove_rvalue_reference< T&& >                  { typedef T type; };$/;"	t	struct:boost::move_detail::remove_rvalue_reference	access:public
+type	/usr/include/boost/move/traits.hpp	/^   template< class T > struct remove_rvalue_reference< const rv<T> >          { typedef T type; };$/;"	t	struct:boost::move_detail::remove_rvalue_reference	access:public
+type	/usr/include/boost/move/traits.hpp	/^   template< class T > struct remove_rvalue_reference< const rv<T>& >         { typedef T type; };$/;"	t	struct:boost::move_detail::remove_rvalue_reference	access:public
+type	/usr/include/boost/move/traits.hpp	/^   template< class T > struct remove_rvalue_reference< const volatile rv<T> > { typedef T type; };$/;"	t	struct:boost::move_detail::remove_rvalue_reference	access:public
+type	/usr/include/boost/move/traits.hpp	/^   template< class T > struct remove_rvalue_reference< const volatile rv<T>& >{ typedef T type; };$/;"	t	struct:boost::move_detail::remove_rvalue_reference	access:public
+type	/usr/include/boost/move/traits.hpp	/^   template< class T > struct remove_rvalue_reference< rv<T> >                { typedef T type; };$/;"	t	struct:boost::move_detail::remove_rvalue_reference	access:public
+type	/usr/include/boost/move/traits.hpp	/^   template< class T > struct remove_rvalue_reference< rv<T>& >               { typedef T type; };$/;"	t	struct:boost::move_detail::remove_rvalue_reference	access:public
+type	/usr/include/boost/move/traits.hpp	/^   template< class T > struct remove_rvalue_reference< volatile rv<T> >       { typedef T type; };$/;"	t	struct:boost::move_detail::remove_rvalue_reference	access:public
+type	/usr/include/boost/move/traits.hpp	/^   template< class T > struct remove_rvalue_reference< volatile rv<T>& >      { typedef T type; };$/;"	t	struct:boost::move_detail::remove_rvalue_reference	access:public
+type	/usr/include/boost/move/traits.hpp	/^   template< class T> struct forward_type { typedef T type; };$/;"	t	struct:boost::move_detail::forward_type	access:public
+type	/usr/include/boost/move/traits.hpp	/^   {  typedef T & type; };$/;"	t	struct:boost::move_detail::add_rvalue_reference	access:public
+type	/usr/include/boost/move/traits.hpp	/^template< class T > struct remove_rvalue_reference { typedef T type; };$/;"	t	struct:boost::move_detail::remove_rvalue_reference	access:public
+uninitialized_copy_or_move	/usr/include/boost/move/algorithm.hpp	/^inline F uninitialized_copy_or_move(I f, I l, F r$/;"	f	namespace:boost	signature:(I f, I l, F r ,typename ::boost::move_detail::disable_if< move_detail::is_move_iterator<I> >::type* = 0 )
+uninitialized_copy_or_move	/usr/include/boost/move/algorithm.hpp	/^inline F uninitialized_copy_or_move(I f, I l, F r,$/;"	f	namespace:boost	signature:(I f, I l, F r, typename ::boost::move_detail::enable_if< move_detail::is_move_iterator<I> >::type* = 0)
+uninitialized_move	/usr/include/boost/move/algorithm.hpp	/^F uninitialized_move(I f, I l, F r$/;"	f	namespace:boost	signature:(I f, I l, F r )
+uninitialized_move_move_iterator	/usr/include/boost/move/algorithm.hpp	/^inline F uninitialized_move_move_iterator(I f, I l, F r$/;"	f	namespace:boost::move_detail	signature:(I f, I l, F r )
+v_	/usr/include/boost/move/detail/meta_utils.hpp	/^   T & v_;$/;"	m	struct:boost::move_detail::addr_impl_ref	access:public
+value	/usr/include/boost/move/detail/meta_utils.hpp	/^   enum { value = sizeof(dispatch(trigger())) == sizeof(true_t) };$/;"	e	enum:boost::move_detail::is_convertible::__anon1
+value	/usr/include/boost/move/detail/meta_utils.hpp	/^   static const T value = v;$/;"	m	struct:boost::move_detail::integral_constant	access:public
+value	/usr/include/boost/move/detail/meta_utils.hpp	/^   static const bool value = sizeof(is_class_or_union_tester<T>(0)) == sizeof(char);$/;"	m	struct:boost::move_detail::is_class_or_union	access:public
+value	/usr/include/boost/move/utility.hpp	/^      static const bool value = true;$/;"	m	struct:boost::enable_move_utility_emulation	access:public
+value_type	/usr/include/boost/move/detail/meta_utils.hpp	/^   typedef T value_type;$/;"	t	struct:boost::move_detail::integral_constant	access:public
+value_type	/usr/include/boost/move/iterator.hpp	/^   typedef typename C::value_type   value_type;$/;"	t	class:boost::back_move_insert_iterator	access:public
+value_type	/usr/include/boost/move/iterator.hpp	/^   typedef typename C::value_type   value_type;$/;"	t	class:boost::front_move_insert_iterator	access:public
+value_type	/usr/include/boost/move/iterator.hpp	/^   typedef typename C::value_type   value_type;$/;"	t	class:boost::move_insert_iterator	access:public
+value_type	/usr/include/boost/move/iterator.hpp	/^   typedef typename std::iterator_traits<iterator_type>::value_type        value_type;$/;"	t	class:boost::move_iterator	access:public
+~rv	/usr/include/boost/move/core.hpp	/^      ~rv();$/;"	p	class:boost::rv	access:private	signature:()

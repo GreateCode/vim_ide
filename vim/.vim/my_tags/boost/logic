@@ -1,0 +1,142 @@
+!_TAG_FILE_FORMAT	2	/extended format; --format=1 will not append ;" to lines/
+!_TAG_FILE_SORTED	1	/0=unsorted, 1=sorted, 2=foldcase/
+!_TAG_PROGRAM_AUTHOR	Darren Hiebert	/dhiebert@users.sourceforge.net/
+!_TAG_PROGRAM_NAME	Exuberant Ctags	//
+!_TAG_PROGRAM_URL	http://ctags.sourceforge.net	/official site/
+!_TAG_PROGRAM_VERSION	5.8	//
+BOOST_LOGIC_TRIBOOL_FWD_HPP	/usr/include/boost/logic/tribool_fwd.hpp	11;"	d
+BOOST_LOGIC_TRIBOOL_HPP	/usr/include/boost/logic/tribool.hpp	11;"	d
+BOOST_LOGIC_TRIBOOL_IO_HPP	/usr/include/boost/logic/tribool_io.hpp	8;"	d
+BOOST_TRIBOOL_THIRD_STATE	/usr/include/boost/logic/tribool.hpp	452;"	d
+boost	/usr/include/boost/logic/tribool.hpp	/^namespace boost { namespace logic {$/;"	n
+boost	/usr/include/boost/logic/tribool.hpp	/^namespace boost {$/;"	n
+boost	/usr/include/boost/logic/tribool_fwd.hpp	/^namespace boost { namespace logic { class tribool; } }$/;"	n
+boost	/usr/include/boost/logic/tribool_io.hpp	/^namespace boost { namespace logic {$/;"	n
+boost::logic	/usr/include/boost/logic/tribool.hpp	/^namespace boost { namespace logic {$/;"	n	namespace:boost
+boost::logic	/usr/include/boost/logic/tribool_fwd.hpp	/^namespace boost { namespace logic { class tribool; } }$/;"	n	namespace:boost
+boost::logic	/usr/include/boost/logic/tribool_io.hpp	/^namespace boost { namespace logic {$/;"	n	namespace:boost
+boost::logic::default_false_name	/usr/include/boost/logic/tribool_io.hpp	/^inline std::basic_string<char> default_false_name<char>()$/;"	f	namespace:boost::logic	signature:()
+boost::logic::default_false_name	/usr/include/boost/logic/tribool_io.hpp	/^inline std::basic_string<wchar_t> default_false_name<wchar_t>()$/;"	f	namespace:boost::logic	signature:()
+boost::logic::default_false_name	/usr/include/boost/logic/tribool_io.hpp	/^template<typename T> std::basic_string<T> default_false_name();$/;"	p	namespace:boost::logic	signature:()
+boost::logic::default_true_name	/usr/include/boost/logic/tribool_io.hpp	/^inline std::basic_string<char> default_true_name<char>()$/;"	f	namespace:boost::logic	signature:()
+boost::logic::default_true_name	/usr/include/boost/logic/tribool_io.hpp	/^inline std::basic_string<wchar_t> default_true_name<wchar_t>()$/;"	f	namespace:boost::logic	signature:()
+boost::logic::default_true_name	/usr/include/boost/logic/tribool_io.hpp	/^template<typename T> std::basic_string<T> default_true_name();$/;"	p	namespace:boost::logic	signature:()
+boost::logic::detail	/usr/include/boost/logic/tribool.hpp	/^namespace detail {$/;"	n	namespace:boost::logic
+boost::logic::detail::indeterminate_t	/usr/include/boost/logic/tribool.hpp	/^struct indeterminate_t$/;"	s	namespace:boost::logic::detail
+boost::logic::detail::indeterminate_t::dummy_	/usr/include/boost/logic/tribool.hpp	/^  char dummy_; \/\/ BCB would use 8 bytes by default$/;"	m	struct:boost::logic::detail::indeterminate_t	access:public
+boost::logic::get_default_indeterminate_name	/usr/include/boost/logic/tribool_io.hpp	/^inline std::basic_string<char> get_default_indeterminate_name<char>()$/;"	f	namespace:boost::logic	signature:()
+boost::logic::get_default_indeterminate_name	/usr/include/boost/logic/tribool_io.hpp	/^inline std::basic_string<wchar_t> get_default_indeterminate_name<wchar_t>()$/;"	f	namespace:boost::logic	signature:()
+boost::logic::get_default_indeterminate_name	/usr/include/boost/logic/tribool_io.hpp	/^template<typename T> std::basic_string<T> get_default_indeterminate_name();$/;"	p	namespace:boost::logic	signature:()
+boost::logic::indeterminate	/usr/include/boost/logic/tribool.hpp	/^indeterminate(tribool x,$/;"	p	namespace:boost::logic	signature:(tribool x, detail::indeterminate_t dummy = detail::indeterminate_t())
+boost::logic::indeterminate	/usr/include/boost/logic/tribool.hpp	/^inline bool indeterminate(tribool x, detail::indeterminate_t)$/;"	f	namespace:boost::logic	signature:(tribool x, detail::indeterminate_t)
+boost::logic::indeterminate_keyword_t	/usr/include/boost/logic/tribool.hpp	/^typedef bool (*indeterminate_keyword_t)(tribool, detail::indeterminate_t);$/;"	t	namespace:boost::logic
+boost::logic::indeterminate_name	/usr/include/boost/logic/tribool_io.hpp	/^class indeterminate_name : public std::locale::facet, private boost::noncopyable$/;"	c	namespace:boost::logic	inherits:std::locale::facet,boost::noncopyable
+boost::logic::indeterminate_name::char_type	/usr/include/boost/logic/tribool_io.hpp	/^  typedef CharT char_type;$/;"	t	class:boost::logic::indeterminate_name	access:public
+boost::logic::indeterminate_name::id	/usr/include/boost/logic/tribool_io.hpp	/^  static std::locale::id id;$/;"	m	class:boost::logic::indeterminate_name	access:public
+boost::logic::indeterminate_name::id	/usr/include/boost/logic/tribool_io.hpp	/^template<typename CharT> std::locale::id indeterminate_name<CharT>::id;$/;"	m	class:boost::logic::indeterminate_name
+boost::logic::indeterminate_name::indeterminate_name	/usr/include/boost/logic/tribool_io.hpp	/^  explicit indeterminate_name(const string_type& initial_name)$/;"	f	class:boost::logic::indeterminate_name	access:public	signature:(const string_type& initial_name)
+boost::logic::indeterminate_name::indeterminate_name	/usr/include/boost/logic/tribool_io.hpp	/^  indeterminate_name() : name_(get_default_indeterminate_name<CharT>()) {}$/;"	f	class:boost::logic::indeterminate_name	access:public	signature:()
+boost::logic::indeterminate_name::name	/usr/include/boost/logic/tribool_io.hpp	/^  string_type name() const { return name_; }$/;"	f	class:boost::logic::indeterminate_name	access:public	signature:() const
+boost::logic::indeterminate_name::name_	/usr/include/boost/logic/tribool_io.hpp	/^  string_type name_;$/;"	m	class:boost::logic::indeterminate_name	access:private
+boost::logic::indeterminate_name::string_type	/usr/include/boost/logic/tribool_io.hpp	/^  typedef std::basic_string<CharT> string_type;$/;"	t	class:boost::logic::indeterminate_name	access:public
+boost::logic::operator !	/usr/include/boost/logic/tribool.hpp	/^inline tribool operator!(tribool x)$/;"	f	namespace:boost::logic	signature:(tribool x)
+boost::logic::operator !=	/usr/include/boost/logic/tribool.hpp	/^inline tribool operator!=(bool x, tribool y) { return tribool(x) != y; }$/;"	f	namespace:boost::logic	signature:(bool x, tribool y)
+boost::logic::operator !=	/usr/include/boost/logic/tribool.hpp	/^inline tribool operator!=(indeterminate_keyword_t, tribool x)$/;"	f	namespace:boost::logic	signature:(indeterminate_keyword_t, tribool x)
+boost::logic::operator !=	/usr/include/boost/logic/tribool.hpp	/^inline tribool operator!=(tribool x, bool y) { return x != tribool(y); }$/;"	f	namespace:boost::logic	signature:(tribool x, bool y)
+boost::logic::operator !=	/usr/include/boost/logic/tribool.hpp	/^inline tribool operator!=(tribool x, indeterminate_keyword_t)$/;"	f	namespace:boost::logic	signature:(tribool x, indeterminate_keyword_t)
+boost::logic::operator !=	/usr/include/boost/logic/tribool.hpp	/^inline tribool operator!=(tribool x, tribool y)$/;"	f	namespace:boost::logic	signature:(tribool x, tribool y)
+boost::logic::operator &&	/usr/include/boost/logic/tribool.hpp	/^inline tribool operator&&(bool x, tribool y)$/;"	f	namespace:boost::logic	signature:(bool x, tribool y)
+boost::logic::operator &&	/usr/include/boost/logic/tribool.hpp	/^inline tribool operator&&(indeterminate_keyword_t, tribool x)$/;"	f	namespace:boost::logic	signature:(indeterminate_keyword_t, tribool x)
+boost::logic::operator &&	/usr/include/boost/logic/tribool.hpp	/^inline tribool operator&&(tribool x, bool y)$/;"	f	namespace:boost::logic	signature:(tribool x, bool y)
+boost::logic::operator &&	/usr/include/boost/logic/tribool.hpp	/^inline tribool operator&&(tribool x, indeterminate_keyword_t)$/;"	f	namespace:boost::logic	signature:(tribool x, indeterminate_keyword_t)
+boost::logic::operator &&	/usr/include/boost/logic/tribool.hpp	/^inline tribool operator&&(tribool x, tribool y)$/;"	f	namespace:boost::logic	signature:(tribool x, tribool y)
+boost::logic::operator <<	/usr/include/boost/logic/tribool_io.hpp	/^operator<<(std::basic_ostream<CharT, Traits>& out, $/;"	f	namespace:boost::logic	signature:(std::basic_ostream<CharT, Traits>& out, bool (*)(tribool, detail::indeterminate_t))
+boost::logic::operator <<	/usr/include/boost/logic/tribool_io.hpp	/^operator<<(std::basic_ostream<CharT, Traits>& out, tribool x)$/;"	f	namespace:boost::logic	signature:(std::basic_ostream<CharT, Traits>& out, tribool x)
+boost::logic::operator ==	/usr/include/boost/logic/tribool.hpp	/^inline tribool operator==(bool x, tribool y) { return tribool(x) == y; }$/;"	f	namespace:boost::logic	signature:(bool x, tribool y)
+boost::logic::operator ==	/usr/include/boost/logic/tribool.hpp	/^inline tribool operator==(indeterminate_keyword_t, tribool x)$/;"	f	namespace:boost::logic	signature:(indeterminate_keyword_t, tribool x)
+boost::logic::operator ==	/usr/include/boost/logic/tribool.hpp	/^inline tribool operator==(tribool x, bool y) { return x == tribool(y); }$/;"	f	namespace:boost::logic	signature:(tribool x, bool y)
+boost::logic::operator ==	/usr/include/boost/logic/tribool.hpp	/^inline tribool operator==(tribool x, indeterminate_keyword_t)$/;"	f	namespace:boost::logic	signature:(tribool x, indeterminate_keyword_t)
+boost::logic::operator ==	/usr/include/boost/logic/tribool.hpp	/^inline tribool operator==(tribool x, tribool y)$/;"	f	namespace:boost::logic	signature:(tribool x, tribool y)
+boost::logic::operator >>	/usr/include/boost/logic/tribool_io.hpp	/^operator>>(std::basic_istream<CharT, Traits>& in, tribool& x)$/;"	f	namespace:boost::logic	signature:(std::basic_istream<CharT, Traits>& in, tribool& x)
+boost::logic::operator ||	/usr/include/boost/logic/tribool.hpp	/^inline tribool operator||(bool x, tribool y)$/;"	f	namespace:boost::logic	signature:(bool x, tribool y)
+boost::logic::operator ||	/usr/include/boost/logic/tribool.hpp	/^inline tribool operator||(indeterminate_keyword_t, tribool x)$/;"	f	namespace:boost::logic	signature:(indeterminate_keyword_t, tribool x)
+boost::logic::operator ||	/usr/include/boost/logic/tribool.hpp	/^inline tribool operator||(tribool x, bool y)$/;"	f	namespace:boost::logic	signature:(tribool x, bool y)
+boost::logic::operator ||	/usr/include/boost/logic/tribool.hpp	/^inline tribool operator||(tribool x, indeterminate_keyword_t)$/;"	f	namespace:boost::logic	signature:(tribool x, indeterminate_keyword_t)
+boost::logic::operator ||	/usr/include/boost/logic/tribool.hpp	/^inline tribool operator||(tribool x, tribool y)$/;"	f	namespace:boost::logic	signature:(tribool x, tribool y)
+boost::logic::tribool	/usr/include/boost/logic/tribool.hpp	/^class tribool$/;"	c	namespace:boost::logic
+boost::logic::tribool::dummy	/usr/include/boost/logic/tribool.hpp	/^  struct dummy {$/;"	s	class:boost::logic::tribool	access:private
+boost::logic::tribool::dummy::nonnull	/usr/include/boost/logic/tribool.hpp	/^    void nonnull() {};$/;"	f	struct:boost::logic::tribool::dummy	access:public	signature:()
+boost::logic::tribool::false_value	/usr/include/boost/logic/tribool.hpp	/^  enum value_t { false_value, true_value, indeterminate_value } value;$/;"	e	enum:boost::logic::tribool::value_t
+boost::logic::tribool::indeterminate_value	/usr/include/boost/logic/tribool.hpp	/^  enum value_t { false_value, true_value, indeterminate_value } value;$/;"	e	enum:boost::logic::tribool::value_t
+boost::logic::tribool::operator safe_bool	/usr/include/boost/logic/tribool.hpp	/^  operator safe_bool() const$/;"	f	class:boost::logic::tribool	access:public	signature:() const
+boost::logic::tribool::safe_bool	/usr/include/boost/logic/tribool.hpp	/^  typedef void (dummy::*safe_bool)();$/;"	t	class:boost::logic::tribool	access:private
+boost::logic::tribool::tribool	/usr/include/boost/logic/tribool.hpp	/^  tribool() : value(false_value) {}$/;"	f	class:boost::logic::tribool	access:public	signature:()
+boost::logic::tribool::tribool	/usr/include/boost/logic/tribool.hpp	/^  tribool(bool initial_value) : value(initial_value? true_value : false_value) {}$/;"	f	class:boost::logic::tribool	access:public	signature:(bool initial_value)
+boost::logic::tribool::tribool	/usr/include/boost/logic/tribool.hpp	/^  tribool(indeterminate_keyword_t) : value(indeterminate_value) {}$/;"	f	class:boost::logic::tribool	access:public	signature:(indeterminate_keyword_t)
+boost::logic::tribool::true_value	/usr/include/boost/logic/tribool.hpp	/^  enum value_t { false_value, true_value, indeterminate_value } value;$/;"	e	enum:boost::logic::tribool::value_t
+boost::logic::tribool::value	/usr/include/boost/logic/tribool.hpp	/^  enum value_t { false_value, true_value, indeterminate_value } value;$/;"	m	class:boost::logic::tribool	typeref:enum:boost::logic::tribool::value_t	access:public
+boost::logic::tribool::value_t	/usr/include/boost/logic/tribool.hpp	/^  enum value_t { false_value, true_value, indeterminate_value } value;$/;"	g	class:boost::logic::tribool	access:public
+char_type	/usr/include/boost/logic/tribool_io.hpp	/^  typedef CharT char_type;$/;"	t	class:boost::logic::indeterminate_name	access:public
+default_false_name	/usr/include/boost/logic/tribool_io.hpp	/^inline std::basic_string<char> default_false_name<char>()$/;"	f	namespace:boost::logic	signature:()
+default_false_name	/usr/include/boost/logic/tribool_io.hpp	/^inline std::basic_string<wchar_t> default_false_name<wchar_t>()$/;"	f	namespace:boost::logic	signature:()
+default_false_name	/usr/include/boost/logic/tribool_io.hpp	/^template<typename T> std::basic_string<T> default_false_name();$/;"	p	namespace:boost::logic	signature:()
+default_true_name	/usr/include/boost/logic/tribool_io.hpp	/^inline std::basic_string<char> default_true_name<char>()$/;"	f	namespace:boost::logic	signature:()
+default_true_name	/usr/include/boost/logic/tribool_io.hpp	/^inline std::basic_string<wchar_t> default_true_name<wchar_t>()$/;"	f	namespace:boost::logic	signature:()
+default_true_name	/usr/include/boost/logic/tribool_io.hpp	/^template<typename T> std::basic_string<T> default_true_name();$/;"	p	namespace:boost::logic	signature:()
+detail	/usr/include/boost/logic/tribool.hpp	/^namespace detail {$/;"	n	namespace:boost::logic
+dummy	/usr/include/boost/logic/tribool.hpp	/^  struct dummy {$/;"	s	class:boost::logic::tribool	access:private
+dummy_	/usr/include/boost/logic/tribool.hpp	/^  char dummy_; \/\/ BCB would use 8 bytes by default$/;"	m	struct:boost::logic::detail::indeterminate_t	access:public
+false_value	/usr/include/boost/logic/tribool.hpp	/^  enum value_t { false_value, true_value, indeterminate_value } value;$/;"	e	enum:boost::logic::tribool::value_t
+get_default_indeterminate_name	/usr/include/boost/logic/tribool_io.hpp	/^inline std::basic_string<char> get_default_indeterminate_name<char>()$/;"	f	namespace:boost::logic	signature:()
+get_default_indeterminate_name	/usr/include/boost/logic/tribool_io.hpp	/^inline std::basic_string<wchar_t> get_default_indeterminate_name<wchar_t>()$/;"	f	namespace:boost::logic	signature:()
+get_default_indeterminate_name	/usr/include/boost/logic/tribool_io.hpp	/^template<typename T> std::basic_string<T> get_default_indeterminate_name();$/;"	p	namespace:boost::logic	signature:()
+id	/usr/include/boost/logic/tribool_io.hpp	/^  static std::locale::id id;$/;"	m	class:boost::logic::indeterminate_name	access:public
+id	/usr/include/boost/logic/tribool_io.hpp	/^template<typename CharT> std::locale::id indeterminate_name<CharT>::id;$/;"	m	class:boost::logic::indeterminate_name
+indeterminate	/usr/include/boost/logic/tribool.hpp	/^indeterminate(tribool x,$/;"	p	namespace:boost::logic	signature:(tribool x, detail::indeterminate_t dummy = detail::indeterminate_t())
+indeterminate	/usr/include/boost/logic/tribool.hpp	/^inline bool indeterminate(tribool x, detail::indeterminate_t)$/;"	f	namespace:boost::logic	signature:(tribool x, detail::indeterminate_t)
+indeterminate_keyword_t	/usr/include/boost/logic/tribool.hpp	/^typedef bool (*indeterminate_keyword_t)(tribool, detail::indeterminate_t);$/;"	t	namespace:boost::logic
+indeterminate_name	/usr/include/boost/logic/tribool_io.hpp	/^  explicit indeterminate_name(const string_type& initial_name)$/;"	f	class:boost::logic::indeterminate_name	access:public	signature:(const string_type& initial_name)
+indeterminate_name	/usr/include/boost/logic/tribool_io.hpp	/^  indeterminate_name() : name_(get_default_indeterminate_name<CharT>()) {}$/;"	f	class:boost::logic::indeterminate_name	access:public	signature:()
+indeterminate_name	/usr/include/boost/logic/tribool_io.hpp	/^class indeterminate_name : public std::locale::facet, private boost::noncopyable$/;"	c	namespace:boost::logic	inherits:std::locale::facet,boost::noncopyable
+indeterminate_t	/usr/include/boost/logic/tribool.hpp	/^struct indeterminate_t$/;"	s	namespace:boost::logic::detail
+indeterminate_value	/usr/include/boost/logic/tribool.hpp	/^  enum value_t { false_value, true_value, indeterminate_value } value;$/;"	e	enum:boost::logic::tribool::value_t
+logic	/usr/include/boost/logic/tribool.hpp	/^namespace boost { namespace logic {$/;"	n	namespace:boost
+logic	/usr/include/boost/logic/tribool_fwd.hpp	/^namespace boost { namespace logic { class tribool; } }$/;"	n	namespace:boost
+logic	/usr/include/boost/logic/tribool_io.hpp	/^namespace boost { namespace logic {$/;"	n	namespace:boost
+name	/usr/include/boost/logic/tribool_io.hpp	/^  string_type name() const { return name_; }$/;"	f	class:boost::logic::indeterminate_name	access:public	signature:() const
+name_	/usr/include/boost/logic/tribool_io.hpp	/^  string_type name_;$/;"	m	class:boost::logic::indeterminate_name	access:private
+nonnull	/usr/include/boost/logic/tribool.hpp	/^    void nonnull() {};$/;"	f	struct:boost::logic::tribool::dummy	access:public	signature:()
+operator !	/usr/include/boost/logic/tribool.hpp	/^inline tribool operator!(tribool x)$/;"	f	namespace:boost::logic	signature:(tribool x)
+operator !=	/usr/include/boost/logic/tribool.hpp	/^inline tribool operator!=(bool x, tribool y) { return tribool(x) != y; }$/;"	f	namespace:boost::logic	signature:(bool x, tribool y)
+operator !=	/usr/include/boost/logic/tribool.hpp	/^inline tribool operator!=(indeterminate_keyword_t, tribool x)$/;"	f	namespace:boost::logic	signature:(indeterminate_keyword_t, tribool x)
+operator !=	/usr/include/boost/logic/tribool.hpp	/^inline tribool operator!=(tribool x, bool y) { return x != tribool(y); }$/;"	f	namespace:boost::logic	signature:(tribool x, bool y)
+operator !=	/usr/include/boost/logic/tribool.hpp	/^inline tribool operator!=(tribool x, indeterminate_keyword_t)$/;"	f	namespace:boost::logic	signature:(tribool x, indeterminate_keyword_t)
+operator !=	/usr/include/boost/logic/tribool.hpp	/^inline tribool operator!=(tribool x, tribool y)$/;"	f	namespace:boost::logic	signature:(tribool x, tribool y)
+operator &&	/usr/include/boost/logic/tribool.hpp	/^inline tribool operator&&(bool x, tribool y)$/;"	f	namespace:boost::logic	signature:(bool x, tribool y)
+operator &&	/usr/include/boost/logic/tribool.hpp	/^inline tribool operator&&(indeterminate_keyword_t, tribool x)$/;"	f	namespace:boost::logic	signature:(indeterminate_keyword_t, tribool x)
+operator &&	/usr/include/boost/logic/tribool.hpp	/^inline tribool operator&&(tribool x, bool y)$/;"	f	namespace:boost::logic	signature:(tribool x, bool y)
+operator &&	/usr/include/boost/logic/tribool.hpp	/^inline tribool operator&&(tribool x, indeterminate_keyword_t)$/;"	f	namespace:boost::logic	signature:(tribool x, indeterminate_keyword_t)
+operator &&	/usr/include/boost/logic/tribool.hpp	/^inline tribool operator&&(tribool x, tribool y)$/;"	f	namespace:boost::logic	signature:(tribool x, tribool y)
+operator <<	/usr/include/boost/logic/tribool_io.hpp	/^operator<<(std::basic_ostream<CharT, Traits>& out, $/;"	f	namespace:boost::logic	signature:(std::basic_ostream<CharT, Traits>& out, bool (*)(tribool, detail::indeterminate_t))
+operator <<	/usr/include/boost/logic/tribool_io.hpp	/^operator<<(std::basic_ostream<CharT, Traits>& out, tribool x)$/;"	f	namespace:boost::logic	signature:(std::basic_ostream<CharT, Traits>& out, tribool x)
+operator ==	/usr/include/boost/logic/tribool.hpp	/^inline tribool operator==(bool x, tribool y) { return tribool(x) == y; }$/;"	f	namespace:boost::logic	signature:(bool x, tribool y)
+operator ==	/usr/include/boost/logic/tribool.hpp	/^inline tribool operator==(indeterminate_keyword_t, tribool x)$/;"	f	namespace:boost::logic	signature:(indeterminate_keyword_t, tribool x)
+operator ==	/usr/include/boost/logic/tribool.hpp	/^inline tribool operator==(tribool x, bool y) { return x == tribool(y); }$/;"	f	namespace:boost::logic	signature:(tribool x, bool y)
+operator ==	/usr/include/boost/logic/tribool.hpp	/^inline tribool operator==(tribool x, indeterminate_keyword_t)$/;"	f	namespace:boost::logic	signature:(tribool x, indeterminate_keyword_t)
+operator ==	/usr/include/boost/logic/tribool.hpp	/^inline tribool operator==(tribool x, tribool y)$/;"	f	namespace:boost::logic	signature:(tribool x, tribool y)
+operator >>	/usr/include/boost/logic/tribool_io.hpp	/^operator>>(std::basic_istream<CharT, Traits>& in, tribool& x)$/;"	f	namespace:boost::logic	signature:(std::basic_istream<CharT, Traits>& in, tribool& x)
+operator safe_bool	/usr/include/boost/logic/tribool.hpp	/^  operator safe_bool() const$/;"	f	class:boost::logic::tribool	access:public	signature:() const
+operator ||	/usr/include/boost/logic/tribool.hpp	/^inline tribool operator||(bool x, tribool y)$/;"	f	namespace:boost::logic	signature:(bool x, tribool y)
+operator ||	/usr/include/boost/logic/tribool.hpp	/^inline tribool operator||(indeterminate_keyword_t, tribool x)$/;"	f	namespace:boost::logic	signature:(indeterminate_keyword_t, tribool x)
+operator ||	/usr/include/boost/logic/tribool.hpp	/^inline tribool operator||(tribool x, bool y)$/;"	f	namespace:boost::logic	signature:(tribool x, bool y)
+operator ||	/usr/include/boost/logic/tribool.hpp	/^inline tribool operator||(tribool x, indeterminate_keyword_t)$/;"	f	namespace:boost::logic	signature:(tribool x, indeterminate_keyword_t)
+operator ||	/usr/include/boost/logic/tribool.hpp	/^inline tribool operator||(tribool x, tribool y)$/;"	f	namespace:boost::logic	signature:(tribool x, tribool y)
+safe_bool	/usr/include/boost/logic/tribool.hpp	/^  typedef void (dummy::*safe_bool)();$/;"	t	class:boost::logic::tribool	access:private
+string_type	/usr/include/boost/logic/tribool_io.hpp	/^  typedef std::basic_string<CharT> string_type;$/;"	t	class:boost::logic::indeterminate_name	access:public
+tribool	/usr/include/boost/logic/tribool.hpp	/^  tribool() : value(false_value) {}$/;"	f	class:boost::logic::tribool	access:public	signature:()
+tribool	/usr/include/boost/logic/tribool.hpp	/^  tribool(bool initial_value) : value(initial_value? true_value : false_value) {}$/;"	f	class:boost::logic::tribool	access:public	signature:(bool initial_value)
+tribool	/usr/include/boost/logic/tribool.hpp	/^  tribool(indeterminate_keyword_t) : value(indeterminate_value) {}$/;"	f	class:boost::logic::tribool	access:public	signature:(indeterminate_keyword_t)
+tribool	/usr/include/boost/logic/tribool.hpp	/^class tribool$/;"	c	namespace:boost::logic
+true_value	/usr/include/boost/logic/tribool.hpp	/^  enum value_t { false_value, true_value, indeterminate_value } value;$/;"	e	enum:boost::logic::tribool::value_t
+value	/usr/include/boost/logic/tribool.hpp	/^  enum value_t { false_value, true_value, indeterminate_value } value;$/;"	m	class:boost::logic::tribool	typeref:enum:boost::logic::tribool::value_t	access:public
+value_t	/usr/include/boost/logic/tribool.hpp	/^  enum value_t { false_value, true_value, indeterminate_value } value;$/;"	g	class:boost::logic::tribool	access:public

@@ -1,0 +1,36 @@
+!_TAG_FILE_FORMAT	2	/extended format; --format=1 will not append ;" to lines/
+!_TAG_FILE_SORTED	1	/0=unsorted, 1=sorted, 2=foldcase/
+!_TAG_PROGRAM_AUTHOR	Darren Hiebert	/dhiebert@users.sourceforge.net/
+!_TAG_PROGRAM_NAME	Exuberant Ctags	//
+!_TAG_PROGRAM_URL	http://ctags.sourceforge.net	/official site/
+!_TAG_PROGRAM_VERSION	5.8	//
+__CASSERT_HEADER	/usr/include/boost/compatibility/cpp_c_headers/cassert	6;"	d	file:
+__CCTYPE_HEADER	/usr/include/boost/compatibility/cpp_c_headers/cctype	6;"	d	file:
+__CERRNO_HEADER	/usr/include/boost/compatibility/cpp_c_headers/cerrno	6;"	d	file:
+__CFLOAT_HEADER	/usr/include/boost/compatibility/cpp_c_headers/cfloat	6;"	d	file:
+__CLIMITS_HEADER	/usr/include/boost/compatibility/cpp_c_headers/climits	6;"	d	file:
+__CLOCALE_HEADER	/usr/include/boost/compatibility/cpp_c_headers/clocale	6;"	d	file:
+__CMATH_HEADER	/usr/include/boost/compatibility/cpp_c_headers/cmath	6;"	d	file:
+__CSETJMP_HEADER	/usr/include/boost/compatibility/cpp_c_headers/csetjmp	6;"	d	file:
+__CSIGNAL_HEADER	/usr/include/boost/compatibility/cpp_c_headers/csignal	6;"	d	file:
+__CSTDARG_HEADER	/usr/include/boost/compatibility/cpp_c_headers/cstdarg	6;"	d	file:
+__CSTDDEF_HEADER	/usr/include/boost/compatibility/cpp_c_headers/cstddef	6;"	d	file:
+__CSTDIO_HEADER	/usr/include/boost/compatibility/cpp_c_headers/cstdio	6;"	d	file:
+__CSTDLIB_HEADER	/usr/include/boost/compatibility/cpp_c_headers/cstdlib	6;"	d	file:
+__CSTRING_HEADER	/usr/include/boost/compatibility/cpp_c_headers/cstring	6;"	d	file:
+__CTIME_HEADER	/usr/include/boost/compatibility/cpp_c_headers/ctime	6;"	d	file:
+__CWCHAR_HEADER	/usr/include/boost/compatibility/cpp_c_headers/cwchar	6;"	d	file:
+__CWCTYPE_HEADER	/usr/include/boost/compatibility/cpp_c_headers/cwctype	6;"	d	file:
+std	/usr/include/boost/compatibility/cpp_c_headers/cctype	/^namespace std {$/;"	n	file:
+std	/usr/include/boost/compatibility/cpp_c_headers/clocale	/^namespace std {$/;"	n	file:
+std	/usr/include/boost/compatibility/cpp_c_headers/cmath	/^namespace std {$/;"	n	file:
+std	/usr/include/boost/compatibility/cpp_c_headers/csetjmp	/^namespace std {$/;"	n	file:
+std	/usr/include/boost/compatibility/cpp_c_headers/csignal	/^namespace std {$/;"	n	file:
+std	/usr/include/boost/compatibility/cpp_c_headers/cstdarg	/^namespace std {$/;"	n	file:
+std	/usr/include/boost/compatibility/cpp_c_headers/cstddef	/^namespace std {$/;"	n	file:
+std	/usr/include/boost/compatibility/cpp_c_headers/cstdio	/^namespace std {$/;"	n	file:
+std	/usr/include/boost/compatibility/cpp_c_headers/cstdlib	/^namespace std {$/;"	n	file:
+std	/usr/include/boost/compatibility/cpp_c_headers/cstring	/^namespace std {$/;"	n	file:
+std	/usr/include/boost/compatibility/cpp_c_headers/ctime	/^namespace std {$/;"	n	file:
+std	/usr/include/boost/compatibility/cpp_c_headers/cwchar	/^namespace std {$/;"	n	file:
+std	/usr/include/boost/compatibility/cpp_c_headers/cwctype	/^namespace std {$/;"	n	file:

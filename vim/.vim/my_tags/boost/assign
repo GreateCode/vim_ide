@@ -1,0 +1,594 @@
+!_TAG_FILE_FORMAT	2	/extended format; --format=1 will not append ;" to lines/
+!_TAG_FILE_SORTED	1	/0=unsorted, 1=sorted, 2=foldcase/
+!_TAG_PROGRAM_AUTHOR	Darren Hiebert	/dhiebert@users.sourceforge.net/
+!_TAG_PROGRAM_NAME	Exuberant Ctags	//
+!_TAG_PROGRAM_URL	http://ctags.sourceforge.net	/official site/
+!_TAG_PROGRAM_VERSION	5.8	//
+BOOST_ASSIGN_ASSIGNMENT_EXCEPTION_HPP	/usr/include/boost/assign/assignment_exception.hpp	13;"	d
+BOOST_ASSIGN_LIST_INSERTER_HPP	/usr/include/boost/assign/list_inserter.hpp	12;"	d
+BOOST_ASSIGN_LIST_OF_HPP	/usr/include/boost/assign/list_of.hpp	13;"	d
+BOOST_ASSIGN_MAX_PARAMETERS	/usr/include/boost/assign/list_inserter.hpp	279;"	d
+BOOST_ASSIGN_MAX_PARAMETERS	/usr/include/boost/assign/list_inserter.hpp	398;"	d
+BOOST_ASSIGN_MAX_PARAMETERS	/usr/include/boost/assign/list_of.hpp	380;"	d
+BOOST_ASSIGN_MAX_PARAMETERS	/usr/include/boost/assign/list_of.hpp	679;"	d
+BOOST_ASSIGN_MAX_PARAMETERS	/usr/include/boost/assign/ptr_list_inserter.hpp	162;"	d
+BOOST_ASSIGN_MAX_PARAMETERS	/usr/include/boost/assign/ptr_list_inserter.hpp	63;"	d
+BOOST_ASSIGN_MAX_PARAMETERS	/usr/include/boost/assign/ptr_list_of.hpp	131;"	d
+BOOST_ASSIGN_MAX_PARAMETERS	/usr/include/boost/assign/ptr_list_of.hpp	189;"	d
+BOOST_ASSIGN_MAX_PARAMETERS	/usr/include/boost/assign/ptr_map_inserter.hpp	101;"	d
+BOOST_ASSIGN_MAX_PARAMETERS	/usr/include/boost/assign/ptr_map_inserter.hpp	53;"	d
+BOOST_ASSIGN_MAX_PARAMS	/usr/include/boost/assign/list_inserter.hpp	277;"	d
+BOOST_ASSIGN_MAX_PARAMS	/usr/include/boost/assign/list_of.hpp	378;"	d
+BOOST_ASSIGN_MAX_PARAMS	/usr/include/boost/assign/ptr_list_inserter.hpp	61;"	d
+BOOST_ASSIGN_MAX_PARAMS	/usr/include/boost/assign/ptr_list_of.hpp	129;"	d
+BOOST_ASSIGN_MAX_PARAMS	/usr/include/boost/assign/ptr_map_inserter.hpp	51;"	d
+BOOST_ASSIGN_PARAMS1	/usr/include/boost/assign/list_inserter.hpp	280;"	d
+BOOST_ASSIGN_PARAMS1	/usr/include/boost/assign/list_inserter.hpp	395;"	d
+BOOST_ASSIGN_PARAMS1	/usr/include/boost/assign/list_of.hpp	381;"	d
+BOOST_ASSIGN_PARAMS1	/usr/include/boost/assign/list_of.hpp	674;"	d
+BOOST_ASSIGN_PARAMS1	/usr/include/boost/assign/ptr_list_inserter.hpp	159;"	d
+BOOST_ASSIGN_PARAMS1	/usr/include/boost/assign/ptr_list_inserter.hpp	64;"	d
+BOOST_ASSIGN_PARAMS1	/usr/include/boost/assign/ptr_list_of.hpp	132;"	d
+BOOST_ASSIGN_PARAMS1	/usr/include/boost/assign/ptr_list_of.hpp	186;"	d
+BOOST_ASSIGN_PARAMS1	/usr/include/boost/assign/ptr_map_inserter.hpp	54;"	d
+BOOST_ASSIGN_PARAMS1	/usr/include/boost/assign/ptr_map_inserter.hpp	98;"	d
+BOOST_ASSIGN_PARAMS2	/usr/include/boost/assign/list_inserter.hpp	281;"	d
+BOOST_ASSIGN_PARAMS2	/usr/include/boost/assign/list_inserter.hpp	396;"	d
+BOOST_ASSIGN_PARAMS2	/usr/include/boost/assign/list_of.hpp	382;"	d
+BOOST_ASSIGN_PARAMS2	/usr/include/boost/assign/list_of.hpp	675;"	d
+BOOST_ASSIGN_PARAMS2	/usr/include/boost/assign/ptr_list_inserter.hpp	160;"	d
+BOOST_ASSIGN_PARAMS2	/usr/include/boost/assign/ptr_list_inserter.hpp	65;"	d
+BOOST_ASSIGN_PARAMS2	/usr/include/boost/assign/ptr_list_of.hpp	133;"	d
+BOOST_ASSIGN_PARAMS2	/usr/include/boost/assign/ptr_list_of.hpp	187;"	d
+BOOST_ASSIGN_PARAMS2	/usr/include/boost/assign/ptr_map_inserter.hpp	55;"	d
+BOOST_ASSIGN_PARAMS2	/usr/include/boost/assign/ptr_map_inserter.hpp	99;"	d
+BOOST_ASSIGN_PARAMS2_NO_REF	/usr/include/boost/assign/list_of.hpp	385;"	d
+BOOST_ASSIGN_PARAMS2_NO_REF	/usr/include/boost/assign/list_of.hpp	678;"	d
+BOOST_ASSIGN_PARAMS3	/usr/include/boost/assign/list_inserter.hpp	282;"	d
+BOOST_ASSIGN_PARAMS3	/usr/include/boost/assign/list_inserter.hpp	397;"	d
+BOOST_ASSIGN_PARAMS3	/usr/include/boost/assign/list_of.hpp	383;"	d
+BOOST_ASSIGN_PARAMS3	/usr/include/boost/assign/list_of.hpp	676;"	d
+BOOST_ASSIGN_PARAMS3	/usr/include/boost/assign/ptr_list_inserter.hpp	161;"	d
+BOOST_ASSIGN_PARAMS3	/usr/include/boost/assign/ptr_list_inserter.hpp	66;"	d
+BOOST_ASSIGN_PARAMS3	/usr/include/boost/assign/ptr_list_of.hpp	134;"	d
+BOOST_ASSIGN_PARAMS3	/usr/include/boost/assign/ptr_list_of.hpp	188;"	d
+BOOST_ASSIGN_PARAMS3	/usr/include/boost/assign/ptr_map_inserter.hpp	100;"	d
+BOOST_ASSIGN_PARAMS3	/usr/include/boost/assign/ptr_map_inserter.hpp	56;"	d
+BOOST_ASSIGN_PARAMS4	/usr/include/boost/assign/list_of.hpp	384;"	d
+BOOST_ASSIGN_PARAMS4	/usr/include/boost/assign/list_of.hpp	677;"	d
+BOOST_ASSIGN_PTR_CONTAINER_PTR_MAP_INSERTER_HPP	/usr/include/boost/assign/ptr_map_inserter.hpp	12;"	d
+BOOST_ASSIGN_PTR_LIST_INSERTER_HPP	/usr/include/boost/assign/ptr_list_inserter.hpp	12;"	d
+BOOST_ASSIGN_PTR_LIST_OF_HPP	/usr/include/boost/assign/ptr_list_of.hpp	13;"	d
+BOOST_ASSIGN_STD_DEQUE_HPP	/usr/include/boost/assign/std/deque.hpp	13;"	d
+BOOST_ASSIGN_STD_HPP	/usr/include/boost/assign/std.hpp	12;"	d
+BOOST_ASSIGN_STD_LIST_HPP	/usr/include/boost/assign/std/list.hpp	13;"	d
+BOOST_ASSIGN_STD_MAP_HPP	/usr/include/boost/assign/std/map.hpp	13;"	d
+BOOST_ASSIGN_STD_QUEUE_HPP	/usr/include/boost/assign/std/queue.hpp	13;"	d
+BOOST_ASSIGN_STD_SET_HPP	/usr/include/boost/assign/std/set.hpp	13;"	d
+BOOST_ASSIGN_STD_SLIST_HPP	/usr/include/boost/assign/std/slist.hpp	12;"	d
+BOOST_ASSIGN_STD_STACK_HPP	/usr/include/boost/assign/std/stack.hpp	12;"	d
+BOOST_ASSIGN_STD_VECTOR_HPP	/usr/include/boost/assign/std/vector.hpp	12;"	d
+BOOST_PP_LOCAL_LIMITS	/usr/include/boost/assign/list_inserter.hpp	284;"	d
+BOOST_PP_LOCAL_LIMITS	/usr/include/boost/assign/list_inserter.hpp	297;"	d
+BOOST_PP_LOCAL_LIMITS	/usr/include/boost/assign/list_inserter.hpp	308;"	d
+BOOST_PP_LOCAL_LIMITS	/usr/include/boost/assign/list_of.hpp	387;"	d
+BOOST_PP_LOCAL_LIMITS	/usr/include/boost/assign/list_of.hpp	620;"	d
+BOOST_PP_LOCAL_LIMITS	/usr/include/boost/assign/list_of.hpp	632;"	d
+BOOST_PP_LOCAL_LIMITS	/usr/include/boost/assign/ptr_list_inserter.hpp	68;"	d
+BOOST_PP_LOCAL_LIMITS	/usr/include/boost/assign/ptr_list_of.hpp	136;"	d
+BOOST_PP_LOCAL_LIMITS	/usr/include/boost/assign/ptr_list_of.hpp	169;"	d
+BOOST_PP_LOCAL_LIMITS	/usr/include/boost/assign/ptr_map_inserter.hpp	58;"	d
+BOOST_PP_LOCAL_MACRO	/usr/include/boost/assign/list_inserter.hpp	285;"	d
+BOOST_PP_LOCAL_MACRO	/usr/include/boost/assign/list_inserter.hpp	298;"	d
+BOOST_PP_LOCAL_MACRO	/usr/include/boost/assign/list_inserter.hpp	309;"	d
+BOOST_PP_LOCAL_MACRO	/usr/include/boost/assign/list_of.hpp	388;"	d
+BOOST_PP_LOCAL_MACRO	/usr/include/boost/assign/list_of.hpp	621;"	d
+BOOST_PP_LOCAL_MACRO	/usr/include/boost/assign/list_of.hpp	633;"	d
+BOOST_PP_LOCAL_MACRO	/usr/include/boost/assign/ptr_list_inserter.hpp	69;"	d
+BOOST_PP_LOCAL_MACRO	/usr/include/boost/assign/ptr_list_of.hpp	137;"	d
+BOOST_PP_LOCAL_MACRO	/usr/include/boost/assign/ptr_list_of.hpp	170;"	d
+BOOST_PP_LOCAL_MACRO	/usr/include/boost/assign/ptr_map_inserter.hpp	59;"	d
+Ty	/usr/include/boost/assign/list_of.hpp	/^        typedef BOOST_DEDUCED_TYPENAME assign_decay<T>::type Ty;$/;"	t	class:boost::assign_detail::generic_list	access:private
+adapter_converter	/usr/include/boost/assign/list_of.hpp	/^            adapter_converter( const adapter_converter& r ) $/;"	f	struct:boost::assign_detail::converter::adapter_converter	access:public	signature:( const adapter_converter& r )
+adapter_converter	/usr/include/boost/assign/list_of.hpp	/^            adapter_converter( const converter& this_ ) : gl( this_ )$/;"	f	struct:boost::assign_detail::converter::adapter_converter	access:public	signature:( const converter& this_ )
+adapter_converter	/usr/include/boost/assign/list_of.hpp	/^        struct adapter_converter$/;"	s	class:boost::assign_detail::converter	access:private
+adapter_type_tag	/usr/include/boost/assign/list_of.hpp	/^    struct adapter_type_tag$/;"	s	namespace:boost::assign_detail
+add_edge	/usr/include/boost/assign/list_inserter.hpp	/^    add_edge( C& c )   $/;"	f	namespace:boost::assign	signature:( C& c )
+arg_type	/usr/include/boost/assign/list_inserter.hpp	/^                                                  single_arg_type >::type arg_type;  $/;"	t	class:boost::assign::list_inserter	access:private
+array_type_tag	/usr/include/boost/assign/list_of.hpp	/^    struct array_type_tag$/;"	s	namespace:boost::assign_detail
+assign	/usr/include/boost/assign/assignment_exception.hpp	/^    namespace assign$/;"	n	namespace:boost
+assign	/usr/include/boost/assign/list_inserter.hpp	/^namespace assign$/;"	n	namespace:boost
+assign	/usr/include/boost/assign/list_of.hpp	/^namespace assign$/;"	n	namespace:boost
+assign	/usr/include/boost/assign/ptr_list_inserter.hpp	/^namespace assign$/;"	n	namespace:boost
+assign	/usr/include/boost/assign/ptr_list_of.hpp	/^namespace assign$/;"	n	namespace:boost
+assign	/usr/include/boost/assign/ptr_map_inserter.hpp	/^namespace assign$/;"	n	namespace:boost
+assign	/usr/include/boost/assign/std/deque.hpp	/^namespace assign$/;"	n	namespace:boost
+assign	/usr/include/boost/assign/std/list.hpp	/^namespace assign$/;"	n	namespace:boost
+assign	/usr/include/boost/assign/std/map.hpp	/^namespace assign$/;"	n	namespace:boost
+assign	/usr/include/boost/assign/std/queue.hpp	/^namespace assign$/;"	n	namespace:boost
+assign	/usr/include/boost/assign/std/set.hpp	/^namespace assign$/;"	n	namespace:boost
+assign	/usr/include/boost/assign/std/slist.hpp	/^namespace assign$/;"	n	namespace:boost
+assign	/usr/include/boost/assign/std/stack.hpp	/^namespace assign$/;"	n	namespace:boost
+assign	/usr/include/boost/assign/std/vector.hpp	/^namespace assign$/;"	n	namespace:boost
+assign_decay	/usr/include/boost/assign/list_of.hpp	/^    struct assign_decay$/;"	s	namespace:boost::assign_detail
+assign_detail	/usr/include/boost/assign/list_inserter.hpp	/^namespace assign_detail$/;"	n	namespace:boost
+assign_detail	/usr/include/boost/assign/list_of.hpp	/^namespace assign_detail$/;"	n	namespace:boost
+assign_detail	/usr/include/boost/assign/ptr_list_of.hpp	/^namespace assign_detail$/;"	n	namespace:boost
+assign_is_array	/usr/include/boost/assign/list_of.hpp	/^    type_traits::no_type assign_is_array( ... );$/;"	p	namespace:boost::assign_detail	signature:( .... )
+assign_is_array	/usr/include/boost/assign/list_of.hpp	/^    type_traits::yes_type assign_is_array( const array<T,sz>* );$/;"	p	namespace:boost::assign_detail	signature:( const array<T,sz>* )
+assign_is_pair	/usr/include/boost/assign/list_of.hpp	/^    type_traits::no_type assign_is_pair( ... ); $/;"	p	namespace:boost::assign_detail	signature:( .... )
+assign_is_pair	/usr/include/boost/assign/list_of.hpp	/^    type_traits::yes_type assign_is_pair( const std::pair<T,U>* );$/;"	p	namespace:boost::assign_detail	signature:( const std::pair<T,U>* )
+assign_reference	/usr/include/boost/assign/list_of.hpp	/^        assign_reference( T& r ) : ref_(&r)$/;"	f	struct:boost::assign_detail::assign_reference	access:public	signature:( T& r )
+assign_reference	/usr/include/boost/assign/list_of.hpp	/^        assign_reference()$/;"	f	struct:boost::assign_detail::assign_reference	access:public	signature:()
+assign_reference	/usr/include/boost/assign/list_of.hpp	/^    struct assign_reference$/;"	s	namespace:boost::assign_detail
+assignment_exception	/usr/include/boost/assign/assignment_exception.hpp	/^            assignment_exception( const char* _what ) $/;"	f	class:boost::assign::assignment_exception	access:public	signature:( const char* _what )
+assignment_exception	/usr/include/boost/assign/assignment_exception.hpp	/^        class assignment_exception : public std::exception$/;"	c	namespace:boost::assign	inherits:std::exception
+begin	/usr/include/boost/assign/list_of.hpp	/^        iterator begin() const       { return values_.begin(); }$/;"	f	class:boost::assign_detail::generic_list	access:public	signature:() const
+begin	/usr/include/boost/assign/list_of.hpp	/^        iterator begin() const $/;"	f	class:boost::assign_detail::converter	access:public	signature:() const
+begin	/usr/include/boost/assign/list_of.hpp	/^        iterator begin() const $/;"	f	struct:boost::assign_detail::static_generic_list	access:public	signature:() const
+begin	/usr/include/boost/assign/ptr_list_of.hpp	/^        iterator begin() const       { return values_.begin(); }$/;"	f	class:boost::assign_detail::generic_ptr_list	access:public	signature:() const
+boost	/usr/include/boost/assign/assignment_exception.hpp	/^namespace boost$/;"	n
+boost	/usr/include/boost/assign/list_inserter.hpp	/^namespace boost$/;"	n
+boost	/usr/include/boost/assign/list_of.hpp	/^namespace boost$/;"	n
+boost	/usr/include/boost/assign/ptr_list_inserter.hpp	/^namespace boost$/;"	n
+boost	/usr/include/boost/assign/ptr_list_of.hpp	/^namespace boost$/;"	n
+boost	/usr/include/boost/assign/ptr_map_inserter.hpp	/^namespace boost$/;"	n
+boost	/usr/include/boost/assign/std/deque.hpp	/^namespace boost$/;"	n
+boost	/usr/include/boost/assign/std/list.hpp	/^namespace boost$/;"	n
+boost	/usr/include/boost/assign/std/map.hpp	/^namespace boost$/;"	n
+boost	/usr/include/boost/assign/std/queue.hpp	/^namespace boost$/;"	n
+boost	/usr/include/boost/assign/std/set.hpp	/^namespace boost$/;"	n
+boost	/usr/include/boost/assign/std/slist.hpp	/^namespace boost$/;"	n
+boost	/usr/include/boost/assign/std/stack.hpp	/^namespace boost$/;"	n
+boost	/usr/include/boost/assign/std/vector.hpp	/^namespace boost$/;"	n
+boost::assign	/usr/include/boost/assign/assignment_exception.hpp	/^    namespace assign$/;"	n	namespace:boost
+boost::assign	/usr/include/boost/assign/list_inserter.hpp	/^namespace assign$/;"	n	namespace:boost
+boost::assign	/usr/include/boost/assign/list_of.hpp	/^namespace assign$/;"	n	namespace:boost
+boost::assign	/usr/include/boost/assign/ptr_list_inserter.hpp	/^namespace assign$/;"	n	namespace:boost
+boost::assign	/usr/include/boost/assign/ptr_list_of.hpp	/^namespace assign$/;"	n	namespace:boost
+boost::assign	/usr/include/boost/assign/ptr_map_inserter.hpp	/^namespace assign$/;"	n	namespace:boost
+boost::assign	/usr/include/boost/assign/std/deque.hpp	/^namespace assign$/;"	n	namespace:boost
+boost::assign	/usr/include/boost/assign/std/list.hpp	/^namespace assign$/;"	n	namespace:boost
+boost::assign	/usr/include/boost/assign/std/map.hpp	/^namespace assign$/;"	n	namespace:boost
+boost::assign	/usr/include/boost/assign/std/queue.hpp	/^namespace assign$/;"	n	namespace:boost
+boost::assign	/usr/include/boost/assign/std/set.hpp	/^namespace assign$/;"	n	namespace:boost
+boost::assign	/usr/include/boost/assign/std/slist.hpp	/^namespace assign$/;"	n	namespace:boost
+boost::assign	/usr/include/boost/assign/std/stack.hpp	/^namespace assign$/;"	n	namespace:boost
+boost::assign	/usr/include/boost/assign/std/vector.hpp	/^namespace assign$/;"	n	namespace:boost
+boost::assign::add_edge	/usr/include/boost/assign/list_inserter.hpp	/^    add_edge( C& c )   $/;"	f	namespace:boost::assign	signature:( C& c )
+boost::assign::assignment_exception	/usr/include/boost/assign/assignment_exception.hpp	/^        class assignment_exception : public std::exception$/;"	c	namespace:boost::assign	inherits:std::exception
+boost::assign::assignment_exception::assignment_exception	/usr/include/boost/assign/assignment_exception.hpp	/^            assignment_exception( const char* _what ) $/;"	f	class:boost::assign::assignment_exception	access:public	signature:( const char* _what )
+boost::assign::assignment_exception::what	/usr/include/boost/assign/assignment_exception.hpp	/^            virtual const char* what() const throw()$/;"	f	class:boost::assign::assignment_exception	access:public	signature:() const
+boost::assign::assignment_exception::what_	/usr/include/boost/assign/assignment_exception.hpp	/^                const char* what_;$/;"	m	class:boost::assign::assignment_exception	access:private
+boost::assign::cref_list_of	/usr/include/boost/assign/list_of.hpp	/^    cref_list_of( const T& t )$/;"	f	namespace:boost::assign	signature:( const T& t )
+boost::assign::insert	/usr/include/boost/assign/list_inserter.hpp	/^    insert( C& c )$/;"	f	namespace:boost::assign	signature:( C& c )
+boost::assign::list_inserter	/usr/include/boost/assign/list_inserter.hpp	/^    class list_inserter$/;"	c	namespace:boost::assign
+boost::assign::list_inserter::arg_type	/usr/include/boost/assign/list_inserter.hpp	/^                                                  single_arg_type >::type arg_type;  $/;"	t	class:boost::assign::list_inserter	access:private
+boost::assign::list_inserter::fun_private	/usr/include/boost/assign/list_inserter.hpp	/^        Function fun_private() const$/;"	f	class:boost::assign::list_inserter	access:public	signature:() const
+boost::assign::list_inserter::insert_	/usr/include/boost/assign/list_inserter.hpp	/^        Function insert_;$/;"	m	class:boost::assign::list_inserter	access:private
+boost::assign::list_inserter::list_inserter	/usr/include/boost/assign/list_inserter.hpp	/^        list_inserter( Function fun ) : insert_( fun )$/;"	f	class:boost::assign::list_inserter	access:public	signature:( Function fun )
+boost::assign::list_inserter::list_inserter	/usr/include/boost/assign/list_inserter.hpp	/^        list_inserter( const list_inserter& r ) : insert_( r.insert_ )$/;"	f	class:boost::assign::list_inserter	access:public	signature:( const list_inserter& r )
+boost::assign::list_inserter::list_inserter	/usr/include/boost/assign/list_inserter.hpp	/^        list_inserter( const list_inserter<Function2,Arg>& r ) $/;"	f	class:boost::assign::list_inserter	access:public	signature:( const list_inserter<Function2,Arg>& r )
+boost::assign::list_inserter::n_arg_type	/usr/include/boost/assign/list_inserter.hpp	/^        struct n_arg_type      {};$/;"	s	class:boost::assign::list_inserter	access:private
+boost::assign::list_inserter::operator ()	/usr/include/boost/assign/list_inserter.hpp	/^        list_inserter& operator()( const T& t )$/;"	f	class:boost::assign::list_inserter	access:public	signature:( const T& t )
+boost::assign::list_inserter::operator ()	/usr/include/boost/assign/list_inserter.hpp	/^        list_inserter& operator()()$/;"	f	class:boost::assign::list_inserter	access:public	signature:()
+boost::assign::list_inserter::operator ,	/usr/include/boost/assign/list_inserter.hpp	/^        list_inserter& operator,( assign_detail::repeater<T> r )$/;"	f	class:boost::assign::list_inserter	access:public	signature:( assign_detail::repeater<T> r )
+boost::assign::list_inserter::operator ,	/usr/include/boost/assign/list_inserter.hpp	/^        list_inserter& operator,( const T& r )$/;"	f	class:boost::assign::list_inserter	access:public	signature:( const T& r )
+boost::assign::list_inserter::operator ,	/usr/include/boost/assign/list_inserter.hpp	/^        list_inserter& operator,( const assign_detail::fun_repeater<Nullary_function>& r )$/;"	f	class:boost::assign::list_inserter	access:public	signature:( const assign_detail::fun_repeater<Nullary_function>& r )
+boost::assign::list_inserter::operator ,	/usr/include/boost/assign/list_inserter.hpp	/^        list_inserter& operator,( const assign_detail::repeater<T> & r )$/;"	f	class:boost::assign::list_inserter	access:public	signature:( const assign_detail::repeater<T> & r )
+boost::assign::list_inserter::operator =	/usr/include/boost/assign/list_inserter.hpp	/^        list_inserter& operator=( assign_detail::repeater<T> r )$/;"	f	class:boost::assign::list_inserter	access:public	signature:( assign_detail::repeater<T> r )
+boost::assign::list_inserter::operator =	/usr/include/boost/assign/list_inserter.hpp	/^        list_inserter& operator=( const T& r )$/;"	f	class:boost::assign::list_inserter	access:public	signature:( const T& r )
+boost::assign::list_inserter::operator =	/usr/include/boost/assign/list_inserter.hpp	/^        list_inserter& operator=( const assign_detail::fun_repeater<Nullary_function>& r )$/;"	f	class:boost::assign::list_inserter	access:public	signature:( const assign_detail::fun_repeater<Nullary_function>& r )
+boost::assign::list_inserter::operator =	/usr/include/boost/assign/list_inserter.hpp	/^        list_inserter& operator=( const list_inserter& );$/;"	p	class:boost::assign::list_inserter	access:private	signature:( const list_inserter& )
+boost::assign::list_inserter::range	/usr/include/boost/assign/list_inserter.hpp	/^        list_inserter& range( SinglePassIterator first, $/;"	f	class:boost::assign::list_inserter	access:public	signature:( SinglePassIterator first, SinglePassIterator last )
+boost::assign::list_inserter::range	/usr/include/boost/assign/list_inserter.hpp	/^        list_inserter& range( const SinglePassRange& r )$/;"	f	class:boost::assign::list_inserter	access:public	signature:( const SinglePassRange& r )
+boost::assign::list_inserter::repeat	/usr/include/boost/assign/list_inserter.hpp	/^        list_inserter& repeat( std::size_t sz, T r )$/;"	f	class:boost::assign::list_inserter	access:public	signature:( std::size_t sz, T r )
+boost::assign::list_inserter::repeat_fun	/usr/include/boost/assign/list_inserter.hpp	/^        list_inserter& repeat_fun( std::size_t sz, Nullary_function fun )$/;"	f	class:boost::assign::list_inserter	access:public	signature:( std::size_t sz, Nullary_function fun )
+boost::assign::list_inserter::single_arg_type	/usr/include/boost/assign/list_inserter.hpp	/^        struct single_arg_type {};$/;"	s	class:boost::assign::list_inserter	access:private
+boost::assign::list_of	/usr/include/boost/assign/list_of.hpp	/^    list_of( const T& t )$/;"	f	namespace:boost::assign	signature:( const T& t )
+boost::assign::list_of	/usr/include/boost/assign/list_of.hpp	/^    list_of()$/;"	f	namespace:boost::assign	signature:()
+boost::assign::make_list_inserter	/usr/include/boost/assign/list_inserter.hpp	/^    make_list_inserter( Function fun )$/;"	f	namespace:boost::assign	signature:( Function fun )
+boost::assign::make_list_inserter	/usr/include/boost/assign/list_inserter.hpp	/^    make_list_inserter( Function fun, Argument* )$/;"	f	namespace:boost::assign	signature:( Function fun, Argument* )
+boost::assign::make_ptr_list_inserter	/usr/include/boost/assign/ptr_list_inserter.hpp	/^    make_ptr_list_inserter( Function fun )$/;"	f	namespace:boost::assign	signature:( Function fun )
+boost::assign::map_list_of	/usr/include/boost/assign/list_of.hpp	/^    map_list_of( const Key& k, const T& t )$/;"	f	namespace:boost::assign	signature:( const Key& k, const T& t )
+boost::assign::operator +=	/usr/include/boost/assign/std/deque.hpp	/^    operator+=( std::deque<V,A>& c, V2 v )$/;"	f	namespace:boost::assign	signature:( std::deque<V,A>& c, V2 v )
+boost::assign::operator +=	/usr/include/boost/assign/std/list.hpp	/^    operator+=( std::list<V,A>& c, V2 v )$/;"	f	namespace:boost::assign	signature:( std::list<V,A>& c, V2 v )
+boost::assign::operator +=	/usr/include/boost/assign/std/map.hpp	/^    operator+=( std::map<K,V,C,A>& m, const P& p )$/;"	f	namespace:boost::assign	signature:( std::map<K,V,C,A>& m, const P& p )
+boost::assign::operator +=	/usr/include/boost/assign/std/map.hpp	/^    operator+=( std::multimap<K,V,C,A>& m, const P& p )$/;"	f	namespace:boost::assign	signature:( std::multimap<K,V,C,A>& m, const P& p )
+boost::assign::operator +=	/usr/include/boost/assign/std/queue.hpp	/^    operator+=( std::priority_queue<V,C>& c, V2 v )$/;"	f	namespace:boost::assign	signature:( std::priority_queue<V,C>& c, V2 v )
+boost::assign::operator +=	/usr/include/boost/assign/std/queue.hpp	/^    operator+=( std::queue<V,C>& c, V2 v )$/;"	f	namespace:boost::assign	signature:( std::queue<V,C>& c, V2 v )
+boost::assign::operator +=	/usr/include/boost/assign/std/set.hpp	/^    operator+=( std::multiset<K,C,A>& c, K2 k )$/;"	f	namespace:boost::assign	signature:( std::multiset<K,C,A>& c, K2 k )
+boost::assign::operator +=	/usr/include/boost/assign/std/set.hpp	/^    operator+=( std::set<K,C,A>& c, K2 k )$/;"	f	namespace:boost::assign	signature:( std::set<K,C,A>& c, K2 k )
+boost::assign::operator +=	/usr/include/boost/assign/std/slist.hpp	/^    operator+=( BOOST_STD_EXTENSION_NAMESPACE::slist<V,A>& c, V2 v )$/;"	f	namespace:boost::assign	signature:( BOOST_STD_EXTENSION_NAMESPACE::slist<V,A>& c, V2 v )
+boost::assign::operator +=	/usr/include/boost/assign/std/stack.hpp	/^    operator+=( std::stack<V,C>& c, V2 v )$/;"	f	namespace:boost::assign	signature:( std::stack<V,C>& c, V2 v )
+boost::assign::operator +=	/usr/include/boost/assign/std/vector.hpp	/^    operator+=( std::vector<V,A>& c, V2 v )$/;"	f	namespace:boost::assign	signature:( std::vector<V,A>& c, V2 v )
+boost::assign::pair_list_of	/usr/include/boost/assign/list_of.hpp	/^    pair_list_of( const F& f, const S& s )$/;"	f	namespace:boost::assign	signature:( const F& f, const S& s )
+boost::assign::ptr_insert	/usr/include/boost/assign/ptr_list_inserter.hpp	/^    ptr_insert( C& c )$/;"	f	namespace:boost::assign	signature:( C& c )
+boost::assign::ptr_list_inserter	/usr/include/boost/assign/ptr_list_inserter.hpp	/^    class ptr_list_inserter$/;"	c	namespace:boost::assign
+boost::assign::ptr_list_inserter::insert_	/usr/include/boost/assign/ptr_list_inserter.hpp	/^        Function insert_;$/;"	m	class:boost::assign::ptr_list_inserter	access:private
+boost::assign::ptr_list_inserter::obj_type	/usr/include/boost/assign/ptr_list_inserter.hpp	/^           obj_type;$/;"	t	class:boost::assign::ptr_list_inserter	access:private
+boost::assign::ptr_list_inserter::operator ()	/usr/include/boost/assign/ptr_list_inserter.hpp	/^        ptr_list_inserter& operator()( const T& t )$/;"	f	class:boost::assign::ptr_list_inserter	access:public	signature:( const T& t )
+boost::assign::ptr_list_inserter::operator ()	/usr/include/boost/assign/ptr_list_inserter.hpp	/^        ptr_list_inserter& operator()()$/;"	f	class:boost::assign::ptr_list_inserter	access:public	signature:()
+boost::assign::ptr_list_inserter::operator =	/usr/include/boost/assign/ptr_list_inserter.hpp	/^        ptr_list_inserter& operator=( const ptr_list_inserter& );$/;"	p	class:boost::assign::ptr_list_inserter	access:private	signature:( const ptr_list_inserter& )
+boost::assign::ptr_list_inserter::ptr_list_inserter	/usr/include/boost/assign/ptr_list_inserter.hpp	/^        ptr_list_inserter( Function fun ) : insert_( fun )$/;"	f	class:boost::assign::ptr_list_inserter	access:public	signature:( Function fun )
+boost::assign::ptr_list_inserter::ptr_list_inserter	/usr/include/boost/assign/ptr_list_inserter.hpp	/^        ptr_list_inserter( const ptr_list_inserter& r ) : insert_( r.insert_ )$/;"	f	class:boost::assign::ptr_list_inserter	access:public	signature:( const ptr_list_inserter& r )
+boost::assign::ptr_list_inserter::ptr_list_inserter	/usr/include/boost/assign/ptr_list_inserter.hpp	/^        ptr_list_inserter( const ptr_list_inserter<Function2,Obj2>& r ) $/;"	f	class:boost::assign::ptr_list_inserter	access:public	signature:( const ptr_list_inserter<Function2,Obj2>& r )
+boost::assign::ptr_list_of	/usr/include/boost/assign/ptr_list_of.hpp	/^    ptr_list_of( const U& t )$/;"	f	namespace:boost::assign	signature:( const U& t )
+boost::assign::ptr_list_of	/usr/include/boost/assign/ptr_list_of.hpp	/^    ptr_list_of()$/;"	f	namespace:boost::assign	signature:()
+boost::assign::ptr_map_insert	/usr/include/boost/assign/ptr_map_inserter.hpp	/^    ptr_map_insert( PtrMap& m )$/;"	f	namespace:boost::assign	signature:( PtrMap& m )
+boost::assign::ptr_map_inserter	/usr/include/boost/assign/ptr_map_inserter.hpp	/^    class ptr_map_inserter$/;"	c	namespace:boost::assign
+boost::assign::ptr_map_inserter::key_type	/usr/include/boost/assign/ptr_map_inserter.hpp	/^           key_type;$/;"	t	class:boost::assign::ptr_map_inserter	access:private
+boost::assign::ptr_map_inserter::m_	/usr/include/boost/assign/ptr_map_inserter.hpp	/^        PtrMap& m_;$/;"	m	class:boost::assign::ptr_map_inserter	access:private
+boost::assign::ptr_map_inserter::obj_type	/usr/include/boost/assign/ptr_map_inserter.hpp	/^           obj_type;$/;"	t	class:boost::assign::ptr_map_inserter	access:private
+boost::assign::ptr_map_inserter::operator ()	/usr/include/boost/assign/ptr_map_inserter.hpp	/^        ptr_map_inserter& operator()( const Key& t )$/;"	f	class:boost::assign::ptr_map_inserter	access:public	signature:( const Key& t )
+boost::assign::ptr_map_inserter::operator =	/usr/include/boost/assign/ptr_map_inserter.hpp	/^        ptr_map_inserter& operator=( const ptr_map_inserter& );$/;"	p	class:boost::assign::ptr_map_inserter	access:private	signature:( const ptr_map_inserter& )
+boost::assign::ptr_map_inserter::ptr_map_inserter	/usr/include/boost/assign/ptr_map_inserter.hpp	/^        ptr_map_inserter( PtrMap& m ) : m_( m )$/;"	f	class:boost::assign::ptr_map_inserter	access:public	signature:( PtrMap& m )
+boost::assign::ptr_push_back	/usr/include/boost/assign/ptr_list_inserter.hpp	/^    ptr_push_back( C& c )$/;"	f	namespace:boost::assign	signature:( C& c )
+boost::assign::ptr_push_front	/usr/include/boost/assign/ptr_list_inserter.hpp	/^    ptr_push_front( C& c )$/;"	f	namespace:boost::assign	signature:( C& c )
+boost::assign::push	/usr/include/boost/assign/list_inserter.hpp	/^    push( C& c )$/;"	f	namespace:boost::assign	signature:( C& c )
+boost::assign::push_back	/usr/include/boost/assign/list_inserter.hpp	/^    push_back( C& c )$/;"	f	namespace:boost::assign	signature:( C& c )
+boost::assign::push_front	/usr/include/boost/assign/list_inserter.hpp	/^    push_front( C& c )$/;"	f	namespace:boost::assign	signature:( C& c )
+boost::assign::ref_list_of	/usr/include/boost/assign/list_of.hpp	/^    ref_list_of( T& t )$/;"	f	namespace:boost::assign	signature:( T& t )
+boost::assign::repeat	/usr/include/boost/assign/list_inserter.hpp	/^    repeat( std::size_t sz, T r )$/;"	f	namespace:boost::assign	signature:( std::size_t sz, T r )
+boost::assign::repeat_fun	/usr/include/boost/assign/list_inserter.hpp	/^    repeat_fun( std::size_t sz, Function r )$/;"	f	namespace:boost::assign	signature:( std::size_t sz, Function r )
+boost::assign_detail	/usr/include/boost/assign/list_inserter.hpp	/^namespace assign_detail$/;"	n	namespace:boost
+boost::assign_detail	/usr/include/boost/assign/list_of.hpp	/^namespace assign_detail$/;"	n	namespace:boost
+boost::assign_detail	/usr/include/boost/assign/ptr_list_of.hpp	/^namespace assign_detail$/;"	n	namespace:boost
+boost::assign_detail::adapter_type_tag	/usr/include/boost/assign/list_of.hpp	/^    struct adapter_type_tag$/;"	s	namespace:boost::assign_detail
+boost::assign_detail::adapter_type_tag::dummy_	/usr/include/boost/assign/list_of.hpp	/^      char dummy_;  \/\/ BCB would by default use 8 bytes$/;"	m	struct:boost::assign_detail::adapter_type_tag	access:private
+boost::assign_detail::array_type_tag	/usr/include/boost/assign/list_of.hpp	/^    struct array_type_tag$/;"	s	namespace:boost::assign_detail
+boost::assign_detail::array_type_tag::dummy_	/usr/include/boost/assign/list_of.hpp	/^      char dummy_;  \/\/ BCB would by default use 8 bytes$/;"	m	struct:boost::assign_detail::array_type_tag	access:private
+boost::assign_detail::assign_decay	/usr/include/boost/assign/list_of.hpp	/^    struct assign_decay$/;"	s	namespace:boost::assign_detail
+boost::assign_detail::assign_decay::type	/usr/include/boost/assign/list_of.hpp	/^            ::boost::decay<T> >::type type;$/;"	t	struct:boost::assign_detail::assign_decay	access:public
+boost::assign_detail::assign_is_array	/usr/include/boost/assign/list_of.hpp	/^    type_traits::no_type assign_is_array( ... );$/;"	p	namespace:boost::assign_detail	signature:( .... )
+boost::assign_detail::assign_is_array	/usr/include/boost/assign/list_of.hpp	/^    type_traits::yes_type assign_is_array( const array<T,sz>* );$/;"	p	namespace:boost::assign_detail	signature:( const array<T,sz>* )
+boost::assign_detail::assign_is_pair	/usr/include/boost/assign/list_of.hpp	/^    type_traits::no_type assign_is_pair( ... ); $/;"	p	namespace:boost::assign_detail	signature:( .... )
+boost::assign_detail::assign_is_pair	/usr/include/boost/assign/list_of.hpp	/^    type_traits::yes_type assign_is_pair( const std::pair<T,U>* );$/;"	p	namespace:boost::assign_detail	signature:( const std::pair<T,U>* )
+boost::assign_detail::assign_reference	/usr/include/boost/assign/list_of.hpp	/^    struct assign_reference$/;"	s	namespace:boost::assign_detail
+boost::assign_detail::assign_reference::assign_reference	/usr/include/boost/assign/list_of.hpp	/^        assign_reference( T& r ) : ref_(&r)$/;"	f	struct:boost::assign_detail::assign_reference	access:public	signature:( T& r )
+boost::assign_detail::assign_reference::assign_reference	/usr/include/boost/assign/list_of.hpp	/^        assign_reference()$/;"	f	struct:boost::assign_detail::assign_reference	access:public	signature:()
+boost::assign_detail::assign_reference::get_ref	/usr/include/boost/assign/list_of.hpp	/^        T& get_ref() const$/;"	f	struct:boost::assign_detail::assign_reference	access:public	signature:() const
+boost::assign_detail::assign_reference::operator =	/usr/include/boost/assign/list_of.hpp	/^        void operator=( T& r )$/;"	f	struct:boost::assign_detail::assign_reference	access:public	signature:( T& r )
+boost::assign_detail::assign_reference::operator T&	/usr/include/boost/assign/list_of.hpp	/^        operator T&() const$/;"	f	struct:boost::assign_detail::assign_reference	access:public	signature:() const
+boost::assign_detail::assign_reference::ref_	/usr/include/boost/assign/list_of.hpp	/^        T* ref_;$/;"	m	struct:boost::assign_detail::assign_reference	access:private
+boost::assign_detail::assign_reference::swap	/usr/include/boost/assign/list_of.hpp	/^        void swap( assign_reference& r )$/;"	f	struct:boost::assign_detail::assign_reference	access:public	signature:( assign_reference& r )
+boost::assign_detail::call_add_edge	/usr/include/boost/assign/list_inserter.hpp	/^    class call_add_edge$/;"	c	namespace:boost::assign_detail
+boost::assign_detail::call_add_edge::c_	/usr/include/boost/assign/list_inserter.hpp	/^        C& c_;$/;"	m	class:boost::assign_detail::call_add_edge	access:private
+boost::assign_detail::call_add_edge::call_add_edge	/usr/include/boost/assign/list_inserter.hpp	/^        call_add_edge( C& c ) : c_(c)$/;"	f	class:boost::assign_detail::call_add_edge	access:public	signature:( C& c )
+boost::assign_detail::call_add_edge::operator ()	/usr/include/boost/assign/list_inserter.hpp	/^        void operator()( T l, T r )$/;"	f	class:boost::assign_detail::call_add_edge	access:public	signature:( T l, T r )
+boost::assign_detail::call_add_edge::operator ()	/usr/include/boost/assign/list_inserter.hpp	/^        void operator()( T l, T r, const EP& ep )$/;"	f	class:boost::assign_detail::call_add_edge	access:public	signature:( T l, T r, const EP& ep )
+boost::assign_detail::call_insert	/usr/include/boost/assign/list_inserter.hpp	/^    class call_insert$/;"	c	namespace:boost::assign_detail
+boost::assign_detail::call_insert::c_	/usr/include/boost/assign/list_inserter.hpp	/^        C& c_;$/;"	m	class:boost::assign_detail::call_insert	access:private
+boost::assign_detail::call_insert::call_insert	/usr/include/boost/assign/list_inserter.hpp	/^        call_insert( C& c ) : c_( c )$/;"	f	class:boost::assign_detail::call_insert	access:public	signature:( C& c )
+boost::assign_detail::call_insert::operator ()	/usr/include/boost/assign/list_inserter.hpp	/^        void operator()( T r ) $/;"	f	class:boost::assign_detail::call_insert	access:public	signature:( T r )
+boost::assign_detail::call_push	/usr/include/boost/assign/list_inserter.hpp	/^    class call_push$/;"	c	namespace:boost::assign_detail
+boost::assign_detail::call_push::c_	/usr/include/boost/assign/list_inserter.hpp	/^        C& c_;$/;"	m	class:boost::assign_detail::call_push	access:private
+boost::assign_detail::call_push::call_push	/usr/include/boost/assign/list_inserter.hpp	/^        call_push( C& c ) : c_( c )$/;"	f	class:boost::assign_detail::call_push	access:public	signature:( C& c )
+boost::assign_detail::call_push::operator ()	/usr/include/boost/assign/list_inserter.hpp	/^        void operator()( T r ) $/;"	f	class:boost::assign_detail::call_push	access:public	signature:( T r )
+boost::assign_detail::call_push_back	/usr/include/boost/assign/list_inserter.hpp	/^    class call_push_back$/;"	c	namespace:boost::assign_detail
+boost::assign_detail::call_push_back::c_	/usr/include/boost/assign/list_inserter.hpp	/^        C& c_;$/;"	m	class:boost::assign_detail::call_push_back	access:private
+boost::assign_detail::call_push_back::call_push_back	/usr/include/boost/assign/list_inserter.hpp	/^        call_push_back( C& c ) : c_( c )$/;"	f	class:boost::assign_detail::call_push_back	access:public	signature:( C& c )
+boost::assign_detail::call_push_back::operator ()	/usr/include/boost/assign/list_inserter.hpp	/^        void operator()( T r ) $/;"	f	class:boost::assign_detail::call_push_back	access:public	signature:( T r )
+boost::assign_detail::call_push_front	/usr/include/boost/assign/list_inserter.hpp	/^    class call_push_front$/;"	c	namespace:boost::assign_detail
+boost::assign_detail::call_push_front::c_	/usr/include/boost/assign/list_inserter.hpp	/^        C& c_;$/;"	m	class:boost::assign_detail::call_push_front	access:private
+boost::assign_detail::call_push_front::call_push_front	/usr/include/boost/assign/list_inserter.hpp	/^        call_push_front( C& c ) : c_( c )$/;"	f	class:boost::assign_detail::call_push_front	access:public	signature:( C& c )
+boost::assign_detail::call_push_front::operator ()	/usr/include/boost/assign/list_inserter.hpp	/^        void operator()( T r ) $/;"	f	class:boost::assign_detail::call_push_front	access:public	signature:( T r )
+boost::assign_detail::converter	/usr/include/boost/assign/list_of.hpp	/^    class converter$/;"	c	namespace:boost::assign_detail
+boost::assign_detail::converter::adapter_converter	/usr/include/boost/assign/list_of.hpp	/^        struct adapter_converter$/;"	s	class:boost::assign_detail::converter	access:private
+boost::assign_detail::converter::adapter_converter::adapter_converter	/usr/include/boost/assign/list_of.hpp	/^            adapter_converter( const adapter_converter& r ) $/;"	f	struct:boost::assign_detail::converter::adapter_converter	access:public	signature:( const adapter_converter& r )
+boost::assign_detail::converter::adapter_converter::adapter_converter	/usr/include/boost/assign/list_of.hpp	/^            adapter_converter( const converter& this_ ) : gl( this_ )$/;"	f	struct:boost::assign_detail::converter::adapter_converter	access:public	signature:( const converter& this_ )
+boost::assign_detail::converter::adapter_converter::gl	/usr/include/boost/assign/list_of.hpp	/^            const converter& gl;$/;"	m	struct:boost::assign_detail::converter::adapter_converter	access:public
+boost::assign_detail::converter::adapter_converter::operator Adapter	/usr/include/boost/assign/list_of.hpp	/^            operator Adapter() const$/;"	f	struct:boost::assign_detail::converter::adapter_converter	access:public	signature:() const
+boost::assign_detail::converter::begin	/usr/include/boost/assign/list_of.hpp	/^        iterator begin() const $/;"	f	class:boost::assign_detail::converter	access:public	signature:() const
+boost::assign_detail::converter::const_iterator	/usr/include/boost/assign/list_of.hpp	/^        typedef Iterator const_iterator;$/;"	t	class:boost::assign_detail::converter	access:public
+boost::assign_detail::converter::convert	/usr/include/boost/assign/list_of.hpp	/^        Array convert( const Array*, array_type_tag ) const$/;"	f	class:boost::assign_detail::converter	access:private	signature:( const Array*, array_type_tag ) const
+boost::assign_detail::converter::convert	/usr/include/boost/assign/list_of.hpp	/^        Container convert( const Container*, default_type_tag ) const$/;"	f	class:boost::assign_detail::converter	access:private	signature:( const Container*, default_type_tag ) const
+boost::assign_detail::converter::convert_to_adapter	/usr/include/boost/assign/list_of.hpp	/^        Adapter convert_to_adapter( const Adapter* = 0 ) const$/;"	f	class:boost::assign_detail::converter	access:private	signature:( const Adapter* = 0 ) const
+boost::assign_detail::converter::convert_to_container	/usr/include/boost/assign/list_of.hpp	/^        Container convert_to_container() const$/;"	f	class:boost::assign_detail::converter	access:public	signature:() const
+boost::assign_detail::converter::end	/usr/include/boost/assign/list_of.hpp	/^        iterator end() const$/;"	f	class:boost::assign_detail::converter	access:public	signature:() const
+boost::assign_detail::converter::iterator	/usr/include/boost/assign/list_of.hpp	/^        typedef Iterator iterator;$/;"	t	class:boost::assign_detail::converter	access:public
+boost::assign_detail::converter::to_adapter	/usr/include/boost/assign/list_of.hpp	/^        Adapter to_adapter( Adapter& a ) const$/;"	f	class:boost::assign_detail::converter	access:public	signature:( Adapter& a ) const
+boost::assign_detail::converter::to_adapter	/usr/include/boost/assign/list_of.hpp	/^        adapter_converter to_adapter() const$/;"	f	class:boost::assign_detail::converter	access:public	signature:() const
+boost::assign_detail::converter::to_array	/usr/include/boost/assign/list_of.hpp	/^        Array to_array( Array& a ) const$/;"	f	class:boost::assign_detail::converter	access:public	signature:( Array& a ) const
+boost::assign_detail::converter::to_container	/usr/include/boost/assign/list_of.hpp	/^        Container to_container( Container& c ) const$/;"	f	class:boost::assign_detail::converter	access:public	signature:( Container& c ) const
+boost::assign_detail::default_type_tag	/usr/include/boost/assign/list_of.hpp	/^    struct default_type_tag$/;"	s	namespace:boost::assign_detail
+boost::assign_detail::default_type_tag::dummy_	/usr/include/boost/assign/list_of.hpp	/^      char dummy_;  \/\/ BCB would by default use 8 bytes$/;"	m	struct:boost::assign_detail::default_type_tag	access:private
+boost::assign_detail::forward_n_arguments	/usr/include/boost/assign/list_inserter.hpp	/^    struct forward_n_arguments {};$/;"	s	namespace:boost::assign_detail
+boost::assign_detail::fun_repeater	/usr/include/boost/assign/list_inserter.hpp	/^    struct fun_repeater$/;"	s	namespace:boost::assign_detail
+boost::assign_detail::fun_repeater::fun_repeater	/usr/include/boost/assign/list_inserter.hpp	/^        fun_repeater( std::size_t sz_, Fun r ) : sz( sz_ ), val( r )$/;"	f	struct:boost::assign_detail::fun_repeater	access:public	signature:( std::size_t sz_, Fun r )
+boost::assign_detail::fun_repeater::sz	/usr/include/boost/assign/list_inserter.hpp	/^        std::size_t  sz;$/;"	m	struct:boost::assign_detail::fun_repeater	access:public
+boost::assign_detail::fun_repeater::val	/usr/include/boost/assign/list_inserter.hpp	/^        Fun          val;$/;"	m	struct:boost::assign_detail::fun_repeater	access:public
+boost::assign_detail::generic_list	/usr/include/boost/assign/list_of.hpp	/^    class generic_list : $/;"	c	namespace:boost::assign_detail	inherits:converter
+boost::assign_detail::generic_list::Ty	/usr/include/boost/assign/list_of.hpp	/^        typedef BOOST_DEDUCED_TYPENAME assign_decay<T>::type Ty;$/;"	t	class:boost::assign_detail::generic_list	access:private
+boost::assign_detail::generic_list::begin	/usr/include/boost/assign/list_of.hpp	/^        iterator begin() const       { return values_.begin(); }$/;"	f	class:boost::assign_detail::generic_list	access:public	signature:() const
+boost::assign_detail::generic_list::const_iterator	/usr/include/boost/assign/list_of.hpp	/^        typedef iterator                                           const_iterator;$/;"	t	class:boost::assign_detail::generic_list	access:public
+boost::assign_detail::generic_list::difference_type	/usr/include/boost/assign/list_of.hpp	/^        typedef BOOST_DEDUCED_TYPENAME impl_type::difference_type  difference_type;$/;"	t	class:boost::assign_detail::generic_list	access:public
+boost::assign_detail::generic_list::empty	/usr/include/boost/assign/list_of.hpp	/^        bool empty() const           { return values_.empty(); }$/;"	f	class:boost::assign_detail::generic_list	access:public	signature:() const
+boost::assign_detail::generic_list::end	/usr/include/boost/assign/list_of.hpp	/^        iterator end() const         { return values_.end(); }$/;"	f	class:boost::assign_detail::generic_list	access:public	signature:() const
+boost::assign_detail::generic_list::impl_type	/usr/include/boost/assign/list_of.hpp	/^        typedef std::deque<Ty>  impl_type;$/;"	t	class:boost::assign_detail::generic_list	access:private
+boost::assign_detail::generic_list::iterator	/usr/include/boost/assign/list_of.hpp	/^        typedef BOOST_DEDUCED_TYPENAME impl_type::iterator         iterator;$/;"	t	class:boost::assign_detail::generic_list	access:public
+boost::assign_detail::generic_list::operator ()	/usr/include/boost/assign/list_of.hpp	/^        generic_list& operator()( const Ty& u )$/;"	f	class:boost::assign_detail::generic_list	access:public	signature:( const Ty& u )
+boost::assign_detail::generic_list::operator ()	/usr/include/boost/assign/list_of.hpp	/^        generic_list& operator()()$/;"	f	class:boost::assign_detail::generic_list	access:public	signature:()
+boost::assign_detail::generic_list::operator ,	/usr/include/boost/assign/list_of.hpp	/^        generic_list& operator,( const Ty& u )$/;"	f	class:boost::assign_detail::generic_list	access:public	signature:( const Ty& u )
+boost::assign_detail::generic_list::operator Container	/usr/include/boost/assign/list_of.hpp	/^        operator Container() const$/;"	f	class:boost::assign_detail::generic_list	access:public	signature:() const
+boost::assign_detail::generic_list::push_back	/usr/include/boost/assign/list_of.hpp	/^        void push_back( value_type r ) { values_.push_back( r ); }$/;"	f	class:boost::assign_detail::generic_list	access:private	signature:( value_type r )
+boost::assign_detail::generic_list::range	/usr/include/boost/assign/list_of.hpp	/^        generic_list& range( SinglePassIterator first, $/;"	f	class:boost::assign_detail::generic_list	access:public	signature:( SinglePassIterator first, SinglePassIterator last )
+boost::assign_detail::generic_list::range	/usr/include/boost/assign/list_of.hpp	/^        generic_list& range( const SinglePassRange& r )$/;"	f	class:boost::assign_detail::generic_list	access:public	signature:( const SinglePassRange& r )
+boost::assign_detail::generic_list::repeat	/usr/include/boost/assign/list_of.hpp	/^        generic_list& repeat( std::size_t sz, U u )$/;"	f	class:boost::assign_detail::generic_list	access:public	signature:( std::size_t sz, U u )
+boost::assign_detail::generic_list::repeat_fun	/usr/include/boost/assign/list_of.hpp	/^        generic_list& repeat_fun( std::size_t sz, Nullary_function fun )$/;"	f	class:boost::assign_detail::generic_list	access:public	signature:( std::size_t sz, Nullary_function fun )
+boost::assign_detail::generic_list::size	/usr/include/boost/assign/list_of.hpp	/^        size_type size() const       { return values_.size(); }$/;"	f	class:boost::assign_detail::generic_list	access:public	signature:() const
+boost::assign_detail::generic_list::size_type	/usr/include/boost/assign/list_of.hpp	/^        typedef BOOST_DEDUCED_TYPENAME impl_type::size_type        size_type;$/;"	t	class:boost::assign_detail::generic_list	access:public
+boost::assign_detail::generic_list::value_type	/usr/include/boost/assign/list_of.hpp	/^        typedef BOOST_DEDUCED_TYPENAME impl_type::value_type       value_type;$/;"	t	class:boost::assign_detail::generic_list	access:public
+boost::assign_detail::generic_list::values_	/usr/include/boost/assign/list_of.hpp	/^        mutable impl_type       values_;$/;"	m	class:boost::assign_detail::generic_list	access:private
+boost::assign_detail::generic_ptr_list	/usr/include/boost/assign/ptr_list_of.hpp	/^    class generic_ptr_list : $/;"	c	namespace:boost::assign_detail	inherits:converter
+boost::assign_detail::generic_ptr_list::begin	/usr/include/boost/assign/ptr_list_of.hpp	/^        iterator begin() const       { return values_.begin(); }$/;"	f	class:boost::assign_detail::generic_ptr_list	access:public	signature:() const
+boost::assign_detail::generic_ptr_list::const_iterator	/usr/include/boost/assign/ptr_list_of.hpp	/^        typedef iterator                                           const_iterator;$/;"	t	class:boost::assign_detail::generic_ptr_list	access:public
+boost::assign_detail::generic_ptr_list::convert	/usr/include/boost/assign/ptr_list_of.hpp	/^        std::auto_ptr<PtrContainer> convert( const PtrContainer* c ) const$/;"	f	class:boost::assign_detail::generic_ptr_list	access:public	signature:( const PtrContainer* c ) const
+boost::assign_detail::generic_ptr_list::difference_type	/usr/include/boost/assign/ptr_list_of.hpp	/^        typedef BOOST_DEDUCED_TYPENAME impl_type::difference_type  difference_type;$/;"	t	class:boost::assign_detail::generic_ptr_list	access:public
+boost::assign_detail::generic_ptr_list::empty	/usr/include/boost/assign/ptr_list_of.hpp	/^        bool empty() const           { return values_.empty(); }$/;"	f	class:boost::assign_detail::generic_ptr_list	access:public	signature:() const
+boost::assign_detail::generic_ptr_list::end	/usr/include/boost/assign/ptr_list_of.hpp	/^        iterator end() const         { return values_.end(); }$/;"	f	class:boost::assign_detail::generic_ptr_list	access:public	signature:() const
+boost::assign_detail::generic_ptr_list::generic_ptr_list	/usr/include/boost/assign/ptr_list_of.hpp	/^        generic_ptr_list( release_type r ) : values_(r)$/;"	f	class:boost::assign_detail::generic_ptr_list	access:public	signature:( release_type r )
+boost::assign_detail::generic_ptr_list::generic_ptr_list	/usr/include/boost/assign/ptr_list_of.hpp	/^        generic_ptr_list() : values_( 32u )$/;"	f	class:boost::assign_detail::generic_ptr_list	access:public	signature:()
+boost::assign_detail::generic_ptr_list::impl_type	/usr/include/boost/assign/ptr_list_of.hpp	/^        typedef boost::ptr_vector<T>       impl_type;$/;"	t	class:boost::assign_detail::generic_ptr_list	access:protected
+boost::assign_detail::generic_ptr_list::iterator	/usr/include/boost/assign/ptr_list_of.hpp	/^        typedef BOOST_DEDUCED_TYPENAME impl_type::iterator         iterator;$/;"	t	class:boost::assign_detail::generic_ptr_list	access:public
+boost::assign_detail::generic_ptr_list::operator ()	/usr/include/boost/assign/ptr_list_of.hpp	/^        generic_ptr_list& operator()( const U& u )$/;"	f	class:boost::assign_detail::generic_ptr_list	access:public	signature:( const U& u )
+boost::assign_detail::generic_ptr_list::operator ()	/usr/include/boost/assign/ptr_list_of.hpp	/^        generic_ptr_list& operator()()$/;"	f	class:boost::assign_detail::generic_ptr_list	access:public	signature:()
+boost::assign_detail::generic_ptr_list::operator Seq<U,CA,A>	/usr/include/boost/assign/ptr_list_of.hpp	/^        operator Seq<U,CA,A>() const $/;"	f	class:boost::assign_detail::generic_ptr_list	access:public	signature:() const
+boost::assign_detail::generic_ptr_list::operator impl_type	/usr/include/boost/assign/ptr_list_of.hpp	/^        operator impl_type() const$/;"	f	class:boost::assign_detail::generic_ptr_list	access:public	signature:() const
+boost::assign_detail::generic_ptr_list::push_back	/usr/include/boost/assign/ptr_list_of.hpp	/^        void push_back( T* r ) { values_.push_back( r ); }$/;"	f	class:boost::assign_detail::generic_ptr_list	access:protected	signature:( T* r )
+boost::assign_detail::generic_ptr_list::release	/usr/include/boost/assign/ptr_list_of.hpp	/^        release_type release()$/;"	f	class:boost::assign_detail::generic_ptr_list	access:public	signature:()
+boost::assign_detail::generic_ptr_list::release_type	/usr/include/boost/assign/ptr_list_of.hpp	/^        typedef std::auto_ptr<impl_type>   release_type;$/;"	t	class:boost::assign_detail::generic_ptr_list	access:protected
+boost::assign_detail::generic_ptr_list::size	/usr/include/boost/assign/ptr_list_of.hpp	/^        size_type size() const       { return values_.size(); }$/;"	f	class:boost::assign_detail::generic_ptr_list	access:public	signature:() const
+boost::assign_detail::generic_ptr_list::size_type	/usr/include/boost/assign/ptr_list_of.hpp	/^        typedef BOOST_DEDUCED_TYPENAME impl_type::size_type        size_type;$/;"	t	class:boost::assign_detail::generic_ptr_list	access:public
+boost::assign_detail::generic_ptr_list::to_container	/usr/include/boost/assign/ptr_list_of.hpp	/^        std::auto_ptr<PtrContainer> to_container( const PtrContainer& c ) const$/;"	f	class:boost::assign_detail::generic_ptr_list	access:public	signature:( const PtrContainer& c ) const
+boost::assign_detail::generic_ptr_list::value_type	/usr/include/boost/assign/ptr_list_of.hpp	/^        typedef BOOST_DEDUCED_TYPENAME impl_type::value_type       value_type;$/;"	t	class:boost::assign_detail::generic_ptr_list	access:public
+boost::assign_detail::generic_ptr_list::values_	/usr/include/boost/assign/ptr_list_of.hpp	/^        mutable impl_type                  values_;$/;"	m	class:boost::assign_detail::generic_ptr_list	access:protected
+boost::assign_detail::operator !=	/usr/include/boost/assign/list_of.hpp	/^    inline bool operator!=( const Range& l, const converter<T,I>& r )$/;"	f	namespace:boost::assign_detail	signature:( const Range& l, const converter<T,I>& r )
+boost::assign_detail::operator !=	/usr/include/boost/assign/list_of.hpp	/^    inline bool operator!=( const converter<T,I>& l, const Range& r )$/;"	f	namespace:boost::assign_detail	signature:( const converter<T,I>& l, const Range& r )
+boost::assign_detail::operator <	/usr/include/boost/assign/list_of.hpp	/^    inline bool operator<( const Range& l, const converter<T,I>& r )$/;"	f	namespace:boost::assign_detail	signature:( const Range& l, const converter<T,I>& r )
+boost::assign_detail::operator <	/usr/include/boost/assign/list_of.hpp	/^    inline bool operator<( const assign_reference<T>& l, $/;"	f	namespace:boost::assign_detail	signature:( const assign_reference<T>& l, const assign_reference<T>& r )
+boost::assign_detail::operator <	/usr/include/boost/assign/list_of.hpp	/^    inline bool operator<( const converter<T,I>& l, const Range& r )$/;"	f	namespace:boost::assign_detail	signature:( const converter<T,I>& l, const Range& r )
+boost::assign_detail::operator <<	/usr/include/boost/assign/list_of.hpp	/^    operator<<( std::basic_ostream<Elem, Traits>& Os,$/;"	f	namespace:boost::assign_detail	signature:( std::basic_ostream<Elem, Traits>& Os, const converter<T,I>& r )
+boost::assign_detail::operator <=	/usr/include/boost/assign/list_of.hpp	/^    inline bool operator<=( const Range& l, const converter<T,I>& r )$/;"	f	namespace:boost::assign_detail	signature:( const Range& l, const converter<T,I>& r )
+boost::assign_detail::operator <=	/usr/include/boost/assign/list_of.hpp	/^    inline bool operator<=( const converter<T,I>& l, const Range& r )$/;"	f	namespace:boost::assign_detail	signature:( const converter<T,I>& l, const Range& r )
+boost::assign_detail::operator ==	/usr/include/boost/assign/list_of.hpp	/^    inline bool operator==( const Range& l, const converter<T,I>& r )$/;"	f	namespace:boost::assign_detail	signature:( const Range& l, const converter<T,I>& r )
+boost::assign_detail::operator ==	/usr/include/boost/assign/list_of.hpp	/^    inline bool operator==( const converter<T,I>& l, const Range& r )$/;"	f	namespace:boost::assign_detail	signature:( const converter<T,I>& l, const Range& r )
+boost::assign_detail::operator >	/usr/include/boost/assign/list_of.hpp	/^    inline bool operator>( const Range& l, const converter<T,I>& r )$/;"	f	namespace:boost::assign_detail	signature:( const Range& l, const converter<T,I>& r )
+boost::assign_detail::operator >	/usr/include/boost/assign/list_of.hpp	/^    inline bool operator>( const assign_reference<T>& l,$/;"	f	namespace:boost::assign_detail	signature:( const assign_reference<T>& l, const assign_reference<T>& r )
+boost::assign_detail::operator >	/usr/include/boost/assign/list_of.hpp	/^    inline bool operator>( const converter<T,I>& l, const Range& r )$/;"	f	namespace:boost::assign_detail	signature:( const converter<T,I>& l, const Range& r )
+boost::assign_detail::operator >=	/usr/include/boost/assign/list_of.hpp	/^    inline bool operator>=( const Range& l, const converter<T,I>& r )$/;"	f	namespace:boost::assign_detail	signature:( const Range& l, const converter<T,I>& r )
+boost::assign_detail::operator >=	/usr/include/boost/assign/list_of.hpp	/^    inline bool operator>=( const converter<T,I>& l, const Range& r )$/;"	f	namespace:boost::assign_detail	signature:( const converter<T,I>& l, const Range& r )
+boost::assign_detail::pair_type_tag	/usr/include/boost/assign/list_of.hpp	/^    struct pair_type_tag$/;"	s	namespace:boost::assign_detail
+boost::assign_detail::pair_type_tag::dummy_	/usr/include/boost/assign/list_of.hpp	/^      char dummy_;  \/\/ BCB would by default use 8 bytes$/;"	m	struct:boost::assign_detail::pair_type_tag	access:private
+boost::assign_detail::repeater	/usr/include/boost/assign/list_inserter.hpp	/^    struct repeater$/;"	s	namespace:boost::assign_detail
+boost::assign_detail::repeater::repeater	/usr/include/boost/assign/list_inserter.hpp	/^        repeater( std::size_t sz_, T r ) : sz( sz_ ), val( r )$/;"	f	struct:boost::assign_detail::repeater	access:public	signature:( std::size_t sz_, T r )
+boost::assign_detail::repeater::sz	/usr/include/boost/assign/list_inserter.hpp	/^        std::size_t  sz;$/;"	m	struct:boost::assign_detail::repeater	access:public
+boost::assign_detail::repeater::val	/usr/include/boost/assign/list_inserter.hpp	/^        T            val;$/;"	m	struct:boost::assign_detail::repeater	access:public
+boost::assign_detail::static_generic_list	/usr/include/boost/assign/list_of.hpp	/^    struct static_generic_list : $/;"	s	namespace:boost::assign_detail	inherits:converter
+boost::assign_detail::static_generic_list::begin	/usr/include/boost/assign/list_of.hpp	/^        iterator begin() const $/;"	f	struct:boost::assign_detail::static_generic_list	access:public	signature:() const
+boost::assign_detail::static_generic_list::const_iterator	/usr/include/boost/assign/list_of.hpp	/^        typedef value_type*                           const_iterator;$/;"	t	struct:boost::assign_detail::static_generic_list	access:public
+boost::assign_detail::static_generic_list::current_	/usr/include/boost/assign/list_of.hpp	/^        int current_;$/;"	m	struct:boost::assign_detail::static_generic_list	access:private
+boost::assign_detail::static_generic_list::difference_type	/usr/include/boost/assign/list_of.hpp	/^        typedef std::ptrdiff_t                        difference_type;$/;"	t	struct:boost::assign_detail::static_generic_list	access:public
+boost::assign_detail::static_generic_list::empty	/usr/include/boost/assign/list_of.hpp	/^        bool empty() const$/;"	f	struct:boost::assign_detail::static_generic_list	access:public	signature:() const
+boost::assign_detail::static_generic_list::end	/usr/include/boost/assign/list_of.hpp	/^        iterator end() const$/;"	f	struct:boost::assign_detail::static_generic_list	access:public	signature:() const
+boost::assign_detail::static_generic_list::insert	/usr/include/boost/assign/list_of.hpp	/^        void insert( T& r )$/;"	f	struct:boost::assign_detail::static_generic_list	access:private	signature:( T& r )
+boost::assign_detail::static_generic_list::internal_value_type	/usr/include/boost/assign/list_of.hpp	/^        typedef T                                     internal_value_type;$/;"	t	struct:boost::assign_detail::static_generic_list	access:private
+boost::assign_detail::static_generic_list::iterator	/usr/include/boost/assign/list_of.hpp	/^        typedef value_type*                           iterator;$/;"	t	struct:boost::assign_detail::static_generic_list	access:public
+boost::assign_detail::static_generic_list::operator ()	/usr/include/boost/assign/list_of.hpp	/^        static_generic_list& operator()( T& r )$/;"	f	struct:boost::assign_detail::static_generic_list	access:public	signature:( T& r )
+boost::assign_detail::static_generic_list::operator Container	/usr/include/boost/assign/list_of.hpp	/^        operator Container() const$/;"	f	struct:boost::assign_detail::static_generic_list	access:public	signature:() const
+boost::assign_detail::static_generic_list::range	/usr/include/boost/assign/list_of.hpp	/^        static_generic_list& range( ForwardIterator first, $/;"	f	struct:boost::assign_detail::static_generic_list	access:public	signature:( ForwardIterator first, ForwardIterator last )
+boost::assign_detail::static_generic_list::range	/usr/include/boost/assign/list_of.hpp	/^        static_generic_list& range( ForwardRange& r )$/;"	f	struct:boost::assign_detail::static_generic_list	access:public	signature:( ForwardRange& r )
+boost::assign_detail::static_generic_list::range	/usr/include/boost/assign/list_of.hpp	/^        static_generic_list& range( const ForwardRange& r )$/;"	f	struct:boost::assign_detail::static_generic_list	access:public	signature:( const ForwardRange& r )
+boost::assign_detail::static_generic_list::refs_	/usr/include/boost/assign/list_of.hpp	/^        mutable assign_reference<internal_value_type> refs_[N];$/;"	m	struct:boost::assign_detail::static_generic_list	access:private
+boost::assign_detail::static_generic_list::size	/usr/include/boost/assign/list_of.hpp	/^        size_type size() const$/;"	f	struct:boost::assign_detail::static_generic_list	access:public	signature:() const
+boost::assign_detail::static_generic_list::size_type	/usr/include/boost/assign/list_of.hpp	/^        typedef std::size_t                           size_type;$/;"	t	struct:boost::assign_detail::static_generic_list	access:public
+boost::assign_detail::static_generic_list::static_generic_list	/usr/include/boost/assign/list_of.hpp	/^        static_generic_list( T& r ) :$/;"	f	struct:boost::assign_detail::static_generic_list	access:public	signature:( T& r )
+boost::assign_detail::static_generic_list::static_generic_list	/usr/include/boost/assign/list_of.hpp	/^        static_generic_list();$/;"	p	struct:boost::assign_detail::static_generic_list	access:private	signature:()
+boost::assign_detail::static_generic_list::value_type	/usr/include/boost/assign/list_of.hpp	/^        typedef assign_reference<internal_value_type> value_type;$/;"	t	struct:boost::assign_detail::static_generic_list	access:public
+boost::assign_detail::swap	/usr/include/boost/assign/list_of.hpp	/^    inline void swap( assign_reference<T>& l, $/;"	f	namespace:boost::assign_detail	signature:( assign_reference<T>& l, assign_reference<T>& r )
+c_	/usr/include/boost/assign/list_inserter.hpp	/^        C& c_;$/;"	m	class:boost::assign_detail::call_add_edge	access:private
+c_	/usr/include/boost/assign/list_inserter.hpp	/^        C& c_;$/;"	m	class:boost::assign_detail::call_insert	access:private
+c_	/usr/include/boost/assign/list_inserter.hpp	/^        C& c_;$/;"	m	class:boost::assign_detail::call_push	access:private
+c_	/usr/include/boost/assign/list_inserter.hpp	/^        C& c_;$/;"	m	class:boost::assign_detail::call_push_back	access:private
+c_	/usr/include/boost/assign/list_inserter.hpp	/^        C& c_;$/;"	m	class:boost::assign_detail::call_push_front	access:private
+call_add_edge	/usr/include/boost/assign/list_inserter.hpp	/^        call_add_edge( C& c ) : c_(c)$/;"	f	class:boost::assign_detail::call_add_edge	access:public	signature:( C& c )
+call_add_edge	/usr/include/boost/assign/list_inserter.hpp	/^    class call_add_edge$/;"	c	namespace:boost::assign_detail
+call_insert	/usr/include/boost/assign/list_inserter.hpp	/^        call_insert( C& c ) : c_( c )$/;"	f	class:boost::assign_detail::call_insert	access:public	signature:( C& c )
+call_insert	/usr/include/boost/assign/list_inserter.hpp	/^    class call_insert$/;"	c	namespace:boost::assign_detail
+call_push	/usr/include/boost/assign/list_inserter.hpp	/^        call_push( C& c ) : c_( c )$/;"	f	class:boost::assign_detail::call_push	access:public	signature:( C& c )
+call_push	/usr/include/boost/assign/list_inserter.hpp	/^    class call_push$/;"	c	namespace:boost::assign_detail
+call_push_back	/usr/include/boost/assign/list_inserter.hpp	/^        call_push_back( C& c ) : c_( c )$/;"	f	class:boost::assign_detail::call_push_back	access:public	signature:( C& c )
+call_push_back	/usr/include/boost/assign/list_inserter.hpp	/^    class call_push_back$/;"	c	namespace:boost::assign_detail
+call_push_front	/usr/include/boost/assign/list_inserter.hpp	/^        call_push_front( C& c ) : c_( c )$/;"	f	class:boost::assign_detail::call_push_front	access:public	signature:( C& c )
+call_push_front	/usr/include/boost/assign/list_inserter.hpp	/^    class call_push_front$/;"	c	namespace:boost::assign_detail
+const_iterator	/usr/include/boost/assign/list_of.hpp	/^        typedef Iterator const_iterator;$/;"	t	class:boost::assign_detail::converter	access:public
+const_iterator	/usr/include/boost/assign/list_of.hpp	/^        typedef iterator                                           const_iterator;$/;"	t	class:boost::assign_detail::generic_list	access:public
+const_iterator	/usr/include/boost/assign/list_of.hpp	/^        typedef value_type*                           const_iterator;$/;"	t	struct:boost::assign_detail::static_generic_list	access:public
+const_iterator	/usr/include/boost/assign/ptr_list_of.hpp	/^        typedef iterator                                           const_iterator;$/;"	t	class:boost::assign_detail::generic_ptr_list	access:public
+convert	/usr/include/boost/assign/list_of.hpp	/^        Array convert( const Array*, array_type_tag ) const$/;"	f	class:boost::assign_detail::converter	access:private	signature:( const Array*, array_type_tag ) const
+convert	/usr/include/boost/assign/list_of.hpp	/^        Container convert( const Container*, default_type_tag ) const$/;"	f	class:boost::assign_detail::converter	access:private	signature:( const Container*, default_type_tag ) const
+convert	/usr/include/boost/assign/ptr_list_of.hpp	/^        std::auto_ptr<PtrContainer> convert( const PtrContainer* c ) const$/;"	f	class:boost::assign_detail::generic_ptr_list	access:public	signature:( const PtrContainer* c ) const
+convert_to_adapter	/usr/include/boost/assign/list_of.hpp	/^        Adapter convert_to_adapter( const Adapter* = 0 ) const$/;"	f	class:boost::assign_detail::converter	access:private	signature:( const Adapter* = 0 ) const
+convert_to_container	/usr/include/boost/assign/list_of.hpp	/^        Container convert_to_container() const$/;"	f	class:boost::assign_detail::converter	access:public	signature:() const
+converter	/usr/include/boost/assign/list_of.hpp	/^    class converter$/;"	c	namespace:boost::assign_detail
+cref_list_of	/usr/include/boost/assign/list_of.hpp	/^    cref_list_of( const T& t )$/;"	f	namespace:boost::assign	signature:( const T& t )
+current_	/usr/include/boost/assign/list_of.hpp	/^        int current_;$/;"	m	struct:boost::assign_detail::static_generic_list	access:private
+default_type_tag	/usr/include/boost/assign/list_of.hpp	/^    struct default_type_tag$/;"	s	namespace:boost::assign_detail
+difference_type	/usr/include/boost/assign/list_of.hpp	/^        typedef BOOST_DEDUCED_TYPENAME impl_type::difference_type  difference_type;$/;"	t	class:boost::assign_detail::generic_list	access:public
+difference_type	/usr/include/boost/assign/list_of.hpp	/^        typedef std::ptrdiff_t                        difference_type;$/;"	t	struct:boost::assign_detail::static_generic_list	access:public
+difference_type	/usr/include/boost/assign/ptr_list_of.hpp	/^        typedef BOOST_DEDUCED_TYPENAME impl_type::difference_type  difference_type;$/;"	t	class:boost::assign_detail::generic_ptr_list	access:public
+dummy_	/usr/include/boost/assign/list_of.hpp	/^      char dummy_;  \/\/ BCB would by default use 8 bytes$/;"	m	struct:boost::assign_detail::adapter_type_tag	access:private
+dummy_	/usr/include/boost/assign/list_of.hpp	/^      char dummy_;  \/\/ BCB would by default use 8 bytes$/;"	m	struct:boost::assign_detail::array_type_tag	access:private
+dummy_	/usr/include/boost/assign/list_of.hpp	/^      char dummy_;  \/\/ BCB would by default use 8 bytes$/;"	m	struct:boost::assign_detail::default_type_tag	access:private
+dummy_	/usr/include/boost/assign/list_of.hpp	/^      char dummy_;  \/\/ BCB would by default use 8 bytes$/;"	m	struct:boost::assign_detail::pair_type_tag	access:private
+empty	/usr/include/boost/assign/list_of.hpp	/^        bool empty() const           { return values_.empty(); }$/;"	f	class:boost::assign_detail::generic_list	access:public	signature:() const
+empty	/usr/include/boost/assign/list_of.hpp	/^        bool empty() const$/;"	f	struct:boost::assign_detail::static_generic_list	access:public	signature:() const
+empty	/usr/include/boost/assign/ptr_list_of.hpp	/^        bool empty() const           { return values_.empty(); }$/;"	f	class:boost::assign_detail::generic_ptr_list	access:public	signature:() const
+end	/usr/include/boost/assign/list_of.hpp	/^        iterator end() const         { return values_.end(); }$/;"	f	class:boost::assign_detail::generic_list	access:public	signature:() const
+end	/usr/include/boost/assign/list_of.hpp	/^        iterator end() const$/;"	f	class:boost::assign_detail::converter	access:public	signature:() const
+end	/usr/include/boost/assign/list_of.hpp	/^        iterator end() const$/;"	f	struct:boost::assign_detail::static_generic_list	access:public	signature:() const
+end	/usr/include/boost/assign/ptr_list_of.hpp	/^        iterator end() const         { return values_.end(); }$/;"	f	class:boost::assign_detail::generic_ptr_list	access:public	signature:() const
+forward_n_arguments	/usr/include/boost/assign/list_inserter.hpp	/^    struct forward_n_arguments {};$/;"	s	namespace:boost::assign_detail
+fun_private	/usr/include/boost/assign/list_inserter.hpp	/^        Function fun_private() const$/;"	f	class:boost::assign::list_inserter	access:public	signature:() const
+fun_repeater	/usr/include/boost/assign/list_inserter.hpp	/^        fun_repeater( std::size_t sz_, Fun r ) : sz( sz_ ), val( r )$/;"	f	struct:boost::assign_detail::fun_repeater	access:public	signature:( std::size_t sz_, Fun r )
+fun_repeater	/usr/include/boost/assign/list_inserter.hpp	/^    struct fun_repeater$/;"	s	namespace:boost::assign_detail
+generic_list	/usr/include/boost/assign/list_of.hpp	/^    class generic_list : $/;"	c	namespace:boost::assign_detail	inherits:converter
+generic_ptr_list	/usr/include/boost/assign/ptr_list_of.hpp	/^        generic_ptr_list( release_type r ) : values_(r)$/;"	f	class:boost::assign_detail::generic_ptr_list	access:public	signature:( release_type r )
+generic_ptr_list	/usr/include/boost/assign/ptr_list_of.hpp	/^        generic_ptr_list() : values_( 32u )$/;"	f	class:boost::assign_detail::generic_ptr_list	access:public	signature:()
+generic_ptr_list	/usr/include/boost/assign/ptr_list_of.hpp	/^    class generic_ptr_list : $/;"	c	namespace:boost::assign_detail	inherits:converter
+get_ref	/usr/include/boost/assign/list_of.hpp	/^        T& get_ref() const$/;"	f	struct:boost::assign_detail::assign_reference	access:public	signature:() const
+gl	/usr/include/boost/assign/list_of.hpp	/^            const converter& gl;$/;"	m	struct:boost::assign_detail::converter::adapter_converter	access:public
+impl_type	/usr/include/boost/assign/list_of.hpp	/^        typedef std::deque<Ty>  impl_type;$/;"	t	class:boost::assign_detail::generic_list	access:private
+impl_type	/usr/include/boost/assign/ptr_list_of.hpp	/^        typedef boost::ptr_vector<T>       impl_type;$/;"	t	class:boost::assign_detail::generic_ptr_list	access:protected
+insert	/usr/include/boost/assign/list_inserter.hpp	/^    insert( C& c )$/;"	f	namespace:boost::assign	signature:( C& c )
+insert	/usr/include/boost/assign/list_of.hpp	/^        void insert( T& r )$/;"	f	struct:boost::assign_detail::static_generic_list	access:private	signature:( T& r )
+insert_	/usr/include/boost/assign/list_inserter.hpp	/^        Function insert_;$/;"	m	class:boost::assign::list_inserter	access:private
+insert_	/usr/include/boost/assign/ptr_list_inserter.hpp	/^        Function insert_;$/;"	m	class:boost::assign::ptr_list_inserter	access:private
+internal_value_type	/usr/include/boost/assign/list_of.hpp	/^        typedef T                                     internal_value_type;$/;"	t	struct:boost::assign_detail::static_generic_list	access:private
+iterator	/usr/include/boost/assign/list_of.hpp	/^        typedef BOOST_DEDUCED_TYPENAME impl_type::iterator         iterator;$/;"	t	class:boost::assign_detail::generic_list	access:public
+iterator	/usr/include/boost/assign/list_of.hpp	/^        typedef Iterator iterator;$/;"	t	class:boost::assign_detail::converter	access:public
+iterator	/usr/include/boost/assign/list_of.hpp	/^        typedef value_type*                           iterator;$/;"	t	struct:boost::assign_detail::static_generic_list	access:public
+iterator	/usr/include/boost/assign/ptr_list_of.hpp	/^        typedef BOOST_DEDUCED_TYPENAME impl_type::iterator         iterator;$/;"	t	class:boost::assign_detail::generic_ptr_list	access:public
+key_type	/usr/include/boost/assign/ptr_map_inserter.hpp	/^           key_type;$/;"	t	class:boost::assign::ptr_map_inserter	access:private
+list_inserter	/usr/include/boost/assign/list_inserter.hpp	/^        list_inserter( Function fun ) : insert_( fun )$/;"	f	class:boost::assign::list_inserter	access:public	signature:( Function fun )
+list_inserter	/usr/include/boost/assign/list_inserter.hpp	/^        list_inserter( const list_inserter& r ) : insert_( r.insert_ )$/;"	f	class:boost::assign::list_inserter	access:public	signature:( const list_inserter& r )
+list_inserter	/usr/include/boost/assign/list_inserter.hpp	/^        list_inserter( const list_inserter<Function2,Arg>& r ) $/;"	f	class:boost::assign::list_inserter	access:public	signature:( const list_inserter<Function2,Arg>& r )
+list_inserter	/usr/include/boost/assign/list_inserter.hpp	/^    class list_inserter$/;"	c	namespace:boost::assign
+list_of	/usr/include/boost/assign/list_of.hpp	/^    list_of( const T& t )$/;"	f	namespace:boost::assign	signature:( const T& t )
+list_of	/usr/include/boost/assign/list_of.hpp	/^    list_of()$/;"	f	namespace:boost::assign	signature:()
+m_	/usr/include/boost/assign/ptr_map_inserter.hpp	/^        PtrMap& m_;$/;"	m	class:boost::assign::ptr_map_inserter	access:private
+make_list_inserter	/usr/include/boost/assign/list_inserter.hpp	/^    make_list_inserter( Function fun )$/;"	f	namespace:boost::assign	signature:( Function fun )
+make_list_inserter	/usr/include/boost/assign/list_inserter.hpp	/^    make_list_inserter( Function fun, Argument* )$/;"	f	namespace:boost::assign	signature:( Function fun, Argument* )
+make_ptr_list_inserter	/usr/include/boost/assign/ptr_list_inserter.hpp	/^    make_ptr_list_inserter( Function fun )$/;"	f	namespace:boost::assign	signature:( Function fun )
+map_list_of	/usr/include/boost/assign/list_of.hpp	/^    map_list_of( const Key& k, const T& t )$/;"	f	namespace:boost::assign	signature:( const Key& k, const T& t )
+n_arg_type	/usr/include/boost/assign/list_inserter.hpp	/^        struct n_arg_type      {};$/;"	s	class:boost::assign::list_inserter	access:private
+obj_type	/usr/include/boost/assign/ptr_list_inserter.hpp	/^           obj_type;$/;"	t	class:boost::assign::ptr_list_inserter	access:private
+obj_type	/usr/include/boost/assign/ptr_map_inserter.hpp	/^           obj_type;$/;"	t	class:boost::assign::ptr_map_inserter	access:private
+operator !=	/usr/include/boost/assign/list_of.hpp	/^    inline bool operator!=( const Range& l, const converter<T,I>& r )$/;"	f	namespace:boost::assign_detail	signature:( const Range& l, const converter<T,I>& r )
+operator !=	/usr/include/boost/assign/list_of.hpp	/^    inline bool operator!=( const converter<T,I>& l, const Range& r )$/;"	f	namespace:boost::assign_detail	signature:( const converter<T,I>& l, const Range& r )
+operator ()	/usr/include/boost/assign/list_inserter.hpp	/^        list_inserter& operator()( const T& t )$/;"	f	class:boost::assign::list_inserter	access:public	signature:( const T& t )
+operator ()	/usr/include/boost/assign/list_inserter.hpp	/^        list_inserter& operator()()$/;"	f	class:boost::assign::list_inserter	access:public	signature:()
+operator ()	/usr/include/boost/assign/list_inserter.hpp	/^        void operator()( T l, T r )$/;"	f	class:boost::assign_detail::call_add_edge	access:public	signature:( T l, T r )
+operator ()	/usr/include/boost/assign/list_inserter.hpp	/^        void operator()( T l, T r, const EP& ep )$/;"	f	class:boost::assign_detail::call_add_edge	access:public	signature:( T l, T r, const EP& ep )
+operator ()	/usr/include/boost/assign/list_inserter.hpp	/^        void operator()( T r ) $/;"	f	class:boost::assign_detail::call_insert	access:public	signature:( T r )
+operator ()	/usr/include/boost/assign/list_inserter.hpp	/^        void operator()( T r ) $/;"	f	class:boost::assign_detail::call_push	access:public	signature:( T r )
+operator ()	/usr/include/boost/assign/list_inserter.hpp	/^        void operator()( T r ) $/;"	f	class:boost::assign_detail::call_push_back	access:public	signature:( T r )
+operator ()	/usr/include/boost/assign/list_inserter.hpp	/^        void operator()( T r ) $/;"	f	class:boost::assign_detail::call_push_front	access:public	signature:( T r )
+operator ()	/usr/include/boost/assign/list_of.hpp	/^        generic_list& operator()( const Ty& u )$/;"	f	class:boost::assign_detail::generic_list	access:public	signature:( const Ty& u )
+operator ()	/usr/include/boost/assign/list_of.hpp	/^        generic_list& operator()()$/;"	f	class:boost::assign_detail::generic_list	access:public	signature:()
+operator ()	/usr/include/boost/assign/list_of.hpp	/^        static_generic_list& operator()( T& r )$/;"	f	struct:boost::assign_detail::static_generic_list	access:public	signature:( T& r )
+operator ()	/usr/include/boost/assign/ptr_list_inserter.hpp	/^        ptr_list_inserter& operator()( const T& t )$/;"	f	class:boost::assign::ptr_list_inserter	access:public	signature:( const T& t )
+operator ()	/usr/include/boost/assign/ptr_list_inserter.hpp	/^        ptr_list_inserter& operator()()$/;"	f	class:boost::assign::ptr_list_inserter	access:public	signature:()
+operator ()	/usr/include/boost/assign/ptr_list_of.hpp	/^        generic_ptr_list& operator()( const U& u )$/;"	f	class:boost::assign_detail::generic_ptr_list	access:public	signature:( const U& u )
+operator ()	/usr/include/boost/assign/ptr_list_of.hpp	/^        generic_ptr_list& operator()()$/;"	f	class:boost::assign_detail::generic_ptr_list	access:public	signature:()
+operator ()	/usr/include/boost/assign/ptr_map_inserter.hpp	/^        ptr_map_inserter& operator()( const Key& t )$/;"	f	class:boost::assign::ptr_map_inserter	access:public	signature:( const Key& t )
+operator +=	/usr/include/boost/assign/std/deque.hpp	/^    operator+=( std::deque<V,A>& c, V2 v )$/;"	f	namespace:boost::assign	signature:( std::deque<V,A>& c, V2 v )
+operator +=	/usr/include/boost/assign/std/list.hpp	/^    operator+=( std::list<V,A>& c, V2 v )$/;"	f	namespace:boost::assign	signature:( std::list<V,A>& c, V2 v )
+operator +=	/usr/include/boost/assign/std/map.hpp	/^    operator+=( std::map<K,V,C,A>& m, const P& p )$/;"	f	namespace:boost::assign	signature:( std::map<K,V,C,A>& m, const P& p )
+operator +=	/usr/include/boost/assign/std/map.hpp	/^    operator+=( std::multimap<K,V,C,A>& m, const P& p )$/;"	f	namespace:boost::assign	signature:( std::multimap<K,V,C,A>& m, const P& p )
+operator +=	/usr/include/boost/assign/std/queue.hpp	/^    operator+=( std::priority_queue<V,C>& c, V2 v )$/;"	f	namespace:boost::assign	signature:( std::priority_queue<V,C>& c, V2 v )
+operator +=	/usr/include/boost/assign/std/queue.hpp	/^    operator+=( std::queue<V,C>& c, V2 v )$/;"	f	namespace:boost::assign	signature:( std::queue<V,C>& c, V2 v )
+operator +=	/usr/include/boost/assign/std/set.hpp	/^    operator+=( std::multiset<K,C,A>& c, K2 k )$/;"	f	namespace:boost::assign	signature:( std::multiset<K,C,A>& c, K2 k )
+operator +=	/usr/include/boost/assign/std/set.hpp	/^    operator+=( std::set<K,C,A>& c, K2 k )$/;"	f	namespace:boost::assign	signature:( std::set<K,C,A>& c, K2 k )
+operator +=	/usr/include/boost/assign/std/slist.hpp	/^    operator+=( BOOST_STD_EXTENSION_NAMESPACE::slist<V,A>& c, V2 v )$/;"	f	namespace:boost::assign	signature:( BOOST_STD_EXTENSION_NAMESPACE::slist<V,A>& c, V2 v )
+operator +=	/usr/include/boost/assign/std/stack.hpp	/^    operator+=( std::stack<V,C>& c, V2 v )$/;"	f	namespace:boost::assign	signature:( std::stack<V,C>& c, V2 v )
+operator +=	/usr/include/boost/assign/std/vector.hpp	/^    operator+=( std::vector<V,A>& c, V2 v )$/;"	f	namespace:boost::assign	signature:( std::vector<V,A>& c, V2 v )
+operator ,	/usr/include/boost/assign/list_inserter.hpp	/^        list_inserter& operator,( assign_detail::repeater<T> r )$/;"	f	class:boost::assign::list_inserter	access:public	signature:( assign_detail::repeater<T> r )
+operator ,	/usr/include/boost/assign/list_inserter.hpp	/^        list_inserter& operator,( const T& r )$/;"	f	class:boost::assign::list_inserter	access:public	signature:( const T& r )
+operator ,	/usr/include/boost/assign/list_inserter.hpp	/^        list_inserter& operator,( const assign_detail::fun_repeater<Nullary_function>& r )$/;"	f	class:boost::assign::list_inserter	access:public	signature:( const assign_detail::fun_repeater<Nullary_function>& r )
+operator ,	/usr/include/boost/assign/list_inserter.hpp	/^        list_inserter& operator,( const assign_detail::repeater<T> & r )$/;"	f	class:boost::assign::list_inserter	access:public	signature:( const assign_detail::repeater<T> & r )
+operator ,	/usr/include/boost/assign/list_of.hpp	/^        generic_list& operator,( const Ty& u )$/;"	f	class:boost::assign_detail::generic_list	access:public	signature:( const Ty& u )
+operator <	/usr/include/boost/assign/list_of.hpp	/^    inline bool operator<( const Range& l, const converter<T,I>& r )$/;"	f	namespace:boost::assign_detail	signature:( const Range& l, const converter<T,I>& r )
+operator <	/usr/include/boost/assign/list_of.hpp	/^    inline bool operator<( const assign_reference<T>& l, $/;"	f	namespace:boost::assign_detail	signature:( const assign_reference<T>& l, const assign_reference<T>& r )
+operator <	/usr/include/boost/assign/list_of.hpp	/^    inline bool operator<( const converter<T,I>& l, const Range& r )$/;"	f	namespace:boost::assign_detail	signature:( const converter<T,I>& l, const Range& r )
+operator <<	/usr/include/boost/assign/list_of.hpp	/^    operator<<( std::basic_ostream<Elem, Traits>& Os,$/;"	f	namespace:boost::assign_detail	signature:( std::basic_ostream<Elem, Traits>& Os, const converter<T,I>& r )
+operator <=	/usr/include/boost/assign/list_of.hpp	/^    inline bool operator<=( const Range& l, const converter<T,I>& r )$/;"	f	namespace:boost::assign_detail	signature:( const Range& l, const converter<T,I>& r )
+operator <=	/usr/include/boost/assign/list_of.hpp	/^    inline bool operator<=( const converter<T,I>& l, const Range& r )$/;"	f	namespace:boost::assign_detail	signature:( const converter<T,I>& l, const Range& r )
+operator =	/usr/include/boost/assign/list_inserter.hpp	/^        list_inserter& operator=( assign_detail::repeater<T> r )$/;"	f	class:boost::assign::list_inserter	access:public	signature:( assign_detail::repeater<T> r )
+operator =	/usr/include/boost/assign/list_inserter.hpp	/^        list_inserter& operator=( const T& r )$/;"	f	class:boost::assign::list_inserter	access:public	signature:( const T& r )
+operator =	/usr/include/boost/assign/list_inserter.hpp	/^        list_inserter& operator=( const assign_detail::fun_repeater<Nullary_function>& r )$/;"	f	class:boost::assign::list_inserter	access:public	signature:( const assign_detail::fun_repeater<Nullary_function>& r )
+operator =	/usr/include/boost/assign/list_inserter.hpp	/^        list_inserter& operator=( const list_inserter& );$/;"	p	class:boost::assign::list_inserter	access:private	signature:( const list_inserter& )
+operator =	/usr/include/boost/assign/list_of.hpp	/^        void operator=( T& r )$/;"	f	struct:boost::assign_detail::assign_reference	access:public	signature:( T& r )
+operator =	/usr/include/boost/assign/ptr_list_inserter.hpp	/^        ptr_list_inserter& operator=( const ptr_list_inserter& );$/;"	p	class:boost::assign::ptr_list_inserter	access:private	signature:( const ptr_list_inserter& )
+operator =	/usr/include/boost/assign/ptr_map_inserter.hpp	/^        ptr_map_inserter& operator=( const ptr_map_inserter& );$/;"	p	class:boost::assign::ptr_map_inserter	access:private	signature:( const ptr_map_inserter& )
+operator ==	/usr/include/boost/assign/list_of.hpp	/^    inline bool operator==( const Range& l, const converter<T,I>& r )$/;"	f	namespace:boost::assign_detail	signature:( const Range& l, const converter<T,I>& r )
+operator ==	/usr/include/boost/assign/list_of.hpp	/^    inline bool operator==( const converter<T,I>& l, const Range& r )$/;"	f	namespace:boost::assign_detail	signature:( const converter<T,I>& l, const Range& r )
+operator >	/usr/include/boost/assign/list_of.hpp	/^    inline bool operator>( const Range& l, const converter<T,I>& r )$/;"	f	namespace:boost::assign_detail	signature:( const Range& l, const converter<T,I>& r )
+operator >	/usr/include/boost/assign/list_of.hpp	/^    inline bool operator>( const assign_reference<T>& l,$/;"	f	namespace:boost::assign_detail	signature:( const assign_reference<T>& l, const assign_reference<T>& r )
+operator >	/usr/include/boost/assign/list_of.hpp	/^    inline bool operator>( const converter<T,I>& l, const Range& r )$/;"	f	namespace:boost::assign_detail	signature:( const converter<T,I>& l, const Range& r )
+operator >=	/usr/include/boost/assign/list_of.hpp	/^    inline bool operator>=( const Range& l, const converter<T,I>& r )$/;"	f	namespace:boost::assign_detail	signature:( const Range& l, const converter<T,I>& r )
+operator >=	/usr/include/boost/assign/list_of.hpp	/^    inline bool operator>=( const converter<T,I>& l, const Range& r )$/;"	f	namespace:boost::assign_detail	signature:( const converter<T,I>& l, const Range& r )
+operator Adapter	/usr/include/boost/assign/list_of.hpp	/^            operator Adapter() const$/;"	f	struct:boost::assign_detail::converter::adapter_converter	access:public	signature:() const
+operator Container	/usr/include/boost/assign/list_of.hpp	/^        operator Container() const$/;"	f	class:boost::assign_detail::generic_list	access:public	signature:() const
+operator Container	/usr/include/boost/assign/list_of.hpp	/^        operator Container() const$/;"	f	struct:boost::assign_detail::static_generic_list	access:public	signature:() const
+operator Seq<U,CA,A>	/usr/include/boost/assign/ptr_list_of.hpp	/^        operator Seq<U,CA,A>() const $/;"	f	class:boost::assign_detail::generic_ptr_list	access:public	signature:() const
+operator T&	/usr/include/boost/assign/list_of.hpp	/^        operator T&() const$/;"	f	struct:boost::assign_detail::assign_reference	access:public	signature:() const
+operator impl_type	/usr/include/boost/assign/ptr_list_of.hpp	/^        operator impl_type() const$/;"	f	class:boost::assign_detail::generic_ptr_list	access:public	signature:() const
+pair_list_of	/usr/include/boost/assign/list_of.hpp	/^    pair_list_of( const F& f, const S& s )$/;"	f	namespace:boost::assign	signature:( const F& f, const S& s )
+pair_type_tag	/usr/include/boost/assign/list_of.hpp	/^    struct pair_type_tag$/;"	s	namespace:boost::assign_detail
+ptr_insert	/usr/include/boost/assign/ptr_list_inserter.hpp	/^    ptr_insert( C& c )$/;"	f	namespace:boost::assign	signature:( C& c )
+ptr_list_inserter	/usr/include/boost/assign/ptr_list_inserter.hpp	/^        ptr_list_inserter( Function fun ) : insert_( fun )$/;"	f	class:boost::assign::ptr_list_inserter	access:public	signature:( Function fun )
+ptr_list_inserter	/usr/include/boost/assign/ptr_list_inserter.hpp	/^        ptr_list_inserter( const ptr_list_inserter& r ) : insert_( r.insert_ )$/;"	f	class:boost::assign::ptr_list_inserter	access:public	signature:( const ptr_list_inserter& r )
+ptr_list_inserter	/usr/include/boost/assign/ptr_list_inserter.hpp	/^        ptr_list_inserter( const ptr_list_inserter<Function2,Obj2>& r ) $/;"	f	class:boost::assign::ptr_list_inserter	access:public	signature:( const ptr_list_inserter<Function2,Obj2>& r )
+ptr_list_inserter	/usr/include/boost/assign/ptr_list_inserter.hpp	/^    class ptr_list_inserter$/;"	c	namespace:boost::assign
+ptr_list_of	/usr/include/boost/assign/ptr_list_of.hpp	/^    ptr_list_of( const U& t )$/;"	f	namespace:boost::assign	signature:( const U& t )
+ptr_list_of	/usr/include/boost/assign/ptr_list_of.hpp	/^    ptr_list_of()$/;"	f	namespace:boost::assign	signature:()
+ptr_map_insert	/usr/include/boost/assign/ptr_map_inserter.hpp	/^    ptr_map_insert( PtrMap& m )$/;"	f	namespace:boost::assign	signature:( PtrMap& m )
+ptr_map_inserter	/usr/include/boost/assign/ptr_map_inserter.hpp	/^        ptr_map_inserter( PtrMap& m ) : m_( m )$/;"	f	class:boost::assign::ptr_map_inserter	access:public	signature:( PtrMap& m )
+ptr_map_inserter	/usr/include/boost/assign/ptr_map_inserter.hpp	/^    class ptr_map_inserter$/;"	c	namespace:boost::assign
+ptr_push_back	/usr/include/boost/assign/ptr_list_inserter.hpp	/^    ptr_push_back( C& c )$/;"	f	namespace:boost::assign	signature:( C& c )
+ptr_push_front	/usr/include/boost/assign/ptr_list_inserter.hpp	/^    ptr_push_front( C& c )$/;"	f	namespace:boost::assign	signature:( C& c )
+push	/usr/include/boost/assign/list_inserter.hpp	/^    push( C& c )$/;"	f	namespace:boost::assign	signature:( C& c )
+push_back	/usr/include/boost/assign/list_inserter.hpp	/^    push_back( C& c )$/;"	f	namespace:boost::assign	signature:( C& c )
+push_back	/usr/include/boost/assign/list_of.hpp	/^        void push_back( value_type r ) { values_.push_back( r ); }$/;"	f	class:boost::assign_detail::generic_list	access:private	signature:( value_type r )
+push_back	/usr/include/boost/assign/ptr_list_of.hpp	/^        void push_back( T* r ) { values_.push_back( r ); }$/;"	f	class:boost::assign_detail::generic_ptr_list	access:protected	signature:( T* r )
+push_front	/usr/include/boost/assign/list_inserter.hpp	/^    push_front( C& c )$/;"	f	namespace:boost::assign	signature:( C& c )
+range	/usr/include/boost/assign/list_inserter.hpp	/^        list_inserter& range( SinglePassIterator first, $/;"	f	class:boost::assign::list_inserter	access:public	signature:( SinglePassIterator first, SinglePassIterator last )
+range	/usr/include/boost/assign/list_inserter.hpp	/^        list_inserter& range( const SinglePassRange& r )$/;"	f	class:boost::assign::list_inserter	access:public	signature:( const SinglePassRange& r )
+range	/usr/include/boost/assign/list_of.hpp	/^        generic_list& range( SinglePassIterator first, $/;"	f	class:boost::assign_detail::generic_list	access:public	signature:( SinglePassIterator first, SinglePassIterator last )
+range	/usr/include/boost/assign/list_of.hpp	/^        generic_list& range( const SinglePassRange& r )$/;"	f	class:boost::assign_detail::generic_list	access:public	signature:( const SinglePassRange& r )
+range	/usr/include/boost/assign/list_of.hpp	/^        static_generic_list& range( ForwardIterator first, $/;"	f	struct:boost::assign_detail::static_generic_list	access:public	signature:( ForwardIterator first, ForwardIterator last )
+range	/usr/include/boost/assign/list_of.hpp	/^        static_generic_list& range( ForwardRange& r )$/;"	f	struct:boost::assign_detail::static_generic_list	access:public	signature:( ForwardRange& r )
+range	/usr/include/boost/assign/list_of.hpp	/^        static_generic_list& range( const ForwardRange& r )$/;"	f	struct:boost::assign_detail::static_generic_list	access:public	signature:( const ForwardRange& r )
+ref_	/usr/include/boost/assign/list_of.hpp	/^        T* ref_;$/;"	m	struct:boost::assign_detail::assign_reference	access:private
+ref_list_of	/usr/include/boost/assign/list_of.hpp	/^    ref_list_of( T& t )$/;"	f	namespace:boost::assign	signature:( T& t )
+refs_	/usr/include/boost/assign/list_of.hpp	/^        mutable assign_reference<internal_value_type> refs_[N];$/;"	m	struct:boost::assign_detail::static_generic_list	access:private
+release	/usr/include/boost/assign/ptr_list_of.hpp	/^        release_type release()$/;"	f	class:boost::assign_detail::generic_ptr_list	access:public	signature:()
+release_type	/usr/include/boost/assign/ptr_list_of.hpp	/^        typedef std::auto_ptr<impl_type>   release_type;$/;"	t	class:boost::assign_detail::generic_ptr_list	access:protected
+repeat	/usr/include/boost/assign/list_inserter.hpp	/^        list_inserter& repeat( std::size_t sz, T r )$/;"	f	class:boost::assign::list_inserter	access:public	signature:( std::size_t sz, T r )
+repeat	/usr/include/boost/assign/list_inserter.hpp	/^    repeat( std::size_t sz, T r )$/;"	f	namespace:boost::assign	signature:( std::size_t sz, T r )
+repeat	/usr/include/boost/assign/list_of.hpp	/^        generic_list& repeat( std::size_t sz, U u )$/;"	f	class:boost::assign_detail::generic_list	access:public	signature:( std::size_t sz, U u )
+repeat_fun	/usr/include/boost/assign/list_inserter.hpp	/^        list_inserter& repeat_fun( std::size_t sz, Nullary_function fun )$/;"	f	class:boost::assign::list_inserter	access:public	signature:( std::size_t sz, Nullary_function fun )
+repeat_fun	/usr/include/boost/assign/list_inserter.hpp	/^    repeat_fun( std::size_t sz, Function r )$/;"	f	namespace:boost::assign	signature:( std::size_t sz, Function r )
+repeat_fun	/usr/include/boost/assign/list_of.hpp	/^        generic_list& repeat_fun( std::size_t sz, Nullary_function fun )$/;"	f	class:boost::assign_detail::generic_list	access:public	signature:( std::size_t sz, Nullary_function fun )
+repeater	/usr/include/boost/assign/list_inserter.hpp	/^        repeater( std::size_t sz_, T r ) : sz( sz_ ), val( r )$/;"	f	struct:boost::assign_detail::repeater	access:public	signature:( std::size_t sz_, T r )
+repeater	/usr/include/boost/assign/list_inserter.hpp	/^    struct repeater$/;"	s	namespace:boost::assign_detail
+single_arg_type	/usr/include/boost/assign/list_inserter.hpp	/^        struct single_arg_type {};$/;"	s	class:boost::assign::list_inserter	access:private
+size	/usr/include/boost/assign/list_of.hpp	/^        size_type size() const       { return values_.size(); }$/;"	f	class:boost::assign_detail::generic_list	access:public	signature:() const
+size	/usr/include/boost/assign/list_of.hpp	/^        size_type size() const$/;"	f	struct:boost::assign_detail::static_generic_list	access:public	signature:() const
+size	/usr/include/boost/assign/ptr_list_of.hpp	/^        size_type size() const       { return values_.size(); }$/;"	f	class:boost::assign_detail::generic_ptr_list	access:public	signature:() const
+size_type	/usr/include/boost/assign/list_of.hpp	/^        typedef BOOST_DEDUCED_TYPENAME impl_type::size_type        size_type;$/;"	t	class:boost::assign_detail::generic_list	access:public
+size_type	/usr/include/boost/assign/list_of.hpp	/^        typedef std::size_t                           size_type;$/;"	t	struct:boost::assign_detail::static_generic_list	access:public
+size_type	/usr/include/boost/assign/ptr_list_of.hpp	/^        typedef BOOST_DEDUCED_TYPENAME impl_type::size_type        size_type;$/;"	t	class:boost::assign_detail::generic_ptr_list	access:public
+static_generic_list	/usr/include/boost/assign/list_of.hpp	/^        static_generic_list( T& r ) :$/;"	f	struct:boost::assign_detail::static_generic_list	access:public	signature:( T& r )
+static_generic_list	/usr/include/boost/assign/list_of.hpp	/^        static_generic_list();$/;"	p	struct:boost::assign_detail::static_generic_list	access:private	signature:()
+static_generic_list	/usr/include/boost/assign/list_of.hpp	/^    struct static_generic_list : $/;"	s	namespace:boost::assign_detail	inherits:converter
+swap	/usr/include/boost/assign/list_of.hpp	/^        void swap( assign_reference& r )$/;"	f	struct:boost::assign_detail::assign_reference	access:public	signature:( assign_reference& r )
+swap	/usr/include/boost/assign/list_of.hpp	/^    inline void swap( assign_reference<T>& l, $/;"	f	namespace:boost::assign_detail	signature:( assign_reference<T>& l, assign_reference<T>& r )
+sz	/usr/include/boost/assign/list_inserter.hpp	/^        std::size_t  sz;$/;"	m	struct:boost::assign_detail::fun_repeater	access:public
+sz	/usr/include/boost/assign/list_inserter.hpp	/^        std::size_t  sz;$/;"	m	struct:boost::assign_detail::repeater	access:public
+to_adapter	/usr/include/boost/assign/list_of.hpp	/^        Adapter to_adapter( Adapter& a ) const$/;"	f	class:boost::assign_detail::converter	access:public	signature:( Adapter& a ) const
+to_adapter	/usr/include/boost/assign/list_of.hpp	/^        adapter_converter to_adapter() const$/;"	f	class:boost::assign_detail::converter	access:public	signature:() const
+to_array	/usr/include/boost/assign/list_of.hpp	/^        Array to_array( Array& a ) const$/;"	f	class:boost::assign_detail::converter	access:public	signature:( Array& a ) const
+to_container	/usr/include/boost/assign/list_of.hpp	/^        Container to_container( Container& c ) const$/;"	f	class:boost::assign_detail::converter	access:public	signature:( Container& c ) const
+to_container	/usr/include/boost/assign/ptr_list_of.hpp	/^        std::auto_ptr<PtrContainer> to_container( const PtrContainer& c ) const$/;"	f	class:boost::assign_detail::generic_ptr_list	access:public	signature:( const PtrContainer& c ) const
+type	/usr/include/boost/assign/list_of.hpp	/^            ::boost::decay<T> >::type type;$/;"	t	struct:boost::assign_detail::assign_decay	access:public
+val	/usr/include/boost/assign/list_inserter.hpp	/^        Fun          val;$/;"	m	struct:boost::assign_detail::fun_repeater	access:public
+val	/usr/include/boost/assign/list_inserter.hpp	/^        T            val;$/;"	m	struct:boost::assign_detail::repeater	access:public
+value_type	/usr/include/boost/assign/list_of.hpp	/^        typedef BOOST_DEDUCED_TYPENAME impl_type::value_type       value_type;$/;"	t	class:boost::assign_detail::generic_list	access:public
+value_type	/usr/include/boost/assign/list_of.hpp	/^        typedef assign_reference<internal_value_type> value_type;$/;"	t	struct:boost::assign_detail::static_generic_list	access:public
+value_type	/usr/include/boost/assign/ptr_list_of.hpp	/^        typedef BOOST_DEDUCED_TYPENAME impl_type::value_type       value_type;$/;"	t	class:boost::assign_detail::generic_ptr_list	access:public
+values_	/usr/include/boost/assign/list_of.hpp	/^        mutable impl_type       values_;$/;"	m	class:boost::assign_detail::generic_list	access:private
+values_	/usr/include/boost/assign/ptr_list_of.hpp	/^        mutable impl_type                  values_;$/;"	m	class:boost::assign_detail::generic_ptr_list	access:protected
+what	/usr/include/boost/assign/assignment_exception.hpp	/^            virtual const char* what() const throw()$/;"	f	class:boost::assign::assignment_exception	access:public	signature:() const
+what_	/usr/include/boost/assign/assignment_exception.hpp	/^                const char* what_;$/;"	m	class:boost::assign::assignment_exception	access:private

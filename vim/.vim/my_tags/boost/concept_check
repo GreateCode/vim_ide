@@ -1,0 +1,78 @@
+!_TAG_FILE_FORMAT	2	/extended format; --format=1 will not append ;" to lines/
+!_TAG_FILE_SORTED	1	/0=unsorted, 1=sorted, 2=foldcase/
+!_TAG_PROGRAM_AUTHOR	Darren Hiebert	/dhiebert@users.sourceforge.net/
+!_TAG_PROGRAM_NAME	Exuberant Ctags	//
+!_TAG_PROGRAM_URL	http://ctags.sourceforge.net	/official site/
+!_TAG_PROGRAM_VERSION	5.8	//
+BOOST_CONCEPT_ASSERT	/usr/include/boost/concept_check/borland.hpp	18;"	d
+BOOST_CONCEPT_ASSERT	/usr/include/boost/concept_check/general.hpp	76;"	d
+BOOST_CONCEPT_ASSERT	/usr/include/boost/concept_check/msvc.hpp	71;"	d
+BOOST_CONCEPT_ASSERT	/usr/include/boost/concept_check/msvc.hpp	82;"	d
+BOOST_CONCEPT_CHECK_BORLAND_DWA2006429_HPP	/usr/include/boost/concept_check/borland.hpp	5;"	d
+BOOST_CONCEPT_CHECK_HAS_CONSTRAINTS_DWA2006429_HPP	/usr/include/boost/concept_check/has_constraints.hpp	5;"	d
+BOOST_CONCEPT_CHECK_MSVC_DWA2006429_HPP	/usr/include/boost/concept_check/general.hpp	5;"	d
+BOOST_CONCEPT_CHECK_MSVC_DWA2006429_HPP	/usr/include/boost/concept_check/msvc.hpp	5;"	d
+BOOST_STATIC_CONSTANT	/usr/include/boost/concept_check/has_constraints.hpp	/^    BOOST_STATIC_CONSTANT($/;"	p	struct:boost::concept_checking::has_constraints	access:public	signature:( bool , value = sizeof( concept_checking::has_constraints_((Model*)0) ) == 1 )
+boost	/usr/include/boost/concept_check/borland.hpp	/^namespace boost {$/;"	n
+boost	/usr/include/boost/concept_check/general.hpp	/^namespace boost$/;"	n
+boost	/usr/include/boost/concept_check/has_constraints.hpp	/^namespace boost { namespace concept_checking { $/;"	n
+boost	/usr/include/boost/concept_check/msvc.hpp	/^namespace boost$/;"	n
+boost::concept_check	/usr/include/boost/concept_check/borland.hpp	/^struct concept_check<void(*)(Model)>$/;"	s	namespace:boost
+boost::concept_check	/usr/include/boost/concept_check/general.hpp	/^  struct concept_check$/;"	s	namespace:boost
+boost::concept_check	/usr/include/boost/concept_check/msvc.hpp	/^  struct concept_check$/;"	s	namespace:boost	inherits:mpl::if_c::type
+boost::concept_check	/usr/include/boost/concept_check/msvc.hpp	/^  struct concept_check<void(*)(Model)>$/;"	s	namespace:boost	inherits:concept_check
+boost::concept_check::instantiate	/usr/include/boost/concept_check/borland.hpp	/^    enum { instantiate = sizeof((((Model*)0)->~Model()), 3) };$/;"	e	enum:boost::concept_check::__anon1
+boost::concept_check::instantiate	/usr/include/boost/concept_check/general.hpp	/^      enum { instantiate = 1 };$/;"	e	enum:boost::concept_check::__anon2
+boost::concept_check::x	/usr/include/boost/concept_check/general.hpp	/^      concept_checking::instantiate<concept_check_failed<Model> > x;$/;"	m	struct:boost::concept_check	access:public
+boost::concept_check_	/usr/include/boost/concept_check/general.hpp	/^  struct concept_check_<void(*)(Model)>$/;"	s	namespace:boost	inherits:concept_check
+boost::concept_check_	/usr/include/boost/concept_check/general.hpp	/^  struct concept_check_<void(*)(Model)>$/;"	s	namespace:boost	inherits:mpl::if_c::type
+boost::concept_check_	/usr/include/boost/concept_check/msvc.hpp	/^  concept_check_(void(*)(Model));$/;"	p	namespace:boost	signature:(void(*)(Model))
+boost::concept_check_failed	/usr/include/boost/concept_check/general.hpp	/^  void concept_check_failed()$/;"	f	namespace:boost	signature:()
+boost::concept_checking	/usr/include/boost/concept_check/general.hpp	/^  namespace concept_checking$/;"	n	namespace:boost
+boost::concept_checking	/usr/include/boost/concept_check/has_constraints.hpp	/^namespace boost { namespace concept_checking { $/;"	n	namespace:boost
+boost::concept_checking	/usr/include/boost/concept_check/msvc.hpp	/^  namespace concept_checking$/;"	n	namespace:boost
+boost::concept_checking::concept_check_	/usr/include/boost/concept_check/msvc.hpp	/^    struct concept_check_$/;"	s	namespace:boost::concept_checking
+boost::concept_checking::concept_check_::failed	/usr/include/boost/concept_check/msvc.hpp	/^        virtual void failed(Model* x)$/;"	f	struct:boost::concept_checking::concept_check_	access:public	signature:(Model* x)
+boost::concept_checking::constraint_check	/usr/include/boost/concept_check/msvc.hpp	/^    struct constraint_check$/;"	s	namespace:boost::concept_checking
+boost::concept_checking::constraint_check::failed	/usr/include/boost/concept_check/msvc.hpp	/^        virtual void failed(Model* x)$/;"	f	struct:boost::concept_checking::constraint_check	access:public	signature:(Model* x)
+boost::concept_checking::has_constraints	/usr/include/boost/concept_check/has_constraints.hpp	/^struct has_constraints$/;"	s	namespace:boost::concept_checking
+boost::concept_checking::has_constraints::BOOST_STATIC_CONSTANT	/usr/include/boost/concept_check/has_constraints.hpp	/^    BOOST_STATIC_CONSTANT($/;"	p	struct:boost::concept_checking::has_constraints	access:public	signature:( bool , value = sizeof( concept_checking::has_constraints_((Model*)0) ) == 1 )
+boost::concept_checking::has_constraints_	/usr/include/boost/concept_check/has_constraints.hpp	/^inline no has_constraints_(...);$/;"	p	namespace:boost::concept_checking	signature:(....)
+boost::concept_checking::has_constraints_	/usr/include/boost/concept_check/has_constraints.hpp	/^inline yes has_constraints_(Model*, wrap_constraints<Model,&Model::constraints>* = 0);$/;"	p	namespace:boost::concept_checking	signature:(Model*, wrap_constraints<Model,&Model::constraints>* = 0)
+boost::concept_checking::instantiate	/usr/include/boost/concept_check/general.hpp	/^    template <void(*)()> struct instantiate {};$/;"	s	namespace:boost::concept_checking
+boost::concept_checking::no	/usr/include/boost/concept_check/has_constraints.hpp	/^typedef char (&no)[2];$/;"	t	namespace:boost::concept_checking
+boost::concept_checking::wrap_constraints	/usr/include/boost/concept_check/has_constraints.hpp	/^struct wrap_constraints {};$/;"	s	namespace:boost::concept_checking
+boost::concept_checking::yes	/usr/include/boost/concept_check/has_constraints.hpp	/^typedef char yes;$/;"	t	namespace:boost::concept_checking
+boost::constraint_check	/usr/include/boost/concept_check/general.hpp	/^  struct constraint_check$/;"	s	namespace:boost
+boost::constraint_check::instantiate	/usr/include/boost/concept_check/general.hpp	/^      enum { instantiate = 1 };$/;"	e	enum:boost::constraint_check::__anon3
+boost::constraint_check::x	/usr/include/boost/concept_check/general.hpp	/^      concept_checking::instantiate<constraint_check_failed<Model> > x;$/;"	m	struct:boost::constraint_check	access:public
+boost::constraint_check_failed	/usr/include/boost/concept_check/general.hpp	/^  void constraint_check_failed()$/;"	f	namespace:boost	signature:()
+concept_check	/usr/include/boost/concept_check/borland.hpp	/^struct concept_check<void(*)(Model)>$/;"	s	namespace:boost
+concept_check	/usr/include/boost/concept_check/general.hpp	/^  struct concept_check$/;"	s	namespace:boost
+concept_check	/usr/include/boost/concept_check/msvc.hpp	/^  struct concept_check$/;"	s	namespace:boost	inherits:mpl::if_c::type
+concept_check	/usr/include/boost/concept_check/msvc.hpp	/^  struct concept_check<void(*)(Model)>$/;"	s	namespace:boost	inherits:concept_check
+concept_check_	/usr/include/boost/concept_check/general.hpp	/^  struct concept_check_<void(*)(Model)>$/;"	s	namespace:boost	inherits:concept_check
+concept_check_	/usr/include/boost/concept_check/general.hpp	/^  struct concept_check_<void(*)(Model)>$/;"	s	namespace:boost	inherits:mpl::if_c::type
+concept_check_	/usr/include/boost/concept_check/msvc.hpp	/^    struct concept_check_$/;"	s	namespace:boost::concept_checking
+concept_check_	/usr/include/boost/concept_check/msvc.hpp	/^  concept_check_(void(*)(Model));$/;"	p	namespace:boost	signature:(void(*)(Model))
+concept_check_failed	/usr/include/boost/concept_check/general.hpp	/^  void concept_check_failed()$/;"	f	namespace:boost	signature:()
+concept_checking	/usr/include/boost/concept_check/general.hpp	/^  namespace concept_checking$/;"	n	namespace:boost
+concept_checking	/usr/include/boost/concept_check/has_constraints.hpp	/^namespace boost { namespace concept_checking { $/;"	n	namespace:boost
+concept_checking	/usr/include/boost/concept_check/msvc.hpp	/^  namespace concept_checking$/;"	n	namespace:boost
+constraint_check	/usr/include/boost/concept_check/general.hpp	/^  struct constraint_check$/;"	s	namespace:boost
+constraint_check	/usr/include/boost/concept_check/msvc.hpp	/^    struct constraint_check$/;"	s	namespace:boost::concept_checking
+constraint_check_failed	/usr/include/boost/concept_check/general.hpp	/^  void constraint_check_failed()$/;"	f	namespace:boost	signature:()
+failed	/usr/include/boost/concept_check/msvc.hpp	/^        virtual void failed(Model* x)$/;"	f	struct:boost::concept_checking::concept_check_	access:public	signature:(Model* x)
+failed	/usr/include/boost/concept_check/msvc.hpp	/^        virtual void failed(Model* x)$/;"	f	struct:boost::concept_checking::constraint_check	access:public	signature:(Model* x)
+has_constraints	/usr/include/boost/concept_check/has_constraints.hpp	/^struct has_constraints$/;"	s	namespace:boost::concept_checking
+has_constraints_	/usr/include/boost/concept_check/has_constraints.hpp	/^inline no has_constraints_(...);$/;"	p	namespace:boost::concept_checking	signature:(....)
+has_constraints_	/usr/include/boost/concept_check/has_constraints.hpp	/^inline yes has_constraints_(Model*, wrap_constraints<Model,&Model::constraints>* = 0);$/;"	p	namespace:boost::concept_checking	signature:(Model*, wrap_constraints<Model,&Model::constraints>* = 0)
+instantiate	/usr/include/boost/concept_check/borland.hpp	/^    enum { instantiate = sizeof((((Model*)0)->~Model()), 3) };$/;"	e	enum:boost::concept_check::__anon1
+instantiate	/usr/include/boost/concept_check/general.hpp	/^      enum { instantiate = 1 };$/;"	e	enum:boost::concept_check::__anon2
+instantiate	/usr/include/boost/concept_check/general.hpp	/^      enum { instantiate = 1 };$/;"	e	enum:boost::constraint_check::__anon3
+instantiate	/usr/include/boost/concept_check/general.hpp	/^    template <void(*)()> struct instantiate {};$/;"	s	namespace:boost::concept_checking
+no	/usr/include/boost/concept_check/has_constraints.hpp	/^typedef char (&no)[2];$/;"	t	namespace:boost::concept_checking
+wrap_constraints	/usr/include/boost/concept_check/has_constraints.hpp	/^struct wrap_constraints {};$/;"	s	namespace:boost::concept_checking
+x	/usr/include/boost/concept_check/general.hpp	/^      concept_checking::instantiate<concept_check_failed<Model> > x;$/;"	m	struct:boost::concept_check	access:public
+x	/usr/include/boost/concept_check/general.hpp	/^      concept_checking::instantiate<constraint_check_failed<Model> > x;$/;"	m	struct:boost::constraint_check	access:public
+yes	/usr/include/boost/concept_check/has_constraints.hpp	/^typedef char yes;$/;"	t	namespace:boost::concept_checking
