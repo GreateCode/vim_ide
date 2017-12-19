@@ -81,6 +81,7 @@ func SetTitle()
         call setline(1,"#!/usr/bin/env python")
         call append(line("."),"# coding=utf-8")
 	    call append(line(".")+1, "") 
+		set et
     elseif expand("%:e") == 'cpp'
 		call setline(1,"#include <iostream>") 
         call append(line("."),"using namespace std;")
